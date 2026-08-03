@@ -29,20 +29,23 @@ except ImportError:
     sys.exit("Missing dependency. Run:  pip install nba_api pandas")
 
 CACHE_DIR = "cache"
+
+LEAGUE_IDS = {"nba": "00", "wnba": "10"}
+DEFAULT_SEASONS = {"nba": "2025-26", "wnba": "2026"}
 SLEEP_SECONDS = 0.8  # be polite to stats.nba.com
 
 REQUIRED_COLS = {"period", "actionType", "isFieldGoal", "shotResult",
                  "playerNameI", "teamTricode", "description"}
 
 
-def get_season_games(season: str) -> pd.DataFrame:
-    cache_path = os.path.join(CACHE_DIR, f"games_{season}.csv")
+def get_season_games(season: str, league: str) -> pd.DataFrame:
+    cache_path = os.path.join(CACHE_DIR, f"games_{league}_{season}.csv")
     if os.path.exists(cache_path):
         return pd.read_csv(cache_path, dtype={"GAME_ID": str})
     finder = leaguegamefinder.LeagueGameFinder(
         season_nullable=season,
         season_type_nullable="Regular Season",
-        league_id_nullable="00",
+        league_id_nullable=LEAGUE_IDS[league],
     )
     df = finder.get_data_frames()[0]
     df.to_csv(cache_path, index=False)
@@ -118,17 +121,20 @@ def extract_game_facts(pbp: pd.DataFrame) -> dict | None:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--season", default="2025-26")
+    ap.add_argument("--league", default="nba", choices=["nba", "wnba"])
+    ap.add_argument("--season", default=None,
+                    help="defaults: nba 2025-26, wnba 2026")
     ap.add_argument("--limit", type=int, default=0, help="cap games for a quick test")
     args = ap.parse_args()
 
     os.makedirs(CACHE_DIR, exist_ok=True)
 
-    games = get_season_games(args.season)
+    season = args.season or DEFAULT_SEASONS[args.league]
+    games = get_season_games(season, args.league)
     game_ids = sorted(games["GAME_ID"].unique())
     if args.limit:
         game_ids = game_ids[: args.limit]
-    print(f"Season {args.season}: {len(game_ids)} games to process\n")
+    print(f"{args.league.upper()} season {season}: {len(game_ids)} games to process\n")
 
     rows = []
     checked = False
@@ -148,7 +154,7 @@ def main() -> None:
             print(f"  processed {i}/{len(game_ids)} games...")
 
     df = pd.DataFrame(rows)
-    out_path = os.path.join(CACHE_DIR, f"first_basket_facts_{args.season}.csv")
+    out_path = os.path.join(CACHE_DIR, f"first_basket_facts_{args.league}_{season}.csv")
     df.to_csv(out_path, index=False)
     n = len(df)
     print(f"\nExtracted facts for {n} games -> {out_path}")
@@ -193,7 +199,7 @@ def main() -> None:
     print("Q3 — WHAT DO BASE RATES IMPLY ABOUT FAIR ODDS?")
     print("=" * 60)
     fb_counts = df["first_basket_player"].value_counts()
-    games_per_team = max(n * 2 / 30, 1)
+    games_per_team = max(n * 2 / (13 if args.league == "wnba" else 30), 1)
     print("Top 10 first-basket scorers — empirical rate and fair odds:")
     for player, cnt in fb_counts.head(10).items():
         rate = min(cnt / games_per_team, 0.35)

@@ -114,3 +114,11 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 .bdg small{font-weight:400; color:var(--dim); font-size:11px;}
 
 .appfoot{text-align:center; font-size:12px; color:var(--dim); letter-spacing:1px;}
+
+/* --- v0.2: league switcher --- */
+.brand{flex-wrap:wrap; gap:8px;}
+.lgswitch{display:flex; border:1px solid var(--line); border-radius:99px; overflow:hidden;}
+.lgswitch .lg{font-family:'Bungee'; font-size:11px; letter-spacing:1px; padding:6px 14px;
+  background:transparent; border:none; color:var(--dim); cursor:pointer;}
+.lgswitch .lg.on{background:var(--flame); color:#210A02;}
+.empty{text-align:center; color:var(--dim); padding:40px 0; letter-spacing:1px;}

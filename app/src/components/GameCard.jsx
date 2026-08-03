@@ -3,10 +3,10 @@ import Mug from './Mug.jsx'
 import Court from './Court.jsx'
 import { teamLogoUrl, TEAM_TINTS, DEFAULT_TINTS } from '../config.js'
 
-function RosterRow({ p, tint }) {
+function RosterRow({ league, p, tint }) {
   return (
     <div className={'prow' + (p.hot ? ' hot' : '')}>
-      <Mug playerId={p.playerId} name={p.name} size={30} tint={tint} ring={p.hot} />
+      <Mug league={league} playerId={p.playerId} name={p.name} size={30} tint={tint} ring={p.hot} />
       <div className="pbody">
         <div className="pline">
           <span>{p.name}</span>
@@ -24,6 +24,7 @@ export default function GameCard({ game }) {
   const [showTeam, setShowTeam] = useState(false)
   const [showMisses, setShowMisses] = useState(false)
 
+  const lg = game.league
   const homeTint = TEAM_TINTS[game.home.tri] || DEFAULT_TINTS.home
   const awayTint = TEAM_TINTS[game.away.tri] || DEFAULT_TINTS.away
   const pick = game.topPick
@@ -33,12 +34,12 @@ export default function GameCard({ game }) {
     <div className="cardwrap">
       <div className="card">
         <div className="matchup">
-          <img className="tlogo" src={teamLogoUrl(game.home.teamId)} alt={game.home.name}
+          <img className="tlogo" src={teamLogoUrl(lg, game.home.teamId)} alt={game.home.name}
             onError={(e) => (e.currentTarget.style.display = 'none')} />
           <div className="team" style={{ color: homeTint }}>{game.home.tri}</div>
           <div className="at">vs</div>
           <div className="team" style={{ color: awayTint }}>{game.away.tri}</div>
-          <img className="tlogo" src={teamLogoUrl(game.away.teamId)} alt={game.away.name}
+          <img className="tlogo" src={teamLogoUrl(lg, game.away.teamId)} alt={game.away.name}
             onError={(e) => (e.currentTarget.style.display = 'none')} />
           <div className="tiptime">{game.tipEt}</div>
         </div>
@@ -57,7 +58,7 @@ export default function GameCard({ game }) {
 
         <div className="pick">
           <div className="picktag">Top pick</div>
-          <Mug playerId={pick.playerId} name={pick.name} size={56} tint={pickTint} ring />
+          <Mug league={lg} playerId={pick.playerId} name={pick.name} size={56} tint={pickTint} ring />
           <div className="pickbody">
             <div className="pickrow">
               <div className="pickname">{pick.name}</div>
@@ -75,17 +76,21 @@ export default function GameCard({ game }) {
         <div className="rosters">
           <div className="side">
             <div className="sidehead">
-              <img src={teamLogoUrl(game.home.teamId)} alt="" onError={(e) => e.currentTarget.remove()} />
+              <img src={teamLogoUrl(lg, game.home.teamId)} alt="" onError={(e) => e.currentTarget.remove()} />
               {game.home.name}
             </div>
-            {game.rosters.home.map((p) => <RosterRow key={p.playerId} p={p} tint={homeTint} />)}
+            {game.rosters.home.map((p) => (
+              <RosterRow key={p.playerId} league={lg} p={p} tint={homeTint} />
+            ))}
           </div>
           <div className="side">
             <div className="sidehead">
-              <img src={teamLogoUrl(game.away.teamId)} alt="" onError={(e) => e.currentTarget.remove()} />
+              <img src={teamLogoUrl(lg, game.away.teamId)} alt="" onError={(e) => e.currentTarget.remove()} />
               {game.away.name}
             </div>
-            {game.rosters.away.map((p) => <RosterRow key={p.playerId} p={p} tint={awayTint} />)}
+            {game.rosters.away.map((p) => (
+              <RosterRow key={p.playerId} league={lg} p={p} tint={awayTint} />
+            ))}
           </div>
         </div>
 

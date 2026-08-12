@@ -1,0 +1,464 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600007,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (1:05 PM EST),period,start,1,0,1
+1022600007,4,PT10M00.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Jump Ball Griner vs. Malonga: Tip to Leger-Walker,Jump Ball,,1,0,2
+1022600007,7,PT09M40.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner OFF.Foul (P1),Foul,Offensive,1,0,3
+1022600007,9,PT09M40.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,4
+1022600007,10,PT09M24.00S,1,1611661328,SEA,1641651,Horston,J. Horston,50,60,8,Made,1,0,2,2,v,Horston 8' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,5
+1022600007,11,PT09M08.00S,1,1611661323,CON,1641649,Miller,D. Miller,-84,88,12,Missed,1,,,0,h,MISS Miller 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,6
+1022600007,12,PT09M05.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,7
+1022600007,13,PT09M04.00S,1,1611661323,CON,203398,Griner,B. Griner,0,-6,1,Made,1,2,2,4,h,Griner 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,8
+1022600007,14,PT08M47.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,7,134,13,Made,1,2,4,6,v,Hiedeman 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,9
+1022600007,15,PT08M31.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,13,11,2,Missed,1,,,0,h,MISS Rivers 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,10
+1022600007,16,PT08M29.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+1022600007,17,PT08M24.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,-118,167,20,Missed,1,,,0,v,MISS Malonga 20' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,12
+1022600007,18,PT08M21.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+1022600007,19,PT08M14.00S,1,1611661323,CON,1629568,Burke,K. Burke,-22,7,2,Missed,1,,,0,h,MISS Burke 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,14
+1022600007,20,PT08M13.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,15
+1022600007,21,PT08M13.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga S.FOUL (P1.T1),Foul,Shooting,1,0,16
+1022600007,23,PT08M13.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,MISS Burke Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,17
+1022600007,24,PT08M13.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,18
+1022600007,25,PT08M13.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,3,4,7,h,Burke Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,19
+1022600007,26,PT07M58.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-28,79,8,Made,1,3,6,9,v,Hiedeman 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,20
+1022600007,27,PT07M36.00S,1,1611661323,CON,1641649,Miller,D. Miller,68,138,15,Missed,1,,,0,h,MISS Miller 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,21
+1022600007,27,PT07M36.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston BLOCK (1 BLK),,,1,2,22
+1022600007,29,PT07M32.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,23
+1022600007,30,PT07M32.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller S.FOUL (P1.T1),Foul,Shooting,1,0,24
+1022600007,32,PT07M32.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,3,7,10,v,Horston Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,25
+1022600007,33,PT07M32.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,3,8,11,v,Horston Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,26
+1022600007,34,PT07M09.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,7,18,2,Missed,1,,,0,h,MISS Rivers 2' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,27
+1022600007,35,PT07M07.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,28
+1022600007,36,PT07M07.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,1,0,29
+1022600007,37,PT07M07.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,SUB: Brown FOR Horston,Substitution,,0,0,30
+1022600007,39,PT06M58.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,31
+1022600007,39,PT06M58.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker STEAL (1 STL),,,1,0,32
+1022600007,41,PT06M53.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga S.FOUL (P2.T2),Foul,Shooting,1,0,33
+1022600007,43,PT06M53.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,4,8,12,h,Burke Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,34
+1022600007,44,PT06M53.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,SUB: Holmes FOR Malonga,Substitution,,0,0,35
+1022600007,46,PT06M53.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,MISS Burke Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,36
+1022600007,47,PT06M50.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,37
+1022600007,48,PT06M42.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,17,21,3,Missed,1,,,0,v,MISS Johnson 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,38
+1022600007,49,PT06M40.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+1022600007,50,PT06M31.00S,1,1611661323,CON,203398,Griner,B. Griner,-27,249,25,Missed,1,,,0,h,MISS Griner 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+1022600007,51,PT06M27.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,41
+1022600007,52,PT06M20.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,162,182,24,Made,1,4,11,15,v,Johnson 24' 3PT Running Jump Shot (3 PTS) (Hiedeman 1 AST),Made Shot,Running Jump Shot,1,3,42
+1022600007,53,PT06M12.00S,1,1611661323,CON,1641649,Miller,D. Miller,199,126,24,Made,1,7,11,18,h,Miller 24' 3PT Jump Shot (3 PTS) (Rivers 1 AST),Made Shot,Jump Shot,1,3,43
+1022600007,55,PT05M55.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,112,113,16,Missed,1,,,0,v,MISS Johnson 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,44
+1022600007,57,PT05M55.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,45
+1022600007,58,PT05M53.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker P.FOUL (P1.T2),Foul,Personal,1,0,46
+1022600007,60,PT05M53.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,SUB: Morrow FOR Burke,Substitution,,0,0,47
+1022600007,62,PT05M44.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-66,45,8,Missed,1,,,0,v,MISS Hiedeman 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,48
+1022600007,63,PT05M42.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+1022600007,64,PT05M33.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,-11,12,2,Made,1,9,11,20,h,Leger-Walker 2' Driving Layup (2 PTS) (Rivers 2 AST),Made Shot,Driving Layup Shot,1,2,50
+1022600007,65,PT05M11.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,-6,22,2,Missed,1,,,0,v,MISS Holmes 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,51
+1022600007,66,PT05M11.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,52
+1022600007,67,PT05M11.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P1.T3),Foul,Personal,1,0,53
+1022600007,69,PT05M03.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,-115,115,16,Made,1,11,11,22,h,Rivers 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,54
+1022600007,70,PT04M33.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,10,74,7,Missed,1,,,0,v,MISS Hiedeman 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,55
+1022600007,71,PT04M29.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,56
+1022600007,72,PT04M23.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,-13,9,2,Made,1,11,13,24,v,Johnson 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,57
+1022600007,73,PT04M13.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,167,203,26,Missed,1,,,0,h,MISS Rivers 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+1022600007,74,PT04M10.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,59
+1022600007,75,PT04M10.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,-4,6,1,Missed,1,,,0,h,MISS Morrow 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,60
+1022600007,75,PT04M10.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes BLOCK (1 BLK),,,1,2,61
+1022600007,85,PT04M10.00S,1,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,1,0,62
+1022600007,77,PT04M10.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,63
+1022600007,78,PT04M10.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,SUB: Melbourne FOR Hiedeman,Substitution,,0,0,64
+1022600007,79,PT04M10.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,SUB: Vanslooten FOR Dolson,Substitution,,0,0,65
+1022600007,82,PT04M07.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Jump Ball Morrow vs. Holmes: Tip to Vanslooten,Jump Ball,,0,0,66
+1022600007,86,PT03M56.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,6,5,1,Made,1,11,15,26,v,Johnson 1' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,67
+1022600007,88,PT03M34.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,-101,67,12,Missed,1,,,0,h,MISS Rivers 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,68
+1022600007,89,PT03M32.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,0,0,69
+1022600007,91,PT03M26.00S,1,1611661323,CON,203398,Griner,B. Griner,-5,136,14,Made,1,13,15,28,h,Griner 14' Turnaround Jump Shot (4 PTS) (Leger-Walker 1 AST),Made Shot,Turnaround Jump Shot,1,2,70
+1022600007,93,PT03M04.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,1,38,4,Missed,1,,,0,v,MISS Holmes 4' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,71
+1022600007,94,PT03M02.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,72
+1022600007,95,PT02M58.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes S.FOUL (P1.T4),Foul,Shooting,1,0,73
+1022600007,97,PT02M58.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,MISS Miller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,74
+1022600007,98,PT02M58.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,1,0,75
+1022600007,99,PT02M58.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,SUB: Van Lith FOR Leger-Walker,Substitution,,0,0,76
+1022600007,100,PT02M58.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,SUB: Cooke FOR Johnson,Substitution,,0,0,77
+1022600007,103,PT02M58.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,14,15,29,h,Miller Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,78
+1022600007,104,PT02M48.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,17,0,2,Made,1,14,17,31,v,Melbourne 2' Driving Layup (2 PTS) (Holmes 1 AST),Made Shot,Driving Layup Shot,1,2,79
+1022600007,106,PT02M43.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,Cooke P.FOUL (P1.PN),Foul,Personal,1,0,80
+1022600007,108,PT02M43.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,15,17,32,h,Miller Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,81
+1022600007,109,PT02M43.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Griner,Substitution,,0,0,82
+1022600007,111,PT02M43.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,16,17,33,h,Miller Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,83
+1022600007,113,PT02M28.00S,1,1611661328,SEA,1628882,Brown,L. Brown,135,244,28,Made,1,16,20,36,v,Brown 28' 3PT Jump Shot (3 PTS) (Melbourne 1 AST),Made Shot,Jump Shot,1,3,84
+1022600007,115,PT02M11.00S,1,1611661323,CON,1641649,Miller,D. Miller,17,13,2,Made,1,18,20,38,h,Miller 2' Layup (8 PTS) (Van Lith 1 AST),Made Shot,Layup Shot,1,2,85
+1022600007,117,PT01M54.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,-2,244,24,Missed,1,,,0,v,MISS Cooke 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+1022600007,117,PT01M54.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa BLOCK (1 BLK),,,1,3,87
+1022600007,119,PT01M51.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,Cooke REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,88
+1022600007,122,PT01M51.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers S.FOUL (P1.T3),Foul,Shooting,1,0,89
+1022600007,124,PT01M51.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,18,21,39,v,Cooke Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,90
+1022600007,126,PT01M51.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,SUB: Horston FOR Holmes,Substitution,,0,0,91
+1022600007,208,PT01M51.00S,1,1611661328,SEA,1643453,Vanslooten,G. Vanslooten,0,0,0,,0,,,0,v,SUB: Dolson FOR Vanslooten,Substitution,,0,0,92
+1022600007,129,PT01M51.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,MISS Cooke Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,93
+1022600007,130,PT01M47.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,94
+1022600007,131,PT01M39.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson S.FOUL (P1.PN),Foul,Shooting,1,0,95
+1022600007,133,PT01M39.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,19,21,40,h,Nelson-Ododa Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,96
+1022600007,134,PT01M39.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,MISS Nelson-Ododa Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,97
+1022600007,135,PT01M39.00S,1,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,1,0,98
+1022600007,136,PT01M39.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller L.B.FOUL (P2.PN),Foul,Loose Ball,1,0,99
+1022600007,138,PT01M39.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,19,22,41,v,Dolson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,100
+1022600007,139,PT01M39.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Burke FOR Miller,Substitution,,0,0,101
+1022600007,141,PT01M39.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,19,23,42,v,Dolson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,102
+1022600007,142,PT01M29.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,188,169,25,Made,1,22,23,45,h,Morrow 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,103
+1022600007,143,PT01M15.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,-26,11,3,Made,1,22,25,47,v,Melbourne 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,104
+1022600007,144,PT01M06.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,139,44,15,Missed,1,,,0,h,MISS Rivers 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,105
+1022600007,145,PT01M03.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,106
+1022600007,146,PT01M02.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,-32,2,3,Missed,1,,,0,h,MISS Morrow 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,107
+1022600007,147,PT01M00.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+1022600007,148,PT00M44.30S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,109
+1022600007,148,PT00M44.30S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow STEAL (1 STL),,,1,0,110
+1022600007,150,PT00M40.40S,1,1611661323,CON,1642800,Morrow,A. Morrow,18,1,2,Made,1,24,25,49,h,Morrow 2' Running Layup (5 PTS) (Rivers 3 AST),Made Shot,Running Layup Shot,1,2,111
+1022600007,152,PT00M29.30S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,228,31,0,Made,1,24,28,52,v,Cooke 3PT Jump Shot (4 PTS) (Melbourne 2 AST),Made Shot,Jump Shot,1,3,112
+1022600007,154,PT00M19.40S,1,1611661323,CON,1629568,Burke,K. Burke,-17,12,2,Missed,1,,,0,h,MISS Burke 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,113
+1022600007,155,PT00M17.20S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,114
+1022600007,156,PT00M06.80S,1,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,Van Lith P.FOUL (P1.PN),Foul,Personal,1,0,115
+1022600007,158,PT00M06.80S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,24,29,53,v,Melbourne Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,116
+1022600007,159,PT00M06.80S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,MISS Melbourne Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,117
+1022600007,160,PT00M05.40S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,118
+1022600007,161,PT00M00.10S,1,1611661323,CON,1642817,Van Lith,H. Van Lith,-95,159,19,Missed,1,,,0,h,MISS Van Lith 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,119
+1022600007,162,PT00M00.10S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,0,0,120
+1022600007,163,PT00M00.00S,1,0,,0,,,0,0,0,,0,24,29,53,,End of 1st Period (1:29 PM EST),period,end,1,0,121
+1022600007,166,PT10M00.00S,2,0,,0,,,0,0,0,,0,24,29,53,,Start of 2nd Period (1:32 PM EST),period,start,0,0,122
+1022600007,167,PT09M51.00S,2,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,Van Lith P.FOUL (P2.T1),Foul,Personal,1,0,123
+1022600007,169,PT09M42.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,45,47,7,Missed,1,,,0,v,MISS Cooke 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,124
+1022600007,170,PT09M40.00S,2,1611661328,SEA,1643453,Vanslooten,G. Vanslooten,0,0,0,,0,,,0,v,Vanslooten REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,125
+1022600007,171,PT09M28.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,-60,20,6,Missed,1,,,0,v,MISS Melbourne 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,126
+1022600007,172,PT09M26.00S,2,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,Van Lith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+1022600007,173,PT09M12.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,128
+1022600007,173,PT09M12.00S,2,1611661328,SEA,1643453,Vanslooten,G. Vanslooten,0,0,0,,0,,,0,v,Vanslooten STEAL (1 STL),,,1,0,129
+1022600007,175,PT09M06.00S,2,1611661328,SEA,1643453,Vanslooten,G. Vanslooten,11,15,2,Made,1,24,31,55,v,Vanslooten 2' Running Layup (2 PTS) (Horston 1 AST),Made Shot,Running Layup Shot,1,2,130
+1022600007,177,PT08M46.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,-12,17,2,Missed,1,,,0,h,MISS Morrow 2' Layup,Missed Shot,Layup Shot,1,2,131
+1022600007,178,PT08M45.00S,2,1611661328,SEA,1643453,Vanslooten,G. Vanslooten,0,0,0,,0,,,0,v,Vanslooten REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,132
+1022600007,179,PT08M45.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow P.FOUL (P1.T2),Foul,Personal,1,0,133
+1022600007,181,PT08M45.00S,2,1611661328,SEA,1643453,Vanslooten,G. Vanslooten,0,0,0,,0,,,0,v,Vanslooten T.FOUL (P0.T0),Foul,Technical,1,0,134
+1022600007,182,PT08M45.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,25,31,56,h,Burke Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,1,0,135
+1022600007,183,PT08M38.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,Cooke Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,136
+1022600007,184,PT08M26.00S,2,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,Van Lith Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,137
+1022600007,184,PT08M26.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,Cooke STEAL (1 STL),,,1,0,138
+1022600007,186,PT08M22.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,-19,15,2,Missed,1,,,0,v,MISS Cooke 2' Running Layup,Missed Shot,Running Layup Shot,1,2,139
+1022600007,187,PT08M20.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+1022600007,188,PT08M14.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,-15,8,2,Missed,1,,,0,h,MISS Morrow 2' Layup,Missed Shot,Layup Shot,1,2,141
+1022600007,188,PT08M14.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne BLOCK (1 BLK),,,1,2,142
+1022600007,190,PT08M14.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,0,0,143
+1022600007,191,PT08M14.00S,2,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Van Lith,Substitution,,0,0,144
+1022600007,194,PT08M12.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,188,143,24,Made,1,28,31,59,h,Morrow 24' 3PT Jump Shot (8 PTS) (Burke 1 AST),Made Shot,Jump Shot,0,3,145
+1022600007,196,PT07M58.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker S.FOUL (P2.T3),Foul,Shooting,1,0,146
+1022600007,198,PT07M58.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,28,32,60,v,Melbourne Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,147
+1022600007,199,PT07M58.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,SUB: Johnson FOR Horston,Substitution,,0,0,148
+1022600007,201,PT07M58.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,28,33,61,v,Melbourne Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,149
+1022600007,202,PT07M49.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,18,23,3,Made,1,30,33,63,h,Morrow 3' Driving Hook Shot (10 PTS) (Leger-Walker 2 AST),Made Shot,Driving Hook Shot,1,2,150
+1022600007,204,PT07M30.00S,2,1611661328,SEA,1643453,Vanslooten,G. Vanslooten,216,113,24,Made,1,30,36,66,v,Vanslooten 24' 3PT Jump Shot (5 PTS) (Melbourne 3 AST),Made Shot,Jump Shot,1,3,151
+1022600007,206,PT07M21.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,-182,167,25,Missed,1,,,0,h,MISS Leger-Walker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,152
+1022600007,207,PT07M21.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,153
+1022600007,209,PT06M58.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,11,20,2,Missed,1,,,0,v,MISS Cooke 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,154
+1022600007,210,PT06M56.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,155
+1022600007,211,PT06M56.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,-6,1,Made,1,30,38,68,v,Dolson 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,156
+1022600007,212,PT06M56.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,157
+1022600007,214,PT06M56.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,SUB: Griner FOR Nelson-Ododa,Substitution,,0,0,158
+1022600007,215,PT06M56.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,SUB: Kneepkens FOR Rivers,Substitution,,0,0,159
+1022600007,216,PT06M56.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,SUB: Hiedeman FOR Melbourne,Substitution,,0,0,160
+1022600007,217,PT06M56.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,SUB: Malonga FOR Dolson,Substitution,,0,0,161
+1022600007,222,PT06M36.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,-220,92,24,Missed,1,,,0,h,MISS Morrow 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,162
+1022600007,223,PT06M33.00S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,0,0,0,,0,,,0,h,Kneepkens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,163
+1022600007,224,PT06M31.00S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,111,13,11,Missed,1,,,0,h,MISS Kneepkens 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,164
+1022600007,225,PT06M28.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,165
+1022600007,226,PT06M25.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker P.FOUL (P3.T4),Foul,Personal,1,0,166
+1022600007,228,PT06M17.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,-115,21,12,Missed,1,,,0,v,MISS Malonga 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,167
+1022600007,229,PT06M13.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,168
+1022600007,230,PT06M08.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,4,127,13,Missed,1,,,0,h,MISS Leger-Walker 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,169
+1022600007,230,PT06M08.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga BLOCK (1 BLK),,,1,2,170
+1022600007,232,PT06M07.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,171
+1022600007,233,PT06M06.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga S.FOUL (P3.T1),Foul,Shooting,1,0,172
+1022600007,236,PT06M06.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,31,38,69,h,Leger-Walker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,173
+1022600007,237,PT06M06.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,SUB: Holmes FOR Cooke,Substitution,,0,0,174
+1022600007,238,PT06M06.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,SUB: Brown FOR Malonga,Substitution,,0,0,175
+1022600007,241,PT06M06.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,32,38,70,h,Leger-Walker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,176
+1022600007,242,PT05M47.00S,2,1611661328,SEA,1642307,Holmes,M. Holmes,-24,4,2,Made,1,32,40,72,v,Holmes 2' Cutting Layup Shot (2 PTS) (Johnson 1 AST),Made Shot,Cutting Layup Shot,1,2,177
+1022600007,244,PT05M34.00S,2,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes P.FOUL (P2.T2),Foul,Personal,1,0,178
+1022600007,246,PT05M34.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,SUB: Van Lith FOR Leger-Walker,Substitution,,0,0,179
+1022600007,248,PT05M30.00S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,36,55,7,Made,1,34,40,74,h,Kneepkens 7' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,180
+1022600007,249,PT05M15.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Jump Ball Griner vs. Holmes: Tip to Van Lith,Jump Ball,,0,0,181
+1022600007,252,PT05M15.00S,2,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,182
+1022600007,252,PT05M15.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner STEAL (1 STL),,,1,0,183
+1022600007,254,PT05M05.00S,2,1611661323,CON,1642817,Van Lith,H. Van Lith,-49,56,7,Made,1,36,40,76,h,Van Lith 7' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,184
+1022600007,255,PT04M50.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,1,7,1,Missed,1,,,0,v,MISS Johnson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,185
+1022600007,255,PT04M50.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke BLOCK (1 BLK),,,1,2,186
+1022600007,257,PT04M47.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,187
+1022600007,258,PT04M40.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,-6,8,1,Made,1,38,40,78,h,Morrow 1' Driving Layup (12 PTS) (Burke 2 AST),Made Shot,Driving Layup Shot,1,2,188
+1022600007,260,PT04M40.00S,2,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,189
+1022600007,261,PT04M40.00S,2,1611661328,SEA,1628882,Brown,L. Brown,0,0,0,,0,,,0,v,SUB: Dolson FOR Brown,Substitution,,0,0,190
+1022600007,262,PT04M40.00S,2,1611661328,SEA,1643453,Vanslooten,G. Vanslooten,0,0,0,,0,,,0,v,SUB: Melbourne FOR Vanslooten,Substitution,,0,0,191
+1022600007,265,PT04M31.00S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,0,0,0,,0,,,0,h,Kneepkens S.FOUL (P1.PN),Foul,Shooting,1,0,192
+1022600007,267,PT04M31.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,MISS Melbourne Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,193
+1022600007,268,PT04M31.00S,2,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Normal Rebound,1,0,194
+1022600007,269,PT04M31.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,MISS Melbourne Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,195
+1022600007,270,PT04M31.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,196
+1022600007,271,PT04M13.00S,2,1611661323,CON,203398,Griner,B. Griner,107,30,11,Missed,1,,,0,h,MISS Griner 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,197
+1022600007,272,PT04M11.00S,2,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,198
+1022600007,273,PT04M07.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner S.FOUL (P2.PN),Foul,Shooting,1,0,199
+1022600007,275,PT04M07.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,38,41,79,v,Johnson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,200
+1022600007,276,PT04M07.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,38,42,80,v,Johnson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,201
+1022600007,277,PT03M52.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,11,4,1,Missed,1,,,0,h,MISS Morrow 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,202
+1022600007,278,PT03M50.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,203
+1022600007,279,PT03M47.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,-193,156,25,Missed,1,,,0,v,MISS Melbourne 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+1022600007,280,PT03M46.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,205
+1022600007,281,PT03M35.00S,2,1611661323,CON,1629568,Burke,K. Burke,121,206,24,Missed,1,,,0,h,MISS Burke 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,206
+1022600007,282,PT03M30.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,207
+1022600007,283,PT03M22.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,218,107,24,Missed,1,,,0,v,MISS Johnson 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,208
+1022600007,284,PT03M20.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,209
+1022600007,285,PT03M19.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P2.T3),Foul,Personal,1,0,210
+1022600007,287,PT03M10.00S,2,1611661323,CON,203398,Griner,B. Griner,54,9,5,Made,1,40,42,82,h,Griner 5' Turnaround Hook Shot (6 PTS) (Van Lith 2 AST),Made Shot,Turnaround Hook Shot,1,2,211
+1022600007,289,PT03M02.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson OFF.Foul (P2),Foul,Offensive,1,0,212
+1022600007,291,PT03M02.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,213
+1022600007,292,PT03M02.00S,2,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,SUB: Horston FOR Holmes,Substitution,,0,0,214
+1022600007,294,PT02M44.00S,2,1611661323,CON,1642817,Van Lith,H. Van Lith,202,130,24,Missed,1,,,0,h,MISS Van Lith 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+1022600007,295,PT02M42.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,0,0,216
+1022600007,297,PT02M33.00S,2,1611661323,CON,1629568,Burke,K. Burke,47,246,25,Made,1,43,42,85,h,Burke 25' 3PT Jump Shot (6 PTS) (Van Lith 3 AST),Made Shot,Jump Shot,1,3,217
+1022600007,299,PT02M11.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,218
+1022600007,299,PT02M11.00S,2,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,Van Lith STEAL (1 STL),,,1,0,219
+1022600007,301,PT02M09.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson P.FOUL (P3.T4),Foul,Personal,1,0,220
+1022600007,303,PT02M09.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,SUB: Holmes FOR Dolson,Substitution,,0,0,221
+1022600007,305,PT01M56.00S,2,1611661323,CON,203398,Griner,B. Griner,18,4,2,Made,1,45,42,87,h,Griner 2' Driving Layup (8 PTS) (Kneepkens 1 AST),Made Shot,Driving Layup Shot,1,2,222
+1022600007,307,PT01M39.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-72,118,14,Missed,1,,,0,v,MISS Hiedeman 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,223
+1022600007,308,PT01M37.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,224
+1022600007,309,PT01M37.00S,2,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes P.FOUL (P3.PN),Foul,Personal,1,0,225
+1022600007,311,PT01M37.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,MISS Morrow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,226
+1022600007,312,PT01M37.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,1,0,227
+1022600007,313,PT01M37.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,MISS Morrow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,228
+1022600007,314,PT01M36.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,229
+1022600007,316,PT01M26.00S,2,1611661323,CON,203398,Griner,B. Griner,7,4,1,Made,1,47,42,89,h,Griner 1' Layup (10 PTS) (Burke 3 AST),Made Shot,Layup Shot,1,2,230
+1022600007,318,PT01M00.00S,2,1611661328,SEA,1641651,Horston,J. Horston,22,45,5,Missed,1,,,0,v,MISS Horston 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,231
+1022600007,319,PT00M59.40S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,232
+1022600007,320,PT00M59.40S,2,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,233
+1022600007,321,PT00M50.10S,2,1611661323,CON,1642817,Van Lith,H. Van Lith,-1,89,9,Missed,1,,,0,h,MISS Van Lith 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,234
+1022600007,322,PT00M48.50S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,235
+1022600007,323,PT00M44.50S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner S.FOUL (P3.PN),Foul,Shooting,1,0,236
+1022600007,325,PT00M44.50S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,47,43,90,v,Johnson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,237
+1022600007,326,PT00M44.50S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Griner,Substitution,,0,0,238
+1022600007,328,PT00M44.50S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,47,44,91,v,Johnson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,239
+1022600007,329,PT00M34.40S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa OFF.Foul (P1),Foul,Offensive,1,0,240
+1022600007,331,PT00M34.40S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,241
+1022600007,332,PT00M19.10S,2,1611661328,SEA,1643428,Johnson,F. Johnson,-58,113,13,Missed,1,,,0,v,MISS Johnson 13' Jump Shot,Missed Shot,Jump Shot,1,2,242
+1022600007,333,PT00M15.50S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,243
+1022600007,334,PT00M03.00S,2,1611661323,CON,1642817,Van Lith,H. Van Lith,69,133,15,Made,1,49,44,93,h,Van Lith 15' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,244
+1022600007,335,PT00M00.90S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,245
+1022600007,336,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,44,93,,End of 2nd Period (2:00 PM EST),period,end,1,0,246
+1022600007,349,PT10M00.00S,3,0,,0,,,0,0,0,,0,49,44,93,,Start of 3rd Period (2:16 PM EST),period,start,0,0,247
+1022600007,350,PT09M40.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller P.FOUL (P3.T1),Foul,Personal,1,0,248
+1022600007,352,PT09M33.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-78,108,13,Missed,1,,,0,v,MISS Hiedeman 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,249
+1022600007,353,PT09M29.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,250
+1022600007,354,PT09M18.00S,3,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson P.FOUL (P4.T1),Foul,Personal,1,0,251
+1022600007,356,PT09M06.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,252
+1022600007,356,PT09M06.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga STEAL (1 STL),,,1,0,253
+1022600007,358,PT09M03.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,254
+1022600007,359,PT08M44.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,-194,38,20,Missed,1,,,0,h,MISS Rivers 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,255
+1022600007,360,PT08M42.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,256
+1022600007,361,PT08M39.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,257
+1022600007,362,PT08M29.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,258
+1022600007,362,PT08M29.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston STEAL (1 STL),,,1,0,259
+1022600007,364,PT08M24.00S,3,1611661328,SEA,1641651,Horston,J. Horston,17,27,3,Missed,1,,,0,v,MISS Horston 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,260
+1022600007,364,PT08M24.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke BLOCK (2 BLK),,,1,2,261
+1022600007,366,PT08M21.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,262
+1022600007,367,PT08M18.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,263
+1022600007,367,PT08M18.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman STEAL (1 STL),,,1,0,264
+1022600007,369,PT08M14.00S,3,1611661328,SEA,203828,Dolson,S. Dolson,38,238,24,Missed,1,,,0,v,MISS Dolson 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,265
+1022600007,370,PT08M09.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,266
+1022600007,371,PT08M05.00S,3,1611661323,CON,1641649,Miller,D. Miller,-164,177,24,Missed,1,,,0,h,MISS Miller 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,267
+1022600007,372,PT08M03.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,268
+1022600007,373,PT07M48.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-44,38,6,Made,1,49,46,95,v,Hiedeman 6' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,269
+1022600007,374,PT07M35.00S,3,1611661323,CON,1629568,Burke,K. Burke,115,206,24,Missed,1,,,0,h,MISS Burke 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+1022600007,375,PT07M34.00S,3,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,0,0,271
+1022600007,377,PT07M34.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,SUB: Brown FOR Horston,Substitution,,0,0,272
+1022600007,379,PT07M13.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman Backcourt Turnover (P2.T11),Turnover,Backcourt Turnover,1,0,273
+1022600007,380,PT07M02.00S,3,1611661323,CON,1629568,Burke,K. Burke,3,42,4,Missed,1,,,0,h,MISS Burke 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,274
+1022600007,381,PT07M01.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,275
+1022600007,382,PT07M01.00S,3,1611661323,CON,203398,Griner,B. Griner,10,4,1,Missed,1,,,0,h,MISS Griner 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,276
+1022600007,383,PT07M01.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,277
+1022600007,384,PT07M01.00S,3,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson L.B.FOUL (P5.T2),Foul,Loose Ball,1,0,278
+1022600007,386,PT07M01.00S,3,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,SUB: Holmes FOR Dolson,Substitution,,0,0,279
+1022600007,388,PT06M53.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,187,161,25,Missed,1,,,0,h,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+1022600007,389,PT06M49.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,281
+1022600007,390,PT06M45.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-12,1,1,Made,1,49,48,97,v,Hiedeman 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,282
+1022600007,391,PT06M31.00S,3,1611661323,CON,1641649,Miller,D. Miller,-154,195,25,Made,1,52,48,100,h,Miller 25' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,283
+1022600007,392,PT06M13.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers S.FOUL (P2.T2),Foul,Shooting,1,0,284
+1022600007,394,PT06M13.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,52,49,101,v,Johnson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,285
+1022600007,395,PT06M13.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,SUB: Van Lith FOR Leger-Walker,Substitution,,0,0,286
+1022600007,396,PT06M13.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,SUB: Melbourne FOR Hiedeman,Substitution,,0,0,287
+1022600007,399,PT06M13.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,52,50,102,v,Johnson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,288
+1022600007,400,PT06M01.00S,3,1611661323,CON,1641649,Miller,D. Miller,-22,13,3,Missed,1,,,0,h,MISS Miller 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,289
+1022600007,400,PT06M01.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga BLOCK (2 BLK),,,1,2,290
+1022600007,402,PT05M58.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,291
+1022600007,403,PT05M56.00S,3,1611661323,CON,203398,Griner,B. Griner,-49,-6,5,Made,1,54,50,104,h,Griner 5' Jump Shot (12 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,2,292
+1022600007,404,PT05M38.00S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,-23,14,3,Missed,1,,,0,v,MISS Melbourne 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,293
+1022600007,405,PT05M36.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,294
+1022600007,406,PT05M34.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,295
+1022600007,406,PT05M34.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (1 STL),,,1,0,296
+1022600007,408,PT05M31.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke S.FOUL (P1.T3),Foul,Shooting,1,0,297
+1022600007,410,PT05M31.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,298
+1022600007,411,PT05M31.00S,3,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Normal Rebound,1,0,299
+1022600007,412,PT05M31.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,SUB: Morrow FOR Burke,Substitution,,0,0,300
+1022600007,414,PT05M31.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,54,51,105,v,Johnson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,301
+1022600007,415,PT05M17.00S,3,1611661323,CON,1641649,Miller,D. Miller,-26,17,3,Missed,1,,,0,h,MISS Miller 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,302
+1022600007,415,PT05M17.00S,3,1611661328,SEA,1628882,Brown,L. Brown,0,0,0,,0,,,0,v,Brown BLOCK (1 BLK),,,1,2,303
+1022600007,417,PT05M17.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,0,0,304
+1022600007,418,PT05M10.00S,3,1611661323,CON,1641649,Miller,D. Miller,38,240,24,Missed,1,,,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+1022600007,419,PT05M05.00S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,306
+1022600007,420,PT04M57.00S,3,1611661328,SEA,1628882,Brown,L. Brown,-166,169,24,Made,1,54,54,108,v,Brown 24' 3PT Jump Shot (6 PTS) (Melbourne 4 AST),Made Shot,Jump Shot,1,3,307
+1022600007,422,PT04M44.00S,3,1611661323,CON,1642817,Van Lith,H. Van Lith,-77,52,9,Missed,1,,,0,h,MISS Van Lith 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,308
+1022600007,423,PT04M42.00S,3,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,309
+1022600007,424,PT04M37.00S,3,1611661328,SEA,1628882,Brown,L. Brown,-144,207,25,Made,1,54,57,111,v,Brown 25' 3PT Running Pull-Up Jump Shot (9 PTS) (Melbourne 5 AST),Made Shot,Running Pull-Up Jump Shot,1,3,310
+1022600007,425,PT04M21.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga P.FOUL (P4.T3),Foul,Personal,1,0,311
+1022600007,427,PT04M21.00S,3,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,312
+1022600007,428,PT04M21.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Kneepkens FOR Miller,Substitution,,0,0,313
+1022600007,429,PT04M21.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,SUB: Vanslooten FOR Malonga,Substitution,,0,0,314
+1022600007,433,PT04M06.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,315
+1022600007,434,PT03M53.00S,3,1611661328,SEA,1628882,Brown,L. Brown,-174,170,24,Made,1,54,60,114,v,Brown 24' 3PT Jump Shot (12 PTS) (Melbourne 6 AST),Made Shot,Jump Shot,1,3,316
+1022600007,436,PT03M36.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,317
+1022600007,436,PT03M36.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (2 STL),,,1,0,318
+1022600007,438,PT03M20.00S,3,1611661328,SEA,1628882,Brown,L. Brown,-67,253,26,Made,1,54,63,117,v,Brown 26' 3PT Jump Shot (15 PTS) (Holmes 2 AST),Made Shot,Jump Shot,1,3,319
+1022600007,440,PT03M19.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,320
+1022600007,441,PT03M19.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,SUB: Miller FOR Rivers,Substitution,,0,0,321
+1022600007,442,PT03M19.00S,3,1611661323,CON,1643429,Kneepkens,G. Kneepkens,0,0,0,,0,,,0,h,SUB: Burke FOR Kneepkens,Substitution,,0,0,322
+1022600007,445,PT03M10.00S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne P.FOUL (P1.T4),Foul,Personal,1,0,323
+1022600007,447,PT03M04.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner OFF.Foul (P4),Foul,Offensive,1,0,324
+1022600007,449,PT03M04.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,325
+1022600007,450,PT02M53.00S,3,1611661328,SEA,1628882,Brown,L. Brown,129,202,24,Missed,1,,,0,v,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+1022600007,451,PT02M50.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,327
+1022600007,452,PT02M38.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,328
+1022600007,452,PT02M38.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (3 STL),,,1,0,329
+1022600007,454,PT02M33.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,-82,147,17,Missed,1,,,0,v,MISS Johnson 17' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,330
+1022600007,455,PT02M30.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,331
+1022600007,456,PT02M30.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Griner,Substitution,,0,0,332
+1022600007,457,PT02M30.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,SUB: Cooke FOR Johnson,Substitution,,0,0,333
+1022600007,461,PT02M16.00S,3,1611661323,CON,1642817,Van Lith,H. Van Lith,-26,-1,3,Made,1,56,63,119,h,Van Lith 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,334
+1022600007,463,PT02M00.00S,3,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,Van Lith P.FOUL (P3.T4),Foul,Personal,1,0,335
+1022600007,465,PT02M00.00S,3,1611661328,SEA,1643453,Vanslooten,G. Vanslooten,0,0,0,,0,,,0,v,SUB: Horston FOR Vanslooten,Substitution,,0,0,336
+1022600007,467,PT01M53.00S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,337
+1022600007,467,PT01M53.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa STEAL (1 STL),,,1,0,338
+1022600007,469,PT01M32.00S,3,1611661323,CON,1642817,Van Lith,H. Van Lith,129,213,25,Made,1,59,63,122,h,Van Lith 25' 3PT Jump Shot (9 PTS) (Nelson-Ododa 1 AST),Made Shot,Jump Shot,1,3,339
+1022600007,471,PT01M08.00S,3,1611661328,SEA,1641660,Cooke,Z. Cooke,-221,62,0,Missed,1,,,0,v,MISS Cooke 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+1022600007,472,PT01M03.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,341
+1022600007,473,PT00M57.50S,3,1611661323,CON,1629568,Burke,K. Burke,-127,221,25,Missed,1,,,0,h,MISS Burke 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,342
+1022600007,474,PT00M55.70S,3,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,0,0,343
+1022600007,476,PT00M39.00S,3,1611661328,SEA,1642307,Holmes,M. Holmes,-145,211,26,Missed,1,,,0,v,MISS Holmes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+1022600007,477,PT00M36.50S,3,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,Van Lith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,345
+1022600007,478,PT00M16.30S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,-4,17,2,Made,1,61,63,124,h,Nelson-Ododa 2' Driving Layup (3 PTS) (Van Lith 4 AST),Made Shot,Driving Layup Shot,1,2,346
+1022600007,480,PT00M01.90S,3,1611661328,SEA,1641651,Horston,J. Horston,-227,40,0,Missed,1,,,0,v,MISS Horston 3PT Jump Shot,Missed Shot,Jump Shot,1,3,347
+1022600007,481,PT00M01.90S,3,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,Van Lith REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,348
+1022600007,482,PT00M00.00S,3,0,,0,,,0,0,0,,0,61,63,124,,End of 3rd Period (2:38 PM EST),period,end,1,0,349
+1022600007,488,PT10M00.00S,4,0,,0,,,0,0,0,,0,61,63,124,,Start of 4th Period (2:42 PM EST),period,start,0,0,350
+1022600007,489,PT09M49.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke OFF.Foul (P2),Foul,Offensive,1,0,351
+1022600007,491,PT09M49.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,1,0,352
+1022600007,492,PT09M29.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0,353
+1022600007,492,PT09M29.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller STEAL (1 STL),,,1,0,354
+1022600007,494,PT09M24.00S,4,1611661323,CON,1629568,Burke,K. Burke,-11,7,1,Made,1,63,63,126,h,Burke 1' Running Reverse Layup (8 PTS),Made Shot,Running Reverse Layup Shot,1,2,355
+1022600007,495,PT09M14.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa S.FOUL (P2.T1),Foul,Shooting,1,0,356
+1022600007,497,PT09M14.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,63,64,127,v,Malonga Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,357
+1022600007,498,PT09M14.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,63,65,128,v,Malonga Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,358
+1022600007,499,PT09M00.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,15,12,2,Made,1,65,65,130,h,Nelson-Ododa 2' Cutting Layup Shot (5 PTS) (Burke 4 AST),Made Shot,Cutting Layup Shot,1,2,359
+1022600007,501,PT08M47.00S,4,1611661328,SEA,1642307,Holmes,M. Holmes,219,87,24,Made,1,65,68,133,v,Holmes 24' 3PT Jump Shot (5 PTS) (Hiedeman 2 AST),Made Shot,Jump Shot,1,3,360
+1022600007,503,PT08M31.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,-107,222,25,Made,1,68,68,136,h,Morrow 25' 3PT Step Back Jump Shot (15 PTS) (Burke 5 AST),Made Shot,Step Back Jump shot,1,3,361
+1022600007,505,PT08M20.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman OFF.Foul (P1),Foul,Offensive,1,0,362
+1022600007,507,PT08M20.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,1,0,363
+1022600007,508,PT08M07.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke Traveling Turnover (P5.T15),Turnover,Traveling,1,0,364
+1022600007,509,PT07M55.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,-229,28,0,Made,1,68,71,139,v,Melbourne 3PT Jump Shot (10 PTS) (Hiedeman 3 AST),Made Shot,Jump Shot,1,3,365
+1022600007,511,PT07M33.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,17,5,2,Made,1,70,71,141,h,Morrow 2' Driving Hook Shot (17 PTS),Made Shot,Driving Hook Shot,1,2,366
+1022600007,512,PT07M13.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke P.FOUL (P3.T2),Foul,Personal,1,0,367
+1022600007,514,PT07M13.00S,4,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,SUB: Johnson FOR Cooke,Substitution,,0,0,368
+1022600007,516,PT07M09.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,-9,6,1,Made,1,70,73,143,v,Melbourne 1' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,369
+1022600007,517,PT07M09.00S,4,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,Van Lith S.FOUL (P4.T3),Foul,Shooting,1,0,370
+1022600007,519,PT07M09.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,70,74,144,v,Melbourne Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,371
+1022600007,520,PT07M01.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman P.FOUL (P2.T1),Foul,Personal,1,0,372
+1022600007,522,PT06M54.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne S.FOUL (P2.T2),Foul,Shooting,1,0,373
+1022600007,524,PT06M54.00S,4,0,,522,,,0,0,0,,0,70,74,144,,Instant Replay4th Period (2:49 PM EST),Instant Replay,Ruling Stands,0,0,374
+1022600007,525,PT06M54.00S,4,1611661323,CON,1642817,Van Lith,H. Van Lith,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Van Lith,Substitution,,0,0,375
+1022600007,526,PT06M54.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,SUB: Griner FOR Nelson-Ododa,Substitution,,0,0,376
+1022600007,527,PT06M54.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,SUB: Brown FOR Melbourne,Substitution,,0,0,377
+1022600007,531,PT06M54.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,71,74,145,h,Miller Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,378
+1022600007,532,PT06M54.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,72,74,146,h,Miller Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,379
+1022600007,533,PT06M46.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,380
+1022600007,533,PT06M46.00S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner STEAL (2 STL),,,1,0,381
+1022600007,535,PT06M37.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0,382
+1022600007,535,PT06M37.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga STEAL (2 STL),,,1,0,383
+1022600007,537,PT06M34.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,-3,8,1,Made,1,72,76,148,v,Malonga 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,384
+1022600007,538,PT06M25.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,165,176,24,Missed,1,,,0,h,MISS Morrow 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,385
+1022600007,539,PT06M23.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,386
+1022600007,540,PT06M17.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,-145,192,24,Missed,1,,,0,v,MISS Johnson 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,387
+1022600007,541,PT06M14.00S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,388
+1022600007,542,PT05M59.00S,4,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes S.FOUL (P4.T3),Foul,Shooting,1,0,389
+1022600007,545,PT05M59.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,390
+1022600007,546,PT05M59.00S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,73,76,149,h,Griner Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,391
+1022600007,547,PT05M59.00S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,74,76,150,h,Griner Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,392
+1022600007,548,PT05M43.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,18,173,17,Missed,1,,,0,v,MISS Malonga 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,393
+1022600007,549,PT05M40.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,394
+1022600007,550,PT05M26.00S,4,1611661323,CON,1629568,Burke,K. Burke,-22,20,3,Missed,1,,,0,h,MISS Burke 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,395
+1022600007,550,PT05M26.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga BLOCK (3 BLK),,,1,2,396
+1022600007,552,PT05M24.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,397
+1022600007,553,PT05M16.00S,4,1611661328,SEA,1642307,Holmes,M. Holmes,222,62,0,Missed,1,,,0,v,MISS Holmes 3PT Jump Shot,Missed Shot,Jump Shot,1,3,398
+1022600007,554,PT05M13.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,399
+1022600007,555,PT05M05.00S,4,1611661323,CON,1641649,Miller,D. Miller,-29,15,3,Missed,1,,,0,h,MISS Miller 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,400
+1022600007,555,PT05M05.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson BLOCK (1 BLK),,,1,2,401
+1022600007,557,PT05M01.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,402
+1022600007,558,PT04M53.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,191,148,24,Missed,1,,,0,v,MISS Hiedeman 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+1022600007,559,PT04M51.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,404
+1022600007,560,PT04M38.00S,4,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes P.FOUL (P5.T4),Foul,Personal,1,0,405
+1022600007,562,PT04M38.00S,4,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,SUB: Dolson FOR Holmes,Substitution,,0,0,406
+1022600007,564,PT04M32.00S,4,1611661323,CON,203398,Griner,B. Griner,71,38,8,Missed,1,,,0,h,MISS Griner 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,407
+1022600007,565,PT04M28.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,408
+1022600007,566,PT04M14.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,44,78,9,Made,1,74,78,152,v,Malonga 9' Jump Shot (6 PTS) (Brown 1 AST),Made Shot,Jump Shot,1,2,409
+1022600007,568,PT04M02.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,24,82,9,Made,1,76,78,154,h,Leger-Walker 9' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,410
+1022600007,569,PT03M48.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-12,14,2,Made,1,76,80,156,v,Hiedeman 2' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,411
+1022600007,570,PT03M38.00S,4,1611661323,CON,1629568,Burke,K. Burke,215,125,25,Made,1,79,80,159,h,Burke 25' 3PT Jump Shot (11 PTS) (Morrow 1 AST),Made Shot,Jump Shot,1,3,412
+1022600007,572,PT03M30.00S,4,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,413
+1022600007,573,PT03M12.00S,4,1611661328,SEA,1628882,Brown,L. Brown,-15,2,2,Made,1,79,82,161,v,Brown 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,414
+1022600007,574,PT02M56.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,202,144,25,Missed,1,,,0,h,MISS Morrow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,415
+1022600007,575,PT02M54.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,416
+1022600007,576,PT02M45.00S,4,1611661323,CON,203398,Griner,B. Griner,26,98,10,Missed,1,,,0,h,MISS Griner 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,417
+1022600007,577,PT02M43.00S,4,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,0,0,418
+1022600007,579,PT02M33.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker S.FOUL (P4.T4),Foul,Shooting,1,0,419
+1022600007,581,PT02M33.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,79,83,162,v,Hiedeman Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,420
+1022600007,582,PT02M33.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,MISS Hiedeman Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,421
+1022600007,583,PT02M33.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:12),Rebound,Unknown,1,0,422
+1022600007,584,PT02M14.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Traveling Turnover (P1.T17),Turnover,Traveling,1,0,423
+1022600007,585,PT01M57.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller P.FOUL (P4.PN),Foul,Personal,1,0,424
+1022600007,587,PT01M57.00S,4,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,79,84,163,v,Dolson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,425
+1022600007,588,PT01M57.00S,4,1611661328,SEA,1628882,Brown,L. Brown,0,0,0,,0,,,0,v,SUB: Melbourne FOR Brown,Substitution,,0,0,426
+1022600007,590,PT01M57.00S,4,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,79,85,164,v,Dolson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,427
+1022600007,591,PT01M49.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,16,43,5,Missed,1,,,0,h,MISS Leger-Walker 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,428
+1022600007,592,PT01M47.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,429
+1022600007,593,PT01M37.00S,4,1611661328,SEA,203828,Dolson,S. Dolson,-113,232,26,Missed,1,,,0,v,MISS Dolson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,430
+1022600007,594,PT01M34.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:13),Rebound,Unknown,1,0,431
+1022600007,595,PT01M24.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,129,204,24,Missed,1,,,0,h,MISS Leger-Walker 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,432
+1022600007,596,PT01M20.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,433
+1022600007,597,PT01M07.00S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner S.FOUL (P5.PN),Foul,Shooting,1,0,434
+1022600007,599,PT01M07.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson T.FOUL (P2.T4),Foul,Technical,1,0,435
+1022600007,600,PT01M07.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,80,85,165,h,Burke Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,1,0,436
+1022600007,601,PT01M07.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,80,86,166,v,Johnson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,437
+1022600007,602,PT01M07.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,80,87,167,v,Johnson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,438
+1022600007,603,PT01M07.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,439
+1022600007,604,PT01M07.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,SUB: Horston FOR Hiedeman,Substitution,,0,0,440
+1022600007,606,PT01M02.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Lost Ball Turnover (P2.T18),Turnover,Lost Ball,1,0,441
+1022600007,606,PT01M02.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne STEAL (1 STL),,,1,0,442
+1022600007,608,PT00M54.90S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller Personal Take Foul (P5.PN),Foul,Personal Take,1,0,443
+1022600007,610,PT00M54.90S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,MISS Melbourne Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,444
+1022600007,611,PT00M54.90S,4,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Normal Rebound,1,0,445
+1022600007,612,PT00M54.90S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,80,88,168,v,Melbourne Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,446
+1022600007,613,PT00M42.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne P.FOUL (P3.PN),Foul,Personal,1,0,447
+1022600007,615,PT00M42.00S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,81,88,169,h,Griner Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,448
+1022600007,616,PT00M42.00S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,82,88,170,h,Griner Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,449
+1022600007,619,PT00M41.40S,4,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,450
+1022600007,620,PT00M41.40S,4,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,SUB: Hiedeman FOR Horston,Substitution,,0,0,451
+1022600007,622,PT00M37.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller Personal Take Foul (P6.PN),Foul,Personal Take,1,0,452
+1022600007,624,PT00M37.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Van Lith FOR Miller,Substitution,,0,0,453
+1022600007,626,PT00M37.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,SUB: Horston FOR Hiedeman,Substitution,,0,0,454
+1022600007,628,PT00M37.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,82,89,171,v,Melbourne Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,455
+1022600007,629,PT00M37.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,MISS Melbourne Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,456
+1022600007,630,PT00M36.20S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,457
+1022600007,631,PT00M36.20S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,458
+1022600007,632,PT00M33.40S,4,1611661323,CON,1629568,Burke,K. Burke,88,228,24,Missed,1,,,0,h,MISS Burke 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,459
+1022600007,633,PT00M30.40S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,460
+1022600007,634,PT00M11.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,-1,160,16,Missed,1,,,0,v,MISS Malonga 16' Jump Shot,Missed Shot,Jump Shot,1,2,461
+1022600007,635,PT00M07.20S,4,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,462
+1022600007,636,PT00M00.00S,4,0,,0,,,0,0,0,,0,82,89,171,,End of 4th Period (3:23 PM EST),period,end,1,0,463

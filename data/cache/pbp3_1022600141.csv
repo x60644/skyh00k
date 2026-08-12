@@ -1,0 +1,400 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600141,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (2:08 PM EST),period,start,1,0,1
+1022600141,4,PT10M00.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h, ,Jump Ball,,1,0,2
+1022600141,8,PT09M42.00S,1,1611661324,MIN,1643426,Miles,O. Miles,21,40,5,Missed,1,,,0,v,MISS Miles 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,3
+1022600141,9,PT09M40.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+1022600141,10,PT09M35.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,20,2,Made,1,2,0,2,h,Kuier 2' Driving Hook Shot (2 PTS) (Shepard 1 AST),Made Shot,Driving Hook Shot,1,2,5
+1022600141,14,PT09M13.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,213,88,0,Made,1,2,3,5,v,Coffey 3PT Step Back Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Step Back Jump shot,1,3,6
+1022600141,16,PT08M55.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,7
+1022600141,17,PT08M44.00S,1,1611661324,MIN,203825,McBride,K. McBride,-187,165,25,Made,1,2,6,8,v,McBride 25' 3PT Jump Shot (3 PTS) (Miles 1 AST),Made Shot,Jump Shot,1,3,8
+1022600141,20,PT08M26.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,53,236,24,Missed,1,,,0,h,MISS Kuier 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+1022600141,21,PT08M22.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+1022600141,22,PT08M17.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers S.FOUL (P1.T1),Foul,Shooting,1,0,11
+1022600141,24,PT08M17.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,12
+1022600141,25,PT08M17.00S,1,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Normal Rebound,0,0,13
+1022600141,26,PT08M17.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,2,7,9,v,Howard Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,14
+1022600141,27,PT08M11.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P1.T1),Foul,Personal,1,0,15
+1022600141,29,PT08M02.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-43,69,8,Missed,1,,,0,h,MISS Ogunbowale 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,16
+1022600141,30,PT08M01.00S,1,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,1,0,17
+1022600141,32,PT07M45.00S,1,1611661324,MIN,203825,McBride,K. McBride,-237,43,24,Missed,1,,,0,v,MISS McBride 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,18
+1022600141,33,PT07M42.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+1022600141,34,PT07M39.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,20
+1022600141,34,PT07M39.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard STEAL (1 STL),,,1,0,21
+1022600141,36,PT07M34.00S,1,1611661324,MIN,1643426,Miles,O. Miles,28,119,12,Missed,1,,,0,v,MISS Miles 12' Running Layup,Missed Shot,Running Layup Shot,1,2,22
+1022600141,36,PT07M34.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd BLOCK (1 BLK),,,1,2,23
+1022600141,38,PT07M33.00S,1,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,0,0,24
+1022600141,40,PT07M31.00S,1,1611661324,MIN,1627675,Williams,C. Williams,219,71,0,Missed,1,,,0,v,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+1022600141,41,PT07M29.00S,1,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,1,0,26
+1022600141,43,PT07M12.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,31,10,3,Made,1,4,7,11,h,Shepard 3' Layup (2 PTS) (Fudd 1 AST),Made Shot,Layup Shot,1,2,27
+1022600141,45,PT06M57.00S,1,1611661324,MIN,1643426,Miles,O. Miles,-12,256,26,Made,1,4,10,14,v,Miles 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,28
+1022600141,46,PT06M30.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-202,29,20,Missed,1,,,0,h,MISS Ogunbowale 20' Jump Shot,Missed Shot,Jump Shot,1,2,29
+1022600141,47,PT06M27.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+1022600141,48,PT06M16.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,31
+1022600141,49,PT06M16.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard L.B.FOUL (P1.T2),Foul,Loose Ball,1,0,32
+1022600141,51,PT06M00.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,-28,12,3,Made,1,6,10,16,h,Shepard 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,33
+1022600141,52,PT05M47.00S,1,1611661324,MIN,203827,Howard,N. Howard,34,35,5,Made,1,6,12,18,v,Howard 5' Cutting Layup Shot (3 PTS) (Williams 2 AST),Made Shot,Cutting Layup Shot,1,2,34
+1022600141,54,PT05M36.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,117,66,13,Made,1,8,12,20,h,Fudd 13' Pullup Jump Shot (2 PTS) (Bueckers 1 AST),Made Shot,Pullup Jump shot,1,2,35
+1022600141,56,PT05M19.00S,1,1611661324,MIN,1643426,Miles,O. Miles,111,234,26,Missed,1,,,0,v,MISS Miles 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,36
+1022600141,57,PT05M17.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,37
+1022600141,58,PT05M13.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers Bad Pass Turnover (P3.T3),Turnover,Bad Pass,1,0,38
+1022600141,58,PT05M13.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey STEAL (1 STL),,,1,0,39
+1022600141,60,PT05M08.00S,1,1611661324,MIN,1627675,Williams,C. Williams,9,199,20,Missed,1,,,0,v,MISS Williams 20' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,40
+1022600141,61,PT05M05.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+1022600141,62,PT05M01.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,24,15,3,Made,1,10,12,22,h,Bueckers 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,42
+1022600141,63,PT04M51.00S,1,1611661324,MIN,1627675,Williams,C. Williams,21,39,4,Made,1,10,14,24,v,Williams 4' Driving Reverse Layup (2 PTS) (Miles 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,43
+1022600141,65,PT04M40.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,77,225,24,Missed,1,,,0,h,MISS Bueckers 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,44
+1022600141,66,PT04M37.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,45
+1022600141,67,PT04M24.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,259,26,Made,1,10,17,27,v,McBride 26' 3PT Jump Shot (6 PTS) (Miles 3 AST),Made Shot,Jump Shot,1,3,46
+1022600141,69,PT03M58.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,39,235,24,Missed,1,,,0,h,MISS Fudd 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,47
+1022600141,70,PT03M56.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+1022600141,71,PT03M48.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,16,47,5,Missed,1,,,0,v,MISS Coffey 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,49
+1022600141,71,PT03M48.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier BLOCK (1 BLK),,,1,2,50
+1022600141,73,PT03M45.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,51
+1022600141,74,PT03M38.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,-38,44,6,Made,1,12,17,29,h,Bueckers 6' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,52
+1022600141,75,PT03M25.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,53
+1022600141,75,PT03M25.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd STEAL (1 STL),,,1,0,54
+1022600141,77,PT03M20.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,28,16,3,Made,1,14,17,31,h,Shepard 3' Running Layup (6 PTS) (Fudd 2 AST),Made Shot,Running Layup Shot,1,2,55
+1022600141,79,PT03M06.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,125,224,26,Made,1,14,20,34,v,Coffey 26' 3PT Jump Shot (6 PTS) (Miles 4 AST),Made Shot,Jump Shot,1,3,56
+1022600141,81,PT02M50.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,-18,244,24,Missed,1,,,0,h,MISS Kuier 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,57
+1022600141,82,PT02M48.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,58
+1022600141,83,PT02M42.00S,1,1611661324,MIN,203825,McBride,K. McBride,38,34,5,Missed,1,,,0,v,MISS McBride 5' Running Layup,Missed Shot,Running Layup Shot,1,2,59
+1022600141,84,PT02M41.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,60
+1022600141,85,PT02M36.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,142,189,24,Missed,1,,,0,h,MISS Fudd 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,61
+1022600141,86,PT02M32.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,62
+1022600141,87,PT02M27.00S,1,1611661324,MIN,1643426,Miles,O. Miles,4,62,6,Missed,1,,,0,v,MISS Miles 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,63
+1022600141,88,PT02M26.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,64
+1022600141,89,PT02M25.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,39,4,Missed,1,,,0,v,MISS Howard 4' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,65
+1022600141,90,PT02M24.00S,1,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,1,0,66
+1022600141,91,PT02M24.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,67
+1022600141,92,PT02M24.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,SUB: James FOR Fudd,Substitution,,0,0,68
+1022600141,93,PT02M24.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,SUB: Siegrist FOR Ogunbowale,Substitution,,0,0,69
+1022600141,94,PT02M24.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,SUB: Sutton FOR Kuier,Substitution,,0,0,70
+1022600141,95,PT02M24.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,SUB: Kosu FOR Williams,Substitution,,0,0,71
+1022600141,96,PT02M24.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,SUB: Caldwell FOR Coffey,Substitution,,0,0,72
+1022600141,102,PT02M14.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell S.FOUL (P1.T3),Foul,Shooting,1,0,73
+1022600141,104,PT02M14.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,15,20,35,h,Bueckers Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,74
+1022600141,105,PT02M14.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,16,20,36,h,Bueckers Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,75
+1022600141,106,PT02M00.00S,1,1611661324,MIN,203825,McBride,K. McBride,-98,234,25,Made,1,16,23,39,v,McBride 25' 3PT Jump Shot (9 PTS) (Howard 1 AST),Made Shot,Jump Shot,1,3,76
+1022600141,108,PT01M37.00S,1,1611661321,DAL,1630134,Sutton,S. Sutton,12,231,0,Missed,1,,,0,h,MISS Sutton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+1022600141,109,PT01M33.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+1022600141,110,PT01M21.00S,1,1611661324,MIN,203825,McBride,K. McBride,65,249,26,Missed,1,,,0,v,MISS McBride 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,79
+1022600141,111,PT01M17.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,80
+1022600141,112,PT01M05.00S,1,1611661321,DAL,1641652,Siegrist,M. Siegrist,-225,10,0,Missed,1,,,0,h,MISS Siegrist 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+1022600141,113,PT01M03.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,82
+1022600141,114,PT00M55.10S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,-143,212,26,Made,1,16,26,42,v,Caldwell 26' 3PT Jump Shot (3 PTS) (McBride 1 AST),Made Shot,Jump Shot,1,3,83
+1022600141,116,PT00M29.20S,1,1611661321,DAL,1642793,James,A. James,-62,13,6,Missed,1,,,0,h,MISS James 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,84
+1022600141,116,PT00M29.20S,1,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,v,Kosu BLOCK (1 BLK),,,1,2,85
+1022600141,118,PT00M25.80S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+1022600141,119,PT00M20.30S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard S.FOUL (P1.T2),Foul,Shooting,1,0,87
+1022600141,121,PT00M20.30S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,16,27,43,v,Miles Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,88
+1022600141,122,PT00M20.30S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,SUB: King FOR Howard,Substitution,,0,0,89
+1022600141,124,PT00M20.30S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,16,28,44,v,Miles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,90
+1022600141,125,PT00M02.30S,1,1611661321,DAL,1630134,Sutton,S. Sutton,-13,15,2,Missed,1,,,0,h,MISS Sutton 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,91
+1022600141,126,PT00M00.10S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,92
+1022600141,127,PT00M00.00S,1,0,,0,,,0,0,0,,0,16,28,44,,End of 1st Period (2:25 PM EST),period,end,1,0,93
+1022600141,134,PT10M00.00S,2,0,,0,,,0,0,0,,0,16,28,44,,Start of 2nd Period (2:29 PM EST),period,start,1,0,94
+1022600141,135,PT09M44.00S,2,1611661321,DAL,1643425,Fudd,A. Fudd,233,20,0,Missed,1,,,0,h,MISS Fudd 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+1022600141,136,PT09M41.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,96
+1022600141,137,PT09M36.00S,2,1611661324,MIN,1627675,Williams,C. Williams,100,172,20,Made,1,16,30,46,v,Williams 20' Running Pull-Up Jump Shot (4 PTS) (Caldwell 1 AST),Made Shot,Running Pull-Up Jump Shot,1,2,97
+1022600141,138,PT09M26.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard Traveling Turnover (P1.T4),Turnover,Traveling,1,0,98
+1022600141,139,PT09M12.00S,2,1611661324,MIN,1627675,Williams,C. Williams,-122,162,20,Made,1,16,32,48,v,Williams 20' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,99
+1022600141,140,PT08M50.00S,2,1611661321,DAL,1630134,Sutton,S. Sutton,157,184,24,Missed,1,,,0,h,MISS Sutton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+1022600141,141,PT08M48.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,101
+1022600141,142,PT08M42.00S,2,1611661321,DAL,1643425,Fudd,A. Fudd,122,82,15,Missed,1,,,0,h,MISS Fudd 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,102
+1022600141,143,PT08M37.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,103
+1022600141,144,PT08M37.00S,2,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King S.FOUL (P1.T1),Foul,Shooting,1,0,104
+1022600141,146,PT08M37.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,17,32,49,h,Siegrist Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,105
+1022600141,147,PT08M37.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,18,32,50,h,Siegrist Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,106
+1022600141,148,PT08M27.00S,2,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,v,Delaere OFF.Foul (P1),Foul,Offensive,1,0,107
+1022600141,150,PT08M27.00S,2,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,v,Delaere Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,108
+1022600141,151,PT08M27.00S,2,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,h,SUB: Ogunbowale FOR Sutton,Substitution,,0,0,109
+1022600141,152,PT08M27.00S,2,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,h,SUB: Bueckers FOR James,Substitution,,0,0,110
+1022600141,153,PT08M27.00S,2,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,v,SUB: Coffey FOR Kosu,Substitution,,0,0,111
+1022600141,154,PT08M27.00S,2,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,v,SUB: McBride FOR Delaere,Substitution,,0,0,112
+1022600141,159,PT08M15.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,-32,11,3,Made,1,20,32,52,h,Siegrist 3' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,113
+1022600141,160,PT08M15.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey S.FOUL (P1.T2),Foul,Shooting,1,0,114
+1022600141,162,PT08M15.00S,2,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,SUB: Miles FOR King,Substitution,,0,0,115
+1022600141,174,PT08M15.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,SUB: Howard FOR Caldwell,Substitution,,0,0,116
+1022600141,165,PT08M15.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,21,32,53,h,Siegrist Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,117
+1022600141,166,PT07M55.00S,2,1611661324,MIN,203827,Howard,N. Howard,121,30,12,Missed,1,,,0,v,MISS Howard 12' Jump Shot,Missed Shot,Jump Shot,1,2,118
+1022600141,167,PT07M51.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+1022600141,168,PT07M49.00S,2,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,120
+1022600141,168,PT07M49.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey STEAL (2 STL),,,1,0,121
+1022600141,170,PT07M43.00S,2,1611661324,MIN,1627675,Williams,C. Williams,-128,198,24,Missed,1,,,0,v,MISS Williams 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,122
+1022600141,171,PT07M41.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,123
+1022600141,172,PT07M28.00S,2,1611661324,MIN,203827,Howard,N. Howard,40,10,4,Missed,1,,,0,v,MISS Howard 4' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,124
+1022600141,173,PT07M26.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,125
+1022600141,176,PT07M20.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,3,16,2,Made,1,23,32,55,h,Bueckers 2' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,1,2,126
+1022600141,178,PT07M12.00S,2,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,127
+1022600141,179,PT06M56.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,-123,175,21,Missed,1,,,0,v,MISS Coffey 21' Jump Shot,Missed Shot,Jump Shot,1,2,128
+1022600141,180,PT06M55.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,129
+1022600141,182,PT06M41.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,46,22,5,Missed,1,,,0,h,MISS Ogunbowale 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,130
+1022600141,183,PT06M40.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,131
+1022600141,185,PT06M27.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-54,20,6,Missed,1,,,0,h,MISS Ogunbowale 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,132
+1022600141,186,PT06M25.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,133
+1022600141,187,PT06M23.00S,2,1611661321,DAL,1643425,Fudd,A. Fudd,-29,244,25,Missed,1,,,0,h,MISS Fudd 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,134
+1022600141,188,PT06M20.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,135
+1022600141,189,PT06M03.00S,2,1611661324,MIN,203825,McBride,K. McBride,221,45,0,Made,1,23,35,58,v,McBride 3PT Jump Shot (12 PTS) (Coffey 1 AST),Made Shot,Jump Shot,1,3,136
+1022600141,191,PT05M44.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,137
+1022600141,192,PT05M28.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,138
+1022600141,192,PT05M28.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale STEAL (1 STL),,,1,0,139
+1022600141,194,PT05M19.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,183,160,24,Made,1,26,35,61,h,Ogunbowale 24' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,140
+1022600141,195,PT05M08.00S,2,1611661324,MIN,1643426,Miles,O. Miles,30,43,5,Missed,1,,,0,v,MISS Miles 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,141
+1022600141,196,PT05M05.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,142
+1022600141,197,PT05M04.00S,2,1611661324,MIN,203827,Howard,N. Howard,21,29,4,Made,1,26,37,63,v,Howard 4' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,143
+1022600141,198,PT04M39.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-93,221,24,Missed,1,,,0,h,MISS Ogunbowale 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+1022600141,199,PT04M36.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,145
+1022600141,200,PT04M28.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist S.FOUL (P1.T1),Foul,Shooting,1,0,146
+1022600141,202,PT04M28.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,26,38,64,v,Miles Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,147
+1022600141,203,PT04M28.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,SUB: Kuier FOR Siegrist,Substitution,,0,0,148
+1022600141,205,PT04M28.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,26,39,65,v,Miles Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,149
+1022600141,206,PT04M13.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-133,198,24,Missed,1,,,0,h,MISS Ogunbowale 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+1022600141,207,PT04M12.00S,2,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,0,0,151
+1022600141,209,PT04M03.00S,2,1611661324,MIN,203825,McBride,K. McBride,-124,221,25,Missed,1,,,0,v,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+1022600141,210,PT04M00.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,153
+1022600141,211,PT03M54.00S,2,1611661324,MIN,203825,McBride,K. McBride,28,14,3,Missed,1,,,0,v,MISS McBride 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,154
+1022600141,212,PT03M51.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,155
+1022600141,213,PT03M50.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,33,15,4,Missed,1,,,0,h,MISS Kuier 4' Running Layup,Missed Shot,Running Layup Shot,1,2,156
+1022600141,213,PT03M50.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey BLOCK (1 BLK),,,1,2,157
+1022600141,215,PT03M48.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,1,0,158
+1022600141,217,PT03M37.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,-66,10,7,Missed,1,,,0,h,MISS Kuier 7' Hook Shot,Missed Shot,Hook Shot,1,2,159
+1022600141,218,PT03M36.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,160
+1022600141,219,PT03M35.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,49,26,6,Missed,1,,,0,h,MISS Shepard 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,161
+1022600141,220,PT03M34.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,162
+1022600141,221,PT03M29.00S,2,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd P.FOUL (P1.T2),Foul,Personal,1,0,163
+1022600141,223,PT03M24.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,-95,237,26,Missed,1,,,0,v,MISS Coffey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+1022600141,224,PT03M21.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,165
+1022600141,226,PT03M18.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles P.FOUL (P1.T3),Foul,Personal,1,0,166
+1022600141,228,PT03M18.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,SUB: Caldwell FOR Miles,Substitution,,0,0,167
+1022600141,230,PT03M15.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,168
+1022600141,230,PT03M15.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard STEAL (2 STL),,,1,0,169
+1022600141,232,PT02M58.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,10,54,5,Missed,1,,,0,v,MISS Coffey 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,170
+1022600141,233,PT02M55.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,171
+1022600141,234,PT02M45.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,-24,83,9,Missed,1,,,0,h,MISS Bueckers 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,172
+1022600141,235,PT02M43.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,173
+1022600141,236,PT02M39.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers S.FOUL (P2.T3),Foul,Shooting,1,0,174
+1022600141,238,PT02M39.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,175
+1022600141,239,PT02M39.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,SUB: Siegrist FOR Kuier,Substitution,,0,0,176
+1022600141,240,PT02M39.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,SUB: Miles FOR Caldwell,Substitution,,0,0,177
+1022600141,243,PT02M39.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,178
+1022600141,244,PT02M39.00S,2,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Normal Rebound,0,0,179
+1022600141,245,PT02M39.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,26,40,66,v,Williams Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,180
+1022600141,246,PT02M16.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,34,108,11,Missed,1,,,0,h,MISS Bueckers 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,181
+1022600141,247,PT02M15.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,1,0,182
+1022600141,248,PT02M15.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,183
+1022600141,249,PT02M02.00S,2,1611661324,MIN,1627675,Williams,C. Williams,-224,36,0,Made,1,26,43,69,v,Williams 3PT Jump Shot (10 PTS) (Miles 5 AST),Made Shot,Jump Shot,1,3,184
+1022600141,251,PT01M36.00S,2,1611661321,DAL,1643425,Fudd,A. Fudd,-56,60,8,Missed,1,,,0,h,MISS Fudd 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,185
+1022600141,252,PT01M34.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,186
+1022600141,253,PT01M34.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles P.FOUL (P2.T4),Foul,Personal,1,0,187
+1022600141,255,PT01M34.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,SUB: Caldwell FOR Miles,Substitution,,0,0,188
+1022600141,257,PT01M29.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,189
+1022600141,257,PT01M29.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell STEAL (1 STL),,,1,0,190
+1022600141,259,PT01M24.00S,2,1611661324,MIN,1627675,Williams,C. Williams,-117,158,20,Missed,1,,,0,v,MISS Williams 20' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,191
+1022600141,260,PT01M23.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,192
+1022600141,261,PT01M14.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,-22,99,10,Made,1,28,43,71,h,Bueckers 10' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,193
+1022600141,262,PT00M59.10S,2,1611661324,MIN,203825,McBride,K. McBride,-202,132,24,Missed,1,,,0,v,MISS McBride 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+1022600141,263,PT00M56.10S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,195
+1022600141,264,PT00M55.40S,2,1611661324,MIN,203827,Howard,N. Howard,12,27,3,Missed,1,,,0,v,MISS Howard 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,196
+1022600141,265,PT00M53.90S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,197
+1022600141,266,PT00M34.10S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride S.FOUL (P1.PN),Foul,Shooting,1,0,198
+1022600141,268,PT00M34.10S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,MISS Siegrist Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,199
+1022600141,269,PT00M34.10S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Normal Rebound,0,0,200
+1022600141,270,PT00M34.10S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,29,43,72,h,Siegrist Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,201
+1022600141,271,PT00M21.20S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,-17,40,4,Made,1,29,45,74,v,Caldwell 4' Driving Reverse Layup (5 PTS) (Coffey 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,202
+1022600141,272,PT00M02.40S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,163,176,24,Missed,1,,,0,h,MISS Bueckers 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,203
+1022600141,273,PT00M00.70S,2,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,204
+1022600141,274,PT00M00.00S,2,0,,0,,,0,0,0,,0,29,45,74,,End of 2nd Period (2:53 PM EST),period,end,1,0,205
+1022600141,279,PT10M00.00S,3,0,,0,,,0,0,0,,0,29,45,74,,Start of 3rd Period (3:10 PM EST),period,start,1,0,206
+1022600141,280,PT09M43.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,-23,39,5,Made,1,31,45,76,h,Shepard 5' Driving Layup (8 PTS) (Fudd 3 AST),Made Shot,Driving Layup Shot,1,2,207
+1022600141,282,PT09M26.00S,3,1611661324,MIN,1627675,Williams,C. Williams,-112,160,20,Missed,1,,,0,v,MISS Williams 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,208
+1022600141,283,PT09M24.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,209
+1022600141,285,PT09M04.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-34,164,17,Made,1,33,45,78,h,Fudd 17' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,210
+1022600141,287,PT08M42.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,211
+1022600141,287,PT08M42.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers STEAL (1 STL),,,1,0,212
+1022600141,289,PT08M34.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,-23,63,7,Missed,1,,,0,h,MISS Bueckers 7' Running Layup,Missed Shot,Running Layup Shot,1,2,213
+1022600141,289,PT08M34.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard BLOCK (1 BLK),,,1,2,214
+1022600141,291,PT08M31.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,215
+1022600141,292,PT08M28.00S,3,1611661324,MIN,203825,McBride,K. McBride,116,217,25,Missed,1,,,0,v,MISS McBride 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,216
+1022600141,293,PT08M24.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,217
+1022600141,294,PT08M14.00S,3,1611661324,MIN,1643426,Miles,O. Miles,20,4,2,Made,1,33,47,80,v,Miles 2' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,218
+1022600141,295,PT08M06.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale OFF.Foul (P1),Foul,Offensive,1,0,219
+1022600141,297,PT08M06.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,220
+1022600141,298,PT07M54.00S,3,1611661324,MIN,203827,Howard,N. Howard,26,17,3,Made,1,33,49,82,v,Howard 3' Cutting Finger Roll Layup Shot (7 PTS) (McBride 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,221
+1022600141,300,PT07M40.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard P.FOUL (P2.T1),Foul,Personal,1,0,222
+1022600141,302,PT07M28.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey S.FOUL (P2.T2),Foul,Shooting,1,0,223
+1022600141,304,PT07M28.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,34,49,83,h,Ogunbowale Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,224
+1022600141,305,PT07M28.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,35,49,84,h,Ogunbowale Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,225
+1022600141,306,PT07M16.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard S.FOUL (P2.T1),Foul,Shooting,1,0,226
+1022600141,308,PT07M16.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,35,50,85,v,Howard Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,227
+1022600141,309,PT07M16.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,35,51,86,v,Howard Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,228
+1022600141,310,PT06M59.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-34,56,7,Missed,1,,,0,h,MISS Fudd 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,229
+1022600141,311,PT06M57.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,230
+1022600141,312,PT06M50.00S,3,1611661324,MIN,203827,Howard,N. Howard,-19,23,3,Made,1,35,53,88,v,Howard 3' Cutting Layup Shot (11 PTS) (Miles 6 AST),Made Shot,Cutting Layup Shot,1,2,231
+1022600141,314,PT06M34.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-55,156,17,Missed,1,,,0,h,MISS Fudd 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,232
+1022600141,315,PT06M32.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,233
+1022600141,316,PT06M20.00S,3,1611661324,MIN,1643426,Miles,O. Miles,38,20,4,Made,1,35,55,90,v,Miles 4' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,234
+1022600141,317,PT06M20.00S,3,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,235
+1022600141,318,PT06M20.00S,3,0,,316,Manning,R. Manning,0,0,0,,0,35,55,90,,Instant Replay3rd Period (3:17 PM EST),Instant Replay,Altercation Ruling,0,0,236
+1022600141,319,PT06M20.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,SUB: Siegrist FOR Ogunbowale,Substitution,,0,0,237
+1022600141,320,PT06M20.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,SUB: James FOR Kuier,Substitution,,0,0,238
+1022600141,323,PT06M01.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,10,52,5,Missed,1,,,0,h,MISS Fudd 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,239
+1022600141,324,PT05M58.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,240
+1022600141,325,PT05M52.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers S.FOUL (P3.T2),Foul,Shooting,1,0,241
+1022600141,327,PT05M52.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,35,56,91,v,Coffey Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,242
+1022600141,328,PT05M52.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,MISS Coffey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,243
+1022600141,329,PT05M47.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,244
+1022600141,330,PT05M39.00S,3,1611661321,DAL,1642793,James,A. James,32,215,22,Missed,1,,,0,h,MISS James 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,245
+1022600141,331,PT05M35.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,246
+1022600141,332,PT05M31.00S,3,1611661324,MIN,1643426,Miles,O. Miles,-22,12,3,Made,1,35,58,93,v,Miles 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,247
+1022600141,333,PT05M16.00S,3,1611661321,DAL,1642793,James,A. James,23,44,5,Missed,1,,,0,h,MISS James 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,248
+1022600141,334,PT05M14.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:5 Def:9),Rebound,Unknown,1,0,249
+1022600141,335,PT05M14.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,-6,1,Missed,1,,,0,h,MISS Shepard 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,250
+1022600141,336,PT05M13.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,251
+1022600141,337,PT05M06.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,252
+1022600141,337,PT05M06.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd STEAL (2 STL),,,1,0,253
+1022600141,339,PT05M00.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-48,180,19,Made,1,37,58,95,h,Fudd 19' Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,254
+1022600141,340,PT04M32.00S,3,1611661324,MIN,203827,Howard,N. Howard,22,53,6,Missed,1,,,0,v,MISS Howard 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,255
+1022600141,341,PT04M30.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,256
+1022600141,342,PT04M24.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-139,233,27,Made,1,40,58,98,h,Fudd 27' 3PT Jump Shot (9 PTS) (Bueckers 2 AST),Made Shot,Jump Shot,1,3,257
+1022600141,344,PT04M12.00S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,h,James P.FOUL (P1.T3),Foul,Personal,1,0,258
+1022600141,346,PT04M12.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,SUB: Yueru FOR Shepard,Substitution,,0,0,259
+1022600141,347,PT04M12.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,SUB: Caldwell FOR Miles,Substitution,,0,0,260
+1022600141,348,PT04M12.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,SUB: King FOR Coffey,Substitution,,0,0,261
+1022600141,352,PT04M01.00S,3,1611661324,MIN,203827,Howard,N. Howard,50,22,5,Missed,1,,,0,v,MISS Howard 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,262
+1022600141,353,PT03M58.00S,3,1611661321,DAL,1629574,Yueru,L. Yueru,0,0,0,,0,,,0,h,Yueru REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,263
+1022600141,354,PT03M48.00S,3,1611661321,DAL,1629574,Yueru,L. Yueru,-68,250,26,Missed,1,,,0,h,MISS Yueru 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+1022600141,355,PT03M45.00S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,265
+1022600141,356,PT03M42.00S,3,1611661321,DAL,1629574,Yueru,L. Yueru,0,0,0,,0,,,0,h,Yueru P.FOUL (P1.T4),Foul,Personal,1,0,266
+1022600141,358,PT03M30.00S,3,1611661324,MIN,1627675,Williams,C. Williams,-199,128,24,Missed,1,,,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+1022600141,359,PT03M28.00S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,268
+1022600141,360,PT03M20.00S,3,1611661324,MIN,1627675,Williams,C. Williams,102,97,14,Made,1,40,60,100,v,Williams 14' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,269
+1022600141,361,PT03M03.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-159,190,25,Made,1,43,60,103,h,Fudd 25' 3PT Jump Shot (12 PTS) (Bueckers 3 AST),Made Shot,Jump Shot,1,3,270
+1022600141,363,PT02M43.00S,3,1611661324,MIN,1627675,Williams,C. Williams,21,25,3,Missed,1,,,0,v,MISS Williams 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,271
+1022600141,364,PT02M41.00S,3,1611661321,DAL,1629574,Yueru,L. Yueru,0,0,0,,0,,,0,h,Yueru REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,272
+1022600141,365,PT02M40.00S,3,1611661321,DAL,1629574,Yueru,L. Yueru,0,0,0,,0,,,0,h,Yueru Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,273
+1022600141,365,PT02M40.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,1,0,274
+1022600141,367,PT02M33.00S,3,1611661324,MIN,1627675,Williams,C. Williams,34,169,17,Missed,1,,,0,v,MISS Williams 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,275
+1022600141,368,PT02M31.00S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,h,James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,276
+1022600141,369,PT02M21.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,150,221,27,Made,1,46,60,106,h,Bueckers 27' 3PT Step Back Jump Shot (13 PTS) (Siegrist 1 AST),Made Shot,Step Back Jump shot,1,3,277
+1022600141,371,PT02M18.00S,3,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,278
+1022600141,372,PT02M18.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,SUB: Miles FOR Howard,Substitution,,0,0,279
+1022600141,373,PT02M18.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,SUB: Coffey FOR Williams,Substitution,,0,0,280
+1022600141,376,PT01M59.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles Bad Pass Turnover (P4.T7),Turnover,Bad Pass,1,0,281
+1022600141,376,PT01M59.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd STEAL (3 STL),,,1,0,282
+1022600141,378,PT01M53.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-213,135,25,Missed,1,,,0,h,MISS Fudd 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,283
+1022600141,379,PT01M52.00S,3,1611661321,DAL,1629574,Yueru,L. Yueru,0,0,0,,0,,,0,h,Yueru REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,284
+1022600141,380,PT01M50.00S,3,1611661321,DAL,1629574,Yueru,L. Yueru,17,30,3,Missed,1,,,0,h,MISS Yueru 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,285
+1022600141,381,PT01M50.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,286
+1022600141,382,PT01M46.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,-6,1,Made,1,48,60,108,h,Siegrist 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,287
+1022600141,383,PT01M31.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,-8,81,8,Missed,1,,,0,v,MISS Caldwell 8' Jump Shot,Missed Shot,Jump Shot,1,2,288
+1022600141,383,PT01M31.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers BLOCK (1 BLK),,,1,2,289
+1022600141,385,PT01M29.00S,3,1611661321,DAL,1629574,Yueru,L. Yueru,0,0,0,,0,,,0,h,Yueru REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,290
+1022600141,386,PT01M19.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,84,90,12,Made,1,50,60,110,h,Bueckers 12' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,2,291
+1022600141,387,PT01M09.00S,3,1611661324,MIN,1643426,Miles,O. Miles,33,28,4,Made,1,50,62,112,v,Miles 4' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,292
+1022600141,388,PT00M49.50S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King S.FOUL (P2.T3),Foul,Shooting,1,0,293
+1022600141,390,PT00M49.50S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,51,62,113,h,James Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,294
+1022600141,391,PT00M49.50S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,SUB: Sutton FOR Bueckers,Substitution,,0,0,295
+1022600141,392,PT00M49.50S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,SUB: Williams FOR Caldwell,Substitution,,0,0,296
+1022600141,395,PT00M49.50S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,52,62,114,h,James Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+1022600141,396,PT00M36.80S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,298
+1022600141,397,PT00M19.80S,3,1611661321,DAL,1643425,Fudd,A. Fudd,119,97,15,Made,1,54,62,116,h,Fudd 15' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,299
+1022600141,398,PT00M11.40S,3,1611661324,MIN,1643426,Miles,O. Miles,-34,7,3,Made,1,54,64,118,v,Miles 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,300
+1022600141,399,PT00M05.60S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,h,James Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,301
+1022600141,400,PT00M00.00S,3,0,,0,,,0,0,0,,0,54,64,118,,End of 3rd Period (3:31 PM EST),period,end,1,0,302
+1022600141,405,PT10M00.00S,4,0,,0,,,0,0,0,,0,54,64,118,,Start of 4th Period (3:35 PM EST),period,start,0,0,303
+1022600141,418,PT10M00.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles T.FOUL (P2.T0),Foul,Technical,1,0,304
+1022600141,419,PT10M00.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,55,64,119,h,Fudd Free Throw Technical (15 PTS),Free Throw,Free Throw Technical,0,0,305
+1022600141,406,PT09M46.00S,4,1611661324,MIN,203825,McBride,K. McBride,-132,210,25,Missed,1,,,0,v,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+1022600141,407,PT09M43.00S,4,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,h,Sutton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,307
+1022600141,408,PT09M29.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,110,121,16,Missed,1,,,0,h,MISS Fudd 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,308
+1022600141,409,PT09M26.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,309
+1022600141,410,PT09M21.00S,4,1611661324,MIN,203827,Howard,N. Howard,-21,36,4,Missed,1,,,0,v,MISS Howard 4' Running Layup,Missed Shot,Running Layup Shot,1,2,310
+1022600141,411,PT09M19.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,311
+1022600141,412,PT09M18.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,-24,6,2,Made,1,55,66,121,v,Coffey 2' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,312
+1022600141,413,PT08M58.00S,4,1611661321,DAL,1642793,James,A. James,-139,239,28,Missed,1,,,0,h,MISS James 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,313
+1022600141,414,PT08M53.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,314
+1022600141,415,PT08M48.00S,4,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist FLAGRANT.FOUL.TYPE1 (P2.T1),Foul,Flagrant Type 1,1,0,315
+1022600141,417,PT08M48.00S,4,0,,415,,,0,0,0,,0,55,66,121,,Instant Replay4th Period (3:37 PM EST),Instant Replay,Overturn Ruling,0,0,316
+1022600141,420,PT08M48.00S,4,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,h,SUB: Bueckers FOR James,Substitution,,0,0,317
+1022600141,421,PT08M48.00S,4,1611661321,DAL,1629574,Yueru,L. Yueru,0,0,0,,0,,,0,h,SUB: Shepard FOR Yueru,Substitution,,0,0,318
+1022600141,424,PT08M48.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,55,67,122,v,Miles Free Throw Flagrant 1 of 2 (18 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,319
+1022600141,425,PT08M48.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,55,68,123,v,Miles Free Throw Flagrant 2 of 2 (19 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,320
+1022600141,426,PT08M32.00S,4,1611661324,MIN,1643426,Miles,O. Miles,43,237,24,Missed,1,,,0,v,MISS Miles 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,321
+1022600141,427,PT08M31.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,322
+1022600141,429,PT08M19.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,-13,133,13,Made,1,57,68,125,h,Bueckers 13' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2,323
+1022600141,430,PT08M19.00S,4,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride S.FOUL (P2.T1),Foul,Shooting,1,0,324
+1022600141,432,PT08M19.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,58,68,126,h,Bueckers Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,325
+1022600141,433,PT08M06.00S,4,1611661324,MIN,1627675,Williams,C. Williams,-99,217,24,Missed,1,,,0,v,MISS Williams 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,326
+1022600141,434,PT08M03.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:5 Def:10),Rebound,Unknown,1,0,327
+1022600141,435,PT07M44.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,29,27,4,Made,1,60,68,128,h,Bueckers 4' Cutting Layup Shot (20 PTS) (Shepard 2 AST),Made Shot,Cutting Layup Shot,1,2,328
+1022600141,437,PT07M30.00S,4,1611661324,MIN,203825,McBride,K. McBride,33,108,11,Made,1,60,70,130,v,McBride 11' Driving Layup (14 PTS) (Williams 3 AST),Made Shot,Driving Layup Shot,1,2,329
+1022600141,438,PT07M30.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd S.FOUL (P2.T2),Foul,Shooting,1,0,330
+1022600141,440,PT07M30.00S,4,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,60,71,131,v,McBride Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,331
+1022600141,441,PT07M07.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,95,35,10,Missed,1,,,0,h,MISS Bueckers 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,332
+1022600141,442,PT07M05.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,333
+1022600141,443,PT07M00.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard P.FOUL (P3.T3),Foul,Personal,1,0,334
+1022600141,445,PT06M46.00S,4,1611661324,MIN,1643426,Miles,O. Miles,78,233,25,Missed,1,,,0,v,MISS Miles 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,335
+1022600141,446,PT06M43.00S,4,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,336
+1022600141,447,PT06M35.00S,4,1611661321,DAL,1641652,Siegrist,M. Siegrist,-17,174,17,Made,1,62,71,133,h,Siegrist 17' Pullup Jump Shot (10 PTS) (Bueckers 4 AST),Made Shot,Pullup Jump shot,1,2,337
+1022600141,448,PT06M21.00S,4,1611661324,MIN,203825,McBride,K. McBride,-30,34,5,Made,1,62,73,135,v,McBride 5' Cutting Finger Roll Layup Shot (17 PTS) (Howard 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,338
+1022600141,450,PT06M09.00S,4,1611661321,DAL,1630134,Sutton,S. Sutton,-12,145,15,Made,1,64,73,137,h,Sutton 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,339
+1022600141,451,PT05M57.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,340
+1022600141,451,PT05M57.00S,4,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,h,Sutton STEAL (1 STL),,,1,0,341
+1022600141,453,PT05M51.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,15,260,26,Made,1,67,73,140,h,Fudd 26' 3PT Running Jump Shot (18 PTS) (Sutton 1 AST),Made Shot,Running Jump Shot,1,3,342
+1022600141,455,PT05M51.00S,4,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,343
+1022600141,457,PT05M51.00S,4,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,h,SUB: Ogunbowale FOR Sutton,Substitution,,0,0,344
+1022600141,460,PT05M39.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard P.FOUL (P4.T4),Foul,Personal,1,0,345
+1022600141,462,PT05M33.00S,4,1611661324,MIN,203825,McBride,K. McBride,24,111,11,Missed,1,,,0,v,MISS McBride 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,346
+1022600141,463,PT05M32.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,347
+1022600141,464,PT05M31.00S,4,1611661324,MIN,203827,Howard,N. Howard,21,27,3,Missed,1,,,0,v,MISS Howard 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,348
+1022600141,465,PT05M29.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,349
+1022600141,466,PT05M19.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P2.T2),Foul,Personal,1,0,350
+1022600141,468,PT05M15.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,24,31,4,Made,1,69,73,142,h,Bueckers 4' Cutting Layup Shot (22 PTS) (Siegrist 2 AST),Made Shot,Cutting Layup Shot,1,2,351
+1022600141,470,PT04M56.00S,4,1611661324,MIN,203827,Howard,N. Howard,33,13,4,Made,1,69,75,144,v,Howard 4' Cutting Layup Shot (13 PTS) (Williams 4 AST),Made Shot,Cutting Layup Shot,1,2,352
+1022600141,472,PT04M40.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,38,47,6,Missed,1,,,0,h,MISS Fudd 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,353
+1022600141,473,PT04M39.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,354
+1022600141,475,PT04M34.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,10,129,13,Missed,1,,,0,h,MISS Fudd 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,355
+1022600141,476,PT04M32.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,356
+1022600141,477,PT04M13.00S,4,1611661324,MIN,203827,Howard,N. Howard,43,25,5,Made,1,69,77,146,v,Howard 5' Cutting Layup Shot (15 PTS) (Miles 7 AST),Made Shot,Cutting Layup Shot,1,2,357
+1022600141,479,PT04M13.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,358
+1022600141,480,PT04M01.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers Bad Pass Turnover (P4.T13),Turnover,Bad Pass,1,0,359
+1022600141,480,PT04M01.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard STEAL (3 STL),,,1,0,360
+1022600141,482,PT03M51.00S,4,1611661324,MIN,203827,Howard,N. Howard,37,15,4,Made,1,69,79,148,v,Howard 4' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,361
+1022600141,483,PT03M41.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,40,52,7,Missed,1,,,0,h,MISS Fudd 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,362
+1022600141,483,PT03M41.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles BLOCK (1 BLK),,,1,2,363
+1022600141,485,PT03M39.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,364
+1022600141,487,PT03M38.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,19,38,4,Missed,1,,,0,h,MISS Ogunbowale 4' Layup,Missed Shot,Layup Shot,0,2,365
+1022600141,487,PT03M38.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams BLOCK (1 BLK),,,0,2,366
+1022600141,489,PT03M37.00S,4,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,367
+1022600141,490,PT03M37.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey S.FOUL (P3.T3),Foul,Shooting,0,0,368
+1022600141,492,PT03M37.00S,4,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,70,79,149,h,Siegrist Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,369
+1022600141,493,PT03M37.00S,4,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,71,79,150,h,Siegrist Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,370
+1022600141,494,PT03M22.00S,4,1611661324,MIN,1627675,Williams,C. Williams,-45,119,13,Missed,1,,,0,v,MISS Williams 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,371
+1022600141,495,PT03M22.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,372
+1022600141,497,PT03M22.00S,4,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,SUB: Kuier FOR Siegrist,Substitution,,0,0,373
+1022600141,499,PT03M13.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd Step Out of Bounds Turnover (P2.T14),Turnover,Step Out of Bounds Turnover,1,0,374
+1022600141,501,PT02M58.00S,4,1611661324,MIN,203825,McBride,K. McBride,-28,55,6,Missed,1,,,0,v,MISS McBride 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,375
+1022600141,502,PT02M56.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:5 Def:11),Rebound,Unknown,1,0,376
+1022600141,503,PT02M45.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,-32,119,12,Missed,1,,,0,h,MISS Bueckers 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,377
+1022600141,504,PT02M43.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,378
+1022600141,505,PT02M40.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,379
+1022600141,505,PT02M40.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams STEAL (2 STL),,,1,0,380
+1022600141,507,PT02M31.00S,4,1611661324,MIN,203827,Howard,N. Howard,29,7,3,Made,1,71,81,152,v,Howard 3' Layup (19 PTS),Made Shot,Layup Shot,1,2,381
+1022600141,509,PT02M16.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,-181,169,25,Made,1,74,81,155,h,Bueckers 25' 3PT Step Back Jump Shot (25 PTS),Made Shot,Step Back Jump shot,1,3,382
+1022600141,510,PT02M01.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd S.FOUL (P3.PN),Foul,Shooting,1,0,383
+1022600141,512,PT02M01.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,74,82,156,v,Miles Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,384
+1022600141,513,PT02M01.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,74,83,157,v,Miles Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,385
+1022600141,514,PT01M43.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-135,99,17,Missed,1,,,0,h,MISS Ogunbowale 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,386
+1022600141,515,PT01M40.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,387
+1022600141,516,PT01M34.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles Bad Pass Turnover (P5.T10),Turnover,Bad Pass,1,0,388
+1022600141,516,PT01M34.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,h,Fudd STEAL (4 STL),,,1,0,389
+1022600141,518,PT01M26.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,-9,66,7,Missed,1,,,0,h,MISS Fudd 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,390
+1022600141,519,PT01M25.00S,4,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,0,0,391
+1022600141,521,PT01M02.00S,4,1611661324,MIN,203827,Howard,N. Howard,29,34,4,Made,1,74,85,159,v,Howard 4' Cutting Layup Shot (21 PTS) (Miles 8 AST),Made Shot,Cutting Layup Shot,1,2,392
+1022600141,523,PT01M02.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,393
+1022600141,524,PT00M45.20S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,0,394
+1022600141,524,PT00M45.20S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles STEAL (1 STL),,,1,0,395
+1022600141,526,PT00M21.20S,4,1611661324,MIN,1627675,Williams,C. Williams,9,160,16,Missed,1,,,0,v,MISS Williams 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,396
+1022600141,527,PT00M19.40S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,397
+1022600141,528,PT00M13.10S,4,1611661321,DAL,1643425,Fudd,A. Fudd,-201,163,26,Made,1,77,85,162,h,Fudd 26' 3PT Running Jump Shot (21 PTS) (Shepard 3 AST),Made Shot,Running Jump Shot,1,3,398
+1022600141,530,PT00M00.00S,4,0,,0,,,0,0,0,,0,77,85,162,,End of 4th Period (4:04 PM EST),period,end,1,0,399

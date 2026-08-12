@@ -1,6 +1,6 @@
 // skyh00k config — edit from phone via GitHub web UI, Vercel auto-deploys.
 
-export const APP_VERSION = 'v0.2.0'
+export const APP_VERSION = 'v0.3.0'
 export const DEMO_MODE = true
 
 // League registry — WNBA is the live beta track; NBA tips late October.
@@ -26,7 +26,7 @@ export const TEAM_TINTS = {
   // NBA
   LAL: '#8B7FF0', LAC: '#38C99C', BOS: '#4FC97F', NYK: '#F08A4B',
   // WNBA
-  LVA: '#B8B8C4', NYL: '#5FD4B8', IND: '#F5C242', MIN: '#7FB8E8',
+  LVA: '#E03A3E', NYL: '#5FD4B8', IND: '#F5C242', MIN: '#7FB8E8',
 }
 export const DEFAULT_TINTS = { home: '#8B7FF0', away: '#38C99C' }
 

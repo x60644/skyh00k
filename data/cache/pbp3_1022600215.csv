@@ -1,0 +1,458 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600215,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:06 PM EST),period,start,1,0,1
+1022600215,4,PT10M00.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,Jump Ball DiLeo vs. Boston: Tip to Mitchell,Jump Ball,,1,0,2
+1022600215,8,PT09M39.00S,1,1611661325,IND,1628881,Billings,M. Billings,18,22,3,Missed,1,,,0,v,MISS Billings 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,3
+1022600215,9,PT09M37.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+1022600215,10,PT09M21.00S,1,1611661327,PDX,1642304,Leite,C. Leite,24,11,3,Missed,1,,,0,h,MISS Leite 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,5
+1022600215,11,PT09M19.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+1022600215,12,PT09M16.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton P.FOUL (P1.T1),Foul,Personal,1,0,7
+1022600215,14,PT09M07.00S,1,1611661325,IND,1641648,Boston,A. Boston,-16,50,5,Made,1,0,2,2,v,Boston 5' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,8
+1022600215,15,PT08M52.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch OFF.Foul (P1),Foul,Offensive,1,0,9
+1022600215,17,PT08M52.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,10
+1022600215,18,PT08M38.00S,1,1611661325,IND,1631086,Hull,L. Hull,-183,157,24,Made,1,0,5,5,v,Hull 24' 3PT Jump Shot (3 PTS) (Boston 1 AST),Made Shot,Jump Shot,1,3,11
+1022600215,20,PT08M19.00S,1,1611661327,PDX,1642304,Leite,C. Leite,24,11,3,Made,1,2,5,7,h,Leite 3' Cutting Layup Shot (2 PTS) (Engstler 1 AST),Made Shot,Cutting Layup Shot,1,2,12
+1022600215,22,PT08M08.00S,1,1611661325,IND,1641648,Boston,A. Boston,-107,215,24,Missed,1,,,0,v,MISS Boston 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+1022600215,23,PT08M05.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+1022600215,24,PT08M05.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P1.T1),Foul,Personal,1,0,15
+1022600215,27,PT07M40.00S,1,1611661327,PDX,1642304,Leite,C. Leite,57,76,10,Missed,1,,,0,h,MISS Leite 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,16
+1022600215,28,PT07M37.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+1022600215,29,PT07M31.00S,1,1611661325,IND,1642286,Clark,C. Clark,105,209,0,Missed,1,,,0,v,MISS Clark 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,18
+1022600215,30,PT07M28.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,19
+1022600215,31,PT07M23.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,209,98,0,Missed,1,,,0,v,MISS Mitchell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+1022600215,32,PT07M19.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,21
+1022600215,33,PT07M18.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler S.FOUL (P1.T2),Foul,Shooting,1,0,22
+1022600215,35,PT07M18.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,2,6,8,v,Boston Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,23
+1022600215,36,PT07M18.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,2,7,9,v,Boston Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,24
+1022600215,37,PT07M04.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,195,145,24,Made,1,5,7,12,h,Engstler 24' 3PT Jump Shot (3 PTS) (Leite 1 AST),Made Shot,Jump Shot,1,3,25
+1022600215,39,PT06M53.00S,1,1611661325,IND,1641648,Boston,A. Boston,-13,65,7,Missed,1,,,0,v,MISS Boston 7' Layup,Missed Shot,Layup Shot,1,2,26
+1022600215,39,PT06M53.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler BLOCK (1 BLK),,,1,2,27
+1022600215,41,PT06M50.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+1022600215,42,PT06M46.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P1.T2),Foul,Shooting,1,0,29
+1022600215,44,PT06M46.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,MISS Carleton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,30
+1022600215,45,PT06M46.00S,1,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Normal Rebound,1,0,31
+1022600215,46,PT06M46.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,6,7,13,h,Carleton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,32
+1022600215,47,PT06M36.00S,1,1611661325,IND,1642286,Clark,C. Clark,43,61,7,Made,1,6,9,15,v,Clark 7' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,33
+1022600215,48,PT06M26.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull S.FOUL (P2.T3),Foul,Shooting,1,0,34
+1022600215,50,PT06M26.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,7,9,16,h,Leite Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,35
+1022600215,51,PT06M26.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Cunningham FOR Hull,Substitution,,0,0,36
+1022600215,53,PT06M26.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,8,9,17,h,Leite Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,37
+1022600215,54,PT06M03.00S,1,1611661325,IND,1641648,Boston,A. Boston,10,45,5,Made,1,8,11,19,v,Boston 5' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,38
+1022600215,55,PT05M51.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,39
+1022600215,55,PT05M51.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark STEAL (1 STL),,,1,0,40
+1022600215,57,PT05M45.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,-194,129,0,Made,1,8,14,22,v,Cunningham 3PT Running Jump Shot (3 PTS),Made Shot,Running Jump Shot,1,3,41
+1022600215,58,PT05M26.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,83,228,24,Made,1,11,14,25,h,Engstler 24' 3PT Jump Shot (6 PTS) (Leite 2 AST),Made Shot,Jump Shot,1,3,42
+1022600215,60,PT05M18.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch P.FOUL (P2.T3),Foul,Personal,1,0,43
+1022600215,62,PT05M18.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,SUB: Buhner FOR Leite,Substitution,,0,0,44
+1022600215,63,PT05M18.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,SUB: Oblak FOR Engstler,Substitution,,0,0,45
+1022600215,66,PT05M06.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-175,155,0,Missed,1,,,0,v,MISS Mitchell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,46
+1022600215,67,PT05M03.00S,1,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,Oblak REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+1022600215,68,PT04M51.00S,1,1611661327,PDX,1643506,Oblak,T. Oblak,47,231,24,Missed,1,,,0,h,MISS Oblak 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,48
+1022600215,68,PT04M51.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston BLOCK (1 BLK),,,1,3,49
+1022600215,70,PT04M47.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,50
+1022600215,71,PT04M44.00S,1,1611661325,IND,1641648,Boston,A. Boston,17,21,3,Missed,1,,,0,v,MISS Boston 3' Running Layup,Missed Shot,Running Layup Shot,1,2,51
+1022600215,72,PT04M42.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,52
+1022600215,73,PT04M32.00S,1,1611661327,PDX,1643506,Oblak,T. Oblak,-182,158,24,Made,1,14,14,28,h,Oblak 24' 3PT Jump Shot (3 PTS) (Buhner 1 AST),Made Shot,Jump Shot,1,3,53
+1022600215,75,PT04M15.00S,1,1611661325,IND,1642286,Clark,C. Clark,61,151,16,Missed,1,,,0,v,MISS Clark 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,54
+1022600215,76,PT04M11.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+1022600215,78,PT04M06.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,23,18,3,Missed,1,,,0,h,MISS Puoch 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,56
+1022600215,78,PT04M06.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark BLOCK (1 BLK),,,1,2,57
+1022600215,80,PT04M03.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,58
+1022600215,81,PT03M58.00S,1,1611661327,PDX,1643506,Oblak,T. Oblak,-12,234,0,Missed,1,,,0,h,MISS Oblak 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+1022600215,82,PT03M58.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,60
+1022600215,84,PT03M58.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,61
+1022600215,85,PT03M58.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,SUB: Williams FOR Carleton,Substitution,,0,0,62
+1022600215,86,PT03M58.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,SUB: Winterburn FOR DiLeo,Substitution,,0,0,63
+1022600215,87,PT03M58.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Timpson FOR Boston,Substitution,,0,0,64
+1022600215,91,PT03M49.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,65
+1022600215,91,PT03M49.00S,1,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,0,66
+1022600215,93,PT03M43.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson P.FOUL (P1.T4),Foul,Personal,1,0,67
+1022600215,95,PT03M30.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0,68
+1022600215,96,PT03M20.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,69
+1022600215,96,PT03M20.00S,1,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,Oblak STEAL (1 STL),,,1,0,70
+1022600215,98,PT03M16.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,21,14,3,Made,1,16,14,30,h,Puoch 3' Running Layup (2 PTS) (Oblak 1 AST),Made Shot,Running Layup Shot,1,2,71
+1022600215,100,PT02M52.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,84,80,12,Made,1,16,16,32,v,Mitchell 12' Pullup Jump Shot (2 PTS) (Cunningham 1 AST),Made Shot,Pullup Jump shot,1,2,72
+1022600215,102,PT02M39.00S,1,1611661327,PDX,1643436,Williams,S. Williams,27,15,3,Made,1,18,16,34,h,Williams 3' Cutting Layup Shot (2 PTS) (Oblak 2 AST),Made Shot,Cutting Layup Shot,1,2,73
+1022600215,104,PT02M32.00S,1,1611661325,IND,1628881,Billings,M. Billings,-16,21,3,Made,1,18,18,36,v,Billings 3' Cutting Layup Shot (2 PTS) (Clark 1 AST),Made Shot,Cutting Layup Shot,1,2,74
+1022600215,106,PT02M22.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham P.FOUL (P1.PN),Foul,Personal,1,0,75
+1022600215,108,PT02M22.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,19,18,37,h,Winterburn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,76
+1022600215,109,PT02M22.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,SUB: Engstler FOR Puoch,Substitution,,0,0,77
+1022600215,110,PT02M22.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,SUB: Samuelson FOR Buhner,Substitution,,0,0,78
+1022600215,113,PT02M22.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,MISS Winterburn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,79
+1022600215,114,PT02M19.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,80
+1022600215,115,PT02M11.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,39,230,0,Missed,1,,,0,v,MISS Mitchell 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,81
+1022600215,116,PT02M08.00S,1,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,Oblak REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,82
+1022600215,117,PT01M58.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,-17,20,3,Missed,1,,,0,h,MISS Winterburn 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,83
+1022600215,118,PT01M55.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,84
+1022600215,119,PT01M44.00S,1,1611661325,IND,1642286,Clark,C. Clark,32,34,5,Made,1,19,20,39,v,Clark 5' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,85
+1022600215,121,PT01M35.00S,1,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,SUB: Leite FOR Oblak,Substitution,,0,0,86
+1022600215,122,PT01M35.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,SUB: Harris FOR Mitchell,Substitution,,0,0,87
+1022600215,125,PT01M27.00S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,1,244,24,Missed,1,,,0,h,MISS Samuelson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+1022600215,126,PT01M24.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,89
+1022600215,127,PT01M08.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,-30,20,4,Made,1,19,22,41,v,Timpson 4' Driving Layup (2 PTS) (Harris 1 AST),Made Shot,Driving Layup Shot,1,2,90
+1022600215,129,PT01M03.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham S.FOUL (P2.PN),Foul,Shooting,1,0,91
+1022600215,131,PT01M03.00S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,20,22,42,h,Samuelson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,92
+1022600215,138,PT01M03.00S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,21,22,43,h,Samuelson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,93
+1022600215,132,PT01M03.00S,1,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: Carleton FOR Williams,Substitution,,0,0,94
+1022600215,133,PT01M03.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,SUB: DiLeo FOR Winterburn,Substitution,,0,0,95
+1022600215,134,PT01M03.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Boston FOR Billings,Substitution,,0,0,96
+1022600215,139,PT00M47.60S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton S.FOUL (P2.T4),Foul,Shooting,1,0,97
+1022600215,141,PT00M47.60S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,21,23,44,v,Clark Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,98
+1022600215,142,PT00M47.60S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,21,24,45,v,Clark Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,99
+1022600215,143,PT00M41.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark P.FOUL (P2.PN),Foul,Personal,1,0,100
+1022600215,145,PT00M41.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,22,24,46,h,Leite Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,101
+1022600215,146,PT00M41.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,23,24,47,h,Leite Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,102
+1022600215,147,PT00M30.30S,1,1611661325,IND,1641648,Boston,A. Boston,20,10,2,Missed,1,,,0,v,MISS Boston 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,103
+1022600215,148,PT00M27.20S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+1022600215,149,PT00M11.20S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,-7,248,25,Missed,1,,,0,h,MISS Samuelson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,105
+1022600215,150,PT00M07.80S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,106
+1022600215,151,PT00M07.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,107
+1022600215,151,PT00M07.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo STEAL (1 STL),,,1,0,108
+1022600215,153,PT00M04.20S,1,1611661327,PDX,1631083,Engstler,E. Engstler,-122,62,14,Made,1,25,24,49,h,Engstler 14' Jump Shot (8 PTS) (Leite 3 AST),Made Shot,Jump Shot,1,2,109
+1022600215,155,PT00M00.00S,1,1611661325,IND,1642286,Clark,C. Clark,-160,160,0,Made,1,25,27,52,v,Clark 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,110
+1022600215,156,PT00M00.00S,1,0,,155,,,0,0,0,,0,25,27,52,,Instant Replay1st Period (10:30 PM EST),Instant Replay,Ruling Stands,0,0,111
+1022600215,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,27,52,,End of 1st Period (10:30 PM EST),period,end,1,0,112
+1022600215,162,PT10M00.00S,2,0,,0,,,0,0,0,,0,25,27,52,,Start of 2nd Period (10:33 PM EST),period,start,1,0,113
+1022600215,163,PT09M42.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,-57,266,27,Made,1,28,27,55,h,Carleton 27' 3PT Jump Shot (4 PTS) (Samuelson 1 AST),Made Shot,Jump Shot,1,3,114
+1022600215,165,PT09M19.00S,2,1611661325,IND,1630112,Harris,T. Harris,-99,228,25,Missed,1,,,0,v,MISS Harris 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,115
+1022600215,166,PT09M15.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,116
+1022600215,167,PT09M08.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,23,17,3,Made,1,30,27,57,h,Engstler 3' Cutting Layup Shot (10 PTS) (Leite 4 AST),Made Shot,Cutting Layup Shot,1,2,117
+1022600215,169,PT08M52.00S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson P.FOUL (P1.T1),Foul,Personal,1,0,118
+1022600215,171,PT08M40.00S,2,1611661325,IND,1631086,Hull,L. Hull,-111,217,24,Missed,1,,,0,v,MISS Hull 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+1022600215,172,PT08M38.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,120
+1022600215,174,PT08M36.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-141,199,24,Made,1,30,30,60,v,Mitchell 24' 3PT Jump Shot (5 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,3,121
+1022600215,176,PT08M22.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,233,22,0,Made,1,33,30,63,h,Carleton 3PT Jump Shot (7 PTS) (Leite 5 AST),Made Shot,Jump Shot,1,3,122
+1022600215,178,PT08M12.00S,2,1611661325,IND,1630112,Harris,T. Harris,220,90,24,Missed,1,,,0,v,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+1022600215,179,PT08M09.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,124
+1022600215,180,PT07M54.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,-224,33,0,Made,1,36,30,66,h,DiLeo 3PT Jump Shot (3 PTS) (Engstler 2 AST),Made Shot,Jump Shot,1,3,125
+1022600215,182,PT07M40.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,27,18,3,Made,1,36,32,68,v,Timpson 3' Cutting Layup Shot (4 PTS) (Boston 2 AST),Made Shot,Cutting Layup Shot,1,2,126
+1022600215,184,PT07M40.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo S.FOUL (P1.T2),Foul,Shooting,1,0,127
+1022600215,186,PT07M40.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,SUB: Buhner FOR Engstler,Substitution,,0,0,128
+1022600215,188,PT07M40.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,36,33,69,v,Timpson Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,129
+1022600215,189,PT07M27.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull S.FOUL (P3.T1),Foul,Shooting,1,0,130
+1022600215,191,PT07M27.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,37,33,70,h,Leite Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,131
+1022600215,192,PT07M27.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Billings FOR Hull,Substitution,,0,0,132
+1022600215,193,PT07M27.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Cunningham FOR Timpson,Substitution,,0,0,133
+1022600215,196,PT07M27.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,38,33,71,h,Leite Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,134
+1022600215,197,PT07M18.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston OFF.Foul (P1),Foul,Offensive,1,0,135
+1022600215,199,PT07M18.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,136
+1022600215,200,PT07M18.00S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,SUB: Puoch FOR Samuelson,Substitution,,0,0,137
+1022600215,201,PT07M18.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Clark FOR Harris,Substitution,,0,0,138
+1022600215,205,PT06M55.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,-6,20,2,Made,1,40,33,73,h,Puoch 2' Layup (4 PTS) (Leite 6 AST),Made Shot,Layup Shot,1,2,139
+1022600215,207,PT06M44.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch S.FOUL (P3.T3),Foul,Shooting,1,0,140
+1022600215,209,PT06M44.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,40,34,74,v,Clark Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,141
+1022600215,210,PT06M44.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,SUB: Oblak FOR Leite,Substitution,,0,0,142
+1022600215,212,PT06M44.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,40,35,75,v,Clark Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,143
+1022600215,213,PT06M30.00S,2,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,Oblak Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,144
+1022600215,213,PT06M30.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham STEAL (1 STL),,,1,0,145
+1022600215,215,PT06M21.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,26,9,3,Made,1,40,37,77,v,Mitchell 3' Cutting Layup Shot (7 PTS) (Clark 2 AST),Made Shot,Cutting Layup Shot,1,2,146
+1022600215,217,PT06M15.00S,2,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,Oblak Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,147
+1022600215,217,PT06M15.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (1 STL),,,1,0,148
+1022600215,219,PT06M09.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,224,36,0,Made,1,40,40,80,v,Cunningham 3PT Running Jump Shot (6 PTS) (Boston 3 AST),Made Shot,Running Jump Shot,1,3,149
+1022600215,221,PT06M08.00S,2,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,150
+1022600215,222,PT05M56.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,-26,19,3,Missed,1,,,0,h,MISS Puoch 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,151
+1022600215,223,PT05M54.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,152
+1022600215,224,PT05M47.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,90,230,25,Missed,1,,,0,v,MISS Cunningham 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+1022600215,225,PT05M47.00S,2,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Unknown,0,0,154
+1022600215,227,PT05M47.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,SUB: Winterburn FOR Carleton,Substitution,,0,0,155
+1022600215,229,PT05M36.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P1.T2),Foul,Personal,1,0,156
+1022600215,231,PT05M36.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,SUB: Williams FOR DiLeo,Substitution,,0,0,157
+1022600215,232,PT05M36.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Timpson FOR Boston,Substitution,,0,0,158
+1022600215,235,PT05M21.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,33,8,3,Missed,1,,,0,h,MISS Buhner 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,159
+1022600215,236,PT05M20.00S,2,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,160
+1022600215,237,PT05M19.00S,2,1611661327,PDX,1643436,Williams,S. Williams,35,15,4,Made,1,42,40,82,h,Williams 4' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,161
+1022600215,238,PT05M03.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch S.FOUL (P4.T4),Foul,Shooting,1,0,162
+1022600215,240,PT05M03.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,42,41,83,v,Clark Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,163
+1022600215,241,PT05M03.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,SUB: Carleton FOR Puoch,Substitution,,0,0,164
+1022600215,243,PT05M03.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,42,42,84,v,Clark Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,165
+1022600215,245,PT04M44.00S,2,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,Oblak Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,166
+1022600215,245,PT04M44.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings STEAL (1 STL),,,1,0,167
+1022600215,247,PT04M29.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,17,243,24,Missed,1,,,0,v,MISS Mitchell 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,168
+1022600215,248,PT04M28.00S,2,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Unknown,1,0,169
+1022600215,250,PT04M28.00S,2,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,SUB: Engstler FOR Oblak,Substitution,,0,0,170
+1022600215,251,PT04M28.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,SUB: Leite FOR Buhner,Substitution,,0,0,171
+1022600215,254,PT04M15.00S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,26,73,8,Missed,1,,,0,h,MISS Winterburn 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,172
+1022600215,255,PT04M14.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,173
+1022600215,256,PT04M05.00S,2,1611661325,IND,1642286,Clark,C. Clark,-81,269,28,Made,1,42,45,87,v,Clark 28' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,174
+1022600215,257,PT03M43.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,44,39,6,Missed,1,,,0,h,MISS Carleton 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,175
+1022600215,258,PT03M41.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,176
+1022600215,259,PT03M37.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-23,27,4,Missed,1,,,0,v,MISS Mitchell 4' Running Layup,Missed Shot,Running Layup Shot,1,2,177
+1022600215,260,PT03M34.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,178
+1022600215,261,PT03M27.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,7,22,2,Made,1,42,47,89,v,Timpson 2' Reverse Layup (7 PTS) (Cunningham 2 AST),Made Shot,Reverse Layup Shot,1,2,179
+1022600215,263,PT03M19.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,193,152,25,Missed,1,,,0,h,MISS Engstler 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,180
+1022600215,264,PT03M17.00S,2,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,181
+1022600215,265,PT03M14.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,-216,70,0,Missed,1,,,0,h,MISS Carleton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+1022600215,266,PT03M12.00S,2,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Unknown,0,0,183
+1022600215,267,PT03M12.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson L.B.FOUL (P2.T3),Foul,Loose Ball,1,0,184
+1022600215,269,PT03M12.00S,2,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: Samuelson FOR Williams,Substitution,,0,0,185
+1022600215,270,PT03M12.00S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,SUB: DiLeo FOR Winterburn,Substitution,,0,0,186
+1022600215,271,PT03M12.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Boston FOR Timpson,Substitution,,0,0,187
+1022600215,275,PT03M01.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,35,30,5,Missed,1,,,0,h,MISS DiLeo 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,188
+1022600215,275,PT03M01.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston BLOCK (2 BLK),,,1,2,189
+1022600215,277,PT02M59.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,190
+1022600215,278,PT02M54.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,191
+1022600215,278,PT02M54.00S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson STEAL (1 STL),,,1,0,192
+1022600215,280,PT02M44.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,40,67,8,Made,1,44,47,91,h,Carleton 8' Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,1,2,193
+1022600215,281,PT02M37.00S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson P.FOUL (P2.PN),Foul,Personal,1,0,194
+1022600215,283,PT02M37.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,195
+1022600215,284,PT02M37.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,MISS Clark Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,196
+1022600215,285,PT02M37.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Normal Rebound,1,0,197
+1022600215,286,PT02M37.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,44,48,92,v,Clark Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,198
+1022600215,287,PT02M23.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings P.FOUL (P1.T4),Foul,Personal,1,0,199
+1022600215,289,PT02M16.00S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,-10,248,25,Made,1,47,48,95,h,Samuelson 25' 3PT Jump Shot (5 PTS) (Leite 7 AST),Made Shot,Jump Shot,1,3,200
+1022600215,291,PT02M01.00S,2,1611661325,IND,1641648,Boston,A. Boston,-11,55,6,Made,1,47,50,97,v,Boston 6' Turnaround Hook Shot (8 PTS),Made Shot,Turnaround Hook Shot,1,2,201
+1022600215,292,PT01M48.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,1,54,5,Missed,1,,,0,h,MISS DiLeo 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,202
+1022600215,292,PT01M48.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings BLOCK (1 BLK),,,1,2,203
+1022600215,294,PT01M46.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,204
+1022600215,295,PT01M36.00S,2,1611661325,IND,1641648,Boston,A. Boston,-19,54,6,Made,1,47,52,99,v,Boston 6' Driving Hook Shot (10 PTS) (Clark 3 AST),Made Shot,Driving Hook Shot,1,2,205
+1022600215,297,PT01M15.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,-17,60,6,Missed,1,,,0,h,MISS DiLeo 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,206
+1022600215,298,PT01M14.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,207
+1022600215,299,PT01M12.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings OFF.Foul (P2),Foul,Offensive,1,0,208
+1022600215,301,PT01M12.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,209
+1022600215,302,PT01M12.00S,2,0,,299,Robinson,G. Robinson,0,0,0,,0,47,52,99,,Instant Replay2nd Period (10:55 PM EST),Instant Replay,Ruling Stands,0,0,210
+1022600215,303,PT01M03.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,211
+1022600215,303,PT01M03.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham STEAL (2 STL),,,1,0,212
+1022600215,305,PT01M00.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,9,31,3,Made,1,47,54,101,v,Cunningham 3' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,213
+1022600215,307,PT00M38.10S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,214
+1022600215,307,PT00M38.10S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark STEAL (2 STL),,,1,0,215
+1022600215,309,PT00M26.80S,2,1611661325,IND,1641648,Boston,A. Boston,182,149,24,Missed,1,,,0,v,MISS Boston 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,216
+1022600215,310,PT00M26.20S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,217
+1022600215,311,PT00M26.20S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson L.B.FOUL (P3.PN),Foul,Loose Ball,1,0,218
+1022600215,313,PT00M26.20S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,47,55,102,v,Billings Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,219
+1022600215,314,PT00M26.20S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,47,56,103,v,Billings Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,220
+1022600215,315,PT00M05.30S,2,1611661327,PDX,1642304,Leite,C. Leite,-31,178,18,Missed,1,,,0,h,MISS Leite 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,221
+1022600215,316,PT00M01.80S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,222
+1022600215,319,PT00M00.00S,2,0,,317,Starks,J. Starks,0,0,0,,0,47,56,103,,Instant Replay2nd Period (11:00 PM EST),Instant Replay,Overturn Ruling,0,0,223
+1022600215,320,PT00M00.00S,2,0,,0,,,0,0,0,,0,47,56,103,,End of 2nd Period (11:01 PM EST),period,end,1,0,224
+1022600215,325,PT10M00.00S,3,0,,0,,,0,0,0,,0,47,56,103,,Start of 3rd Period (11:17 PM EST),period,start,1,0,225
+1022600215,326,PT09M48.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,226
+1022600215,326,PT09M48.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings STEAL (2 STL),,,1,0,227
+1022600215,328,PT09M45.00S,3,1611661325,IND,1628881,Billings,M. Billings,-13,22,3,Made,1,47,58,105,v,Billings 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,228
+1022600215,329,PT09M28.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,-61,231,24,Missed,1,,,0,h,MISS Engstler 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,229
+1022600215,330,PT09M26.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,230
+1022600215,331,PT09M21.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,27,19,3,Made,1,47,60,107,v,Mitchell 3' Running Reverse Layup (9 PTS) (Clark 4 AST),Made Shot,Running Reverse Layup Shot,1,2,231
+1022600215,333,PT09M06.00S,3,1611661327,PDX,1642304,Leite,C. Leite,-5,43,4,Made,1,49,60,109,h,Leite 4' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,232
+1022600215,334,PT08M49.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,23,30,4,Missed,1,,,0,v,MISS Mitchell 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,233
+1022600215,335,PT08M48.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,234
+1022600215,336,PT08M42.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,133,199,24,Missed,1,,,0,h,MISS DiLeo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+1022600215,337,PT08M40.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,236
+1022600215,340,PT08M17.00S,3,1611661325,IND,1631086,Hull,L. Hull,227,34,0,Missed,1,,,0,v,MISS Hull 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+1022600215,341,PT08M14.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,238
+1022600215,342,PT08M12.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-109,211,24,Made,1,49,63,112,v,Mitchell 24' 3PT Jump Shot (12 PTS) (Billings 1 AST),Made Shot,Jump Shot,1,3,239
+1022600215,344,PT07M54.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,156,198,25,Made,1,52,63,115,h,Carleton 25' 3PT Jump Shot (12 PTS) (Leite 8 AST),Made Shot,Jump Shot,1,3,240
+1022600215,346,PT07M42.00S,3,1611661325,IND,1628881,Billings,M. Billings,85,33,9,Made,1,52,65,117,v,Billings 9' Turnaround Jump Shot (8 PTS) (Mitchell 1 AST),Made Shot,Turnaround Jump Shot,1,2,241
+1022600215,348,PT07M25.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,223,65,0,Missed,1,,,0,h,MISS DiLeo 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+1022600215,349,PT07M22.00S,3,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Unknown,1,0,243
+1022600215,351,PT07M21.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,244
+1022600215,351,PT07M21.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (2 STL),,,1,0,245
+1022600215,353,PT07M09.00S,3,1611661325,IND,1628881,Billings,M. Billings,23,17,3,Made,1,52,67,119,v,Billings 3' Cutting Layup Shot (10 PTS) (Boston 4 AST),Made Shot,Cutting Layup Shot,1,2,246
+1022600215,355,PT06M58.00S,3,1611661327,PDX,1642304,Leite,C. Leite,-21,20,3,Made,1,54,67,121,h,Leite 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,247
+1022600215,356,PT06M49.00S,3,1611661325,IND,1628881,Billings,M. Billings,24,11,3,Made,1,54,69,123,v,Billings 3' Cutting Layup Shot (12 PTS) (Clark 5 AST),Made Shot,Cutting Layup Shot,1,2,248
+1022600215,358,PT06M48.00S,3,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,249
+1022600215,359,PT06M48.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,SUB: Buhner FOR Engstler,Substitution,,0,0,250
+1022600215,361,PT06M31.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,-11,22,2,Made,1,56,69,125,h,Puoch 2' Driving Layup (6 PTS) (Buhner 2 AST),Made Shot,Driving Layup Shot,1,2,251
+1022600215,363,PT06M14.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner S.FOUL (P1.T1),Foul,Shooting,1,0,252
+1022600215,365,PT06M14.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,56,70,126,v,Billings Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,253
+1022600215,366,PT06M14.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,MISS Billings Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,254
+1022600215,367,PT06M11.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,255
+1022600215,368,PT06M01.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,256
+1022600215,368,PT06M01.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull STEAL (1 STL),,,1,0,257
+1022600215,370,PT05M53.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch S.FOUL (P5.T2),Foul,Shooting,1,0,258
+1022600215,372,PT05M53.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,MISS Clark Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,259
+1022600215,373,PT05M53.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Normal Rebound,1,0,260
+1022600215,374,PT05M53.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,SUB: Winterburn FOR Puoch,Substitution,,0,0,261
+1022600215,375,PT05M53.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,SUB: Williams FOR DiLeo,Substitution,,0,0,262
+1022600215,378,PT05M53.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,56,71,127,v,Clark Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,263
+1022600215,379,PT05M38.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,37,258,26,Made,1,59,71,130,h,Carleton 26' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,264
+1022600215,381,PT05M25.00S,3,1611661325,IND,1642286,Clark,C. Clark,-55,280,29,Missed,1,,,0,v,MISS Clark 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,265
+1022600215,382,PT05M23.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,266
+1022600215,383,PT05M19.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,154,225,27,Missed,1,,,0,h,MISS Carleton 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,267
+1022600215,384,PT05M15.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,268
+1022600215,385,PT05M06.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-151,68,17,Missed,1,,,0,v,MISS Mitchell 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,269
+1022600215,386,PT05M03.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,270
+1022600215,387,PT04M58.00S,3,1611661325,IND,1628881,Billings,M. Billings,-27,44,5,Missed,1,,,0,v,MISS Billings 5' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,2,271
+1022600215,388,PT04M55.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,Winterburn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,272
+1022600215,389,PT04M50.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull S.FOUL (P4.T1),Foul,Shooting,1,0,273
+1022600215,391,PT04M50.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,MISS Leite Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,274
+1022600215,392,PT04M50.00S,3,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Normal Rebound,1,0,275
+1022600215,393,PT04M50.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Cunningham FOR Hull,Substitution,,0,0,276
+1022600215,395,PT04M50.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,60,71,131,h,Leite Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,277
+1022600215,396,PT04M42.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite S.FOUL (P1.T3),Foul,Shooting,1,0,278
+1022600215,398,PT04M42.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,MISS Clark Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,279
+1022600215,399,PT04M42.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Normal Rebound,1,0,280
+1022600215,400,PT04M42.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,60,72,132,v,Clark Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,281
+1022600215,401,PT04M42.00S,3,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,,"Double Technical - Williams, Boston",Foul,Double Technical,1,0,282
+1022600215,404,PT04M21.00S,3,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,283
+1022600215,404,PT04M21.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (3 STL),,,1,0,284
+1022600215,406,PT04M16.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings 3 Second Violation Turnover (P3.T7),Turnover,3 Second Violation,1,0,285
+1022600215,407,PT04M16.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Timpson FOR Boston,Substitution,,0,0,286
+1022600215,409,PT04M11.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Out of Bounds - Bad Pass Turnover Turnover (P4.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,287
+1022600215,410,PT04M11.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,SUB: Samuelson FOR Carleton,Substitution,,0,0,288
+1022600215,412,PT03M51.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,28,11,3,Made,1,60,74,134,v,Timpson 3' Cutting Layup Shot (9 PTS) (Clark 6 AST),Made Shot,Cutting Layup Shot,1,2,289
+1022600215,414,PT03M41.00S,3,1611661327,PDX,1643436,Williams,S. Williams,7,15,2,Made,1,62,74,136,h,Williams 2' Layup (6 PTS) (Leite 9 AST),Made Shot,Layup Shot,1,2,290
+1022600215,416,PT03M22.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,Winterburn S.FOUL (P1.T4),Foul,Shooting,1,0,291
+1022600215,418,PT03M22.00S,3,0,,416,Burton,W. Burton,0,0,0,,0,62,74,136,,Instant Replay3rd Period (11:33 PM EST),Instant Replay,Support Ruling,0,0,292
+1022600215,419,PT03M22.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,62,75,137,v,Clark Free Throw 1 of 3 (20 PTS),Free Throw,Free Throw 1 of 3,1,0,293
+1022600215,420,PT03M22.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,62,76,138,v,Clark Free Throw 2 of 3 (21 PTS),Free Throw,Free Throw 2 of 3,1,0,294
+1022600215,421,PT03M22.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,SUB: Oblak FOR Leite,Substitution,,0,0,295
+1022600215,423,PT03M22.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,62,77,139,v,Clark Free Throw 3 of 3 (22 PTS),Free Throw,Free Throw 3 of 3,1,0,296
+1022600215,424,PT03M02.00S,3,1611661327,PDX,1643436,Williams,S. Williams,10,22,2,Made,1,64,77,141,h,Williams 2' Driving Layup (8 PTS) (Oblak 3 AST),Made Shot,Driving Layup Shot,1,2,297
+1022600215,426,PT02M46.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,71,244,25,Missed,1,,,0,v,MISS Mitchell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,298
+1022600215,427,PT02M44.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,299
+1022600215,428,PT02M44.00S,3,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams L.B.FOUL (P1.PN),Foul,Loose Ball,1,0,300
+1022600215,430,PT02M44.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,64,78,142,v,Billings Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,301
+1022600215,431,PT02M44.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,SUB: Engstler FOR Buhner,Substitution,,0,0,302
+1022600215,432,PT02M44.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Harris FOR Clark,Substitution,,0,0,303
+1022600215,435,PT02M44.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,64,79,143,v,Billings Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,304
+1022600215,436,PT02M28.00S,3,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,Oblak Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,305
+1022600215,437,PT02M12.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-199,106,0,Made,1,64,82,146,v,Mitchell 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,306
+1022600215,438,PT01M54.00S,3,1611661327,PDX,1628317,Samuelson,K. Samuelson,-235,39,24,Made,1,67,82,149,h,Samuelson 24' 3PT Jump Shot (8 PTS) (Engstler 3 AST),Made Shot,Jump Shot,1,3,307
+1022600215,440,PT01M41.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler P.FOUL (P2.PN),Foul,Personal,1,0,308
+1022600215,442,PT01M41.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,67,83,150,v,Cunningham Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,309
+1022600215,443,PT01M41.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,SUB: Carleton FOR Winterburn,Substitution,,0,0,310
+1022600215,444,PT01M41.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Boston FOR Billings,Substitution,,0,0,311
+1022600215,447,PT01M41.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,67,84,151,v,Cunningham Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+1022600215,448,PT01M28.00S,3,1611661327,PDX,1628317,Samuelson,K. Samuelson,232,40,24,Made,1,70,84,154,h,Samuelson 24' 3PT Jump Shot (11 PTS) (Carleton 1 AST),Made Shot,Jump Shot,1,3,313
+1022600215,450,PT01M16.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,184,145,0,Made,1,70,87,157,v,Mitchell 3PT Step Back Jump Shot (18 PTS) (Boston 5 AST),Made Shot,Step Back Jump shot,1,3,314
+1022600215,452,PT01M03.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,95,248,27,Missed,1,,,0,h,MISS Carleton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,315
+1022600215,453,PT00M59.60S,3,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,316
+1022600215,454,PT00M53.70S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,317
+1022600215,454,PT00M53.70S,3,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,Oblak STEAL (2 STL),,,1,0,318
+1022600215,456,PT00M48.50S,3,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris P.FOUL (P1.T2),Foul,Personal,1,0,319
+1022600215,458,PT00M48.50S,3,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: DiLeo FOR Williams,Substitution,,0,0,320
+1022600215,460,PT00M44.20S,3,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris P.FOUL (P2.PN),Foul,Personal,1,0,321
+1022600215,462,PT00M44.20S,3,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,71,87,158,h,Samuelson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,322
+1022600215,463,PT00M44.20S,3,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,72,87,159,h,Samuelson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,323
+1022600215,464,PT00M30.90S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,-149,202,25,Made,1,72,90,162,v,Cunningham 25' 3PT Jump Shot (13 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,1,3,324
+1022600215,466,PT00M09.40S,3,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,h,Oblak Bad Pass Turnover (P5.T15),Turnover,Bad Pass,1,0,325
+1022600215,466,PT00M09.40S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson STEAL (1 STL),,,1,0,326
+1022600215,468,PT00M02.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-77,243,25,Missed,1,,,0,v,MISS Mitchell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,327
+1022600215,469,PT00M02.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,328
+1022600215,470,PT00M00.00S,3,0,,0,,,0,0,0,,0,72,90,162,,End of 3rd Period (11:41 PM EST),period,end,1,0,329
+1022600215,477,PT10M00.00S,4,0,,0,,,0,0,0,,0,72,90,162,,Start of 4th Period (11:45 PM EST),period,start,1,0,330
+1022600215,478,PT09M42.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,-11,33,3,Made,1,72,92,164,v,Timpson 3' Layup (11 PTS) (Boston 6 AST),Made Shot,Layup Shot,1,2,331
+1022600215,480,PT09M26.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,-16,20,3,Made,1,74,92,166,h,DiLeo 3' Cutting Layup Shot (5 PTS) (Engstler 4 AST),Made Shot,Cutting Layup Shot,1,2,332
+1022600215,482,PT09M13.00S,4,1611661325,IND,1641648,Boston,A. Boston,16,29,3,Made,1,74,94,168,v,Boston 3' Driving Floating Jump Shot (12 PTS) (Clark 7 AST),Made Shot,Driving Floating Jump Shot,1,2,333
+1022600215,484,PT08M55.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,22,9,2,Made,1,76,94,170,h,Puoch 2' Driving Layup (8 PTS) (Carleton 2 AST),Made Shot,Driving Layup Shot,1,2,334
+1022600215,487,PT08M41.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston OFF.Foul (P2),Foul,Offensive,1,0,335
+1022600215,489,PT08M41.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,336
+1022600215,490,PT08M36.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,28,98,10,Missed,1,,,0,h,MISS DiLeo 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,337
+1022600215,491,PT08M33.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,338
+1022600215,492,PT08M14.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,339
+1022600215,492,PT08M14.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler STEAL (1 STL),,,1,0,340
+1022600215,494,PT08M10.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,-29,18,3,Made,1,78,94,172,h,Puoch 3' Running Layup (10 PTS) (Engstler 5 AST),Made Shot,Running Layup Shot,1,2,341
+1022600215,496,PT08M10.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,342
+1022600215,498,PT08M10.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,343
+1022600215,499,PT08M10.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,SUB: Hull FOR Cunningham,Substitution,,0,0,344
+1022600215,500,PT08M10.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Mitchell FOR Harris,Substitution,,0,0,345
+1022600215,504,PT07M48.00S,4,1611661325,IND,1628881,Billings,M. Billings,50,43,7,Missed,1,,,0,v,MISS Billings 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,346
+1022600215,504,PT07M48.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo BLOCK (1 BLK),,,1,2,347
+1022600215,506,PT07M48.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,348
+1022600215,508,PT07M46.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,349
+1022600215,509,PT07M40.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,-229,26,0,Missed,1,,,0,h,MISS Puoch 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+1022600215,510,PT07M36.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,351
+1022600215,511,PT07M26.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark OFF.Foul (P3),Foul,Offensive,1,0,352
+1022600215,513,PT07M26.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Offensive Foul Turnover (P4.T12),Turnover,Offensive Foul Turnover,1,0,353
+1022600215,514,PT07M26.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,SUB: Buhner FOR DiLeo,Substitution,,0,0,354
+1022600215,515,PT07M26.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,SUB: Williams FOR Engstler,Substitution,,0,0,355
+1022600215,519,PT07M11.00S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P5.T1),Foul,Personal,1,0,356
+1022600215,521,PT07M11.00S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Cunningham FOR Hull,Substitution,,0,0,357
+1022600215,522,PT07M11.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Boston FOR Timpson,Substitution,,0,0,358
+1022600215,525,PT07M02.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0,359
+1022600215,525,PT07M02.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (4 STL),,,1,0,360
+1022600215,527,PT06M46.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,-224,82,24,Missed,1,,,0,v,MISS Cunningham 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+1022600215,528,PT06M42.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,362
+1022600215,529,PT06M36.00S,4,1611661327,PDX,1643494,Buhner,F. Buhner,22,11,2,Missed,1,,,0,h,MISS Buhner 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,363
+1022600215,530,PT06M34.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,364
+1022600215,531,PT06M33.00S,4,1611661327,PDX,1643436,Williams,S. Williams,17,20,3,Missed,1,,,0,h,MISS Williams 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,365
+1022600215,532,PT06M30.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,366
+1022600215,533,PT06M18.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,65,104,12,Made,1,78,96,174,v,Mitchell 12' Pullup Jump Shot (20 PTS) (Clark 8 AST),Made Shot,Pullup Jump shot,1,2,367
+1022600215,535,PT06M08.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite OFF.Foul (P2),Foul,Offensive,1,0,368
+1022600215,537,PT06M08.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Offensive Foul Turnover (P5.T17),Turnover,Offensive Foul Turnover,1,0,369
+1022600215,538,PT06M08.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Violation: Delay of game Violation,Violation,Delay Of Game,0,0,370
+1022600215,539,PT06M08.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,SUB: Samuelson FOR Puoch,Substitution,,0,0,371
+1022600215,541,PT05M55.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-70,180,19,Missed,1,,,0,v,MISS Mitchell 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,372
+1022600215,542,PT05M51.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,373
+1022600215,543,PT05M50.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite P.FOUL (P3.T1),Foul,Personal,1,0,374
+1022600215,545,PT05M48.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-12,260,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+1022600215,546,PT05M44.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,376
+1022600215,547,PT05M38.00S,4,1611661327,PDX,1643436,Williams,S. Williams,-32,16,4,Made,1,80,96,176,h,Williams 4' Layup (10 PTS) (Leite 10 AST),Made Shot,Layup Shot,1,2,377
+1022600215,549,PT05M38.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston S.FOUL (P3.T2),Foul,Shooting,1,0,378
+1022600215,551,PT05M38.00S,4,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,SUB: Engstler FOR Buhner,Substitution,,0,0,379
+1022600215,553,PT05M38.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,380
+1022600215,554,PT05M27.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,381
+1022600215,555,PT05M16.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-226,66,24,Missed,1,,,0,v,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,382
+1022600215,556,PT05M12.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,383
+1022600215,557,PT05M04.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,139,199,24,Missed,1,,,0,h,MISS Samuelson 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,384
+1022600215,558,PT05M00.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,385
+1022600215,559,PT04M56.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,-175,161,24,Made,1,83,96,179,h,Carleton 24' 3PT Step Back Jump Shot (18 PTS) (Samuelson 2 AST),Made Shot,Step Back Jump shot,1,3,386
+1022600215,561,PT04M55.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,387
+1022600215,562,PT04M40.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0,388
+1022600215,562,PT04M40.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler STEAL (2 STL),,,1,0,389
+1022600215,564,PT04M34.00S,4,1611661327,PDX,1642304,Leite,C. Leite,-29,20,4,Made,1,85,96,181,h,Leite 4' Running Layup (15 PTS),Made Shot,Running Layup Shot,1,2,390
+1022600215,565,PT04M19.00S,4,1611661325,IND,1642286,Clark,C. Clark,13,149,15,Made,1,85,98,183,v,Clark 15' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,391
+1022600215,566,PT04M08.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,5,256,26,Made,1,88,98,186,h,Carleton 26' 3PT Jump Shot (21 PTS) (Leite 11 AST),Made Shot,Jump Shot,1,3,392
+1022600215,568,PT03M47.00S,4,1611661325,IND,1628881,Billings,M. Billings,1,47,5,Missed,1,,,0,v,MISS Billings 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,393
+1022600215,569,PT03M45.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,394
+1022600215,570,PT03M37.00S,4,1611661325,IND,1642286,Clark,C. Clark,-55,325,33,Missed,1,,,0,v,MISS Clark 33' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,395
+1022600215,571,PT03M35.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,396
+1022600215,572,PT03M35.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson L.B.FOUL (P4.T2),Foul,Loose Ball,1,0,397
+1022600215,574,PT03M35.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Timpson FOR Billings,Substitution,,0,0,398
+1022600215,576,PT03M29.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P2.T3),Foul,Shooting,1,0,399
+1022600215,578,PT03M29.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,88,99,187,v,Mitchell Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,400
+1022600215,579,PT03M29.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,88,100,188,v,Mitchell Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,401
+1022600215,580,PT03M29.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,402
+1022600215,581,PT03M13.00S,4,1611661327,PDX,1642304,Leite,C. Leite,-23,34,4,Made,1,90,100,190,h,Leite 4' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,403
+1022600215,582,PT03M13.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P4.T3),Foul,Shooting,1,0,404
+1022600215,584,PT03M13.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: DiLeo FOR Williams,Substitution,,0,0,405
+1022600215,586,PT03M13.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,91,100,191,h,Leite Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,406
+1022600215,587,PT02M58.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,-13,17,2,Missed,1,,,0,v,MISS Timpson 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,407
+1022600215,587,PT02M58.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo BLOCK (2 BLK),,,1,2,408
+1022600215,589,PT02M56.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,409
+1022600215,590,PT02M52.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Jump Ball Engstler vs. Timpson: Tip to Carleton,Jump Ball,,1,0,410
+1022600215,593,PT02M52.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,411
+1022600215,593,PT02M52.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler STEAL (3 STL),,,1,0,412
+1022600215,595,PT02M49.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,-33,17,4,Made,1,93,100,193,h,Carleton 4' Running Layup (23 PTS),Made Shot,Running Layup Shot,1,2,413
+1022600215,599,PT02M37.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Coach Challenge (Reg.3 Short 0),Timeout,Coach Challenge,0,0,414
+1022600215,600,PT02M37.00S,4,0,,596,,,0,0,0,,0,93,100,193,,Instant Replay4th Period (12:07 AM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,415
+1022600215,601,PT02M37.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite S.FOUL (P4.T4),Foul,Shooting,1,0,416
+1022600215,603,PT02M37.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,93,101,194,v,Mitchell Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,417
+1022600215,604,PT02M37.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,93,102,195,v,Mitchell Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,418
+1022600215,605,PT02M26.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Lost Ball Turnover (P6.T18),Turnover,Lost Ball,1,0,419
+1022600215,605,PT02M26.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (5 STL),,,1,0,420
+1022600215,607,PT02M22.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,5,33,3,Made,1,93,104,197,v,Timpson 3' Running Finger Roll Layup (13 PTS) (Cunningham 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,421
+1022600215,609,PT02M13.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,98,217,24,Missed,1,,,0,h,MISS Engstler 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,422
+1022600215,610,PT02M12.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,423
+1022600215,612,PT01M47.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,424
+1022600215,613,PT01M38.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,-223,49,0,Missed,1,,,0,h,MISS Carleton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+1022600215,614,PT01M34.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,426
+1022600215,615,PT01M25.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,77,108,13,Made,1,93,106,199,v,Mitchell 13' Pullup Jump Shot (26 PTS) (Clark 9 AST),Made Shot,Pullup Jump shot,1,2,427
+1022600215,616,PT01M25.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,428
+1022600215,617,PT01M25.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Hull FOR Clark,Substitution,,0,0,429
+1022600215,619,PT01M23.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,-232,7,0,Missed,1,,,0,h,MISS Samuelson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,430
+1022600215,620,PT01M20.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,431
+1022600215,621,PT01M13.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler Lost Ball Turnover (P2.T19),Turnover,Lost Ball,1,0,432
+1022600215,621,PT01M13.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson STEAL (2 STL),,,1,0,433
+1022600215,623,PT01M05.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Reset (Reg.3 Short 0),Timeout,Reset,0,0,434
+1022600215,624,PT01M05.00S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Clark FOR Hull,Substitution,,0,0,435
+1022600215,626,PT01M03.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo P.FOUL (P2.PN),Foul,Personal,1,0,436
+1022600215,628,PT01M03.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,93,107,200,v,Boston Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,437
+1022600215,629,PT01M03.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Hull FOR Clark,Substitution,,0,0,438
+1022600215,631,PT01M03.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,93,108,201,v,Boston Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,439
+1022600215,632,PT01M03.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Timeout: Reset (Full 4 Short 0),Timeout,Reset,0,0,440
+1022600215,633,PT01M00.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,-222,56,0,Made,1,96,108,204,h,Carleton 3PT Turnaround Jump Shot (26 PTS) (Leite 12 AST),Made Shot,Turnaround Jump Shot,1,3,441
+1022600215,635,PT01M00.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,442
+1022600215,637,PT01M00.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Clark FOR Timpson,Substitution,,0,0,443
+1022600215,639,PT00M59.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton P.FOUL (P3.PN),Foul,Personal,1,0,444
+1022600215,641,PT00M59.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,96,109,205,v,Clark Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,445
+1022600215,642,PT00M59.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Timpson FOR Boston,Substitution,,0,0,446
+1022600215,644,PT00M59.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,96,110,206,v,Clark Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,447
+1022600215,645,PT00M52.40S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Traveling Turnover (P7.T20),Turnover,Traveling,1,0,448
+1022600215,646,PT00M52.40S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,SUB: Harris FOR Mitchell,Substitution,,0,0,449
+1022600215,647,PT00M52.40S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,SUB: Johnson FOR Cunningham,Substitution,,0,0,450
+1022600215,650,PT00M33.80S,4,1611661325,IND,1642815,Timpson,M. Timpson,4,46,5,Made,1,96,112,208,v,Timpson 5' Cutting Layup Shot (15 PTS) (Clark 10 AST),Made Shot,Cutting Layup Shot,1,2,451
+1022600215,653,PT00M22.60S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: VanSlooten FOR Clark,Substitution,,0,0,452
+1022600215,655,PT00M22.60S,4,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,SUB: Puoch FOR Carleton,Substitution,,0,0,453
+1022600215,657,PT00M19.60S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,-222,53,0,Missed,1,,,0,h,MISS Samuelson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,454
+1022600215,658,PT00M16.60S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,455
+1022600215,659,PT00M15.00S,4,1611661327,PDX,1642304,Leite,C. Leite,-6,18,2,Made,1,98,112,210,h,Leite 2' Layup (20 PTS),Made Shot,Layup Shot,1,2,456
+1022600215,660,PT00M00.00S,4,0,,0,,,0,0,0,,0,98,112,210,,End of 4th Period (12:21 AM EST),period,end,1,0,457

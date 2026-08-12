@@ -1,0 +1,452 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600161,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:03 PM EST),period,start,1,0,1
+1022600161,4,PT10M00.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Jump Ball Hamby vs. Billings: Tip to Clark,Jump Ball,,1,0,2
+1022600161,7,PT09M42.00S,1,1611661325,IND,1642286,Clark,C. Clark,99,248,27,Missed,1,,,0,v,MISS Clark 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+1022600161,8,PT09M38.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+1022600161,9,PT09M31.00S,1,1611661325,IND,1628881,Billings,M. Billings,-5,28,3,Made,1,0,2,2,v,Billings 3' Driving Layup (2 PTS) (Clark 1 AST),Made Shot,Driving Layup Shot,1,2,5
+1022600161,11,PT09M14.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,Burrell Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,6
+1022600161,11,PT09M14.00S,1,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen STEAL (1 STL),,,1,0,7
+1022600161,13,PT09M07.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,21,269,27,Missed,1,,,0,v,MISS Mitchell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+1022600161,14,PT09M03.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+1022600161,15,PT08M58.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,13,10,2,Made,1,2,2,4,h,Hamby 2' Cutting Layup Shot (2 PTS) (Wheeler 1 AST),Made Shot,Cutting Layup Shot,1,2,10
+1022600161,17,PT08M47.00S,1,1611661325,IND,1642286,Clark,C. Clark,135,110,17,Missed,1,,,0,v,MISS Clark 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,11
+1022600161,18,PT08M45.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,12
+1022600161,19,PT08M42.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-112,126,17,Made,1,2,4,6,v,Mitchell 17' Pullup Jump Shot (2 PTS) (Clark 2 AST),Made Shot,Pullup Jump shot,1,2,13
+1022600161,21,PT08M27.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,109,26,11,Missed,1,,,0,h,MISS Ogwumike 11' Jump Shot,Missed Shot,Jump Shot,1,2,14
+1022600161,22,PT08M23.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+1022600161,23,PT08M15.00S,1,1611661325,IND,1631086,Hull,L. Hull,227,4,0,Missed,1,,,0,v,MISS Hull 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+1022600161,24,PT08M11.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+1022600161,25,PT08M02.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,-225,29,0,Made,1,5,4,9,h,Atkins 3PT Jump Shot (3 PTS) (Hamby 1 AST),Made Shot,Jump Shot,1,3,18
+1022600161,27,PT07M50.00S,1,1611661325,IND,1642286,Clark,C. Clark,-38,41,6,Made,1,5,6,11,v,Clark 6' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,19
+1022600161,28,PT07M31.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,-234,45,24,Missed,1,,,0,h,MISS Hamby 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+1022600161,29,PT07M28.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+1022600161,30,PT07M25.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins S.FOUL (P1.T1),Foul,Shooting,1,0,22
+1022600161,32,PT07M25.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,5,7,12,v,Mitchell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,23
+1022600161,33,PT07M25.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,5,8,13,v,Mitchell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,24
+1022600161,34,PT07M14.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,25
+1022600161,34,PT07M14.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark STEAL (1 STL),,,1,0,26
+1022600161,36,PT07M10.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,36,143,15,Missed,1,,,0,v,MISS Mitchell 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,27
+1022600161,37,PT07M08.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+1022600161,38,PT07M04.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,29
+1022600161,38,PT07M04.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (1 STL),,,1,0,30
+1022600161,40,PT07M01.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-229,34,0,Made,1,5,11,16,v,Mitchell 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,31
+1022600161,42,PT06M45.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Timpson FOR Clark,Substitution,,0,0,32
+1022600161,43,PT06M45.00S,1,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,SUB: Harris FOR Hines-Allen,Substitution,,0,0,33
+1022600161,46,PT06M41.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,13,61,6,Made,1,7,11,18,h,Burrell 6' Floating Jump Shot (2 PTS) (Wheeler 2 AST),Made Shot,Floating Jump shot,1,2,34
+1022600161,48,PT06M24.00S,1,1611661325,IND,1631086,Hull,L. Hull,-37,31,5,Missed,1,,,0,v,MISS Hull 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,35
+1022600161,49,PT06M22.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,36
+1022600161,101,PT06M07.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,54,21,6,Missed,1,,,0,h,MISS Hamby 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,37
+1022600161,101,PT06M07.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings BLOCK (1 BLK),,,1,2,38
+1022600161,103,PT06M07.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,39
+1022600161,51,PT06M07.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Johnson FOR Hull,Substitution,,0,0,40
+1022600161,53,PT05M51.00S,1,1611661325,IND,1630112,Harris,T. Harris,81,133,16,Made,1,7,13,20,v,Harris 16' Pullup Jump Shot (2 PTS) (Billings 1 AST),Made Shot,Pullup Jump shot,1,2,41
+1022600161,55,PT05M42.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,40,4,Made,1,9,13,22,h,Ogwumike 4' Cutting Layup Shot (2 PTS) (Wheeler 3 AST),Made Shot,Cutting Layup Shot,1,2,42
+1022600161,57,PT05M29.00S,1,1611661325,IND,1643433,Johnson,R. Johnson,-94,25,10,Missed,1,,,0,v,MISS Johnson 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,43
+1022600161,58,PT05M27.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,44
+1022600161,59,PT05M18.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings S.FOUL (P1.T1),Foul,Shooting,1,0,45
+1022600161,61,PT05M18.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,10,13,23,h,Hamby Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,46
+1022600161,62,PT05M18.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,11,13,24,h,Hamby Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,47
+1022600161,63,PT05M07.00S,1,1611661325,IND,1643433,Johnson,R. Johnson,221,100,24,Missed,1,,,0,v,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,48
+1022600161,64,PT05M02.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,49
+1022600161,65,PT04M59.00S,1,1611661325,IND,1643433,Johnson,R. Johnson,66,19,7,Missed,1,,,0,v,MISS Johnson 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,50
+1022600161,66,PT04M58.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,51
+1022600161,68,PT04M58.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,52
+1022600161,69,PT04M56.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler S.FOUL (P1.T2),Foul,Shooting,1,0,53
+1022600161,71,PT04M56.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,11,14,25,v,Mitchell Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,54
+1022600161,72,PT04M56.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,11,15,26,v,Mitchell Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,55
+1022600161,73,PT04M44.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,-129,15,13,Made,1,13,15,28,h,Wheeler 13' Pullup Jump Shot (2 PTS) (Ogwumike 1 AST),Made Shot,Pullup Jump shot,1,2,56
+1022600161,75,PT04M35.00S,1,1611661325,IND,1630112,Harris,T. Harris,-206,113,0,Made,1,13,18,31,v,Harris 3PT Pullup Jump Shot (5 PTS) (Mitchell 1 AST),Made Shot,Pullup Jump shot,1,3,57
+1022600161,76,PT04M21.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,Burrell Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,58
+1022600161,78,PT04M06.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,15,135,14,Missed,1,,,0,v,MISS Mitchell 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,59
+1022600161,79,PT04M03.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,60
+1022600161,80,PT03M54.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,35,29,5,Made,1,15,18,33,h,Hamby 5' Driving Layup (6 PTS) (Ogwumike 2 AST),Made Shot,Driving Layup Shot,1,2,61
+1022600161,82,PT03M43.00S,1,1611661325,IND,1630112,Harris,T. Harris,73,157,17,Made,1,15,20,35,v,Harris 17' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,62
+1022600161,83,PT03M30.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-106,70,13,Missed,1,,,0,h,MISS Ogwumike 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,63
+1022600161,84,PT03M27.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,64
+1022600161,85,PT03M24.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,49,11,5,Missed,1,,,0,v,MISS Timpson 5' Running Layup,Missed Shot,Running Layup Shot,1,2,65
+1022600161,86,PT03M23.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+1022600161,87,PT03M16.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,6,40,4,Missed,1,,,0,h,MISS Atkins 4' Running Layup,Missed Shot,Running Layup Shot,1,2,67
+1022600161,88,PT03M14.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,68
+1022600161,90,PT03M09.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson OFF.Foul (P1),Foul,Offensive,1,0,69
+1022600161,92,PT03M09.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,70
+1022600161,93,PT03M09.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,SUB: Pili FOR Hamby,Substitution,,0,0,71
+1022600161,94,PT03M09.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,SUB: Williams FOR Wheeler,Substitution,,0,0,72
+1022600161,95,PT03M09.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Dantas FOR Billings,Substitution,,0,0,73
+1022600161,99,PT03M09.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,74
+1022600161,100,PT03M09.00S,1,0,,90,,,0,0,0,,0,15,20,35,,Instant Replay1st Period (10:17 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,75
+1022600161,104,PT03M09.00S,1,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,SUB: Cunningham FOR Johnson,Substitution,,0,0,76
+1022600161,106,PT02M54.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,32,39,5,Missed,1,,,0,h,MISS Ogwumike 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,77
+1022600161,106,PT02M54.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson BLOCK (1 BLK),,,1,2,78
+1022600161,108,PT02M53.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,79
+1022600161,109,PT02M43.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,-53,25,6,Made,1,15,22,37,v,Timpson 6' Driving Layup (2 PTS) (Cunningham 1 AST),Made Shot,Driving Layup Shot,1,2,80
+1022600161,111,PT02M26.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-27,9,3,Missed,1,,,0,h,MISS Ogwumike 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,81
+1022600161,112,PT02M25.00S,1,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,,,0,v,Dantas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+1022600161,113,PT02M22.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins S.FOUL (P2.T3),Foul,Shooting,1,0,83
+1022600161,115,PT02M22.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,15,23,38,v,Timpson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,84
+1022600161,116,PT02M22.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,SUB: Hamby FOR Atkins,Substitution,,0,0,85
+1022600161,117,PT02M22.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,SUB: Park FOR Ogwumike,Substitution,,0,0,86
+1022600161,118,PT02M22.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,SUB: Clark FOR Mitchell,Substitution,,0,0,87
+1022600161,122,PT02M22.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,MISS Timpson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,88
+1022600161,123,PT02M19.00S,1,1611661320,LAS,1642293,Pili,A. Pili,0,0,0,,0,,,0,h,Pili REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,89
+1022600161,124,PT02M11.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,35,31,5,Missed,1,,,0,h,MISS Burrell 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,90
+1022600161,125,PT02M08.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+1022600161,126,PT02M00.00S,1,1611661325,IND,1642286,Clark,C. Clark,6,19,2,Made,1,15,25,40,v,Clark 2' Driving Layup (4 PTS) (Dantas 1 AST),Made Shot,Driving Layup Shot,1,2,92
+1022600161,128,PT01M49.00S,1,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,,,0,v,Dantas P.FOUL (P1.T2),Foul,Personal,1,0,93
+1022600161,130,PT01M45.00S,1,1611661320,LAS,1630461,Williams,K. Williams,-197,183,27,Missed,1,,,0,h,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+1022600161,131,PT01M40.00S,1,1611661320,LAS,1642293,Pili,A. Pili,0,0,0,,0,,,0,h,Pili REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,95
+1022600161,132,PT01M37.00S,1,1611661320,LAS,1630461,Williams,K. Williams,-24,16,3,Made,1,17,25,42,h,Williams 3' Driving Layup (2 PTS) (Pili 1 AST),Made Shot,Driving Layup Shot,1,2,96
+1022600161,134,PT01M26.00S,1,1611661325,IND,1642286,Clark,C. Clark,-178,181,25,Missed,1,,,0,v,MISS Clark 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,97
+1022600161,135,PT01M23.00S,1,1611661320,LAS,1642293,Pili,A. Pili,0,0,0,,0,,,0,h,Pili REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,98
+1022600161,136,PT01M19.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,12,58,6,Missed,1,,,0,h,MISS Hamby 6' Running Layup,Missed Shot,Running Layup Shot,1,2,99
+1022600161,137,PT01M17.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,100
+1022600161,138,PT01M13.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,-88,241,26,Missed,1,,,0,h,MISS Burrell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+1022600161,139,PT01M13.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,102
+1022600161,140,PT01M02.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,103
+1022600161,140,PT01M02.00S,1,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,,,0,h,Park STEAL (1 STL),,,1,0,104
+1022600161,142,PT00M53.80S,1,1611661320,LAS,1642293,Pili,A. Pili,45,16,5,Made,1,19,25,44,h,Pili 5' Cutting Layup Shot (2 PTS) (Williams 1 AST),Made Shot,Cutting Layup Shot,1,2,105
+1022600161,145,PT00M52.50S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,106
+1022600161,145,PT00M52.50S,1,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,,,0,h,Park STEAL (2 STL),,,0,0,107
+1022600161,147,PT00M52.50S,1,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P1.PN),Foul,Shooting,1,0,108
+1022600161,149,PT00M52.50S,1,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,,,0,h,MISS Park Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,109
+1022600161,150,PT00M52.50S,1,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Rebound,Rebound,Normal Rebound,1,0,110
+1022600161,151,PT00M52.50S,1,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,SUB: Wheeler FOR Burrell,Substitution,,0,0,111
+1022600161,152,PT00M52.50S,1,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Johnson FOR Harris,Substitution,,0,0,112
+1022600161,155,PT00M52.50S,1,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,20,25,45,h,Park Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,113
+1022600161,156,PT00M39.60S,1,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,114
+1022600161,157,PT00M24.60S,1,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,,,0,v,Dantas S.FOUL (P2.PN),Foul,Shooting,1,0,115
+1022600161,159,PT00M24.60S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,21,25,46,h,Hamby Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,116
+1022600161,160,PT00M24.60S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,MISS Hamby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,117
+1022600161,161,PT00M21.30S,1,1611661320,LAS,1642293,Pili,A. Pili,0,0,0,,0,,,0,h,Pili REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,118
+1022600161,162,PT00M19.40S,1,1611661320,LAS,1642293,Pili,A. Pili,-13,59,6,Missed,1,,,0,h,MISS Pili 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,119
+1022600161,163,PT00M17.40S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+1022600161,164,PT00M07.90S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham OFF.Foul (P1),Foul,Offensive,1,0,121
+1022600161,166,PT00M07.90S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,122
+1022600161,167,PT00M00.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,170,257,31,Missed,1,,,0,h,MISS Wheeler 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,123
+1022600161,168,PT00M00.00S,1,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Rebound,Rebound,Unknown,0,0,124
+1022600161,169,PT00M00.00S,1,0,,0,,,0,0,0,,0,21,25,46,,End of 1st Period (10:26 PM EST),period,end,1,0,125
+1022600161,180,PT10M00.00S,2,0,,0,,,0,0,0,,0,21,25,46,,Start of 2nd Period (10:30 PM EST),period,start,1,0,126
+1022600161,181,PT09M41.00S,2,1611661320,LAS,1630148,Park,J. Park,48,34,6,Missed,1,,,0,h,MISS Park 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,127
+1022600161,181,PT09M41.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen BLOCK (1 BLK),,,1,2,128
+1022600161,183,PT09M40.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+1022600161,184,PT09M30.00S,2,1611661325,IND,1631086,Hull,L. Hull,-239,43,24,Missed,1,,,0,v,MISS Hull 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+1022600161,185,PT09M27.00S,2,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,,,0,h,Park REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+1022600161,186,PT09M21.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen S.FOUL (P1.T1),Foul,Shooting,1,0,132
+1022600161,188,PT09M21.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,22,25,47,h,Hamby Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+1022600161,189,PT09M21.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,23,25,48,h,Hamby Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,134
+1022600161,190,PT09M07.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,135
+1022600161,190,PT09M07.00S,2,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,,,0,h,Park STEAL (3 STL),,,1,0,136
+1022600161,192,PT09M03.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,137
+1022600161,192,PT09M03.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (2 STL),,,1,0,138
+1022600161,194,PT09M00.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-138,116,18,Missed,1,,,0,v,MISS Mitchell 18' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,139
+1022600161,195,PT08M58.00S,2,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,,,0,h,Park REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+1022600161,196,PT08M48.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,-35,31,5,Missed,1,,,0,h,MISS Hamby 5' Running Layup,Missed Shot,Running Layup Shot,1,2,141
+1022600161,197,PT08M46.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,142
+1022600161,198,PT08M32.00S,2,1611661325,IND,1631086,Hull,L. Hull,-35,19,4,Missed,1,,,0,v,MISS Hull 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,143
+1022600161,199,PT08M31.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,144
+1022600161,200,PT08M31.00S,2,1611661320,LAS,1628242,Cannon,E. Cannon,0,0,0,,0,,,0,h,Cannon S.FOUL (P1.T1),Foul,Shooting,1,0,145
+1022600161,202,PT08M31.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,23,26,49,v,Billings Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,146
+1022600161,203,PT08M31.00S,2,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,,,0,h,SUB: Burrell FOR Park,Substitution,,0,0,147
+1022600161,204,PT08M31.00S,2,1611661320,LAS,1630461,Williams,K. Williams,0,0,0,,0,,,0,h,SUB: Atkins FOR Williams,Substitution,,0,0,148
+1022600161,205,PT08M31.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Harris FOR Clark,Substitution,,0,0,149
+1022600161,209,PT08M31.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,23,27,50,v,Billings Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,150
+1022600161,210,PT08M11.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,151
+1022600161,210,PT08M11.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings STEAL (1 STL),,,1,0,152
+1022600161,212,PT08M09.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings Offensive Charge Foul (P2),Foul,Offensive Charge,1,0,153
+1022600161,214,PT08M09.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,154
+1022600161,215,PT08M00.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,39,156,16,Missed,1,,,0,h,MISS Wheeler 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,155
+1022600161,216,PT07M56.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,156
+1022600161,217,PT07M50.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings OFF.Foul (P3),Foul,Offensive,1,0,157
+1022600161,219,PT07M50.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,158
+1022600161,220,PT07M50.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Timpson FOR Billings,Substitution,,0,0,159
+1022600161,222,PT07M41.00S,2,1611661320,LAS,1628242,Cannon,E. Cannon,-225,11,0,Made,1,26,27,53,h,Cannon 3PT Jump Shot (3 PTS) (Burrell 1 AST),Made Shot,Jump Shot,1,3,160
+1022600161,223,PT07M13.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-222,141,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,161
+1022600161,224,PT07M09.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,162
+1022600161,225,PT07M06.00S,2,1611661325,IND,1631086,Hull,L. Hull,-48,33,6,Made,1,26,29,55,v,Hull 6' Turnaround Fadeaway Bank Jump Shot (2 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,163
+1022600161,226,PT06M57.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,-38,12,4,Missed,1,,,0,h,MISS Wheeler 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,164
+1022600161,227,PT06M55.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,165
+1022600161,228,PT06M49.00S,2,1611661320,LAS,1628242,Cannon,E. Cannon,0,0,0,,0,,,0,h,Cannon P.FOUL (P2.T2),Foul,Personal,1,0,166
+1022600161,230,PT06M49.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,SUB: Ogwumike FOR Hamby,Substitution,,0,0,167
+1022600161,231,PT06M49.00S,2,1611661320,LAS,1628242,Cannon,E. Cannon,0,0,0,,0,,,0,h,SUB: Pili FOR Cannon,Substitution,,0,0,168
+1022600161,234,PT06M47.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-95,255,27,Missed,1,,,0,v,MISS Mitchell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+1022600161,235,PT06M44.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,170
+1022600161,236,PT06M37.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,29,25,4,Made,1,28,29,57,h,Burrell 4' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,171
+1022600161,237,PT06M25.00S,2,1611661325,IND,1631086,Hull,L. Hull,8,265,27,Made,1,28,32,60,v,Hull 27' 3PT Jump Shot (5 PTS) (Harris 1 AST),Made Shot,Jump Shot,1,3,172
+1022600161,239,PT06M13.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,129,115,17,Missed,1,,,0,h,MISS Atkins 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,173
+1022600161,240,PT06M10.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,174
+1022600161,241,PT05M50.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-42,28,5,Made,1,28,34,62,v,Mitchell 5' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,175
+1022600161,242,PT05M41.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris P.FOUL (P2.T2),Foul,Personal,1,0,176
+1022600161,244,PT05M41.00S,2,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,177
+1022600161,245,PT05M36.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-55,7,6,Made,1,30,34,64,h,Ogwumike 6' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,178
+1022600161,246,PT05M19.00S,2,1611661325,IND,1630112,Harris,T. Harris,151,205,25,Missed,1,,,0,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+1022600161,247,PT05M17.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,180
+1022600161,248,PT05M10.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,-16,55,6,Missed,1,,,0,v,MISS Timpson 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,181
+1022600161,249,PT05M09.00S,2,1611661320,LAS,1642293,Pili,A. Pili,0,0,0,,0,,,0,h,Pili REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,182
+1022600161,250,PT05M04.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen P.FOUL (P2.T3),Foul,Personal,1,0,183
+1022600161,252,PT05M04.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,SUB: Williams FOR Wheeler,Substitution,,0,0,184
+1022600161,253,PT05M04.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Cunningham FOR Hull,Substitution,,0,0,185
+1022600161,256,PT04M57.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,230,43,0,Missed,1,,,0,h,MISS Ogwumike 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+1022600161,257,PT04M53.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,187
+1022600161,258,PT04M45.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,19,35,4,Missed,1,,,0,v,MISS Mitchell 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,188
+1022600161,259,PT04M42.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,189
+1022600161,261,PT04M32.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,190
+1022600161,262,PT04M23.00S,2,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,191
+1022600161,263,PT04M23.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Clark FOR Timpson,Substitution,,0,0,192
+1022600161,264,PT04M23.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: VanSlooten FOR Harris,Substitution,,0,0,193
+1022600161,267,PT04M23.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen AWAY.FROM.PLAY.FOUL (P3.T4),Foul,Away From Play,1,0,194
+1022600161,269,PT04M23.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,31,34,65,h,Ogwumike Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,195
+1022600161,270,PT04M18.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-24,43,5,Missed,1,,,0,h,MISS Ogwumike 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,196
+1022600161,271,PT04M17.00S,2,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Rebound,Rebound,Unknown,1,0,197
+1022600161,273,PT04M17.00S,2,1611661320,LAS,1642293,Pili,A. Pili,0,0,0,,0,,,0,h,SUB: Hamby FOR Pili,Substitution,,0,0,198
+1022600161,275,PT04M12.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-44,12,5,Made,1,33,34,67,h,Ogwumike 5' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,199
+1022600161,276,PT03M54.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,-137,233,27,Missed,1,,,0,v,MISS Cunningham 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+1022600161,277,PT03M50.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,201
+1022600161,278,PT03M46.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,34,257,26,Made,1,36,34,70,h,Ogwumike 26' 3PT Running Jump Shot (10 PTS) (Williams 2 AST),Made Shot,Running Jump Shot,1,3,202
+1022600161,280,PT03M29.00S,2,1611661325,IND,1643453,VanSlooten,G. VanSlooten,0,0,0,,0,,,0,v,VanSlooten Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,203
+1022600161,280,PT03M29.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby STEAL (1 STL),,,1,0,204
+1022600161,282,PT03M23.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,-8,4,1,Made,1,38,34,72,h,Hamby 1' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,1,2,205
+1022600161,283,PT03M22.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,206
+1022600161,285,PT03M22.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,SUB: Dantas FOR Hines-Allen,Substitution,,0,0,207
+1022600161,287,PT03M07.00S,2,1611661325,IND,1642286,Clark,C. Clark,133,227,26,Missed,1,,,0,v,MISS Clark 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+1022600161,288,PT03M04.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,Burrell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,209
+1022600161,289,PT02M57.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,55,29,6,Made,1,40,34,74,h,Burrell 6' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,210
+1022600161,290,PT02M40.00S,2,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,,,0,v,Dantas Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,211
+1022600161,290,PT02M40.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins STEAL (1 STL),,,1,0,212
+1022600161,292,PT02M37.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,213
+1022600161,292,PT02M37.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham STEAL (1 STL),,,1,0,214
+1022600161,294,PT02M34.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,10,25,3,Made,1,40,36,76,v,Cunningham 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,215
+1022600161,295,PT02M29.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,-4,66,7,Missed,1,,,0,h,MISS Burrell 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,216
+1022600161,296,PT02M26.00S,2,1611661325,IND,1643453,VanSlooten,G. VanSlooten,0,0,0,,0,,,0,v,VanSlooten REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,217
+1022600161,297,PT02M25.00S,2,1611661320,LAS,1630461,Williams,K. Williams,0,0,0,,0,,,0,h,Williams P.FOUL (P1.T3),Foul,Personal,1,0,218
+1022600161,299,PT02M25.00S,2,1611661320,LAS,1630461,Williams,K. Williams,0,0,0,,0,,,0,h,SUB: Wheeler FOR Williams,Substitution,,0,0,219
+1022600161,301,PT02M16.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler P.FOUL (P2.T4),Foul,Personal,1,0,220
+1022600161,303,PT02M10.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,228,20,0,Missed,1,,,0,v,MISS Cunningham 3PT Jump Shot,Missed Shot,Jump Shot,1,3,221
+1022600161,304,PT02M06.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,222
+1022600161,305,PT01M57.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P1.PN),Foul,Personal,1,0,223
+1022600161,307,PT01M57.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,41,36,77,h,Burrell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,224
+1022600161,308,PT01M57.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,42,36,78,h,Burrell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,225
+1022600161,310,PT01M38.00S,2,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,,,0,v,Dantas Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,226
+1022600161,310,PT01M38.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,Burrell STEAL (1 STL),,,1,0,227
+1022600161,312,PT01M34.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,-11,34,4,Missed,1,,,0,h,MISS Burrell 4' Running Layup,Missed Shot,Running Layup Shot,1,2,228
+1022600161,313,PT01M32.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,229
+1022600161,314,PT01M31.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,4,34,3,Made,1,44,36,80,h,Hamby 3' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,2,230
+1022600161,315,PT01M18.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins P.FOUL (P3.PN),Foul,Personal,1,0,231
+1022600161,317,PT01M18.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,44,37,81,v,Mitchell Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,232
+1022600161,318,PT01M18.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,SUB: Park FOR Atkins,Substitution,,0,0,233
+1022600161,319,PT01M18.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,SUB: Johnson FOR Cunningham,Substitution,,0,0,234
+1022600161,320,PT01M18.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Hull FOR Clark,Substitution,,0,0,235
+1022600161,324,PT01M18.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,44,38,82,v,Mitchell Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,236
+1022600161,325,PT01M06.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,-13,128,13,Made,1,46,38,84,h,Burrell 13' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,237
+1022600161,326,PT01M06.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull S.FOUL (P1.PN),Foul,Shooting,1,0,238
+1022600161,328,PT01M06.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,MISS Burrell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,239
+1022600161,329,PT01M03.00S,2,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,,,0,v,Dantas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,240
+1022600161,330,PT00M47.00S,2,1611661325,IND,1631086,Hull,L. Hull,97,232,25,Made,1,46,41,87,v,Hull 25' 3PT Jump Shot (8 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,241
+1022600161,332,PT00M33.80S,2,1611661320,LAS,204324,Hamby,D. Hamby,22,42,5,Missed,1,,,0,h,MISS Hamby 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,242
+1022600161,333,PT00M31.10S,2,1611661325,IND,1643453,VanSlooten,G. VanSlooten,0,0,0,,0,,,0,v,VanSlooten REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,243
+1022600161,334,PT00M27.00S,2,1611661325,IND,1643433,Johnson,R. Johnson,-27,132,13,Missed,1,,,0,v,MISS Johnson 13' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,244
+1022600161,335,PT00M26.80S,2,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Rebound,Rebound,Unknown,1,0,245
+1022600161,336,PT00M26.80S,2,1611661325,IND,1643453,VanSlooten,G. VanSlooten,0,0,0,,0,,,0,v,VanSlooten L.B.FOUL (P1.PN),Foul,Loose Ball,1,0,246
+1022600161,338,PT00M26.80S,2,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,47,41,88,h,Park Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,247
+1022600161,339,PT00M26.80S,2,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,48,41,89,h,Park Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,248
+1022600161,340,PT00M04.90S,2,1611661325,IND,1643433,Johnson,R. Johnson,-229,52,0,Missed,1,,,0,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,249
+1022600161,341,PT00M01.90S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,250
+1022600161,344,PT00M00.00S,2,0,,0,,,0,0,0,,0,48,41,89,,End of 2nd Period (10:58 PM EST),period,end,1,0,251
+1022600161,353,PT10M00.00S,3,0,,0,,,0,0,0,,0,48,41,89,,Start of 3rd Period (11:14 PM EST),period,start,1,0,252
+1022600161,354,PT09M43.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,6,88,9,Missed,1,,,0,h,MISS Ogwumike 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,253
+1022600161,355,PT09M39.00S,3,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,254
+1022600161,356,PT09M32.00S,3,1611661325,IND,1642286,Clark,C. Clark,-38,40,6,Made,1,48,43,91,v,Clark 6' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,255
+1022600161,357,PT09M13.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,39,15,4,Made,1,50,43,93,h,Hamby 4' Driving Floating Bank Jump Shot (15 PTS) (Ogwumike 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,256
+1022600161,359,PT09M02.00S,3,1611661325,IND,1642286,Clark,C. Clark,-45,23,5,Missed,1,,,0,v,MISS Clark 5' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,2,257
+1022600161,360,PT09M00.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,258
+1022600161,361,PT08M57.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,86,239,25,Made,1,53,43,96,h,Wheeler 25' 3PT Running Pull-Up Jump Shot (5 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,259
+1022600161,362,PT08M39.00S,3,1611661325,IND,1642286,Clark,C. Clark,-188,155,24,Missed,1,,,0,v,MISS Clark 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+1022600161,363,PT08M35.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,261
+1022600161,364,PT08M29.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,-88,228,24,Missed,1,,,0,h,MISS Wheeler 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,262
+1022600161,365,PT08M27.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,263
+1022600161,366,PT08M21.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P4.T13),Turnover,Bad Pass,1,0,264
+1022600161,366,PT08M21.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins STEAL (2 STL),,,1,0,265
+1022600161,368,PT08M17.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,10,22,2,Made,1,55,43,98,h,Atkins 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,266
+1022600161,369,PT07M59.00S,3,1611661325,IND,1631086,Hull,L. Hull,-57,165,17,Made,1,55,45,100,v,Hull 17' Pullup Jump Shot (10 PTS) (Billings 2 AST),Made Shot,Pullup Jump shot,1,2,267
+1022600161,371,PT07M42.00S,3,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen S.FOUL (P4.T1),Foul,Shooting,1,0,268
+1022600161,373,PT07M42.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,56,45,101,h,Ogwumike Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,269
+1022600161,374,PT07M42.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Harris FOR Clark,Substitution,,0,0,270
+1022600161,376,PT07M42.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,57,45,102,h,Ogwumike Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,271
+1022600161,377,PT07M24.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-135,203,24,Missed,1,,,0,v,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,272
+1022600161,378,PT07M23.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,273
+1022600161,379,PT07M23.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike L.B.FOUL (P1.T1),Foul,Loose Ball,1,0,274
+1022600161,381,PT07M23.00S,3,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,SUB: Timpson FOR Hines-Allen,Substitution,,0,0,275
+1022600161,383,PT07M13.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler P.FOUL (P3.T2),Foul,Personal,1,0,276
+1022600161,385,PT06M58.00S,3,1611661325,IND,1631086,Hull,L. Hull,50,55,7,Made,1,57,47,104,v,Hull 7' Pullup Jump Shot (12 PTS) (Harris 2 AST),Made Shot,Pullup Jump shot,1,2,277
+1022600161,388,PT06M46.00S,3,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris P.FOUL (P3.T2),Foul,Personal,1,0,278
+1022600161,390,PT06M44.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,-68,132,15,Missed,1,,,0,h,MISS Atkins 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,279
+1022600161,391,PT06M41.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,280
+1022600161,392,PT06M33.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,148,203,25,Made,1,57,50,107,v,Mitchell 25' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,281
+1022600161,393,PT06M17.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,-29,43,5,Made,1,59,50,109,h,Burrell 5' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,282
+1022600161,394,PT06M03.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-161,193,25,Made,1,59,53,112,v,Mitchell 25' 3PT Jump Shot (19 PTS) (Billings 3 AST),Made Shot,Jump Shot,1,3,283
+1022600161,396,PT05M54.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,15,258,26,Made,1,62,53,115,h,Ogwumike 26' 3PT Jump Shot (15 PTS) (Wheeler 4 AST),Made Shot,Jump Shot,1,3,284
+1022600161,398,PT05M39.00S,3,1611661325,IND,1631086,Hull,L. Hull,-199,147,25,Missed,1,,,0,v,MISS Hull 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,285
+1022600161,399,PT05M36.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,286
+1022600161,400,PT05M31.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,-230,30,0,Missed,1,,,0,h,MISS Atkins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+1022600161,401,PT05M29.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,Burrell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,288
+1022600161,402,PT05M29.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,0,-6,1,Made,1,64,53,117,h,Burrell 1' Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,289
+1022600161,403,PT05M07.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler Violation:Kicked Ball,Violation,Kicked Ball,0,0,290
+1022600161,404,PT05M07.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Dantas FOR Billings,Substitution,,0,0,291
+1022600161,406,PT05M07.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,SUB: Williams FOR Wheeler,Substitution,,0,0,292
+1022600161,408,PT05M03.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,293
+1022600161,408,PT05M03.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby STEAL (2 STL),,,1,0,294
+1022600161,410,PT05M01.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,-1,1,0,Made,1,66,53,119,h,Hamby Running Layup (17 PTS),Made Shot,Running Layup Shot,1,2,295
+1022600161,411,PT05M01.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,296
+1022600161,412,PT05M01.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Johnson FOR Hull,Substitution,,0,0,297
+1022600161,414,PT04M49.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike S.FOUL (P2.T3),Foul,Shooting,1,0,298
+1022600161,416,PT04M49.00S,3,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,66,54,120,v,Harris Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,299
+1022600161,417,PT04M49.00S,3,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,66,55,121,v,Harris Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,300
+1022600161,418,PT04M30.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-10,36,4,Made,1,68,55,123,h,Ogwumike 4' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,301
+1022600161,419,PT04M19.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,-12,17,2,Made,1,68,57,125,v,Timpson 2' Cutting Layup Shot (5 PTS) (Johnson 2 AST),Made Shot,Cutting Layup Shot,1,2,302
+1022600161,421,PT04M06.00S,3,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P1.T3),Foul,Personal,1,0,303
+1022600161,423,PT04M06.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,SUB: Pili FOR Hamby,Substitution,,0,0,304
+1022600161,424,PT04M06.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,SUB: Park FOR Burrell,Substitution,,0,0,305
+1022600161,427,PT04M06.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson AWAY.FROM.PLAY.FOUL (P2.T4),Foul,Away From Play,1,0,306
+1022600161,429,PT04M06.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,69,57,126,h,Ogwumike Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,307
+1022600161,430,PT03M59.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson S.FOUL (P3.PN),Foul,Shooting,1,0,308
+1022600161,432,PT03M59.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,70,57,127,h,Atkins Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,309
+1022600161,433,PT03M59.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,71,57,128,h,Atkins Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,310
+1022600161,434,PT03M46.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,139,206,25,Made,1,71,60,131,v,Mitchell 25' 3PT Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,1,3,311
+1022600161,435,PT03M23.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,30,254,26,Missed,1,,,0,h,MISS Atkins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,312
+1022600161,436,PT03M21.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,313
+1022600161,437,PT03M01.00S,3,1611661325,IND,1643433,Johnson,R. Johnson,-39,11,4,Missed,1,,,0,v,MISS Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,314
+1022600161,438,PT03M00.00S,3,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,315
+1022600161,439,PT03M00.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins S.FOUL (P4.T4),Foul,Shooting,1,0,316
+1022600161,441,PT03M00.00S,3,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,317
+1022600161,442,PT03M00.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Normal Rebound,1,0,318
+1022600161,443,PT03M00.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,SUB: Burrell FOR Atkins,Substitution,,0,0,319
+1022600161,445,PT03M00.00S,3,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,71,61,132,v,Johnson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,320
+1022600161,446,PT02M49.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,-3,55,6,Missed,1,,,0,h,MISS Burrell 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,321
+1022600161,447,PT02M45.00S,3,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,,,0,v,Dantas REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,322
+1022600161,448,PT02M38.00S,3,1611661325,IND,203024,Dantas,D. Dantas,-136,205,25,Missed,1,,,0,v,MISS Dantas 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+1022600161,449,PT02M36.00S,3,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,324
+1022600161,450,PT02M35.00S,3,1611661325,IND,1643433,Johnson,R. Johnson,0,-6,1,Made,1,71,63,134,v,Johnson 1' Floating Jump Shot (3 PTS),Made Shot,Floating Jump shot,1,2,325
+1022600161,451,PT02M08.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,134,210,25,Made,1,74,63,137,h,Burrell 25' 3PT Jump Shot (17 PTS) (Ogwumike 4 AST),Made Shot,Jump Shot,1,3,326
+1022600161,453,PT01M52.00S,3,1611661325,IND,1643433,Johnson,R. Johnson,33,40,5,Missed,1,,,0,v,MISS Johnson 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,327
+1022600161,454,PT01M50.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,328
+1022600161,455,PT01M48.00S,3,1611661320,LAS,1630461,Williams,K. Williams,-184,185,26,Made,1,77,63,140,h,Williams 26' 3PT Running Jump Shot (5 PTS) (Ogwumike 5 AST),Made Shot,Running Jump Shot,1,3,329
+1022600161,457,PT01M28.00S,3,1611661325,IND,203024,Dantas,D. Dantas,-21,248,25,Made,1,77,66,143,v,Dantas 25' 3PT Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,1,3,330
+1022600161,459,PT01M06.00S,3,1611661320,LAS,1642293,Pili,A. Pili,22,18,3,Made,1,79,66,145,h,Pili 3' Cutting Layup Shot (4 PTS),Made Shot,Cutting Layup Shot,1,2,331
+1022600161,461,PT00M58.20S,3,1611661320,LAS,1642293,Pili,A. Pili,0,0,0,,0,,,0,h,Pili P.FOUL (P1.PN),Foul,Personal,1,0,332
+1022600161,463,PT00M58.20S,3,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,79,67,146,v,Dantas Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+1022600161,464,PT00M58.20S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,SUB: Hamby FOR Ogwumike,Substitution,,0,0,334
+1022600161,465,PT00M58.20S,3,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Cunningham FOR Harris,Substitution,,0,0,335
+1022600161,468,PT00M58.20S,3,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,79,68,147,v,Dantas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,336
+1022600161,469,PT00M34.20S,3,1611661320,LAS,1630148,Park,J. Park,121,181,22,Missed,1,,,0,h,MISS Park 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,337
+1022600161,470,PT00M34.10S,3,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Rebound,Rebound,Unknown,0,0,338
+1022600161,471,PT00M34.10S,3,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,339
+1022600161,472,PT00M19.60S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,122,230,26,Made,1,79,71,150,v,Mitchell 26' 3PT Step Back Jump Shot (25 PTS),Made Shot,Step Back Jump shot,1,3,340
+1022600161,473,PT00M04.70S,3,1611661320,LAS,1630996,Burrell,R. Burrell,-177,207,27,Made,1,82,71,153,h,Burrell 27' 3PT Jump Shot (20 PTS) (Pili 2 AST),Made Shot,Jump Shot,1,3,341
+1022600161,475,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,71,153,,End of 3rd Period (11:35 PM EST),period,end,1,0,342
+1022600161,482,PT10M00.00S,4,0,,0,,,0,0,0,,0,82,71,153,,Start of 4th Period (11:39 PM EST),period,start,1,0,343
+1022600161,485,PT09M47.00S,4,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,344
+1022600161,485,PT09M47.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby STEAL (3 STL),,,1,0,345
+1022600161,487,PT09M41.00S,4,1611661320,LAS,1630461,Williams,K. Williams,0,0,0,,0,,,0,h,Williams Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,346
+1022600161,487,PT09M41.00S,4,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (1 STL),,,1,0,347
+1022600161,490,PT09M36.00S,4,1611661325,IND,1642286,Clark,C. Clark,-152,198,25,Missed,1,,,0,v,MISS Clark 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,348
+1022600161,491,PT09M33.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,Burrell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,349
+1022600161,492,PT09M30.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,-7,13,1,Made,1,84,71,155,h,Wheeler 1' Running Layup (7 PTS) (Burrell 2 AST),Made Shot,Running Layup Shot,1,2,350
+1022600161,494,PT09M11.00S,4,1611661325,IND,203024,Dantas,D. Dantas,-117,220,25,Made,1,84,74,158,v,Dantas 25' 3PT Jump Shot (8 PTS) (Clark 3 AST),Made Shot,Jump Shot,1,3,351
+1022600161,496,PT09M02.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,12,15,2,Made,1,86,74,160,h,Burrell 2' Driving Reverse Layup (22 PTS) (Williams 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,352
+1022600161,498,PT08M54.00S,4,1611661325,IND,1643433,Johnson,R. Johnson,-225,18,0,Missed,1,,,0,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+1022600161,499,PT08M51.00S,4,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Rebound,Rebound,Unknown,0,0,354
+1022600161,501,PT08M51.00S,4,1611661320,LAS,1630461,Williams,K. Williams,0,0,0,,0,,,0,h,SUB: Ogwumike FOR Williams,Substitution,,0,0,355
+1022600161,502,PT08M51.00S,4,1611661320,LAS,1642293,Pili,A. Pili,0,0,0,,0,,,0,h,SUB: Atkins FOR Pili,Substitution,,0,0,356
+1022600161,503,PT08M51.00S,4,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,SUB: Harris FOR Johnson,Substitution,,0,0,357
+1022600161,507,PT08M39.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,227,19,0,Missed,1,,,0,h,MISS Ogwumike 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+1022600161,508,PT08M35.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,359
+1022600161,509,PT08M28.00S,4,1611661325,IND,1642286,Clark,C. Clark,-205,179,27,Made,1,86,77,163,v,Clark 27' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,360
+1022600161,510,PT08M21.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,-188,148,24,Missed,1,,,0,h,MISS Atkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+1022600161,511,PT08M18.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,362
+1022600161,512,PT08M09.00S,4,1611661325,IND,1642286,Clark,C. Clark,-11,97,10,Missed,1,,,0,v,MISS Clark 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,363
+1022600161,513,PT08M07.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,364
+1022600161,514,PT07M46.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,38,22,4,Missed,1,,,0,h,MISS Ogwumike 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,365
+1022600161,515,PT07M43.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,366
+1022600161,516,PT07M40.00S,4,1611661325,IND,1628881,Billings,M. Billings,-2,39,4,Missed,1,,,0,v,MISS Billings 4' Running Layup,Missed Shot,Running Layup Shot,1,2,367
+1022600161,517,PT07M37.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,368
+1022600161,518,PT07M34.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,13,13,2,Made,1,88,77,165,h,Ogwumike 2' Running Layup (20 PTS) (Hamby 2 AST),Made Shot,Running Layup Shot,1,2,369
+1022600161,520,PT07M11.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,211,152,26,Missed,1,,,0,v,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+1022600161,521,PT07M09.00S,4,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Rebound,Rebound,Unknown,0,0,371
+1022600161,523,PT06M50.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,39,19,4,Made,1,90,77,167,h,Wheeler 4' Driving Layup (9 PTS) (Atkins 1 AST),Made Shot,Driving Layup Shot,1,2,372
+1022600161,524,PT06M50.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P1.T1),Foul,Shooting,1,0,373
+1022600161,526,PT06M50.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,SUB: Hull FOR Cunningham,Substitution,,0,0,374
+1022600161,531,PT06M50.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Mitchell FOR Clark,Substitution,,0,0,375
+1022600161,528,PT06M50.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,91,77,168,h,Wheeler Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,376
+1022600161,529,PT06M33.00S,4,1611661325,IND,1630112,Harris,T. Harris,160,198,25,Missed,1,,,0,v,MISS Harris 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,377
+1022600161,530,PT06M30.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,378
+1022600161,533,PT06M27.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby S.FOUL (P1.T1),Foul,Shooting,1,0,379
+1022600161,535,PT06M27.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,MISS Billings Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,380
+1022600161,536,PT06M27.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Normal Rebound,0,0,381
+1022600161,537,PT06M27.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,MISS Billings Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,382
+1022600161,538,PT06M23.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,383
+1022600161,539,PT06M07.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,384
+1022600161,539,PT06M07.00S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull STEAL (1 STL),,,1,0,385
+1022600161,541,PT06M04.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,28,45,5,Missed,1,,,0,v,MISS Mitchell 5' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,386
+1022600161,542,PT06M03.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,387
+1022600161,543,PT06M03.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,-6,1,Missed,1,,,0,v,MISS Billings 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,388
+1022600161,544,PT06M02.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,389
+1022600161,545,PT06M00.00S,4,1611661325,IND,1631086,Hull,L. Hull,23,79,8,Missed,1,,,0,v,MISS Hull 8' Jump Shot,Missed Shot,Jump Shot,1,2,390
+1022600161,546,PT05M59.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,391
+1022600161,547,PT05M40.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,Burrell Offensive Charge Foul (P1),Foul,Offensive Charge,1,0,392
+1022600161,549,PT05M40.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,Burrell Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1,0,393
+1022600161,550,PT05M40.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Timpson FOR Billings,Substitution,,0,0,394
+1022600161,552,PT05M40.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,395
+1022600161,553,PT05M16.00S,4,1611661325,IND,203024,Dantas,D. Dantas,-129,81,15,Missed,1,,,0,v,MISS Dantas 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,396
+1022600161,554,PT05M15.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,397
+1022600161,555,PT04M55.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-31,70,8,Missed,1,,,0,h,MISS Ogwumike 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,398
+1022600161,556,PT04M54.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,399
+1022600161,558,PT04M34.00S,4,1611661325,IND,203024,Dantas,D. Dantas,26,17,3,Made,1,91,79,170,v,Dantas 3' Cutting Layup Shot (10 PTS) (Mitchell 3 AST),Made Shot,Cutting Layup Shot,1,2,400
+1022600161,560,PT04M20.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,17,27,3,Missed,1,,,0,h,MISS Hamby 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,401
+1022600161,561,PT04M17.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,402
+1022600161,562,PT04M01.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,9,68,7,Made,1,91,81,172,v,Mitchell 7' Driving Floating Jump Shot (27 PTS),Made Shot,Driving Floating Jump Shot,1,2,403
+1022600161,563,PT03M57.00S,4,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,404
+1022600161,565,PT03M41.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-7,108,11,Made,1,93,81,174,h,Ogwumike 11' Pullup Jump Shot (22 PTS) (Burrell 3 AST),Made Shot,Pullup Jump shot,1,2,405
+1022600161,567,PT03M23.00S,4,1611661325,IND,1631086,Hull,L. Hull,205,156,26,Missed,1,,,0,v,MISS Hull 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+1022600161,568,PT03M21.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,407
+1022600161,569,PT03M17.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,16,11,2,Made,1,95,81,176,h,Atkins 2' Running Layup (9 PTS) (Wheeler 5 AST),Made Shot,Running Layup Shot,1,2,408
+1022600161,571,PT03M11.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,-21,13,2,Made,1,95,83,178,v,Timpson 2' Driving Layup (7 PTS) (Harris 3 AST),Made Shot,Driving Layup Shot,1,2,409
+1022600161,573,PT03M11.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,Ogwumike S.FOUL (P3.T2),Foul,Shooting,1,0,410
+1022600161,575,PT03M11.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,MISS Timpson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,411
+1022600161,576,PT03M10.00S,4,0,,1611661320,,,0,0,0,,0,,,0,h,SPARKS Rebound,Rebound,Unknown,0,0,412
+1022600161,578,PT03M04.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins OFF.Foul (P5),Foul,Offensive,1,0,413
+1022600161,580,PT03M04.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,h,Atkins Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,414
+1022600161,581,PT02M53.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,415
+1022600161,581,PT02M53.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,Wheeler STEAL (1 STL),,,1,0,416
+1022600161,583,PT02M50.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,16,22,3,Made,1,97,83,180,h,Wheeler 3' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,417
+1022600161,584,PT02M49.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,418
+1022600161,585,PT02M37.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-22,80,8,Made,1,97,85,182,v,Mitchell 8' Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,1,2,419
+1022600161,586,PT02M26.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,-3,141,14,Missed,1,,,0,h,MISS Wheeler 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,420
+1022600161,587,PT02M23.00S,4,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,,,0,v,Dantas REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,421
+1022600161,588,PT02M14.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris Lost Ball Turnover (P1.T17),Turnover,Lost Ball,1,0,422
+1022600161,588,PT02M14.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby STEAL (4 STL),,,1,0,423
+1022600161,590,PT02M10.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,1,14,1,Made,1,99,85,184,h,Hamby 1' Running Layup (19 PTS) (Wheeler 6 AST),Made Shot,Running Layup Shot,1,2,424
+1022600161,592,PT01M55.00S,4,1611661325,IND,1631086,Hull,L. Hull,22,25,3,Made,1,99,87,186,v,Hull 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,425
+1022600161,593,PT01M39.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,72,6,7,Made,1,101,87,188,h,Ogwumike 7' Pullup Jump Shot (24 PTS) (Burrell 4 AST),Made Shot,Pullup Jump shot,1,2,426
+1022600161,594,PT01M30.00S,4,1611661325,IND,203024,Dantas,D. Dantas,22,90,9,Made,1,101,89,190,v,Dantas 9' Jump Shot (12 PTS) (Harris 4 AST),Made Shot,Jump Shot,1,2,427
+1022600161,596,PT01M15.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,37,34,5,Missed,1,,,0,h,MISS Burrell 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,428
+1022600161,596,PT01M15.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson BLOCK (2 BLK),,,1,2,429
+1022600161,598,PT01M14.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,430
+1022600161,599,PT01M12.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby S.FOUL (P2.T3),Foul,Shooting,1,0,431
+1022600161,601,PT01M12.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,101,90,191,v,Harris Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,432
+1022600161,602,PT01M12.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,SUB: Johnson FOR Mitchell,Substitution,,0,0,433
+1022600161,604,PT01M12.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,MISS Harris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,434
+1022600161,605,PT01M09.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,h,Hamby REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,435
+1022600161,606,PT01M00.00S,4,1611661325,IND,203024,Dantas,D. Dantas,0,0,0,,0,,,0,v,Dantas P.FOUL (P3.T2),Foul,Personal,1,0,436
+1022600161,608,PT01M00.00S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Hall FOR Hull,Substitution,,0,0,437
+1022600161,610,PT01M00.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,h,SUB: Williams FOR Wheeler,Substitution,,0,0,438
+1022600161,611,PT01M00.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,h,SUB: Pili FOR Ogwumike,Substitution,,0,0,439
+1022600161,614,PT01M00.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,h,SUB: Park FOR Burrell,Substitution,,0,0,440
+1022600161,616,PT00M55.50S,4,1611661320,LAS,204324,Hamby,D. Hamby,-28,45,5,Missed,1,,,0,h,MISS Hamby 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,441
+1022600161,616,PT00M55.50S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson BLOCK (3 BLK),,,1,2,442
+1022600161,618,PT00M53.00S,4,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,,,0,h,Park REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,443
+1022600161,619,PT00M53.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,12,253,25,Made,1,104,90,194,h,Atkins 25' 3PT Pullup Jump Shot (12 PTS) (Park 1 AST),Made Shot,Pullup Jump shot,1,3,444
+1022600161,620,PT00M40.70S,4,1611661325,IND,1642815,Timpson,M. Timpson,34,49,6,Made,1,104,92,196,v,Timpson 6' Cutting Layup Shot (9 PTS) (Dantas 2 AST),Made Shot,Cutting Layup Shot,1,2,445
+1022600161,622,PT00M34.20S,4,1611661320,LAS,1630461,Williams,K. Williams,-6,256,26,Missed,1,,,0,h,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,446
+1022600161,623,PT00M31.20S,4,1611661320,LAS,1630148,Park,J. Park,0,0,0,,0,,,0,h,Park REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,447
+1022600161,624,PT00M25.20S,4,1611661320,LAS,204324,Hamby,D. Hamby,40,19,4,Made,1,106,92,198,h,Hamby 4' Cutting Layup Shot (21 PTS) (Williams 4 AST),Made Shot,Cutting Layup Shot,1,2,448
+1022600161,627,PT00M12.60S,4,1611661325,IND,1630112,Harris,T. Harris,-214,106,24,Missed,1,,,0,v,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+1022600161,628,PT00M08.40S,4,1611661320,LAS,1630461,Williams,K. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,450
+1022600161,629,PT00M00.00S,4,0,,0,,,0,0,0,,0,106,92,198,,End of 4th Period (12:04 AM EST),period,end,1,0,451

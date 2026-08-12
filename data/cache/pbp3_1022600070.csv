@@ -1,0 +1,393 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600070,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:39 PM EST),period,start,1,0,1
+1022600070,4,PT10M00.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jump Ball Jones vs. Sabally: Tip to Fiebich,Jump Ball,,1,0,2
+1022600070,7,PT09M33.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Jump Ball Fiebich vs. Juskaite: Tip to Rice,Jump Ball,,0,0,3
+1022600070,10,PT09M33.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,4
+1022600070,10,PT09M33.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite STEAL (1 STL),,,1,0,5
+1022600070,12,PT09M29.00S,1,1611661332,TOR,1643445,Rice,K. Rice,-31,34,5,Missed,1,,,0,v,MISS Rice 5' Running Layup,Missed Shot,Running Layup Shot,1,2,6
+1022600070,13,PT09M27.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+1022600070,14,PT09M17.00S,1,1611661313,NYL,1627673,Jones,J. Jones,-17,17,2,Made,1,2,0,2,h,Jones 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,8
+1022600070,15,PT09M01.00S,1,1611661332,TOR,1631055,Sabally,N. Sabally,-43,164,17,Made,1,2,2,4,v,Sabally 17' Jump Shot (2 PTS) (Rice 1 AST),Made Shot,Jump Shot,1,2,9
+1022600070,17,PT08M47.00S,1,1611661313,NYL,1631136,Astier,P. Astier,-41,12,4,Missed,1,,,0,h,MISS Astier 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,10
+1022600070,18,PT08M44.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+1022600070,19,PT08M34.00S,1,1611661332,TOR,1643445,Rice,K. Rice,132,140,19,Made,1,2,4,6,v,Rice 19' Pullup Jump Shot (2 PTS) (Sabally 1 AST),Made Shot,Pullup Jump shot,1,2,12
+1022600070,21,PT08M22.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite P.FOUL (P1.T1),Foul,Personal,1,0,13
+1022600070,23,PT08M15.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,124,238,27,Made,1,5,4,9,h,Johannes 27' 3PT Jump Shot (3 PTS) (Astier 1 AST),Made Shot,Jump Shot,1,3,14
+1022600070,25,PT07M55.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,-188,36,19,Missed,1,,,0,v,MISS Sykes 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,15
+1022600070,26,PT07M50.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,16
+1022600070,27,PT07M50.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,-6,1,Made,1,5,6,11,v,Juskaite 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,17
+1022600070,28,PT07M34.00S,1,1611661313,NYL,1627673,Jones,J. Jones,-234,48,24,Made,1,8,6,14,h,Jones 24' 3PT Jump Shot (5 PTS) (Stewart 1 AST),Made Shot,Jump Shot,1,3,18
+1022600070,30,PT07M21.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart P.FOUL (P1.T1),Foul,Personal,1,0,19
+1022600070,32,PT07M14.00S,1,1611661332,TOR,1643445,Rice,K. Rice,-35,116,12,Missed,1,,,0,v,MISS Rice 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,20
+1022600070,33,PT07M11.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,21
+1022600070,34,PT06M56.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,50,241,25,Missed,1,,,0,h,MISS Stewart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,22
+1022600070,35,PT06M54.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,23
+1022600070,37,PT06M42.00S,1,1611661313,NYL,1631136,Astier,P. Astier,-139,113,18,Missed,1,,,0,h,MISS Astier 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,24
+1022600070,38,PT06M40.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+1022600070,39,PT06M17.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,26
+1022600070,39,PT06M17.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes STEAL (1 STL),,,1,0,27
+1022600070,41,PT06M12.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,183,188,26,Missed,1,,,0,h,MISS Johannes 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,28
+1022600070,42,PT06M07.00S,1,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+1022600070,43,PT05M58.00S,1,1611661332,TOR,1631055,Sabally,N. Sabally,-51,245,25,Made,1,8,9,17,v,Sabally 25' 3PT Jump Shot (5 PTS) (Juskaite 1 AST),Made Shot,Jump Shot,1,3,30
+1022600070,45,PT05M48.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,21,21,3,Made,1,10,9,19,h,Johannes 3' Driving Finger Roll Layup (5 PTS) (Stewart 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,31
+1022600070,47,PT05M33.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,-34,24,4,Missed,1,,,0,v,MISS Sykes 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,32
+1022600070,47,PT05M33.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart BLOCK (1 BLK),,,1,2,33
+1022600070,49,PT05M32.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,34
+1022600070,50,PT05M30.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey P.FOUL (P1.T2),Foul,Personal,1,0,35
+1022600070,52,PT05M18.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,36
+1022600070,52,PT05M18.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes STEAL (1 STL),,,1,0,37
+1022600070,54,PT05M09.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,-105,249,27,Missed,1,,,0,v,MISS Mabrey 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,38
+1022600070,55,PT05M06.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+1022600070,56,PT04M57.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,4,42,4,Missed,1,,,0,h,MISS Stewart 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,40
+1022600070,57,PT04M56.00S,1,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,41
+1022600070,58,PT04M34.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,-9,40,4,Made,1,10,11,21,v,Mabrey 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,42
+1022600070,59,PT04M08.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,-61,87,11,Missed,1,,,0,h,MISS Stewart 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,43
+1022600070,60,PT04M06.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,44
+1022600070,61,PT04M04.00S,1,1611661313,NYL,1627673,Jones,J. Jones,27,31,4,Made,1,12,11,23,h,Jones 4' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,45
+1022600070,62,PT03M58.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice Palming Turnover (P2.T2),Turnover,Palming Turnover,1,0,46
+1022600070,63,PT03M58.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,47
+1022600070,64,PT03M58.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,SUB: Sabally FOR Fiebich,Substitution,,0,0,48
+1022600070,65,PT03M58.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Gardner FOR Jones,Substitution,,0,0,49
+1022600070,66,PT03M58.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Xu FOR Astier,Substitution,,0,0,50
+1022600070,67,PT03M58.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Conde FOR Juskaite,Substitution,,0,0,51
+1022600070,68,PT03M58.00S,1,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,SUB: Allemand FOR Sabally,Substitution,,0,0,52
+1022600070,69,PT03M58.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,SUB: Milic FOR Sykes,Substitution,,0,0,53
+1022600070,76,PT03M34.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,-232,65,24,Missed,1,,,0,h,MISS Johannes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+1022600070,77,PT03M33.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,55
+1022600070,78,PT03M33.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,56
+1022600070,79,PT03M20.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,182,154,24,Missed,1,,,0,v,MISS Mabrey 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,57
+1022600070,80,PT03M18.00S,1,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+1022600070,81,PT03M00.00S,1,1611661313,NYL,1630149,Sabally,S. Sabally,-236,49,24,Missed,1,,,0,h,MISS Sabally 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+1022600070,82,PT02M58.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,60
+1022600070,83,PT02M56.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,-125,211,25,Missed,1,,,0,h,MISS Stewart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+1022600070,84,PT02M53.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+1022600070,85,PT02M41.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice Lost Ball Turnover (P3.T3),Turnover,Lost Ball,1,0,63
+1022600070,85,PT02M41.00S,1,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner STEAL (1 STL),,,1,0,64
+1022600070,87,PT02M36.00S,1,1611661313,NYL,203822,Gardner,R. Gardner,-41,20,5,Missed,1,,,0,h,MISS Gardner 5' Running Layup,Missed Shot,Running Layup Shot,1,2,65
+1022600070,88,PT02M33.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,66
+1022600070,89,PT02M25.00S,1,1611661332,TOR,1631263,Milic,N. Milic,-42,47,6,Made,1,12,13,25,v,Milic 6' Turnaround Hook Shot (2 PTS) (Mabrey 1 AST),Made Shot,Turnaround Hook Shot,1,2,67
+1022600070,91,PT02M02.00S,1,1611661313,NYL,1630149,Sabally,S. Sabally,48,26,5,Missed,1,,,0,h,MISS Sabally 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,68
+1022600070,91,PT02M02.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey BLOCK (1 BLK),,,1,2,69
+1022600070,93,PT02M02.00S,1,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,1,0,70
+1022600070,95,PT02M02.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,SUB: Laney-Hamilton FOR Johannes,Substitution,,0,0,71
+1022600070,96,PT02M02.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,SUB: Astier FOR Stewart,Substitution,,0,0,72
+1022600070,97,PT02M02.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,SUB: Nurse FOR Rice,Substitution,,0,0,73
+1022600070,101,PT01M46.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier P.FOUL (P1.T2),Foul,Personal,1,0,74
+1022600070,103,PT01M46.00S,1,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,SUB: Jones FOR Gardner,Substitution,,0,0,75
+1022600070,105,PT01M39.00S,1,1611661332,TOR,1627700,Allemand,J. Allemand,-109,98,15,Missed,1,,,0,v,MISS Allemand 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,76
+1022600070,106,PT01M37.00S,1,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,Sabally REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+1022600070,107,PT01M29.00S,1,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde Violation:Kicked Ball,Violation,Kicked Ball,0,0,78
+1022600070,108,PT01M29.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Sykes FOR Mabrey,Substitution,,0,0,79
+1022600070,110,PT01M22.00S,1,1611661313,NYL,1631136,Astier,P. Astier,-45,34,6,Missed,1,,,0,h,MISS Astier 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,80
+1022600070,111,PT01M18.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,81
+1022600070,112,PT01M18.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,-6,1,Missed,1,,,0,h,MISS Jones 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,82
+1022600070,113,PT01M18.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,83
+1022600070,114,PT01M17.00S,1,1611661313,NYL,1627673,Jones,J. Jones,32,13,3,Made,1,14,13,27,h,Jones 3' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,84
+1022600070,115,PT01M04.00S,1,1611661332,TOR,1629576,Conde,M. Conde,-159,205,26,Made,1,14,16,30,v,Conde 26' 3PT Jump Shot (3 PTS) (Sykes 1 AST),Made Shot,Jump Shot,1,3,85
+1022600070,117,PT00M49.30S,1,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,Sabally Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,86
+1022600070,117,PT00M49.30S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes STEAL (2 STL),,,1,0,87
+1022600070,119,PT00M41.50S,1,1611661332,TOR,1628279,Sykes,B. Sykes,43,28,5,Made,1,14,18,32,v,Sykes 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,88
+1022600070,121,PT00M32.30S,1,1611661313,NYL,1627673,Jones,J. Jones,152,241,28,Made,1,17,18,35,h,Jones 28' 3PT Jump Shot (12 PTS) (Astier 2 AST),Made Shot,Jump Shot,1,3,89
+1022600070,123,PT00M22.50S,1,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,Sabally S.FOUL (P1.PN),Foul,Shooting,1,0,90
+1022600070,125,PT00M22.50S,1,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,17,19,36,v,Conde Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,91
+1022600070,126,PT00M22.50S,1,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,17,20,37,v,Conde Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,92
+1022600070,127,PT00M05.00S,1,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,-233,-33,24,Missed,1,,,0,h,MISS Laney-Hamilton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+1022600070,128,PT00M01.20S,1,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+1022600070,129,PT00M00.00S,1,0,,0,,,0,0,0,,0,17,20,37,,End of 1st Period (7:56 PM EST),period,end,1,0,95
+1022600070,134,PT10M00.00S,2,0,,0,,,0,0,0,,0,17,20,37,,Start of 2nd Period (8:00 PM EST),period,start,1,0,96
+1022600070,135,PT09M37.00S,2,1611661332,TOR,1629576,Conde,M. Conde,-90,140,17,Made,1,17,22,39,v,Conde 17' Pullup Jump Shot (7 PTS) (Milic 1 AST),Made Shot,Pullup Jump shot,1,2,97
+1022600070,137,PT09M22.00S,2,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand P.FOUL (P1.T1),Foul,Personal,1,0,98
+1022600070,139,PT09M22.00S,2,1611661332,TOR,1631263,Milic,N. Milic,0,0,0,,0,,,0,v,SUB: Sabally FOR Milic,Substitution,,0,0,99
+1022600070,141,PT09M12.00S,2,1611661313,NYL,1627673,Jones,J. Jones,-130,213,25,Made,1,20,22,42,h,Jones 25' 3PT Jump Shot (15 PTS) (Fiebich 1 AST),Made Shot,Jump Shot,1,3,100
+1022600070,143,PT08M52.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,28,7,3,Missed,1,,,0,v,MISS Sabally 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,101
+1022600070,143,PT08M52.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones BLOCK (1 BLK),,,1,2,102
+1022600070,145,PT08M50.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,103
+1022600070,146,PT08M40.00S,2,1611661313,NYL,1627673,Jones,J. Jones,143,228,27,Missed,1,,,0,h,MISS Jones 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,104
+1022600070,147,PT08M36.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,105
+1022600070,148,PT08M22.00S,2,1611661313,NYL,1631136,Astier,P. Astier,-183,131,0,Missed,1,,,0,h,MISS Astier 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,106
+1022600070,149,PT08M19.00S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,107
+1022600070,150,PT08M08.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,-23,94,10,Missed,1,,,0,v,MISS Sykes 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,108
+1022600070,151,PT08M05.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,109
+1022600070,152,PT07M57.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,233,11,0,Missed,1,,,0,h,MISS Fiebich 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,110
+1022600070,153,PT07M54.00S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,111
+1022600070,154,PT07M46.00S,2,1611661332,TOR,1629576,Conde,M. Conde,172,180,25,Missed,1,,,0,v,MISS Conde 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+1022600070,155,PT07M44.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,113
+1022600070,156,PT07M38.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes P.FOUL (P1.T2),Foul,Personal,1,0,114
+1022600070,158,PT07M38.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,SUB: Stewart FOR Gardner,Substitution,,0,0,115
+1022600070,159,PT07M38.00S,2,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,SUB: Mabrey FOR Nurse,Substitution,,0,0,116
+1022600070,162,PT07M26.00S,2,1611661313,NYL,1631136,Astier,P. Astier,228,74,24,Made,1,23,22,45,h,Astier 24' 3PT Jump Shot (3 PTS) (Laney-Hamilton 1 AST),Made Shot,Jump Shot,1,3,117
+1022600070,164,PT07M06.00S,2,1611661332,TOR,1627700,Allemand,J. Allemand,-27,20,3,Made,1,23,24,47,v,Allemand 3' Cutting Layup Shot (2 PTS) (Sabally 2 AST),Made Shot,Cutting Layup Shot,1,2,118
+1022600070,166,PT06M50.00S,2,1611661313,NYL,1627673,Jones,J. Jones,16,18,2,Made,1,25,24,49,h,Jones 2' Driving Reverse Layup (17 PTS) (Stewart 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,119
+1022600070,168,PT06M43.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,-27,22,3,Missed,1,,,0,v,MISS Sykes 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,120
+1022600070,169,PT06M41.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,121
+1022600070,170,PT06M24.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey S.FOUL (P2.T3),Foul,Shooting,1,0,122
+1022600070,172,PT06M24.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,SUB: Sabally FOR Fiebich,Substitution,,0,0,123
+1022600070,173,PT06M24.00S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Rice FOR Conde,Substitution,,0,0,124
+1022600070,174,PT06M24.00S,2,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,SUB: Juskaite FOR Allemand,Substitution,,0,0,125
+1022600070,178,PT06M24.00S,2,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,h,MISS Laney-Hamilton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,126
+1022600070,179,PT06M24.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Normal Rebound,0,0,127
+1022600070,180,PT06M24.00S,2,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,26,24,50,h,Laney-Hamilton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,128
+1022600070,181,PT06M03.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-35,105,11,Missed,1,,,0,v,MISS Mabrey 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,129
+1022600070,182,PT06M00.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,130
+1022600070,183,PT05M56.00S,2,1611661313,NYL,1630149,Sabally,S. Sabally,220,82,0,Made,1,29,24,53,h,Sabally 3PT Running Jump Shot (3 PTS) (Laney-Hamilton 2 AST),Made Shot,Running Jump Shot,1,3,131
+1022600070,185,PT05M55.00S,2,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,132
+1022600070,186,PT05M55.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Johannes FOR Astier,Substitution,,0,0,133
+1022600070,187,PT05M55.00S,2,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,h,SUB: Gardner FOR Laney-Hamilton,Substitution,,0,0,134
+1022600070,190,PT05M41.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,135
+1022600070,191,PT05M27.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,-106,-3,11,Missed,1,,,0,h,MISS Stewart 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,136
+1022600070,192,PT05M26.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+1022600070,193,PT05M17.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,33,25,4,Missed,1,,,0,v,MISS Juskaite 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,138
+1022600070,194,PT05M14.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,139
+1022600070,195,PT05M08.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,-214,102,24,Missed,1,,,0,h,MISS Johannes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+1022600070,196,PT05M05.00S,2,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,Sabally REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,141
+1022600070,197,PT04M55.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,142
+1022600070,198,PT04M53.00S,2,1611661313,NYL,1630149,Sabally,S. Sabally,-236,-16,24,Made,1,32,24,56,h,Sabally 24' 3PT Jump Shot (6 PTS) (Gardner 1 AST),Made Shot,Jump Shot,1,3,143
+1022600070,200,PT04M36.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,26,87,9,Missed,1,,,0,v,MISS Sabally 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,144
+1022600070,201,PT04M32.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,145
+1022600070,202,PT04M25.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,146
+1022600070,203,PT04M15.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,221,7,0,Missed,1,,,0,v,MISS Juskaite 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+1022600070,204,PT04M11.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,148
+1022600070,205,PT03M56.00S,2,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,Sabally Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,149
+1022600070,205,PT03M56.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite STEAL (2 STL),,,1,0,150
+1022600070,207,PT03M51.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,43,33,5,Missed,1,,,0,v,MISS Sykes 5' Running Layup,Missed Shot,Running Layup Shot,1,2,151
+1022600070,208,PT03M50.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,152
+1022600070,210,PT03M50.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Conde FOR Juskaite,Substitution,,0,0,153
+1022600070,212,PT03M42.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,154
+1022600070,212,PT03M42.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes STEAL (3 STL),,,1,0,155
+1022600070,214,PT03M38.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,-21,29,4,Made,1,32,26,58,v,Sykes 4' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,156
+1022600070,215,PT03M19.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,-6,91,9,Missed,1,,,0,h,MISS Stewart 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,157
+1022600070,216,PT03M16.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+1022600070,218,PT03M00.00S,2,1611661332,TOR,1629576,Conde,M. Conde,-121,24,12,Missed,1,,,0,v,MISS Conde 12' Jump Shot,Missed Shot,Jump Shot,1,2,159
+1022600070,219,PT02M57.00S,2,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,Sabally REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,160
+1022600070,220,PT02M47.00S,2,1611661313,NYL,1627673,Jones,J. Jones,139,213,25,Missed,1,,,0,h,MISS Jones 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,161
+1022600070,221,PT02M43.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,162
+1022600070,222,PT02M40.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,1,43,4,Made,1,32,28,60,v,Sykes 4' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,163
+1022600070,223,PT02M17.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,24,6,2,Made,1,34,28,62,h,Stewart 2' Cutting Layup Shot (2 PTS),Made Shot,Cutting Layup Shot,1,2,164
+1022600070,225,PT02M06.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,51,109,12,Missed,1,,,0,v,MISS Mabrey 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,165
+1022600070,226,PT02M03.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,166
+1022600070,227,PT02M03.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,-32,28,4,Made,1,34,30,64,v,Sabally 4' Cutting Layup Shot (7 PTS) (Mabrey 2 AST),Made Shot,Cutting Layup Shot,1,2,167
+1022600070,229,PT01M39.00S,2,1611661313,NYL,1630149,Sabally,S. Sabally,-164,178,24,Missed,1,,,0,h,MISS Sabally 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,168
+1022600070,230,PT01M36.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,169
+1022600070,231,PT01M35.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,-236,-30,24,Made,1,37,30,67,h,Johannes 24' 3PT Jump Shot (8 PTS) (Gardner 2 AST),Made Shot,Jump Shot,1,3,170
+1022600070,233,PT01M26.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-223,120,25,Missed,1,,,0,v,MISS Mabrey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+1022600070,234,PT01M23.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,172
+1022600070,235,PT01M23.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,19,28,3,Made,1,37,32,69,v,Sabally 3' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,173
+1022600070,236,PT00M58.90S,2,1611661313,NYL,1630149,Sabally,S. Sabally,135,72,15,Missed,1,,,0,h,MISS Sabally 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,174
+1022600070,237,PT00M57.30S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,175
+1022600070,238,PT00M52.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes S.FOUL (P1.T1),Foul,Shooting,1,0,176
+1022600070,241,PT00M52.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Violation: Delay of game Violation,Violation,Delay Of Game,0,0,177
+1022600070,242,PT00M52.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,37,33,70,v,Rice Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,178
+1022600070,243,PT00M52.00S,2,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,SUB: Astier FOR Sabally,Substitution,,0,0,179
+1022600070,244,PT00M52.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,SUB: Fiebich FOR Gardner,Substitution,,0,0,180
+1022600070,245,PT00M52.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,SUB: Laney-Hamilton FOR Johannes,Substitution,,0,0,181
+1022600070,246,PT00M52.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Allemand FOR Mabrey,Substitution,,0,0,182
+1022600070,251,PT00M52.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,37,34,71,v,Rice Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,183
+1022600070,252,PT00M44.90S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich OFF.Foul (P1),Foul,Offensive,1,0,184
+1022600070,254,PT00M44.90S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,185
+1022600070,255,PT00M44.90S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,SUB: Juskaite FOR Rice,Substitution,,0,0,186
+1022600070,258,PT00M31.40S,2,1611661332,TOR,1627700,Allemand,J. Allemand,-187,189,27,Missed,1,,,0,v,MISS Allemand 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+1022600070,259,PT00M27.70S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,188
+1022600070,260,PT00M20.80S,2,1611661332,TOR,1631055,Sabally,N. Sabally,-217,113,24,Missed,1,,,0,v,MISS Sabally 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+1022600070,261,PT00M17.10S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,190
+1022600070,262,PT00M05.20S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,-235,-25,24,Made,1,40,34,74,h,Fiebich 24' 3PT Jump Shot (3 PTS) (Astier 3 AST),Made Shot,Jump Shot,1,3,191
+1022600070,266,PT00M00.00S,2,0,,0,,,0,0,0,,0,40,34,74,,End of 2nd Period (8:21 PM EST),period,end,1,0,192
+1022600070,267,PT00M00.00S,2,0,,264,,,0,0,0,,0,40,34,74,,Instant Replay2nd Period (8:22 PM EST),Instant Replay,Overturn Ruling,0,0,193
+1022600070,274,PT10M00.00S,3,0,,0,,,0,0,0,,0,40,34,74,,Start of 3rd Period (8:38 PM EST),period,start,0,0,194
+1022600070,275,PT09M35.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,9,97,10,Made,1,40,36,76,v,Mabrey 10' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,195
+1022600070,276,PT09M17.00S,3,1611661313,NYL,1629546,Johannes,M. Johannes,21,18,3,Made,1,42,36,78,h,Johannes 3' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,196
+1022600070,277,PT09M06.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,18,96,10,Missed,1,,,0,v,MISS Sabally 10' Jump Shot,Missed Shot,Jump Shot,1,2,197
+1022600070,278,PT09M04.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,198
+1022600070,279,PT08M44.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,-59,29,7,Made,1,44,36,80,h,Stewart 7' Turnaround Fadeaway Bank Jump Shot (4 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,199
+1022600070,280,PT08M34.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,38,11,4,Made,1,44,38,82,v,Sykes 4' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,200
+1022600070,281,PT08M34.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier S.FOUL (P2.T1),Foul,Shooting,1,0,201
+1022600070,283,PT08M34.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,44,39,83,v,Sykes Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,202
+1022600070,284,PT08M17.00S,3,1611661313,NYL,1631136,Astier,P. Astier,-7,256,26,Made,1,47,39,86,h,Astier 26' 3PT Jump Shot (6 PTS) (Johannes 1 AST),Made Shot,Jump Shot,1,3,203
+1022600070,286,PT07M57.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,-168,176,24,Missed,1,,,0,v,MISS Sykes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+1022600070,287,PT07M54.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,205
+1022600070,288,PT07M41.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,22,40,5,Made,1,49,39,88,h,Stewart 5' Cutting Layup Shot (6 PTS) (Jones 1 AST),Made Shot,Cutting Layup Shot,1,2,206
+1022600070,290,PT07M41.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,207
+1022600070,291,PT07M30.00S,3,1611661332,TOR,1643445,Rice,K. Rice,198,133,24,Missed,1,,,0,v,MISS Rice 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+1022600070,292,PT07M29.00S,3,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,209
+1022600070,293,PT07M18.00S,3,1611661313,NYL,1629546,Johannes,M. Johannes,-194,184,27,Made,1,52,39,91,h,Johannes 27' 3PT Jump Shot (13 PTS) (Stewart 4 AST),Made Shot,Jump Shot,1,3,210
+1022600070,295,PT07M01.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-197,135,24,Made,1,52,42,94,v,Mabrey 24' 3PT Jump Shot (7 PTS) (Sabally 3 AST),Made Shot,Jump Shot,1,3,211
+1022600070,297,PT06M49.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice P.FOUL (P1.T1),Foul,Personal,1,0,212
+1022600070,299,PT06M49.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,SUB: Allemand FOR Rice,Substitution,,0,0,213
+1022600070,301,PT06M38.00S,3,1611661313,NYL,1629546,Johannes,M. Johannes,173,97,20,Made,1,54,42,96,h,Johannes 20' Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,2,214
+1022600070,302,PT06M21.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-2,74,7,Made,1,54,44,98,v,Mabrey 7' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,215
+1022600070,303,PT06M06.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite S.FOUL (P2.T2),Foul,Shooting,1,0,216
+1022600070,305,PT06M06.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,55,44,99,h,Stewart Free Throw 1 of 3 (7 PTS),Free Throw,Free Throw 1 of 3,0,0,217
+1022600070,306,PT06M06.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,56,44,100,h,Stewart Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,1,0,218
+1022600070,307,PT06M06.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Conde FOR Juskaite,Substitution,,0,0,219
+1022600070,308,PT06M06.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,SUB: Milic FOR Sabally,Substitution,,0,0,220
+1022600070,311,PT06M06.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,57,44,101,h,Stewart Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,1,0,221
+1022600070,312,PT05M58.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P1.T2),Foul,Personal,1,0,222
+1022600070,314,PT05M42.00S,3,1611661332,TOR,1631263,Milic,N. Milic,118,5,12,Made,1,57,46,103,v,Milic 12' Turnaround Jump Shot (4 PTS) (Mabrey 3 AST),Made Shot,Turnaround Jump Shot,1,2,223
+1022600070,316,PT05M31.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes P.FOUL (P2.T3),Foul,Personal,1,0,224
+1022600070,318,PT05M18.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,-74,256,27,Made,1,60,46,106,h,Fiebich 27' 3PT Jump Shot (6 PTS) (Astier 4 AST),Made Shot,Jump Shot,1,3,225
+1022600070,320,PT04M57.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier S.FOUL (P3.T3),Foul,Shooting,1,0,226
+1022600070,322,PT04M57.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,MISS Mabrey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,227
+1022600070,323,PT04M57.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Normal Rebound,0,0,228
+1022600070,324,PT04M57.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Gardner FOR Astier,Substitution,,0,0,229
+1022600070,326,PT04M57.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,60,47,107,v,Mabrey Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,230
+1022600070,327,PT04M35.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,35,57,7,Missed,1,,,0,h,MISS Gardner 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,231
+1022600070,328,PT04M33.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,232
+1022600070,329,PT04M32.00S,3,1611661313,NYL,1627673,Jones,J. Jones,-37,28,5,Missed,1,,,0,h,MISS Jones 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,233
+1022600070,330,PT04M30.00S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,234
+1022600070,331,PT04M17.00S,3,1611661332,TOR,1627700,Allemand,J. Allemand,34,23,4,Made,1,60,49,109,v,Allemand 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,235
+1022600070,332,PT04M07.00S,3,1611661313,NYL,1629546,Johannes,M. Johannes,-27,34,4,Missed,1,,,0,h,MISS Johannes 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,236
+1022600070,332,PT04M07.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes BLOCK (1 BLK),,,1,2,237
+1022600070,334,PT04M07.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,238
+1022600070,336,PT04M07.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,SUB: Sabally FOR Fiebich,Substitution,,0,0,239
+1022600070,337,PT04M07.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Laney-Hamilton FOR Jones,Substitution,,0,0,240
+1022600070,340,PT03M54.00S,3,1611661332,TOR,1631263,Milic,N. Milic,68,26,7,Missed,1,,,0,v,MISS Milic 7' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,241
+1022600070,341,PT03M52.00S,3,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,Sabally REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,242
+1022600070,342,PT03M40.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,228,28,0,Missed,1,,,0,h,MISS Gardner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+1022600070,343,PT03M37.00S,3,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,244
+1022600070,344,PT03M31.00S,3,1611661332,TOR,1631263,Milic,N. Milic,65,0,7,Missed,1,,,0,v,MISS Milic 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,245
+1022600070,345,PT03M28.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,246
+1022600070,346,PT03M22.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,23,264,27,Missed,1,,,0,h,MISS Stewart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,247
+1022600070,347,PT03M19.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,248
+1022600070,348,PT03M13.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,-99,88,13,Missed,1,,,0,v,MISS Sykes 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,249
+1022600070,349,PT03M10.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,250
+1022600070,350,PT03M06.00S,3,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,251
+1022600070,351,PT03M06.00S,3,1611661332,TOR,1631263,Milic,N. Milic,0,0,0,,0,,,0,v,SUB: Juskaite FOR Milic,Substitution,,0,0,252
+1022600070,353,PT03M01.00S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde S.FOUL (P1.T4),Foul,Shooting,1,0,253
+1022600070,355,PT03M01.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,61,49,110,h,Stewart Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,254
+1022600070,356,PT03M01.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,62,49,111,h,Stewart Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,255
+1022600070,357,PT02M51.00S,3,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,Sabally P.FOUL (P2.T4),Foul,Personal,1,0,256
+1022600070,359,PT02M38.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,49,22,5,Made,1,62,51,113,v,Juskaite 5' Layup (4 PTS) (Mabrey 4 AST),Made Shot,Layup Shot,1,2,257
+1022600070,361,PT02M25.00S,3,1611661313,NYL,1630149,Sabally,S. Sabally,-3,19,2,Made,1,64,51,115,h,Sabally 2' Driving Hook Shot (8 PTS),Made Shot,Driving Hook Shot,1,2,258
+1022600070,362,PT02M25.00S,3,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand S.FOUL (P2.PN),Foul,Shooting,1,0,259
+1022600070,364,PT02M25.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,SUB: Sabally FOR Sykes,Substitution,,0,0,260
+1022600070,366,PT02M25.00S,3,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,MISS Sabally Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,261
+1022600070,367,PT02M22.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,262
+1022600070,368,PT02M17.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-18,130,13,Made,1,64,53,117,v,Mabrey 13' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,263
+1022600070,369,PT02M00.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,41,71,8,Missed,1,,,0,h,MISS Stewart 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,264
+1022600070,370,PT01M58.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,265
+1022600070,371,PT01M52.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-27,236,24,Made,1,64,56,120,v,Mabrey 24' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,266
+1022600070,372,PT01M37.00S,3,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,h,Laney-Hamilton Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,267
+1022600070,372,PT01M37.00S,3,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand STEAL (1 STL),,,1,0,268
+1022600070,374,PT01M33.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,18,96,10,Missed,1,,,0,v,MISS Juskaite 10' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,269
+1022600070,375,PT01M32.00S,3,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,270
+1022600070,377,PT01M32.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite L.B.FOUL (P3.PN),Foul,Loose Ball,1,0,271
+1022600070,379,PT01M32.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,SUB: Xu FOR Stewart,Substitution,,0,0,272
+1022600070,381,PT01M32.00S,3,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,65,56,121,h,Sabally Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,273
+1022600070,382,PT01M32.00S,3,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,66,56,122,h,Sabally Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,274
+1022600070,383,PT01M23.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally Traveling Turnover (P1.T5),Turnover,Traveling,1,0,275
+1022600070,384,PT01M07.00S,3,1611661313,NYL,1629566,Han,Han,55,15,6,Made,1,68,56,124,h,Xu 6' Turnaround Jump Shot (2 PTS) (Gardner 3 AST),Made Shot,Turnaround Jump Shot,1,2,276
+1022600070,386,PT00M57.80S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,155,285,32,Missed,1,,,0,v,MISS Mabrey 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+1022600070,387,PT00M55.80S,3,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,278
+1022600070,388,PT00M51.20S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite S.FOUL (P4.PN),Foul,Shooting,1,0,279
+1022600070,390,PT00M51.20S,3,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,69,56,125,h,Sabally Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,280
+1022600070,391,PT00M51.20S,3,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,70,56,126,h,Sabally Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,281
+1022600070,392,PT00M36.20S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-52,66,8,Made,1,70,58,128,v,Mabrey 8' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2,282
+1022600070,393,PT00M27.30S,3,1611661313,NYL,203822,Gardner,R. Gardner,-31,47,6,Missed,1,,,0,h,MISS Gardner 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,283
+1022600070,394,PT00M24.80S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,284
+1022600070,395,PT00M17.40S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,-55,68,9,Missed,1,,,0,v,MISS Juskaite 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,285
+1022600070,396,PT00M15.40S,3,1611661313,NYL,1630149,Sabally,S. Sabally,0,0,0,,0,,,0,h,Sabally REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,286
+1022600070,397,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,58,128,,Instant Replay3rd Period (9:02 PM EST),Instant Replay,Support Ruling,0,0,287
+1022600070,398,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,58,128,,End of 3rd Period (9:02 PM EST),period,end,1,0,288
+1022600070,405,PT10M00.00S,4,0,,0,,,0,0,0,,0,70,58,128,,Start of 4th Period (9:05 PM EST),period,start,1,0,289
+1022600070,406,PT09M42.00S,4,1611661313,NYL,1627673,Jones,J. Jones,5,25,3,Made,1,72,58,130,h,Jones 3' Layup (19 PTS) (Xu 1 AST),Made Shot,Layup Shot,1,2,290
+1022600070,408,PT09M30.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,-6,262,26,Missed,1,,,0,v,MISS Juskaite 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+1022600070,409,PT09M28.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:4 Def:11),Rebound,Unknown,1,0,292
+1022600070,410,PT09M11.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,22,13,3,Made,1,74,58,132,h,Fiebich 3' Cutting Layup Shot (8 PTS) (Jones 2 AST),Made Shot,Cutting Layup Shot,1,2,293
+1022600070,412,PT09M01.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,294
+1022600070,412,PT09M01.00S,4,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,h,Laney-Hamilton STEAL (1 STL),,,1,0,295
+1022600070,414,PT08M58.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite S.FOUL (P5.T1),Foul,Shooting,1,0,296
+1022600070,416,PT08M58.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,297
+1022600070,417,PT08M58.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Sykes FOR Juskaite,Substitution,,0,0,298
+1022600070,418,PT08M58.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Key FOR Mabrey,Substitution,,0,0,299
+1022600070,421,PT08M58.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,75,58,133,h,Fiebich Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,300
+1022600070,422,PT08M58.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,76,58,134,h,Fiebich Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,301
+1022600070,423,PT08M40.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,-22,98,10,Made,1,76,60,136,v,Sykes 10' Pullup Jump Shot (11 PTS) (Conde 1 AST),Made Shot,Pullup Jump shot,1,2,302
+1022600070,425,PT08M15.00S,4,1611661313,NYL,1629566,Han,Han,-24,49,5,Made,1,78,60,138,h,Xu 5' Hook Shot (4 PTS) (Laney-Hamilton 3 AST),Made Shot,Hook Shot,1,2,303
+1022600070,427,PT08M06.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes Out of Bounds Lost Ball Turnover (P2.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,304
+1022600070,428,PT08M06.00S,4,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Rice FOR Conde,Substitution,,0,0,305
+1022600070,430,PT07M41.00S,4,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,15,88,9,Missed,1,,,0,h,MISS Laney-Hamilton 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,306
+1022600070,431,PT07M40.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:5 Def:11),Rebound,Unknown,1,0,307
+1022600070,432,PT07M38.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones Offensive Charge Foul (P2),Foul,Offensive Charge,1,0,308
+1022600070,434,PT07M38.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,309
+1022600070,435,PT07M19.00S,4,1611661332,TOR,1643457,Key,T. Key,-156,0,16,Missed,1,,,0,v,MISS Key 16' Jump Shot,Missed Shot,Jump Shot,1,2,310
+1022600070,436,PT07M16.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:5 Def:12),Rebound,Unknown,1,0,311
+1022600070,437,PT07M05.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,-57,52,8,Made,1,80,60,140,h,Fiebich 8' Turnaround Bank Shot (12 PTS),Made Shot,Turnaround Bank shot,1,2,312
+1022600070,439,PT06M54.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,-4,158,16,Missed,1,,,0,v,MISS Sykes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,313
+1022600070,440,PT06M52.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,314
+1022600070,441,PT06M46.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,0,161,16,Made,1,80,62,142,v,Sykes 16' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,315
+1022600070,442,PT06M26.00S,4,1611661313,NYL,1631136,Astier,P. Astier,29,22,4,Missed,1,,,0,h,MISS Astier 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,316
+1022600070,443,PT06M24.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,317
+1022600070,444,PT06M10.00S,4,1611661332,TOR,1627700,Allemand,J. Allemand,107,273,29,Missed,1,,,0,v,MISS Allemand 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,318
+1022600070,445,PT06M08.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,319
+1022600070,447,PT05M56.00S,4,1611661313,NYL,1627673,Jones,J. Jones,-196,173,26,Made,1,83,62,145,h,Jones 26' 3PT Jump Shot (22 PTS) (Astier 5 AST),Made Shot,Jump Shot,1,3,320
+1022600070,449,PT05M45.00S,4,1611661332,TOR,1643445,Rice,K. Rice,-34,17,4,Missed,1,,,0,v,MISS Rice 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,321
+1022600070,450,PT05M44.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,322
+1022600070,451,PT05M42.00S,4,1611661332,TOR,1627700,Allemand,J. Allemand,-128,211,25,Made,1,83,65,148,v,Allemand 25' 3PT Jump Shot (7 PTS) (Rice 2 AST),Made Shot,Jump Shot,1,3,323
+1022600070,453,PT05M35.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,324
+1022600070,454,PT05M35.00S,4,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,SUB: Stewart FOR Xu,Substitution,,0,0,325
+1022600070,456,PT05M22.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,-122,223,25,Missed,1,,,0,h,MISS Fiebich 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+1022600070,457,PT05M16.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,327
+1022600070,458,PT05M11.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,-27,6,3,Made,1,83,67,150,v,Sykes 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,328
+1022600070,459,PT04M50.00S,4,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,-237,29,24,Missed,1,,,0,h,MISS Laney-Hamilton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,329
+1022600070,460,PT04M48.00S,4,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,Key REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,330
+1022600070,461,PT04M45.00S,4,1611661332,TOR,1643445,Rice,K. Rice,17,12,2,Made,1,83,69,152,v,Rice 2' Running Layup (6 PTS) (Allemand 1 AST),Made Shot,Running Layup Shot,1,2,331
+1022600070,463,PT04M45.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier S.FOUL (P4.T1),Foul,Shooting,1,0,332
+1022600070,465,PT04M45.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,83,70,153,v,Rice Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,333
+1022600070,466,PT04M27.00S,4,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,h,Laney-Hamilton Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,334
+1022600070,466,PT04M27.00S,4,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand STEAL (2 STL),,,1,0,335
+1022600070,468,PT04M23.00S,4,1611661332,TOR,1643445,Rice,K. Rice,33,7,3,Made,1,83,72,155,v,Rice 3' Running Layup (9 PTS) (Allemand 2 AST),Made Shot,Running Layup Shot,1,2,336
+1022600070,470,PT04M23.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,337
+1022600070,471,PT04M23.00S,4,1611661313,NYL,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,h,SUB: Johannes FOR Laney-Hamilton,Substitution,,0,0,338
+1022600070,473,PT04M11.00S,4,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,Key S.FOUL (P1.T2),Foul,Shooting,1,0,339
+1022600070,475,PT04M11.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,84,72,156,h,Stewart Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,340
+1022600070,476,PT04M11.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,85,72,157,h,Stewart Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,341
+1022600070,477,PT04M03.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes P.FOUL (P2.T2),Foul,Personal,0,0,342
+1022600070,479,PT03M58.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,109,87,14,Missed,1,,,0,v,MISS Sykes 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,343
+1022600070,480,PT03M56.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,344
+1022600070,481,PT03M40.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-241,31,24,Missed,1,,,0,h,MISS Stewart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+1022600070,482,PT03M37.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,346
+1022600070,483,PT03M37.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,-74,23,8,Missed,1,,,0,h,MISS Fiebich 8' Putback Layup,Missed Shot,Putback Layup Shot,1,2,347
+1022600070,483,PT03M37.00S,4,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand BLOCK (1 BLK),,,1,2,348
+1022600070,485,PT03M37.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,349
+1022600070,487,PT03M36.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,40,49,6,Made,1,87,72,159,h,Stewart 6' Cutting Layup Shot (15 PTS) (Fiebich 2 AST),Made Shot,Cutting Layup Shot,1,2,350
+1022600070,489,PT03M36.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally S.FOUL (P1.T3),Foul,Shooting,1,0,351
+1022600070,491,PT03M36.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,88,72,160,h,Stewart Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,352
+1022600070,492,PT03M20.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,-34,21,4,Missed,1,,,0,v,MISS Sykes 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,353
+1022600070,493,PT03M19.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,354
+1022600070,494,PT03M18.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,-6,1,Made,1,88,74,162,v,Sabally 1' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,355
+1022600070,495,PT03M08.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,356
+1022600070,496,PT02M56.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally S.FOUL (P2.T4),Foul,Shooting,1,0,357
+1022600070,498,PT02M56.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,89,74,163,h,Fiebich Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,358
+1022600070,499,PT02M56.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,90,74,164,h,Fiebich Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,359
+1022600070,500,PT02M40.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,-7,249,25,Missed,1,,,0,v,MISS Sabally 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+1022600070,501,PT02M37.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,361
+1022600070,502,PT02M32.00S,4,1611661313,NYL,1631136,Astier,P. Astier,13,28,3,Made,1,92,74,166,h,Astier 3' Driving Layup (8 PTS) (Johannes 2 AST),Made Shot,Driving Layup Shot,1,2,362
+1022600070,504,PT02M32.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally S.FOUL (P3.PN),Foul,Shooting,1,0,363
+1022600070,506,PT02M32.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,SUB: Juskaite FOR Sabally,Substitution,,0,0,364
+1022600070,507,PT02M32.00S,4,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,SUB: Pouye FOR Allemand,Substitution,,0,0,365
+1022600070,510,PT02M32.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,MISS Astier Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,366
+1022600070,511,PT02M28.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,367
+1022600070,512,PT02M07.00S,4,1611661332,TOR,1643647,Pouye,T. Pouye,-72,37,8,Made,1,92,76,168,v,Pouye 8' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,368
+1022600070,513,PT01M48.00S,4,1611661313,NYL,1627673,Jones,J. Jones,206,136,25,Missed,1,,,0,h,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+1022600070,514,PT01M45.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,370
+1022600070,515,PT01M42.00S,4,1611661313,NYL,1631136,Astier,P. Astier,27,12,3,Made,1,94,76,170,h,Astier 3' Driving Layup (10 PTS) (Fiebich 3 AST),Made Shot,Driving Layup Shot,1,2,371
+1022600070,517,PT01M33.00S,4,1611661332,TOR,1643445,Rice,K. Rice,-45,4,5,Missed,1,,,0,v,MISS Rice 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,372
+1022600070,517,PT01M33.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones BLOCK (2 BLK),,,1,2,373
+1022600070,519,PT01M33.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,1,0,374
+1022600070,521,PT01M33.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,375
+1022600070,522,PT01M33.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,SUB: Conde FOR Rice,Substitution,,0,0,376
+1022600070,524,PT01M26.00S,4,1611661332,TOR,1629576,Conde,M. Conde,111,102,15,Missed,1,,,0,v,MISS Conde 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,377
+1022600070,525,PT01M25.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,1,0,378
+1022600070,527,PT01M19.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,-10,264,26,Made,1,94,79,173,v,Juskaite 26' 3PT Jump Shot (7 PTS) (Key 1 AST),Made Shot,Jump Shot,1,3,379
+1022600070,529,PT01M06.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-234,13,0,Made,1,97,79,176,h,Stewart 3PT Jump Shot (19 PTS) (Fiebich 4 AST),Made Shot,Jump Shot,1,3,380
+1022600070,531,PT00M52.30S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,46,74,9,Missed,1,,,0,v,MISS Juskaite 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,381
+1022600070,531,PT00M52.30S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes BLOCK (1 BLK),,,1,2,382
+1022600070,533,PT00M51.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,383
+1022600070,534,PT00M51.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes S.FOUL (P3.T3),Foul,Shooting,1,0,384
+1022600070,536,PT00M51.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,MISS Juskaite Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,385
+1022600070,537,PT00M51.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Normal Rebound,0,0,386
+1022600070,538,PT00M51.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,97,80,177,v,Juskaite Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,387
+1022600070,539,PT00M34.50S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-38,31,5,Missed,1,,,0,h,MISS Stewart 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,388
+1022600070,540,PT00M32.60S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,389
+1022600070,541,PT00M29.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,-33,9,3,Made,1,97,82,179,v,Sykes 3' Running Layup (17 PTS) (Juskaite 2 AST),Made Shot,Running Layup Shot,1,2,390
+1022600070,543,PT00M05.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0,391
+1022600070,544,PT00M00.00S,4,0,,0,,,0,0,0,,0,97,82,179,,End of 4th Period (9:35 PM EST),period,end,1,0,392

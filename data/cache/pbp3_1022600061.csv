@@ -1,0 +1,486 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600061,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (6:04 PM EST),period,start,1,0,1
+1022600061,4,PT10M00.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Jump Ball Griner vs. Hamby: Tip to Morrow,Jump Ball,,1,0,2
+1022600061,7,PT09M45.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,196,152,25,Missed,1,,,0,h,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+1022600061,8,PT09M43.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+1022600061,9,PT09M33.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,-10,-2,1,Made,1,0,2,2,v,Burrell 1' Driving Finger Roll Layup (2 PTS) (Ogwumike 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,5
+1022600061,10,PT09M16.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,-81,156,18,Made,1,2,2,4,h,Lacan 18' Pullup Jump Shot (2 PTS) (Griner 1 AST),Made Shot,Pullup Jump shot,1,2,6
+1022600061,12,PT08M57.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,-182,-2,18,Missed,1,,,0,v,MISS Atkins 18' Jump Shot,Missed Shot,Jump Shot,1,2,7
+1022600061,13,PT08M55.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+1022600061,14,PT08M46.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,173,183,25,Missed,1,,,0,h,MISS Morrow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+1022600061,15,PT08M44.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+1022600061,16,PT08M38.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,-13,51,5,Missed,1,,,0,v,MISS Burrell 5' Running Layup,Missed Shot,Running Layup Shot,1,2,11
+1022600061,16,PT08M38.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner BLOCK (1 BLK),,,1,2,12
+1022600061,18,PT08M37.00S,1,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,13
+1022600061,21,PT08M36.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller P.FOUL (P1.T1),Foul,Personal,1,0,14
+1022600061,25,PT08M23.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,-5,12,1,Made,1,2,4,6,v,Hamby 1' Driving Reverse Layup (2 PTS) (Wheeler 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,15
+1022600061,27,PT08M09.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,74,244,25,Made,1,5,4,9,h,Lacan 25' 3PT Jump Shot (5 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,3,16
+1022600061,29,PT08M00.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,17
+1022600061,29,PT08M00.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan STEAL (1 STL),,,1,0,18
+1022600061,31,PT07M56.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,-8,12,1,Made,1,7,4,11,h,Lacan 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,19
+1022600061,32,PT07M40.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler OFF.Foul (P1),Foul,Offensive,1,0,20
+1022600061,34,PT07M40.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,21
+1022600061,35,PT07M28.00S,1,1611661323,CON,203398,Griner,B. Griner,46,32,6,Missed,1,,,0,h,MISS Griner 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,22
+1022600061,36,PT07M26.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,23
+1022600061,37,PT07M23.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,6,17,2,Made,1,9,4,13,h,Morrow 2' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,24
+1022600061,38,PT07M12.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,10,8,1,Made,1,9,6,15,v,Ogwumike 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,25
+1022600061,40,PT06M58.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow OFF.Foul (P1),Foul,Offensive,1,0,26
+1022600061,42,PT06M58.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,27
+1022600061,43,PT06M40.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,29,18,3,Missed,1,,,0,v,MISS Hamby 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,28
+1022600061,44,PT06M39.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,29
+1022600061,45,PT06M35.00S,1,1611661323,CON,1641649,Miller,D. Miller,165,173,24,Missed,1,,,0,h,MISS Miller 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,30
+1022600061,46,PT06M33.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,31
+1022600061,47,PT06M27.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,-112,143,18,Made,1,9,8,17,v,Atkins 18' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,32
+1022600061,48,PT06M03.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,112,150,19,Made,1,11,8,19,h,Morrow 19' Pullup Jump Shot (4 PTS) (Rivers 1 AST),Made Shot,Pullup Jump shot,1,2,33
+1022600061,50,PT05M58.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan P.FOUL (P1.T2),Foul,Personal,1,0,34
+1022600061,52,PT05M58.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Griner,Substitution,,0,0,35
+1022600061,54,PT05M49.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,-23,25,3,Missed,1,,,0,v,MISS Hamby 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,36
+1022600061,54,PT05M49.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers BLOCK (1 BLK),,,1,2,37
+1022600061,56,PT05M47.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+1022600061,57,PT05M40.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,7,10,1,Made,1,13,8,21,h,Morrow 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,39
+1022600061,58,PT05M31.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,40
+1022600061,58,PT05M31.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa STEAL (1 STL),,,1,0,41
+1022600061,60,PT05M22.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby P.FOUL (P1.T1),Foul,Personal,1,0,42
+1022600061,62,PT05M15.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,10,34,4,Missed,1,,,0,h,MISS Nelson-Ododa 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,43
+1022600061,62,PT05M15.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell BLOCK (1 BLK),,,1,2,44
+1022600061,64,PT05M15.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,45
+1022600061,66,PT05M07.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,94,224,24,Missed,1,,,0,h,MISS Lacan 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,46
+1022600061,67,PT05M04.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+1022600061,68,PT04M55.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,48
+1022600061,68,PT04M55.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow STEAL (1 STL),,,1,0,49
+1022600061,70,PT04M50.00S,1,1611661323,CON,1641649,Miller,D. Miller,4,17,2,Made,1,15,8,23,h,Miller 2' Running Layup (2 PTS) (Morrow 1 AST),Made Shot,Running Layup Shot,1,2,50
+1022600061,72,PT04M36.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,51
+1022600061,72,PT04M36.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller STEAL (1 STL),,,1,0,52
+1022600061,74,PT04M32.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,-169,181,25,Missed,1,,,0,h,MISS Lacan 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,53
+1022600061,75,PT04M29.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,54
+1022600061,76,PT04M13.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers S.FOUL (P1.T3),Foul,Shooting,1,0,55
+1022600061,78,PT04M13.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,56
+1022600061,79,PT04M13.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Angloma FOR Miller,Substitution,,0,0,57
+1022600061,80,PT04M13.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,SUB: Burke FOR Morrow,Substitution,,0,0,58
+1022600061,81,PT04M13.00S,1,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,SUB: Martin FOR Hamby,Substitution,,0,0,59
+1022600061,82,PT04M13.00S,1,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,SUB: Brink FOR Burrell,Substitution,,0,0,60
+1022600061,83,PT04M13.00S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,SUB: Latson FOR Wheeler,Substitution,,0,0,61
+1022600061,90,PT04M13.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,15,9,24,v,Ogwumike Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,62
+1022600061,91,PT04M13.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,15,10,25,v,Ogwumike Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,63
+1022600061,92,PT03M56.00S,1,1611661320,LAS,1643444,Latson,T. Latson,0,0,0,,0,,,0,v,Latson P.FOUL (P1.T2),Foul,Personal,1,0,64
+1022600061,94,PT03M56.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Lacan,Substitution,,0,0,65
+1022600061,96,PT03M51.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,-84,119,15,Missed,1,,,0,h,MISS Rivers 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,66
+1022600061,97,PT03M49.00S,1,1611661320,LAS,1642324,Martin,K. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,67
+1022600061,98,PT03M41.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-88,238,25,Made,1,15,13,28,v,Ogwumike 25' 3PT Jump Shot (7 PTS) (Atkins 1 AST),Made Shot,Jump Shot,1,3,68
+1022600061,100,PT03M25.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins P.FOUL (P1.T3),Foul,Personal,1,0,69
+1022600061,102,PT03M25.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,SUB: Miller FOR Rivers,Substitution,,0,0,70
+1022600061,104,PT03M19.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,71
+1022600061,104,PT03M19.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins STEAL (1 STL),,,1,0,72
+1022600061,106,PT03M11.00S,1,1611661320,LAS,1643444,Latson,T. Latson,-227,27,0,Made,1,15,16,31,v,Latson 3PT Jump Shot (3 PTS) (Ogwumike 2 AST),Made Shot,Jump Shot,1,3,73
+1022600061,108,PT03M09.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,74
+1022600061,109,PT02M55.00S,1,1611661323,CON,1641649,Miller,D. Miller,-18,21,3,Made,1,17,16,33,h,Miller 3' Driving Layup (4 PTS) (Leger-Walker 1 AST),Made Shot,Driving Layup Shot,1,2,75
+1022600061,110,PT02M38.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa Violation:Kicked Ball,Violation,Kicked Ball,0,0,76
+1022600061,111,PT02M24.00S,1,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,77
+1022600061,113,PT02M14.00S,1,1611661323,CON,1629568,Burke,K. Burke,-172,181,25,Made,1,20,16,36,h,Burke 25' 3PT Jump Shot (3 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,3,78
+1022600061,116,PT01M59.00S,1,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink Backcourt Turnover (P1.T7),Turnover,Backcourt Turnover,1,0,79
+1022600061,117,PT01M59.00S,1,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,SUB: Hamby FOR Atkins,Substitution,,0,0,80
+1022600061,118,PT01M59.00S,1,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,SUB: Gray FOR Ogwumike,Substitution,,0,0,81
+1022600061,121,PT01M44.00S,1,1611661323,CON,1629568,Burke,K. Burke,-79,242,25,Missed,1,,,0,h,MISS Burke 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,82
+1022600061,122,PT01M42.00S,1,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+1022600061,123,PT01M33.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa P.FOUL (P1.T4),Foul,Personal,1,0,84
+1022600061,125,PT01M33.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,SUB: Griner FOR Nelson-Ododa,Substitution,,0,0,85
+1022600061,126,PT01M33.00S,1,1611661320,LAS,1643444,Latson,T. Latson,0,0,0,,0,,,0,v,SUB: Wheeler FOR Latson,Substitution,,0,0,86
+1022600061,129,PT01M21.00S,1,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink OFF.Foul (P1),Foul,Offensive,1,0,87
+1022600061,131,PT01M21.00S,1,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,88
+1022600061,133,PT00M59.90S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,89
+1022600061,133,PT00M59.90S,1,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink STEAL (1 STL),,,1,0,90
+1022600061,135,PT00M49.70S,1,1611661320,LAS,1642287,Brink,C. Brink,4,9,1,Missed,1,,,0,v,MISS Brink 1' Layup,Missed Shot,Layup Shot,1,2,91
+1022600061,135,PT00M49.70S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke BLOCK (1 BLK),,,1,2,92
+1022600061,137,PT00M48.80S,1,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,93
+1022600061,140,PT00M42.90S,1,1611661320,LAS,204365,Wheeler,E. Wheeler,-190,158,25,Missed,1,,,0,v,MISS Wheeler 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+1022600061,141,PT00M39.30S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+1022600061,142,PT00M26.70S,1,1611661323,CON,1641649,Miller,D. Miller,-69,124,14,Missed,1,,,0,h,MISS Miller 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,96
+1022600061,143,PT00M24.00S,1,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,97
+1022600061,144,PT00M04.50S,1,1611661320,LAS,204324,Hamby,D. Hamby,4,12,1,Made,1,20,18,38,v,Hamby 1' Driving Layup (4 PTS) (Wheeler 2 AST),Made Shot,Driving Layup Shot,1,2,98
+1022600061,146,PT00M00.80S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,119,388,41,Missed,1,,,0,h,MISS Leger-Walker 41' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,99
+1022600061,147,PT00M00.10S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,100
+1022600061,148,PT00M00.00S,1,0,,0,,,0,0,0,,0,20,18,38,,End of 1st Period (6:26 PM EST),period,end,1,0,101
+1022600061,155,PT10M00.00S,2,0,,0,,,0,0,0,,0,20,18,38,,Start of 2nd Period (6:29 PM EST),period,start,1,0,102
+1022600061,156,PT09M47.00S,2,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,103
+1022600061,156,PT09M47.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke STEAL (1 STL),,,1,0,104
+1022600061,158,PT09M38.00S,2,1611661323,CON,1642303,Lacan,L. Lacan,-123,101,16,Missed,1,,,0,h,MISS Lacan 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,105
+1022600061,159,PT09M35.00S,2,1611661320,LAS,1643462,Gray,C. Gray,0,0,0,,0,,,0,v,Gray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+1022600061,160,PT09M11.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,44,248,25,Missed,1,,,0,v,MISS Hamby 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+1022600061,161,PT09M08.00S,2,1611661320,LAS,1643462,Gray,C. Gray,0,0,0,,0,,,0,v,Gray REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,108
+1022600061,162,PT08M57.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,23,23,3,Missed,1,,,0,v,MISS Hamby 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,109
+1022600061,162,PT08M57.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma BLOCK (1 BLK),,,1,2,110
+1022600061,164,PT08M54.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,111
+1022600061,180,PT08M53.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,-29,38,5,Missed,1,,,0,v,MISS Burrell 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,112
+1022600061,180,PT08M53.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke BLOCK (2 BLK),,,1,2,113
+1022600061,182,PT08M52.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,114
+1022600061,167,PT08M40.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner OFF.Foul (P1),Foul,Offensive,1,0,115
+1022600061,169,PT08M40.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,116
+1022600061,170,PT08M40.00S,2,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,SUB: Ogwumike FOR Brink,Substitution,,0,0,117
+1022600061,172,PT08M32.00S,2,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan P.FOUL (P2.T1),Foul,Personal,1,0,118
+1022600061,233,PT08M24.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,119
+1022600061,233,PT08M24.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow STEAL (2 STL),,,1,0,120
+1022600061,176,PT08M17.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,-8,44,4,Missed,1,,,0,h,MISS Morrow 4' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,121
+1022600061,177,PT08M15.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,122
+1022600061,178,PT08M14.00S,2,1611661323,CON,203398,Griner,B. Griner,22,17,3,Missed,1,,,0,h,MISS Griner 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,123
+1022600061,179,PT08M13.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+1022600061,183,PT08M06.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,-163,173,24,Missed,1,,,0,v,MISS Burrell 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,125
+1022600061,184,PT08M04.00S,2,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,126
+1022600061,186,PT08M04.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma L.B.FOUL (P1.T2),Foul,Loose Ball,1,0,127
+1022600061,188,PT08M04.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,SUB: Rivers FOR Angloma,Substitution,,0,0,128
+1022600061,190,PT07M57.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke P.FOUL (P1.T3),Foul,Personal,1,0,129
+1022600061,192,PT07M45.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,-156,272,31,Missed,1,,,0,v,MISS Wheeler 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+1022600061,193,PT07M41.00S,2,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+1022600061,194,PT07M34.00S,2,1611661323,CON,1629568,Burke,K. Burke,-23,9,2,Made,1,22,18,40,h,Burke 2' Running Layup (5 PTS) (Lacan 1 AST),Made Shot,Running Layup Shot,1,2,132
+1022600061,196,PT07M23.00S,2,1611661320,LAS,1643462,Gray,C. Gray,0,0,0,,0,,,0,v,SUB: Atkins FOR Gray,Substitution,,0,0,133
+1022600061,198,PT07M23.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,SUB: Martin FOR Burrell,Substitution,,0,0,134
+1022600061,254,PT07M23.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Violation:Kicked Ball,Violation,Kicked Ball,0,0,135
+1022600061,201,PT07M12.00S,2,1611661320,LAS,1642324,Martin,K. Martin,23,38,4,Made,1,22,20,42,v,Martin 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,136
+1022600061,202,PT06M49.00S,2,1611661323,CON,203398,Griner,B. Griner,35,18,4,Made,1,24,20,44,h,Griner 4' Turnaround Hook Shot (2 PTS) (Rivers 2 AST),Made Shot,Turnaround Hook Shot,1,2,137
+1022600061,204,PT06M40.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,-16,13,2,Missed,1,,,0,v,MISS Wheeler 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,138
+1022600061,205,PT06M37.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,139
+1022600061,208,PT06M34.00S,2,1611661320,LAS,1642324,Martin,K. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.T1),Foul,Shooting,1,0,140
+1022600061,210,PT06M34.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,MISS Rivers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,141
+1022600061,211,PT06M34.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,1,0,142
+1022600061,212,PT06M34.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,25,20,45,h,Rivers Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,143
+1022600061,213,PT06M25.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow P.FOUL (P2.T4),Foul,Personal,1,0,144
+1022600061,215,PT06M25.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,SUB: Kneepkens FOR Burke,Substitution,,0,0,145
+1022600061,217,PT06M15.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,30,136,14,Missed,1,,,0,v,MISS Wheeler 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,146
+1022600061,218,PT06M13.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,147
+1022600061,220,PT06M13.00S,2,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Jump Ball Lacan vs. Hamby: Tip to Atkins,Jump Ball,,0,0,148
+1022600061,223,PT06M13.00S,2,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan P.FOUL (P3.PN),Foul,Personal,1,0,149
+1022600061,225,PT06M13.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,MISS Hamby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,150
+1022600061,226,PT06M13.00S,2,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Normal Rebound,1,0,151
+1022600061,227,PT06M13.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,25,21,46,v,Hamby Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,152
+1022600061,229,PT05M55.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,85,228,24,Missed,1,,,0,h,MISS Morrow 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+1022600061,230,PT05M53.00S,2,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,154
+1022600061,232,PT05M53.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,155
+1022600061,235,PT05M53.00S,2,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Lacan,Substitution,,0,0,156
+1022600061,237,PT05M30.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,-110,33,11,Made,1,25,23,48,v,Wheeler 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,157
+1022600061,238,PT05M16.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,158
+1022600061,238,PT05M16.00S,2,1611661320,LAS,1642324,Martin,K. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,159
+1022600061,240,PT05M14.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers P.FOUL (P2.PN),Foul,Personal,1,0,160
+1022600061,242,PT05M14.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,25,24,49,v,Atkins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,161
+1022600061,243,PT05M14.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,SUB: Brink FOR Hamby,Substitution,,0,0,162
+1022600061,245,PT05M14.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,25,25,50,v,Atkins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,163
+1022600061,246,PT05M00.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,4,52,5,Missed,1,,,0,h,MISS Morrow 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,164
+1022600061,246,PT05M00.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins BLOCK (1 BLK),,,1,2,165
+1022600061,248,PT04M57.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,Ogwumike REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+1022600061,250,PT04M39.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,13,8,2,Made,1,25,27,52,v,Wheeler 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,167
+1022600061,251,PT04M25.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,168
+1022600061,251,PT04M25.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,Ogwumike STEAL (1 STL),,,1,0,169
+1022600061,253,PT04M20.00S,2,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink Traveling Turnover (P4.T11),Turnover,Traveling,1,0,170
+1022600061,255,PT04M06.00S,2,1611661323,CON,203398,Griner,B. Griner,-8,22,2,Made,1,27,27,54,h,Griner 2' Turnaround Fadeaway (4 PTS) (Leger-Walker 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,171
+1022600061,257,PT03M51.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,-142,191,24,Made,1,27,30,57,v,Atkins 24' 3PT Jump Shot (7 PTS) (Wheeler 3 AST),Made Shot,Jump Shot,1,3,172
+1022600061,260,PT03M31.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,173
+1022600061,260,PT03M31.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins STEAL (2 STL),,,1,0,174
+1022600061,262,PT03M25.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,-67,251,26,Made,1,27,33,60,v,Atkins 26' 3PT Running Jump Shot (10 PTS) (Wheeler 4 AST),Made Shot,Running Jump Shot,1,3,175
+1022600061,264,PT03M24.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,176
+1022600061,265,PT03M24.00S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,SUB: Latson FOR Wheeler,Substitution,,0,0,177
+1022600061,267,PT03M11.00S,2,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink S.FOUL (P2.T2),Foul,Shooting,1,0,178
+1022600061,269,PT03M11.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,28,33,61,h,Griner Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,179
+1022600061,270,PT03M11.00S,2,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,SUB: Hamby FOR Brink,Substitution,,0,0,180
+1022600061,272,PT03M11.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,29,33,62,h,Griner Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,181
+1022600061,273,PT02M50.00S,2,1611661320,LAS,1642324,Martin,K. Martin,-87,232,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+1022600061,274,PT02M46.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,183
+1022600061,275,PT02M39.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,15,13,2,Missed,1,,,0,h,MISS Rivers 2' Running Layup,Missed Shot,Running Layup Shot,1,2,184
+1022600061,275,PT02M39.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins BLOCK (2 BLK),,,1,2,185
+1022600061,277,PT02M39.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,186
+1022600061,278,PT02M31.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,62,157,17,Made,1,31,33,64,h,Morrow 17' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,187
+1022600061,279,PT02M14.00S,2,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,188
+1022600061,279,PT02M14.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker STEAL (1 STL),,,1,0,189
+1022600061,281,PT02M09.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,78,88,12,Missed,1,,,0,h,MISS Morrow 12' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,190
+1022600061,282,PT02M05.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,191
+1022600061,283,PT02M00.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker P.FOUL (P1.PN),Foul,Personal,1,0,192
+1022600061,285,PT02M00.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,MISS Ogwumike Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,193
+1022600061,286,PT02M00.00S,2,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Normal Rebound,0,0,194
+1022600061,287,PT02M00.00S,2,1611661320,LAS,1642324,Martin,K. Martin,0,0,0,,0,,,0,v,SUB: Burrell FOR Martin,Substitution,,0,0,195
+1022600061,289,PT02M00.00S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,MISS Ogwumike Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,196
+1022600061,290,PT02M00.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,197
+1022600061,291,PT01M42.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,1,0,198
+1022600061,292,PT01M24.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,18,46,5,Missed,1,,,0,v,MISS Atkins 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,199
+1022600061,293,PT01M23.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,200
+1022600061,294,PT01M11.00S,2,1611661323,CON,203398,Griner,B. Griner,6,-1,1,Made,1,33,33,66,h,Griner 1' Driving Layup (8 PTS) (Morrow 2 AST),Made Shot,Driving Layup Shot,1,2,201
+1022600061,296,PT01M01.00S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,0,0,0,,0,,,0,h,Kneepkens P.FOUL (P1.PN),Foul,Personal,1,0,202
+1022600061,298,PT01M01.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,33,34,67,v,Burrell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,203
+1022600061,299,PT01M01.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Morrow,Substitution,,0,0,204
+1022600061,300,PT01M01.00S,2,1611661320,LAS,1643444,Latson,T. Latson,0,0,0,,0,,,0,v,SUB: Gray FOR Latson,Substitution,,0,0,205
+1022600061,301,PT01M01.00S,2,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,SUB: Wheeler FOR Atkins,Substitution,,0,0,206
+1022600061,305,PT01M01.00S,2,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,33,35,68,v,Burrell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,207
+1022600061,306,PT00M48.40S,2,1611661323,CON,1642809,Rivers,S. Rivers,118,-31,12,Missed,1,,,0,h,MISS Rivers 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,208
+1022600061,307,PT00M46.90S,2,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,209
+1022600061,308,PT00M46.90S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,0,0,0,,0,,,0,h,Kneepkens L.B.FOUL (P2.PN),Foul,Loose Ball,1,0,210
+1022600061,310,PT00M46.90S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,MISS Ogwumike Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,211
+1022600061,311,PT00M46.90S,2,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Normal Rebound,0,0,212
+1022600061,312,PT00M46.90S,2,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,33,36,69,v,Ogwumike Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,213
+1022600061,314,PT00M31.90S,2,1611661323,CON,1642809,Rivers,S. Rivers,12,144,14,Made,1,35,36,71,h,Rivers 14' Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,2,214
+1022600061,317,PT00M10.70S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler FLAGRANT.FOUL.TYPE1 (P2.T3),Foul,Flagrant Type 1,1,0,215
+1022600061,319,PT00M10.70S,2,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,1,0,216
+1022600061,320,PT00M10.70S,2,0,,317,Starks,J. Starks,0,0,0,,0,35,36,71,,Instant Replay2nd Period (6:56 PM EST),Instant Replay,Overturn Ruling,0,0,217
+1022600061,326,PT00M10.70S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,MISS Griner Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,1,0,218
+1022600061,327,PT00M10.70S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,219
+1022600061,328,PT00M10.70S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,36,36,72,h,Griner Free Throw Flagrant 2 of 2 (9 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,220
+1022600061,321,PT00M10.70S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,SUB: Burke FOR Griner,Substitution,,0,0,221
+1022600061,323,PT00M01.50S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,-16,247,25,Made,1,39,36,75,h,Kneepkens 25' 3PT Jump Shot (3 PTS) (Leger-Walker 3 AST),Made Shot,Jump Shot,1,3,222
+1022600061,325,PT00M00.00S,2,0,,0,,,0,0,0,,0,39,36,75,,End of 2nd Period (6:59 PM EST),period,end,1,0,223
+1022600061,337,PT10M00.00S,3,0,,0,,,0,0,0,,0,39,36,75,,Start of 3rd Period (7:16 PM EST),period,start,1,0,224
+1022600061,338,PT09M48.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,-210,114,24,Missed,1,,,0,v,MISS Atkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+1022600061,339,PT09M46.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,226
+1022600061,340,PT09M42.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,10,12,2,Made,1,39,38,77,v,Burrell 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,227
+1022600061,341,PT09M29.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,106,27,11,Made,1,41,38,79,h,Lacan 11' Pullup Jump Shot (9 PTS) (Nelson-Ododa 1 AST),Made Shot,Pullup Jump shot,1,2,228
+1022600061,343,PT09M09.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-185,154,24,Missed,1,,,0,v,MISS Ogwumike 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,229
+1022600061,344,PT09M08.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,230
+1022600061,345,PT09M08.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa S.FOUL (P2.T1),Foul,Shooting,1,0,231
+1022600061,347,PT09M08.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,41,39,80,v,Hamby Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,232
+1022600061,348,PT09M08.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,MISS Hamby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,233
+1022600061,349,PT09M08.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,234
+1022600061,350,PT08M57.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,147,200,25,Missed,1,,,0,h,MISS Lacan 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+1022600061,351,PT08M53.00S,3,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,236
+1022600061,353,PT08M53.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,237
+1022600061,354,PT08M53.00S,3,0,,352,,,0,0,0,,0,41,39,80,,Instant Replay3rd Period (7:19 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,238
+1022600061,355,PT08M45.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan P.FOUL (P4.T2),Foul,Personal,1,0,239
+1022600061,357,PT08M45.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Lacan,Substitution,,0,0,240
+1022600061,359,PT08M39.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow P.FOUL (P3.T3),Foul,Personal,1,0,241
+1022600061,361,PT08M39.00S,3,0,,359,Brown,C. Brown,0,0,0,,0,41,39,80,,Instant Replay3rd Period (7:22 PM EST),Instant Replay,Ruling Stands,0,0,242
+1022600061,362,PT08M26.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,243
+1022600061,362,PT08M26.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker STEAL (2 STL),,,1,0,244
+1022600061,365,PT08M22.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,Made,1,43,39,82,h,Rivers Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,245
+1022600061,366,PT08M12.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,13,5,1,Made,1,43,41,84,v,Burrell 1' Driving Layup (8 PTS) (Wheeler 5 AST),Made Shot,Driving Layup Shot,1,2,246
+1022600061,367,PT07M47.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins S.FOUL (P2.T1),Foul,Shooting,1,0,247
+1022600061,369,PT07M47.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,44,41,85,h,Leger-Walker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,248
+1022600061,370,PT07M47.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,45,41,86,h,Leger-Walker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,249
+1022600061,371,PT07M35.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller P.FOUL (P2.T4),Foul,Personal,1,0,250
+1022600061,373,PT07M31.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,118,222,25,Missed,1,,,0,v,MISS Burrell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+1022600061,374,PT07M28.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,252
+1022600061,375,PT07M19.00S,3,1611661323,CON,1641649,Miller,D. Miller,62,233,24,Made,1,48,41,89,h,Miller 24' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,3,253
+1022600061,376,PT07M05.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,-81,155,17,Missed,1,,,0,v,MISS Atkins 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,254
+1022600061,377,PT07M03.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,255
+1022600061,378,PT06M53.00S,3,1611661323,CON,1641649,Miller,D. Miller,169,170,24,Missed,1,,,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+1022600061,379,PT06M51.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,257
+1022600061,381,PT06M38.00S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,SUB: Brink FOR Ogwumike,Substitution,,0,0,258
+1022600061,384,PT06M35.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,-173,162,24,Missed,1,,,0,v,MISS Wheeler 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,259
+1022600061,384,PT06M35.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker BLOCK (1 BLK),,,1,3,260
+1022600061,386,PT06M35.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,261
+1022600061,387,PT06M28.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,150,187,24,Missed,1,,,0,v,MISS Hamby 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+1022600061,388,PT06M27.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,263
+1022600061,389,PT06M24.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,-22,7,2,Missed,1,,,0,v,MISS Hamby 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,264
+1022600061,390,PT06M22.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,265
+1022600061,391,PT06M10.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,26,-2,3,Missed,1,,,0,h,MISS Leger-Walker 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,266
+1022600061,392,PT06M09.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,267
+1022600061,393,PT06M02.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,-19,12,2,Made,1,48,43,91,v,Burrell 2' Running Reverse Layup (10 PTS) (Wheeler 6 AST),Made Shot,Running Reverse Layup Shot,1,2,268
+1022600061,395,PT05M48.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,269
+1022600061,395,PT05M48.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins STEAL (3 STL),,,1,0,270
+1022600061,397,PT05M46.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker S.FOUL (P2.PN),Foul,Shooting,1,0,271
+1022600061,399,PT05M46.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,48,44,92,v,Atkins Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,272
+1022600061,400,PT05M46.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,SUB: Beers FOR Nelson-Ododa,Substitution,,0,0,273
+1022600061,401,PT05M46.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,SUB: Gray FOR Wheeler,Substitution,,0,0,274
+1022600061,405,PT05M46.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,SUB: Burke FOR Rivers,Substitution,,0,0,275
+1022600061,404,PT05M46.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,48,45,93,v,Atkins Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,276
+1022600061,407,PT05M31.00S,3,1611661323,CON,1641649,Miller,D. Miller,1,121,12,Missed,1,,,0,h,MISS Miller 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,277
+1022600061,407,PT05M31.00S,3,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink BLOCK (1 BLK),,,1,2,278
+1022600061,409,PT05M28.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,279
+1022600061,410,PT05M27.00S,3,1611661323,CON,1629568,Burke,K. Burke,26,1,3,Missed,1,,,0,h,MISS Burke 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,280
+1022600061,410,PT05M27.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby BLOCK (1 BLK),,,1,2,281
+1022600061,412,PT05M26.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,282
+1022600061,413,PT05M22.00S,3,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink P.FOUL (P3.T2),Foul,Personal,1,0,283
+1022600061,415,PT05M22.00S,3,0,,413,,,0,0,0,,0,48,45,93,,Instant Replay3rd Period (7:31 PM EST),Instant Replay,Support Ruling,0,0,284
+1022600061,416,PT05M22.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,SUB: Rivers FOR Leger-Walker,Substitution,,0,0,285
+1022600061,418,PT05M22.00S,3,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink P.FOUL (P4.T3),Foul,Personal,1,0,286
+1022600061,420,PT05M15.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,113,217,24,Made,1,51,45,96,h,Morrow 24' 3PT Jump Shot (11 PTS) (Rivers 3 AST),Made Shot,Jump Shot,1,3,287
+1022600061,422,PT04M53.00S,3,1611661320,LAS,1643462,Gray,C. Gray,-171,178,25,Made,1,51,48,99,v,Gray 25' 3PT Jump Shot (3 PTS) (Brink 1 AST),Made Shot,Jump Shot,1,3,288
+1022600061,424,PT04M41.00S,3,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers OFF.Foul (P1),Foul,Offensive,1,0,289
+1022600061,426,PT04M41.00S,3,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,290
+1022600061,427,PT04M30.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,11,18,2,Made,1,51,50,101,v,Hamby 2' Cutting Layup Shot (8 PTS) (Brink 2 AST),Made Shot,Cutting Layup Shot,1,2,291
+1022600061,429,PT04M17.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby S.FOUL (P2.T4),Foul,Shooting,1,0,292
+1022600061,431,PT04M17.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,52,50,102,h,Morrow Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,293
+1022600061,432,PT04M17.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Angloma FOR Miller,Substitution,,0,0,294
+1022600061,434,PT04M17.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,53,50,103,h,Morrow Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,295
+1022600061,435,PT03M55.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,-222,64,0,Made,1,53,53,106,v,Burrell 3PT Jump Shot (13 PTS) (Gray 1 AST),Made Shot,Jump Shot,1,3,296
+1022600061,437,PT03M55.00S,3,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers L.B.FOUL (P2.PN),Foul,Loose Ball,1,0,297
+1022600061,440,PT03M55.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,53,54,107,v,Hamby Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,298
+1022600061,441,PT03M42.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma Traveling Turnover (P1.T11),Turnover,Traveling,1,0,299
+1022600061,442,PT03M31.00S,3,1611661320,LAS,1643462,Gray,C. Gray,-208,139,25,Missed,1,,,0,v,MISS Gray 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,300
+1022600061,443,PT03M28.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,301
+1022600061,444,PT03M21.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,-7,1,1,Made,1,55,54,109,h,Rivers 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,302
+1022600061,445,PT03M10.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,-22,-3,2,Missed,1,,,0,v,MISS Hamby 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,303
+1022600061,447,PT03M08.00S,3,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,304
+1022600061,448,PT03M01.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,33,15,4,Missed,1,,,0,h,MISS Angloma 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,305
+1022600061,448,PT03M01.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins BLOCK (3 BLK),,,1,2,306
+1022600061,450,PT02M58.00S,3,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,307
+1022600061,451,PT02M45.00S,3,1611661320,LAS,1643462,Gray,C. Gray,-160,190,25,Made,1,55,57,112,v,Gray 25' 3PT Jump Shot (6 PTS) (Burrell 1 AST),Made Shot,Jump Shot,1,3,308
+1022600061,453,PT02M30.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell S.FOUL (P1.PN),Foul,Shooting,1,0,309
+1022600061,455,PT02M30.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,56,57,113,h,Burke Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,310
+1022600061,456,PT02M30.00S,3,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,SUB: Ogwumike FOR Hamby,Substitution,,0,0,311
+1022600061,457,PT02M30.00S,3,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,SUB: Wheeler FOR Atkins,Substitution,,0,0,312
+1022600061,458,PT02M30.00S,3,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,SUB: Martin FOR Burrell,Substitution,,0,0,313
+1022600061,462,PT02M30.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,MISS Burke Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,314
+1022600061,463,PT02M30.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,315
+1022600061,464,PT02M22.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,316
+1022600061,464,PT02M22.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler STEAL (1 STL),,,1,0,317
+1022600061,466,PT02M21.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma P.FOUL (P2.PN),Foul,Personal,1,0,318
+1022600061,468,PT02M21.00S,3,0,,1642754,,,0,0,0,,0,,,0,,Rachid Meziane Foul:T.FOUL,Foul,Technical,0,0,319
+1022600061,469,PT02M21.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,MISS Wheeler Free Throw Technical,Free Throw,Free Throw Technical,1,0,320
+1022600061,470,PT02M21.00S,3,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Normal Rebound,1,0,321
+1022600061,471,PT02M21.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,MISS Wheeler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,322
+1022600061,472,PT02M21.00S,3,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Normal Rebound,1,0,323
+1022600061,473,PT02M21.00S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,56,58,114,v,Wheeler Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,324
+1022600061,475,PT02M08.00S,3,1611661320,LAS,1643462,Gray,C. Gray,0,0,0,,0,,,0,v,Gray S.FOUL (P1.PN),Foul,Shooting,1,0,325
+1022600061,477,PT02M08.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,57,58,115,h,Angloma Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+1022600061,478,PT02M08.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,58,58,116,h,Angloma Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+1022600061,479,PT01M56.00S,3,1611661320,LAS,1643462,Gray,C. Gray,-169,182,25,Missed,1,,,0,v,MISS Gray 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,328
+1022600061,480,PT01M52.00S,3,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,329
+1022600061,481,PT01M33.00S,3,1611661320,LAS,1642324,Martin,K. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.PN),Foul,Shooting,1,0,330
+1022600061,483,PT01M33.00S,3,0,,481,,,0,0,0,,0,58,58,116,,Instant Replay3rd Period (7:43 PM EST),Instant Replay,Ruling Stands,0,0,331
+1022600061,484,PT01M33.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,MISS Burke Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,332
+1022600061,485,PT01M33.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,1,0,333
+1022600061,486,PT01M33.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,59,58,117,h,Burke Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,334
+1022600061,487,PT01M14.00S,3,1611661320,LAS,1642287,Brink,C. Brink,23,21,3,Made,1,59,60,119,v,Brink 3' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,335
+1022600061,489,PT00M56.20S,3,1611661323,CON,1629568,Burke,K. Burke,-137,212,25,Missed,1,,,0,h,MISS Burke 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,336
+1022600061,490,PT00M54.50S,3,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,337
+1022600061,491,PT00M46.80S,3,1611661320,LAS,1642287,Brink,C. Brink,27,5,3,Missed,1,,,0,v,MISS Brink 3' Running Layup,Missed Shot,Running Layup Shot,1,2,338
+1022600061,492,PT00M44.60S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,Ogwumike REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,339
+1022600061,506,PT00M43.70S,3,1611661320,LAS,203014,Ogwumike,N. Ogwumike,23,16,3,Missed,1,,,0,v,MISS Ogwumike 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,340
+1022600061,506,PT00M43.70S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow BLOCK (1 BLK),,,1,2,341
+1022600061,508,PT00M42.70S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,342
+1022600061,495,PT00M32.30S,3,1611661323,CON,1642809,Rivers,S. Rivers,-16,7,2,Made,1,61,60,121,h,Rivers 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,343
+1022600061,496,PT00M23.40S,3,1611661320,LAS,1642287,Brink,C. Brink,-152,198,25,Missed,1,,,0,v,MISS Brink 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+1022600061,497,PT00M21.40S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,345
+1022600061,498,PT00M05.20S,3,1611661320,LAS,1642324,Martin,K. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P3.PN),Foul,Shooting,1,0,346
+1022600061,500,PT00M05.20S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,MISS Burke Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,347
+1022600061,501,PT00M05.20S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,1,0,348
+1022600061,502,PT00M05.20S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,62,60,122,h,Burke Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,349
+1022600061,505,PT00M00.00S,3,0,,0,,,0,0,0,,0,62,60,122,,End of 3rd Period (7:47 PM EST),period,end,1,0,350
+1022600061,513,PT10M00.00S,4,0,,0,,,0,0,0,,0,62,60,122,,Start of 4th Period (7:51 PM EST),period,start,1,0,351
+1022600061,514,PT09M46.00S,4,1611661323,CON,1629568,Burke,K. Burke,-228,13,0,Made,1,65,60,125,h,Burke 3PT Jump Shot (11 PTS) (Beers 1 AST),Made Shot,Jump Shot,1,3,352
+1022600061,516,PT09M33.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,-10,20,2,Made,1,65,62,127,v,Wheeler 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,353
+1022600061,517,PT09M19.00S,4,1611661323,CON,1643448,Angloma,N. Angloma,205,115,24,Missed,1,,,0,h,MISS Angloma 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+1022600061,518,PT09M16.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,355
+1022600061,519,PT09M07.00S,4,1611661323,CON,1642809,Rivers,S. Rivers,-21,115,12,Missed,1,,,0,h,MISS Rivers 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,356
+1022600061,520,PT09M06.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,357
+1022600061,521,PT09M06.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins S.FOUL (P3.T1),Foul,Shooting,1,0,358
+1022600061,523,PT09M06.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,66,62,128,h,Morrow Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,359
+1022600061,524,PT09M06.00S,4,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,SUB: Lacan FOR Angloma,Substitution,,0,0,360
+1022600061,525,PT09M06.00S,4,1611661320,LAS,1642324,Martin,K. Martin,0,0,0,,0,,,0,v,SUB: Burrell FOR Martin,Substitution,,0,0,361
+1022600061,528,PT09M06.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,67,62,129,h,Morrow Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,362
+1022600061,529,PT08M54.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,146,208,25,Missed,1,,,0,v,MISS Ogwumike 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+1022600061,530,PT08M51.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,364
+1022600061,531,PT08M46.00S,4,1611661323,CON,1642809,Rivers,S. Rivers,21,14,3,Missed,1,,,0,h,MISS Rivers 3' Running Layup,Missed Shot,Running Layup Shot,1,2,365
+1022600061,531,PT08M46.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby BLOCK (2 BLK),,,1,2,366
+1022600061,533,PT08M45.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,367
+1022600061,535,PT08M39.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,-83,142,16,Missed,1,,,0,h,MISS Lacan 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,368
+1022600061,536,PT08M37.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,369
+1022600061,537,PT08M27.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,21,9,2,Missed,1,,,0,h,MISS Lacan 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,370
+1022600061,541,PT08M26.00S,4,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,371
+1022600061,538,PT08M26.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Jump Ball Lacan vs. Hamby: Tip to Wheeler,Jump Ball,,1,0,372
+1022600061,542,PT08M14.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers S.FOUL (P3.T1),Foul,Shooting,1,0,373
+1022600061,544,PT08M14.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,67,63,130,v,Wheeler Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,374
+1022600061,545,PT08M14.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,67,64,131,v,Wheeler Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,375
+1022600061,546,PT07M59.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,161,207,26,Missed,1,,,0,h,MISS Morrow 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+1022600061,547,PT07M57.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,377
+1022600061,548,PT07M55.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,-48,149,16,Made,1,69,64,133,h,Lacan 16' Jump Shot (11 PTS) (Beers 2 AST),Made Shot,Jump Shot,1,2,378
+1022600061,550,PT07M40.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler Bad Pass Turnover (P4.T15),Turnover,Bad Pass,1,0,379
+1022600061,550,PT07M40.00S,4,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers STEAL (1 STL),,,1,0,380
+1022600061,552,PT07M38.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins S.FOUL (P4.T2),Foul,Shooting,1,0,381
+1022600061,554,PT07M38.00S,4,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,382
+1022600061,556,PT07M38.00S,4,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Rivers,Substitution,,0,0,383
+1022600061,557,PT07M38.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,SUB: Miller FOR Morrow,Substitution,,0,0,384
+1022600061,560,PT07M38.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,MISS Lacan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,385
+1022600061,561,PT07M38.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,1,0,386
+1022600061,562,PT07M38.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,70,64,134,h,Lacan Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,387
+1022600061,565,PT07M20.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa P.FOUL (P3.T2),Foul,Personal,1,0,388
+1022600061,567,PT07M09.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,23,53,6,Missed,1,,,0,v,MISS Burrell 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,389
+1022600061,568,PT07M08.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,390
+1022600061,569,PT06M58.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,68,101,12,Missed,1,,,0,h,MISS Lacan 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,391
+1022600061,570,PT06M52.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,392
+1022600061,571,PT06M46.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,Ogwumike P.FOUL (P1.T3),Foul,Personal,1,0,393
+1022600061,573,PT06M46.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,SUB: Gray FOR Hamby,Substitution,,0,0,394
+1022600061,574,PT06M46.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,SUB: Brink FOR Wheeler,Substitution,,0,0,395
+1022600061,577,PT06M39.00S,4,1611661323,CON,1641649,Miller,D. Miller,-21,3,2,Missed,1,,,0,h,MISS Miller 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,396
+1022600061,578,PT06M38.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,397
+1022600061,582,PT06M38.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,398
+1022600061,581,PT06M38.00S,4,0,,579,,,0,0,0,,0,70,64,134,,Instant Replay4th Period (8:02 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,399
+1022600061,584,PT06M38.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Jump Ball Nelson-Ododa vs. Brink: Tip to Lacan,Jump Ball,,0,0,400
+1022600061,588,PT06M26.00S,4,1611661323,CON,1629568,Burke,K. Burke,-163,197,26,Missed,1,,,0,h,MISS Burke 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,401
+1022600061,589,PT06M22.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,402
+1022600061,628,PT06M18.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,-172,158,0,Missed,1,,,0,h,MISS Lacan 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+1022600061,629,PT06M18.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,404
+1022600061,590,PT06M13.00S,4,1611661323,CON,1641649,Miller,D. Miller,7,8,1,Made,1,72,64,136,h,Miller 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,405
+1022600061,591,PT06M13.00S,4,1611661320,LAS,1643462,Gray,C. Gray,0,0,0,,0,,,0,v,Gray S.FOUL (P2.T4),Foul,Shooting,1,0,406
+1022600061,593,PT06M13.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,73,64,137,h,Miller Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,407
+1022600061,594,PT06M01.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,-10,32,3,Missed,1,,,0,v,MISS Atkins 3' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,408
+1022600061,595,PT06M00.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,409
+1022600061,596,PT05M39.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,-223,190,29,Missed,1,,,0,h,MISS Lacan 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+1022600061,597,PT05M38.00S,4,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,411
+1022600061,598,PT05M38.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers L.B.FOUL (P4.T3),Foul,Loose Ball,1,0,412
+1022600061,602,PT05M23.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa S.FOUL (P4.T4),Foul,Shooting,1,0,413
+1022600061,604,PT05M23.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,73,65,138,v,Atkins Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+1022600061,605,PT05M23.00S,4,1611661320,LAS,1643462,Gray,C. Gray,0,0,0,,0,,,0,v,SUB: Wheeler FOR Gray,Substitution,,0,0,415
+1022600061,607,PT05M23.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,73,66,139,v,Atkins Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+1022600061,608,PT05M08.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers OFF.Foul (P5),Foul,Offensive,1,0,417
+1022600061,610,PT05M08.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0,418
+1022600061,611,PT05M08.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,SUB: Morrow FOR Beers,Substitution,,0,0,419
+1022600061,614,PT04M58.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,23,16,3,Missed,1,,,0,v,MISS Burrell 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,420
+1022600061,614,PT04M58.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke BLOCK (3 BLK),,,1,2,421
+1022600061,616,PT04M56.00S,4,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,422
+1022600061,618,PT04M50.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,-84,238,25,Missed,1,,,0,v,MISS Wheeler 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,423
+1022600061,619,PT04M49.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,424
+1022600061,621,PT04M33.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,140,55,15,Missed,1,,,0,h,MISS Morrow 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,425
+1022600061,622,PT04M29.00S,4,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,426
+1022600061,623,PT04M16.00S,4,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,Brink Bad Pass Turnover (P5.T16),Turnover,Bad Pass,1,0,427
+1022600061,623,PT04M16.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke STEAL (2 STL),,,1,0,428
+1022600061,625,PT03M56.00S,4,1611661323,CON,1641649,Miller,D. Miller,5,3,1,Made,1,75,66,141,h,Miller 1' Cutting Layup Shot (12 PTS) (Lacan 2 AST),Made Shot,Cutting Layup Shot,1,2,429
+1022600061,627,PT03M51.00S,4,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,430
+1022600061,630,PT03M38.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,11,12,2,Made,1,75,68,143,v,Wheeler 2' Driving Layup (11 PTS) (Brink 3 AST),Made Shot,Driving Layup Shot,1,2,431
+1022600061,636,PT03M21.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,0,0,0,,0,,,0,v,Wheeler S.FOUL (P3.PN),Foul,Shooting,1,0,432
+1022600061,638,PT03M21.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,MISS Lacan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,433
+1022600061,639,PT03M21.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,434
+1022600061,640,PT03M21.00S,4,1611661320,LAS,1642287,Brink,C. Brink,0,0,0,,0,,,0,v,SUB: Hamby FOR Brink,Substitution,,0,0,435
+1022600061,642,PT03M21.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,MISS Lacan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,436
+1022600061,643,PT03M21.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,437
+1022600061,644,PT03M04.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,24,4,2,Missed,1,,,0,v,MISS Wheeler 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,438
+1022600061,645,PT03M02.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,Ogwumike REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,439
+1022600061,646,PT03M01.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,-6,1,Made,1,75,70,145,v,Ogwumike 1' Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,440
+1022600061,647,PT02M43.00S,4,1611661323,CON,1641649,Miller,D. Miller,-48,120,13,Missed,1,,,0,h,MISS Miller 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,441
+1022600061,648,PT02M42.00S,4,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Rebound,Rebound,Unknown,1,0,442
+1022600061,649,PT02M42.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller L.B.FOUL (P3.PN),Foul,Loose Ball,1,0,443
+1022600061,651,PT02M42.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,75,71,146,v,Atkins Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,444
+1022600061,652,PT02M42.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Rivers FOR Miller,Substitution,,0,0,445
+1022600061,654,PT02M42.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,75,72,147,v,Atkins Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,446
+1022600061,655,PT02M25.00S,4,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0,447
+1022600061,655,PT02M25.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins STEAL (4 STL),,,1,0,448
+1022600061,657,PT02M22.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins Bad Pass Turnover (P3.T17),Turnover,Bad Pass,1,0,449
+1022600061,657,PT02M22.00S,4,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers STEAL (2 STL),,,1,0,450
+1022600061,659,PT02M16.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,11,7,1,Made,1,77,72,149,h,Morrow 1' Running Layup (17 PTS) (Rivers 4 AST),Made Shot,Running Layup Shot,1,2,451
+1022600061,661,PT02M01.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,10,15,2,Made,1,77,74,151,v,Ogwumike 2' Cutting Layup Shot (12 PTS) (Hamby 1 AST),Made Shot,Cutting Layup Shot,1,2,452
+1022600061,663,PT01M48.00S,4,1611661320,LAS,1628878,Atkins,A. Atkins,0,0,0,,0,,,0,v,Atkins P.FOUL (P5.PN),Foul,Personal,1,0,453
+1022600061,665,PT01M48.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,78,74,152,h,Nelson-Ododa Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,454
+1022600061,666,PT01M48.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,79,74,153,h,Nelson-Ododa Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,455
+1022600061,667,PT01M37.00S,4,1611661320,LAS,204365,Wheeler,E. Wheeler,-24,12,3,Made,1,79,76,155,v,Wheeler 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,456
+1022600061,668,PT01M25.00S,4,1611661323,CON,1629568,Burke,K. Burke,6,-3,1,Made,1,81,76,157,h,Burke 1' Driving Layup (13 PTS) (Lacan 3 AST),Made Shot,Driving Layup Shot,1,2,457
+1022600061,669,PT01M07.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,12,13,2,Missed,1,,,0,v,MISS Burrell 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,458
+1022600061,670,PT01M05.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,459
+1022600061,671,PT01M02.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan Traveling Turnover (P1.T15),Turnover,Traveling,1,0,460
+1022600061,672,PT01M02.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Violation: Delay of game Violation,Violation,Delay Of Game,0,0,461
+1022600061,673,PT01M02.00S,4,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,462
+1022600061,674,PT00M52.00S,4,1611661320,LAS,1630996,Burrell,R. Burrell,-141,206,25,Made,1,81,79,160,v,Burrell 25' 3PT Jump Shot (16 PTS) (Hamby 2 AST),Made Shot,Jump Shot,1,3,463
+1022600061,676,PT00M30.70S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Lost Ball Turnover (P3.T16),Turnover,Lost Ball,1,0,464
+1022600061,676,PT00M30.70S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby STEAL (1 STL),,,1,0,465
+1022600061,678,PT00M20.10S,4,1611661320,LAS,204324,Hamby,D. Hamby,-22,5,2,Missed,1,,,0,v,MISS Hamby 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,466
+1022600061,679,PT00M18.50S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,467
+1022600061,680,PT00M12.00S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,0,0,0,,0,,,0,v,Ogwumike Personal Take Foul (P2.PN),Foul,Personal Take,1,0,468
+1022600061,682,PT00M12.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,82,79,161,h,Nelson-Ododa Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,469
+1022600061,683,PT00M12.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,83,79,162,h,Nelson-Ododa Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,470
+1022600061,685,PT00M12.00S,4,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,471
+1022600061,686,PT00M08.30S,4,1611661320,LAS,1628878,Atkins,A. Atkins,-224,20,0,Missed,1,,,0,v,MISS Atkins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+1022600061,687,PT00M07.20S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,473
+1022600061,688,PT00M06.90S,4,1611661320,LAS,1630996,Burrell,R. Burrell,0,0,0,,0,,,0,v,Burrell Personal Take Foul (P2.PN),Foul,Personal Take,1,0,474
+1022600061,690,PT00M06.90S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,MISS Burke Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,475
+1022600061,691,PT00M06.90S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,1,0,476
+1022600061,692,PT00M06.90S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,84,79,163,h,Burke Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,477
+1022600061,693,PT00M06.90S,4,0,,1611661320,,,0,0,0,,0,,,0,v,Sparks Timeout: Reset (Reg.4 Short 0),Timeout,Reset,0,0,478
+1022600061,694,PT00M04.20S,4,1611661320,LAS,203014,Ogwumike,N. Ogwumike,-35,242,24,Missed,1,,,0,v,MISS Ogwumike 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,479
+1022600061,694,PT00M04.20S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa BLOCK (1 BLK),,,1,3,480
+1022600061,696,PT00M03.40S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,481
+1022600061,697,PT00M03.00S,4,1611661320,LAS,204324,Hamby,D. Hamby,10,60,6,Missed,1,,,0,v,MISS Hamby 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,482
+1022600061,698,PT00M02.80S,4,1611661320,LAS,204324,Hamby,D. Hamby,0,0,0,,0,,,0,v,Hamby REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,483
+1022600061,699,PT00M02.20S,4,1611661320,LAS,204324,Hamby,D. Hamby,21,10,2,Made,1,84,81,165,v,Hamby 2' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,2,484
+1022600061,700,PT00M00.00S,4,0,,0,,,0,0,0,,0,84,81,165,,End of 4th Period (8:26 PM EST),period,end,1,0,485

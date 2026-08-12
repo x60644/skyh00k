@@ -1,0 +1,481 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600123,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:03 PM EST),period,start,1,0,1
+1022600123,4,PT10M00.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Jump Ball Griner vs. Cardoso: Tip to Lacan,Jump Ball,,1,0,2
+1022600123,7,PT09M40.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,1,37,4,Made,1,2,0,2,h,Lacan 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,3
+1022600123,8,PT09M24.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,26,12,3,Missed,1,,,0,v,MISS Cardoso 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,4
+1022600123,9,PT09M24.00S,1,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,5
+1022600123,11,PT09M16.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,228,-2,0,Missed,1,,,0,v,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,6
+1022600123,12,PT09M12.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+1022600123,13,PT08M58.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,-39,17,4,Missed,1,,,0,h,MISS Nelson-Ododa 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,8
+1022600123,14,PT08M56.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+1022600123,15,PT08M38.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,-24,3,2,Missed,1,,,0,v,MISS Cardoso 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,10
+1022600123,15,PT08M38.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner BLOCK (1 BLK),,,1,2,11
+1022600123,17,PT08M38.00S,1,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,12
+1022600123,19,PT08M34.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,-207,109,0,Made,1,2,3,5,v,Taylor 3PT Jump Shot (3 PTS) (Diggins 1 AST),Made Shot,Jump Shot,1,3,13
+1022600123,21,PT08M15.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,-125,-10,13,Missed,1,,,0,h,MISS Leger-Walker 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,14
+1022600123,22,PT08M15.00S,1,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,15
+1022600123,24,PT07M59.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,-145,203,25,Missed,1,,,0,v,MISS Taylor 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,16
+1022600123,24,PT07M59.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller BLOCK (1 BLK),,,1,3,17
+1022600123,26,PT07M55.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,18
+1022600123,27,PT07M48.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,19
+1022600123,28,PT07M34.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,-5,23,2,Made,1,2,5,7,v,Cardoso 2' Jump Bank Shot (2 PTS) (Diggins 2 AST),Made Shot,Jump Bank Shot,1,2,20
+1022600123,30,PT07M13.00S,1,1611661323,CON,203398,Griner,B. Griner,10,52,5,Missed,1,,,0,h,MISS Griner 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,21
+1022600123,31,PT07M11.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,22
+1022600123,33,PT07M01.00S,1,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,23
+1022600123,33,PT07M01.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan STEAL (1 STL),,,1,0,24
+1022600123,35,PT07M00.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,16,32,4,Made,1,4,5,9,h,Lacan 4' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,25
+1022600123,36,PT07M00.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,Diggins S.FOUL (P1.T1),Foul,Shooting,1,0,26
+1022600123,38,PT07M00.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,5,5,10,h,Lacan Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,27
+1022600123,39,PT06M49.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,-16,14,2,Missed,1,,,0,v,MISS Diggins 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,28
+1022600123,40,PT06M46.00S,1,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,29
+1022600123,41,PT06M44.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,238,19,24,Missed,1,,,0,v,MISS Diggins 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,30
+1022600123,42,PT06M40.00S,1,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,31
+1022600123,43,PT06M29.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,23,-3,2,Missed,1,,,0,v,MISS Taylor 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,32
+1022600123,44,PT06M26.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,33
+1022600123,45,PT06M09.00S,1,1611661323,CON,203398,Griner,B. Griner,42,11,4,Missed,1,,,0,h,MISS Griner 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,34
+1022600123,46,PT06M07.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,35
+1022600123,47,PT06M02.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker S.FOUL (P1.T1),Foul,Shooting,1,0,36
+1022600123,49,PT06M02.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,5,6,11,v,Diggins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,37
+1022600123,50,PT06M02.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,SUB: Morrow FOR Griner,Substitution,,0,0,38
+1022600123,51,PT06M02.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,SUB: Rivers FOR Leger-Walker,Substitution,,0,0,39
+1022600123,52,PT06M02.00S,1,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,SUB: Cloud FOR Jaquez,Substitution,,0,0,40
+1022600123,56,PT06M02.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,5,7,12,v,Diggins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,41
+1022600123,57,PT05M49.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,-58,155,17,Missed,1,,,0,h,MISS Rivers 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,42
+1022600123,58,PT05M46.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,43
+1022600123,59,PT05M25.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,-9,13,2,Missed,1,,,0,v,MISS Cardoso 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,44
+1022600123,60,PT05M22.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,45
+1022600123,61,PT05M21.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,169,176,24,Missed,1,,,0,v,MISS Cloud 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,46
+1022600123,62,PT05M21.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,47
+1022600123,63,PT05M21.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso L.B.FOUL (P1.T2),Foul,Loose Ball,1,0,48
+1022600123,65,PT05M21.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,SUB: Sheldon FOR Taylor,Substitution,,0,0,49
+1022600123,67,PT05M04.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso S.FOUL (P2.T3),Foul,Shooting,1,0,50
+1022600123,69,PT05M04.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,6,7,13,h,Nelson-Ododa Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,51
+1022600123,70,PT05M04.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,SUB: Williams FOR Cardoso,Substitution,,0,0,52
+1022600123,72,PT05M04.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,7,7,14,h,Nelson-Ododa Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,53
+1022600123,73,PT04M52.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,4,67,7,Missed,1,,,0,v,MISS Stevens 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,54
+1022600123,74,PT04M49.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,55
+1022600123,75,PT04M41.00S,1,1611661323,CON,1641649,Miller,D. Miller,144,208,25,Missed,1,,,0,h,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+1022600123,76,PT04M39.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+1022600123,77,PT04M35.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,90,62,11,Missed,1,,,0,v,MISS Stevens 11' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,58
+1022600123,78,PT04M32.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+1022600123,79,PT04M25.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,16,15,2,Missed,1,,,0,h,MISS Morrow 2' Running Layup,Missed Shot,Running Layup Shot,1,2,60
+1022600123,80,PT04M22.00S,1,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,61
+1022600123,82,PT04M05.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,71,109,13,Made,1,7,9,16,v,Stevens 13' Pullup Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,1,2,62
+1022600123,84,PT03M52.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,28,12,3,Made,1,9,9,18,h,Nelson-Ododa 3' Driving Layup (4 PTS) (Miller 1 AST),Made Shot,Driving Layup Shot,1,2,63
+1022600123,86,PT03M36.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers S.FOUL (P1.T2),Foul,Shooting,1,0,64
+1022600123,88,PT03M36.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,65
+1022600123,89,PT03M36.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Miller,Substitution,,0,0,66
+1022600123,90,PT03M36.00S,1,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,SUB: Burke FOR Nelson-Ododa,Substitution,,0,0,67
+1022600123,91,PT03M36.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,SUB: Edwards FOR Lacan,Substitution,,0,0,68
+1022600123,92,PT03M36.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,SUB: Westbeld FOR Diggins,Substitution,,0,0,69
+1022600123,93,PT03M36.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,SUB: Taylor FOR Stevens,Substitution,,0,0,70
+1022600123,99,PT03M36.00S,1,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,71
+1022600123,100,PT03M36.00S,1,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Normal Rebound,0,0,72
+1022600123,101,PT03M36.00S,1,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,73
+1022600123,102,PT03M34.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+1022600123,103,PT03M15.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,-162,189,25,Missed,1,,,0,h,MISS Leger-Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+1022600123,104,PT03M14.00S,1,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,76
+1022600123,105,PT03M14.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards L.B.FOUL (P1.T3),Foul,Loose Ball,1,0,77
+1022600123,107,PT03M05.00S,1,1611661329,CHI,1642818,Westbeld,M. Westbeld,-160,212,27,Missed,1,,,0,v,MISS Westbeld 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+1022600123,108,PT03M04.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,79
+1022600123,110,PT03M02.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,233,24,0,Missed,1,,,0,v,MISS Taylor 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+1022600123,111,PT02M59.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+1022600123,112,PT02M48.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,137,34,14,Missed,1,,,0,h,MISS Edwards 14' Jump Shot,Missed Shot,Jump Shot,1,2,82
+1022600123,113,PT02M45.00S,1,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,83
+1022600123,115,PT02M37.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers S.FOUL (P2.T4),Foul,Shooting,1,0,84
+1022600123,117,PT02M37.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,9,10,19,v,Cloud Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,85
+1022600123,118,PT02M37.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,9,11,20,v,Cloud Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,86
+1022600123,119,PT02M25.00S,1,1611661323,CON,1629568,Burke,K. Burke,-28,11,3,Missed,1,,,0,h,MISS Burke 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,87
+1022600123,120,PT02M24.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,88
+1022600123,167,PT02M24.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,1,-5,1,Missed,1,,,0,h,MISS Edwards 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,89
+1022600123,168,PT02M24.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,90
+1022600123,121,PT02M23.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,0,-6,1,Made,1,11,11,22,h,Edwards 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,91
+1022600123,122,PT02M08.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Jump Ball Morrow vs. Cloud: Tip to Leger-Walker,Jump Ball,,1,0,92
+1022600123,125,PT02M07.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,93
+1022600123,125,PT02M07.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow STEAL (1 STL),,,1,0,94
+1022600123,127,PT02M03.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,95
+1022600123,128,PT01M51.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,96
+1022600123,128,PT01M51.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke STEAL (1 STL),,,1,0,97
+1022600123,130,PT01M47.00S,1,1611661329,CHI,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,v,Westbeld S.FOUL (P1.T4),Foul,Shooting,1,0,98
+1022600123,132,PT01M47.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,MISS Burke Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,99
+1022600123,133,PT01M47.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,100
+1022600123,134,PT01M47.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,SUB: Lacan FOR Leger-Walker,Substitution,,0,0,101
+1022600123,136,PT01M47.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,12,11,23,h,Burke Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,102
+1022600123,137,PT01M31.00S,1,1611661329,CHI,204322,Williams,E. Williams,0,58,6,Missed,1,,,0,v,MISS Williams 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,103
+1022600123,138,PT01M29.00S,1,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+1022600123,139,PT01M21.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,166,193,25,Made,1,15,11,26,h,Edwards 25' 3PT Jump Shot (5 PTS) (Burke 1 AST),Made Shot,Jump Shot,1,3,105
+1022600123,141,PT01M21.00S,1,1611661329,CHI,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,v,Westbeld P.FOUL (P2.PN),Foul,Personal,1,0,106
+1022600123,144,PT01M21.00S,1,0,,141,Tucker,A. Tucker,0,0,0,,0,15,11,26,,Instant Replay1st Period (7:23 PM EST),Instant Replay,Support Ruling,0,0,107
+1022600123,145,PT01M21.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,16,11,27,h,Morrow Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,1,0,108
+1022600123,148,PT01M21.00S,1,1611661329,CHI,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,v,SUB: Stevens FOR Westbeld,Substitution,,0,0,109
+1022600123,166,PT01M21.00S,1,0,,0,,,0,0,0,,0,16,11,27,,Instant Replay1st Period (7:28 PM EST),Instant Replay,Overturn Ruling,0,0,110
+1022600123,151,PT01M00.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,154,221,27,Missed,1,,,0,v,MISS Taylor 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,111
+1022600123,152,PT00M58.60S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,0,0,112
+1022600123,154,PT00M51.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,113
+1022600123,155,PT00M42.70S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan P.FOUL (P1.PN),Foul,Personal,1,0,114
+1022600123,157,PT00M42.70S,1,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,115
+1022600123,158,PT00M42.70S,1,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Normal Rebound,0,0,116
+1022600123,159,PT00M42.70S,1,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,16,12,28,v,Williams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,117
+1022600123,160,PT00M26.50S,1,1611661323,CON,1642290,Edwards,A. Edwards,53,7,5,Missed,1,,,0,h,MISS Edwards 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,118
+1022600123,161,PT00M23.80S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+1022600123,162,PT00M03.30S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,120
+1022600123,163,PT00M00.00S,1,1611661323,CON,1629568,Burke,K. Burke,-230,20,0,Missed,1,,,0,h,MISS Burke 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+1022600123,164,PT00M00.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,0,0,122
+1022600123,165,PT00M00.00S,1,0,,0,,,0,0,0,,0,16,12,28,,End of 1st Period (7:31 PM EST),period,end,1,0,123
+1022600123,177,PT10M00.00S,2,0,,0,,,0,0,0,,0,16,12,28,,Start of 2nd Period (7:34 PM EST),period,start,0,0,124
+1022600123,179,PT09M43.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,5,30,3,Missed,1,,,0,v,MISS Diggins 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,125
+1022600123,180,PT09M40.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,126
+1022600123,181,PT09M38.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,127
+1022600123,181,PT09M38.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,Diggins STEAL (1 STL),,,1,0,128
+1022600123,183,PT09M36.00S,2,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan S.FOUL (P2.T1),Foul,Shooting,1,0,129
+1022600123,185,PT09M36.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,16,13,29,v,Cardoso Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,130
+1022600123,186,PT09M36.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,SUB: Griner FOR Morrow,Substitution,,0,0,131
+1022600123,187,PT09M36.00S,2,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Lacan,Substitution,,0,0,132
+1022600123,190,PT09M36.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,16,14,30,v,Cardoso Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,133
+1022600123,191,PT09M17.00S,2,1611661323,CON,1629568,Burke,K. Burke,102,66,12,Missed,1,,,0,h,MISS Burke 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,134
+1022600123,192,PT09M15.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,135
+1022600123,193,PT09M10.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,168,160,0,Missed,1,,,0,v,MISS Diggins 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,136
+1022600123,194,PT09M09.00S,2,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,137
+1022600123,196,PT09M09.00S,2,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,SUB: Morrow FOR Edwards,Substitution,,0,0,138
+1022600123,197,PT09M09.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,SUB: Miller FOR Rivers,Substitution,,0,0,139
+1022600123,200,PT08M59.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,70,7,Made,1,16,16,32,v,Jaquez 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,140
+1022600123,202,PT08M44.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,Diggins S.FOUL (P2.T1),Foul,Shooting,1,0,141
+1022600123,204,PT08M44.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,17,16,33,h,Leger-Walker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,142
+1022600123,205,PT08M44.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,18,16,34,h,Leger-Walker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,143
+1022600123,206,PT08M37.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner P.FOUL (P1.T2),Foul,Personal,1,0,144
+1022600123,208,PT08M37.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,SUB: Cloud FOR Diggins,Substitution,,0,0,145
+1022600123,210,PT08M29.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,-226,56,0,Missed,1,,,0,v,MISS Jaquez 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+1022600123,211,PT08M26.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+1022600123,212,PT08M20.00S,2,1611661323,CON,1641649,Miller,D. Miller,111,235,26,Made,1,21,16,37,h,Miller 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,148
+1022600123,213,PT08M03.00S,2,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,v,Banham Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,149
+1022600123,213,PT08M03.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke STEAL (2 STL),,,1,0,150
+1022600123,215,PT07M47.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso S.FOUL (P3.T2),Foul,Shooting,1,0,151
+1022600123,217,PT07M47.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,22,16,38,h,Leger-Walker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,152
+1022600123,218,PT07M47.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,SUB: Williams FOR Cardoso,Substitution,,0,0,153
+1022600123,220,PT07M47.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,23,16,39,h,Leger-Walker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,154
+1022600123,221,PT07M41.00S,2,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller P.FOUL (P1.T3),Foul,Personal,1,0,155
+1022600123,223,PT07M36.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,30,18,3,Made,1,23,18,41,v,Jaquez 3' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,156
+1022600123,224,PT07M36.00S,2,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller S.FOUL (P2.T4),Foul,Shooting,1,0,157
+1022600123,226,PT07M36.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,23,19,42,v,Jaquez Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,158
+1022600123,227,PT07M22.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,159
+1022600123,227,PT07M22.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,1,0,160
+1022600123,229,PT07M10.00S,2,1611661329,CHI,1627671,Banham,R. Banham,94,242,26,Made,1,23,22,45,v,Banham 26' 3PT Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,161
+1022600123,231,PT07M08.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,162
+1022600123,232,PT07M08.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,SUB: Westbeld FOR Stevens,Substitution,,0,0,163
+1022600123,234,PT06M54.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,22,23,3,Missed,1,,,0,h,MISS Morrow 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,164
+1022600123,235,PT06M53.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,165
+1022600123,236,PT06M51.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,21,4,2,Missed,1,,,0,h,MISS Morrow 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,166
+1022600123,237,PT06M51.00S,2,1611661329,CHI,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,v,Westbeld REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,167
+1022600123,238,PT06M38.00S,2,1611661329,CHI,1627671,Banham,R. Banham,-190,186,27,Missed,1,,,0,v,MISS Banham 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+1022600123,239,PT06M38.00S,2,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,169
+1022600123,240,PT06M35.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner L.B.FOUL (P2.PN),Foul,Loose Ball,1,0,170
+1022600123,242,PT06M35.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Violation: Delay of game Violation,Violation,Delay Of Game,0,0,171
+1022600123,243,PT06M35.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Morrow,Substitution,,0,0,172
+1022600123,245,PT06M35.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,23,23,46,v,Williams Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,173
+1022600123,246,PT06M35.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,174
+1022600123,247,PT06M32.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,175
+1022600123,248,PT06M18.00S,2,1611661329,CHI,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,v,Westbeld P.FOUL (P3.T3),Foul,Personal,1,0,176
+1022600123,250,PT06M18.00S,2,1611661329,CHI,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,v,SUB: Stevens FOR Westbeld,Substitution,,0,0,177
+1022600123,252,PT06M06.00S,2,1611661323,CON,203398,Griner,B. Griner,10,39,4,Made,1,25,23,48,h,Griner 4' Driving Hook Shot (2 PTS) (Miller 2 AST),Made Shot,Driving Hook Shot,1,2,178
+1022600123,254,PT05M48.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,-35,30,5,Missed,1,,,0,v,MISS Jaquez 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,179
+1022600123,254,PT05M48.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner BLOCK (2 BLK),,,1,2,180
+1022600123,256,PT05M47.00S,2,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,181
+1022600123,258,PT05M47.00S,2,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,v,SUB: Taylor FOR Banham,Substitution,,0,0,182
+1022600123,260,PT05M45.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,-176,170,24,Missed,1,,,0,v,MISS Taylor 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,183
+1022600123,261,PT05M40.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,184
+1022600123,262,PT05M35.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,-121,231,26,Missed,1,,,0,h,MISS Leger-Walker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,185
+1022600123,263,PT05M32.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,186
+1022600123,264,PT05M20.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,187
+1022600123,265,PT05M01.00S,2,1611661323,CON,1629568,Burke,K. Burke,213,135,25,Made,1,28,23,51,h,Burke 25' 3PT Jump Shot (4 PTS) (Griner 1 AST),Made Shot,Jump Shot,1,3,188
+1022600123,267,PT04M43.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,189
+1022600123,267,PT04M43.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa STEAL (1 STL),,,1,0,190
+1022600123,270,PT04M37.00S,2,1611661323,CON,1629568,Burke,K. Burke,144,55,15,Made,1,30,23,53,h,Burke 15' Pullup Jump Shot (6 PTS) (Leger-Walker 1 AST),Made Shot,Pullup Jump shot,1,2,191
+1022600123,272,PT04M35.00S,2,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,192
+1022600123,273,PT04M35.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,SUB: Diggins FOR Jaquez,Substitution,,0,0,193
+1022600123,275,PT04M15.00S,2,1611661329,CHI,204322,Williams,E. Williams,-20,73,8,Missed,1,,,0,v,MISS Williams 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,194
+1022600123,275,PT04M15.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa BLOCK (1 BLK),,,1,2,195
+1022600123,277,PT04M12.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,196
+1022600123,279,PT03M59.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,-235,31,24,Made,1,33,23,56,h,Leger-Walker 24' 3PT Jump Shot (7 PTS) (Griner 2 AST),Made Shot,Jump Shot,1,3,197
+1022600123,281,PT03M42.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,36,168,17,Missed,1,,,0,v,MISS Taylor 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,198
+1022600123,282,PT03M39.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,199
+1022600123,283,PT03M36.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens P.FOUL (P1.T4),Foul,Personal,1,0,200
+1022600123,285,PT03M26.00S,2,1611661323,CON,203398,Griner,B. Griner,61,32,7,Made,1,35,23,58,h,Griner 7' Turnaround Hook Shot (4 PTS) (Leger-Walker 2 AST),Made Shot,Turnaround Hook Shot,1,2,201
+1022600123,288,PT03M03.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,-156,218,27,Missed,1,,,0,v,MISS Cloud 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,202
+1022600123,289,PT03M00.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,203
+1022600123,290,PT02M51.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,28,22,4,Made,1,37,23,60,h,Leger-Walker 4' Cutting Layup Shot (9 PTS) (Nelson-Ododa 1 AST),Made Shot,Cutting Layup Shot,1,2,204
+1022600123,292,PT02M38.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,-115,224,25,Made,1,37,26,63,v,Stevens 25' 3PT Jump Shot (5 PTS) (Taylor 1 AST),Made Shot,Jump Shot,1,3,205
+1022600123,294,PT02M18.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,140,55,15,Missed,1,,,0,h,MISS Leger-Walker 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,206
+1022600123,295,PT02M17.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,207
+1022600123,296,PT02M16.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,-6,1,Made,1,39,26,65,h,Nelson-Ododa 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,208
+1022600123,297,PT02M00.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,34,11,4,Missed,1,,,0,v,MISS Stevens 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,209
+1022600123,298,PT01M59.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,210
+1022600123,299,PT01M59.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,-6,1,Made,1,39,28,67,v,Stevens 1' Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,211
+1022600123,300,PT01M59.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker S.FOUL (P2.PN),Foul,Shooting,1,0,212
+1022600123,302,PT01M59.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,SUB: Rivers FOR Burke,Substitution,,0,0,213
+1022600123,303,PT01M59.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,SUB: Jaquez FOR Taylor,Substitution,,0,0,214
+1022600123,344,PT01M59.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,SUB: Cardoso FOR Williams,Substitution,,0,0,215
+1022600123,306,PT01M59.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,MISS Stevens Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,216
+1022600123,307,PT01M57.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,217
+1022600123,308,PT01M44.00S,2,1611661323,CON,203398,Griner,B. Griner,-26,13,3,Made,1,41,28,69,h,Griner 3' Driving Hook Shot (6 PTS) (Miller 3 AST),Made Shot,Driving Hook Shot,1,2,218
+1022600123,310,PT01M35.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,-29,120,12,Missed,1,,,0,v,MISS Diggins 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,219
+1022600123,311,PT01M32.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,220
+1022600123,312,PT01M26.00S,2,1611661323,CON,203398,Griner,B. Griner,57,0,6,Made,1,43,28,71,h,Griner 6' Driving Hook Shot (8 PTS) (Miller 4 AST),Made Shot,Driving Hook Shot,1,2,221
+1022600123,314,PT01M13.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa P.FOUL (P1.PN),Foul,Personal,1,0,222
+1022600123,316,PT01M13.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,43,29,72,v,Stevens Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,223
+1022600123,317,PT01M13.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,43,30,73,v,Stevens Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,224
+1022600123,320,PT01M00.00S,2,1611661323,CON,1641649,Miller,D. Miller,-32,10,3,Missed,1,,,0,h,MISS Miller 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,225
+1022600123,321,PT01M00.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,226
+1022600123,322,PT01M00.00S,2,1611661323,CON,203398,Griner,B. Griner,0,-6,1,Made,1,45,30,75,h,Griner 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,227
+1022600123,323,PT01M00.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens S.FOUL (P2.PN),Foul,Shooting,1,0,228
+1022600123,325,PT01M00.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,SUB: Williams FOR Stevens,Substitution,,0,0,229
+1022600123,327,PT01M00.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,MISS Griner Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,230
+1022600123,328,PT00M57.10S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,231
+1022600123,329,PT00M43.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,-27,31,4,Missed,1,,,0,v,MISS Cardoso 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,232
+1022600123,329,PT00M43.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner BLOCK (3 BLK),,,1,2,233
+1022600123,331,PT00M42.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,234
+1022600123,332,PT00M41.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso Traveling Turnover (P1.T8),Turnover,Traveling,1,0,235
+1022600123,333,PT00M35.30S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker Out of Bounds Lost Ball Turnover (P3.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,236
+1022600123,334,PT00M25.30S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,-143,223,26,Missed,1,,,0,v,MISS Jaquez 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+1022600123,335,PT00M21.20S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,238
+1022600123,336,PT00M19.30S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,-144,210,25,Missed,1,,,0,v,MISS Jaquez 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,239
+1022600123,337,PT00M17.10S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,240
+1022600123,338,PT00M02.20S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,118,36,12,Made,1,47,30,77,h,Leger-Walker 12' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,241
+1022600123,339,PT00M02.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,242
+1022600123,339,PT00M02.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker STEAL (1 STL),,,1,0,243
+1022600123,341,PT00M01.90S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,152,210,26,Missed,1,,,0,h,MISS Leger-Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,244
+1022600123,342,PT00M00.10S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,245
+1022600123,343,PT00M00.00S,2,0,,0,,,0,0,0,,0,47,30,77,,End of 2nd Period (8:01 PM EST),period,end,1,0,246
+1022600123,352,PT10M00.00S,3,0,,0,,,0,0,0,,0,47,30,77,,Start of 3rd Period (8:16 PM EST),period,start,1,0,247
+1022600123,353,PT09M43.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan S.FOUL (P3.T1),Foul,Shooting,1,0,248
+1022600123,355,PT09M43.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,47,31,78,v,Stevens Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,249
+1022600123,356,PT09M43.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,47,32,79,v,Stevens Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,250
+1022600123,357,PT09M29.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso S.FOUL (P4.T1),Foul,Shooting,1,0,251
+1022600123,359,PT09M29.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,MISS Nelson-Ododa Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,252
+1022600123,360,PT09M29.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,253
+1022600123,361,PT09M29.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,48,32,80,h,Nelson-Ododa Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,254
+1022600123,362,PT09M05.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,-234,13,0,Missed,1,,,0,v,MISS Taylor 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,255
+1022600123,363,PT09M02.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,256
+1022600123,364,PT08M47.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,43,4,4,Missed,1,,,0,h,MISS Nelson-Ododa 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,257
+1022600123,365,PT08M45.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,258
+1022600123,366,PT08M40.00S,3,1611661329,CHI,1643447,Jaquez,G. Jaquez,-41,11,4,Missed,1,,,0,v,MISS Jaquez 4' Running Layup,Missed Shot,Running Layup Shot,1,2,259
+1022600123,367,PT08M38.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,260
+1022600123,368,PT08M29.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,-16,13,2,Made,1,50,32,82,h,Nelson-Ododa 2' Reverse Layup (9 PTS) (Leger-Walker 3 AST),Made Shot,Reverse Layup Shot,1,2,261
+1022600123,370,PT08M11.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,21,12,2,Made,1,50,34,84,v,Taylor 2' Driving Layup (5 PTS) (Stevens 1 AST),Made Shot,Driving Layup Shot,1,2,262
+1022600123,372,PT07M54.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,33,19,4,Made,1,52,34,86,h,Lacan 4' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,263
+1022600123,373,PT07M41.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller S.FOUL (P3.T2),Foul,Shooting,1,0,264
+1022600123,375,PT07M41.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,52,35,87,v,Taylor Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,265
+1022600123,376,PT07M41.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,52,36,88,v,Taylor Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,266
+1022600123,377,PT07M31.00S,3,1611661323,CON,1641649,Miller,D. Miller,229,8,0,Missed,1,,,0,h,MISS Miller 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+1022600123,378,PT07M29.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,268
+1022600123,379,PT07M28.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,269
+1022600123,380,PT07M15.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,155,208,26,Missed,1,,,0,v,MISS Taylor 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,270
+1022600123,381,PT07M13.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,271
+1022600123,382,PT07M09.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,Diggins P.FOUL (P3.T2),Foul,Personal,1,0,272
+1022600123,384,PT07M09.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Burke FOR Miller,Substitution,,0,0,273
+1022600123,386,PT06M56.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,33,17,4,Made,1,54,36,90,h,Nelson-Ododa 4' Cutting Layup Shot (11 PTS) (Griner 3 AST),Made Shot,Cutting Layup Shot,1,2,274
+1022600123,388,PT06M44.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,275
+1022600123,388,PT06M44.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa STEAL (2 STL),,,1,0,276
+1022600123,390,PT06M40.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,33,-5,3,Made,1,56,36,92,h,Leger-Walker 3' Running Layup (13 PTS) (Burke 2 AST),Made Shot,Running Layup Shot,1,2,277
+1022600123,392,PT06M40.00S,3,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,278
+1022600123,393,PT06M40.00S,3,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,SUB: Sheldon FOR Jaquez,Substitution,,0,0,279
+1022600123,394,PT06M40.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,SUB: Cloud FOR Taylor,Substitution,,0,0,280
+1022600123,397,PT06M24.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,-16,13,2,Missed,1,,,0,v,MISS Cardoso 2' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,281
+1022600123,397,PT06M24.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner BLOCK (4 BLK),,,1,2,282
+1022600123,399,PT06M20.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,283
+1022600123,400,PT06M19.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,284
+1022600123,400,PT06M19.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan STEAL (2 STL),,,1,0,285
+1022600123,402,PT06M09.00S,3,1611661323,CON,203398,Griner,B. Griner,23,14,3,Missed,1,,,0,h,MISS Griner 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,286
+1022600123,402,PT06M09.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso BLOCK (1 BLK),,,1,2,287
+1022600123,404,PT06M06.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,288
+1022600123,405,PT05M58.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker P.FOUL (P3.T3),Foul,Personal,1,0,289
+1022600123,407,PT05M53.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,-207,150,26,Missed,1,,,0,v,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,290
+1022600123,408,PT05M51.00S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,291
+1022600123,409,PT05M43.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,-26,8,3,Missed,1,,,0,h,MISS Leger-Walker 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,292
+1022600123,410,PT05M41.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,293
+1022600123,411,PT05M27.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,38,16,4,Made,1,56,38,94,v,Cardoso 4' Cutting Layup Shot (6 PTS) (Diggins 3 AST),Made Shot,Cutting Layup Shot,1,2,294
+1022600123,413,PT05M03.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,-17,17,2,Missed,1,,,0,h,MISS Nelson-Ododa 2' Layup,Missed Shot,Layup Shot,1,2,295
+1022600123,414,PT05M00.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,296
+1022600123,415,PT04M57.00S,3,1611661323,CON,203398,Griner,B. Griner,-70,54,9,Made,1,58,38,96,h,Griner 9' Turnaround Jump Shot (12 PTS) (Leger-Walker 4 AST),Made Shot,Turnaround Jump Shot,1,2,297
+1022600123,417,PT04M56.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner T.FOUL (P2.T3),Foul,Technical,1,0,298
+1022600123,418,PT04M56.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,58,39,97,v,Diggins Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,1,0,299
+1022600123,419,PT04M56.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,SUB: Edwards FOR Nelson-Ododa,Substitution,,0,0,300
+1022600123,420,PT04M56.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,SUB: Rivers FOR Lacan,Substitution,,0,0,301
+1022600123,421,PT04M56.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,SUB: Westbeld FOR Stevens,Substitution,,0,0,302
+1022600123,425,PT04M42.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,1,130,13,Missed,1,,,0,v,MISS Sheldon 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,303
+1022600123,426,PT04M40.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,304
+1022600123,427,PT04M39.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner OFF.Foul (P3),Foul,Offensive,0,0,305
+1022600123,431,PT04M39.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,306
+1022600123,429,PT04M39.00S,3,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Coach Challenge (Reg.2 Short 0),Timeout,Coach Challenge,0,0,307
+1022600123,430,PT04M39.00S,3,0,,427,,,0,0,0,,0,58,39,97,,Instant Replay3rd Period (8:30 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,308
+1022600123,432,PT04M25.00S,3,1611661329,CHI,1642818,Westbeld,M. Westbeld,-124,227,26,Made,1,58,42,100,v,Westbeld 26' 3PT Jump Shot (3 PTS) (Diggins 4 AST),Made Shot,Jump Shot,1,3,309
+1022600123,435,PT04M20.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,310
+1022600123,435,PT04M20.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,Diggins STEAL (2 STL),,,1,0,311
+1022600123,437,PT04M19.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,6,-6,1,Missed,1,,,0,v,MISS Diggins 1' Layup,Missed Shot,Layup Shot,1,2,312
+1022600123,438,PT04M18.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,313
+1022600123,439,PT04M02.00S,3,1611661323,CON,1629568,Burke,K. Burke,207,145,25,Missed,1,,,0,h,MISS Burke 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+1022600123,440,PT04M00.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,315
+1022600123,441,PT03M59.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,-7,51,5,Made,1,60,42,102,h,Edwards 5' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,316
+1022600123,442,PT03M46.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,140,58,15,Missed,1,,,0,v,MISS Diggins 15' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,317
+1022600123,443,PT03M45.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,318
+1022600123,500,PT03M44.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,319
+1022600123,500,PT03M44.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso STEAL (1 STL),,,1,0,320
+1022600123,445,PT03M35.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,-61,119,13,Made,1,60,44,104,v,Cloud 13' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,321
+1022600123,447,PT03M11.00S,3,1611661329,CHI,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,v,Westbeld P.FOUL (P4.T3),Foul,Personal,1,0,322
+1022600123,449,PT03M11.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,SUB: Taylor FOR Diggins,Substitution,,0,0,323
+1022600123,451,PT03M05.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon S.FOUL (P1.T4),Foul,Shooting,1,0,324
+1022600123,453,PT03M05.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,61,44,105,h,Rivers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,325
+1022600123,454,PT03M05.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,SUB: Williams FOR Cardoso,Substitution,,0,0,326
+1022600123,456,PT03M05.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,62,44,106,h,Rivers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+1022600123,458,PT02M55.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,23,-1,2,Missed,1,,,0,v,MISS Taylor 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,328
+1022600123,459,PT02M52.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,329
+1022600123,460,PT02M47.00S,3,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P1.PN),Foul,Personal,1,0,330
+1022600123,462,PT02M47.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,63,44,107,h,Griner Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,331
+1022600123,463,PT02M47.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,64,44,108,h,Griner Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+1022600123,464,PT02M34.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,-60,92,11,Missed,1,,,0,v,MISS Sheldon 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,333
+1022600123,465,PT02M32.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,334
+1022600123,466,PT02M30.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor P.FOUL (P1.PN),Foul,Personal,1,0,335
+1022600123,468,PT02M30.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,65,44,109,h,Rivers Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,336
+1022600123,469,PT02M30.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,66,44,110,h,Rivers Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,337
+1022600123,470,PT02M22.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,-163,82,18,Missed,1,,,0,v,MISS Cloud 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,338
+1022600123,470,PT02M22.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers BLOCK (1 BLK),,,1,2,339
+1022600123,472,PT02M21.00S,3,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,340
+1022600123,474,PT02M17.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,-186,176,26,Missed,1,,,0,v,MISS Sheldon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+1022600123,475,PT02M15.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,342
+1022600123,476,PT02M07.00S,3,1611661323,CON,203398,Griner,B. Griner,47,9,5,Missed,1,,,0,h,MISS Griner 5' Layup,Missed Shot,Layup Shot,1,2,343
+1022600123,477,PT02M06.00S,3,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,344
+1022600123,479,PT01M54.00S,3,1611661329,CHI,204322,Williams,E. Williams,12,16,2,Missed,1,,,0,v,MISS Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,345
+1022600123,480,PT01M52.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,346
+1022600123,481,PT01M41.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,-5,1,1,Missed,1,,,0,h,MISS Edwards 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,347
+1022600123,482,PT01M39.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,348
+1022600123,483,PT01M38.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,-6,1,Missed,1,,,0,h,MISS Rivers 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,349
+1022600123,484,PT01M37.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,350
+1022600123,486,PT01M37.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Griner,Substitution,,0,0,351
+1022600123,487,PT01M37.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,SUB: Jaquez FOR Sheldon,Substitution,,0,0,352
+1022600123,491,PT01M35.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa OFF.Foul (P2),Foul,Offensive,1,0,353
+1022600123,493,PT01M35.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,354
+1022600123,494,PT01M35.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,SUB: Banham FOR Taylor,Substitution,,0,0,355
+1022600123,496,PT01M17.00S,3,1611661329,CHI,1643447,Jaquez,G. Jaquez,57,126,14,Missed,1,,,0,v,MISS Jaquez 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,356
+1022600123,497,PT01M16.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,357
+1022600123,498,PT01M16.00S,3,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez L.B.FOUL (P1.PN),Foul,Loose Ball,1,0,358
+1022600123,502,PT01M16.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,67,44,111,h,Edwards Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,359
+1022600123,503,PT01M16.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,SUB: Lacan FOR Leger-Walker,Substitution,,0,0,360
+1022600123,505,PT01M16.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,68,44,112,h,Edwards Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,361
+1022600123,506,PT01M00.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,-205,165,26,Missed,1,,,0,v,MISS Cloud 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+1022600123,507,PT00M57.80S,3,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,363
+1022600123,508,PT00M56.40S,3,1611661329,CHI,1642818,Westbeld,M. Westbeld,13,9,2,Missed,1,,,0,v,MISS Westbeld 2' Layup,Missed Shot,Layup Shot,1,2,364
+1022600123,508,PT00M56.40S,3,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards BLOCK (1 BLK),,,1,2,365
+1022600123,510,PT00M54.90S,3,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,366
+1022600123,511,PT00M43.30S,3,1611661323,CON,1642290,Edwards,A. Edwards,26,-5,3,Made,1,70,44,114,h,Edwards 3' Driving Layup (11 PTS) (Lacan 1 AST),Made Shot,Driving Layup Shot,1,2,367
+1022600123,513,PT00M19.20S,3,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,368
+1022600123,514,PT00M19.20S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,SUB: Miller FOR Rivers,Substitution,,0,0,369
+1022600123,516,PT00M05.30S,3,1611661323,CON,1642303,Lacan,L. Lacan,-127,223,26,Missed,1,,,0,h,MISS Lacan 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+1022600123,517,PT00M03.10S,3,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,371
+1022600123,518,PT00M03.10S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa L.B.FOUL (P3.T4),Foul,Loose Ball,1,0,372
+1022600123,520,PT00M00.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,149,388,42,Missed,1,,,0,v,MISS Cloud 42' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,373
+1022600123,521,PT00M00.00S,3,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,374
+1022600123,522,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,44,114,,End of 3rd Period (8:46 PM EST),period,end,1,0,375
+1022600123,529,PT10M00.00S,4,0,,0,,,0,0,0,,0,70,44,114,,Start of 4th Period (8:50 PM EST),period,start,0,0,376
+1022600123,530,PT09M45.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke OFF.Foul (P1),Foul,Offensive,0,0,377
+1022600123,532,PT09M45.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,Burke Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,378
+1022600123,533,PT09M31.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,-43,258,26,Missed,1,,,0,v,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+1022600123,534,PT09M29.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,380
+1022600123,535,PT09M25.00S,4,1611661323,CON,1641649,Miller,D. Miller,-21,7,2,Made,1,72,44,116,h,Miller 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,381
+1022600123,536,PT09M25.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens S.FOUL (P3.T1),Foul,Shooting,1,0,382
+1022600123,538,PT09M25.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,MISS Miller Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,383
+1022600123,539,PT09M22.00S,4,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,Diggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,384
+1022600123,540,PT09M07.00S,4,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards S.FOUL (P2.T1),Foul,Shooting,1,0,385
+1022600123,542,PT09M07.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,72,45,117,v,Cardoso Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,386
+1022600123,543,PT09M07.00S,4,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,v,SUB: Sheldon FOR Diggins,Substitution,,0,0,387
+1022600123,545,PT09M07.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,72,46,118,v,Cardoso Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,388
+1022600123,546,PT08M52.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,-144,93,17,Made,1,74,46,120,h,Lacan 17' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,389
+1022600123,547,PT08M29.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,-40,6,4,Missed,1,,,0,v,MISS Stevens 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,390
+1022600123,548,PT08M27.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,391
+1022600123,549,PT08M14.00S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon S.FOUL (P2.T2),Foul,Shooting,1,0,392
+1022600123,551,PT08M14.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,MISS Lacan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,393
+1022600123,552,PT08M14.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,394
+1022600123,553,PT08M14.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,75,46,121,h,Lacan Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,395
+1022600123,554,PT07M53.00S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,396
+1022600123,554,PT07M53.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan STEAL (3 STL),,,1,0,397
+1022600123,556,PT07M49.00S,4,1611661323,CON,1641649,Miller,D. Miller,28,11,3,Made,1,77,46,123,h,Miller 3' Running Layup (7 PTS) (Lacan 2 AST),Made Shot,Running Layup Shot,1,2,398
+1022600123,558,PT07M48.00S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,399
+1022600123,559,PT07M48.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,SUB: Angloma FOR Burke,Substitution,,0,0,400
+1022600123,561,PT07M38.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller P.FOUL (P4.T2),Foul,Personal,1,0,401
+1022600123,563,PT07M35.00S,4,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma P.FOUL (P1.T3),Foul,Personal,1,0,402
+1022600123,566,PT07M27.00S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,403
+1022600123,566,PT07M27.00S,4,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards STEAL (1 STL),,,1,0,404
+1022600123,568,PT07M18.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,405
+1022600123,568,PT07M18.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso STEAL (2 STL),,,1,0,406
+1022600123,570,PT06M57.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,230,50,24,Missed,1,,,0,v,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+1022600123,571,PT06M56.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,408
+1022600123,572,PT06M56.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,-6,1,Made,1,77,48,125,v,Cardoso 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,409
+1022600123,573,PT06M56.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan S.FOUL (P4.T4),Foul,Shooting,1,0,410
+1022600123,575,PT06M56.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,MISS Cardoso Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,411
+1022600123,576,PT06M53.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,412
+1022600123,577,PT06M39.00S,4,1611661323,CON,1641649,Miller,D. Miller,24,18,3,Made,1,79,48,127,h,Miller 3' Driving Reverse Layup (9 PTS) (Nelson-Ododa 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,413
+1022600123,579,PT06M22.00S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,414
+1022600123,580,PT06M13.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,32,15,4,Missed,1,,,0,v,MISS Cardoso 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,415
+1022600123,580,PT06M13.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa BLOCK (2 BLK),,,1,2,416
+1022600123,582,PT06M09.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa REBOUND (Off:3 Def:12),Rebound,Unknown,1,0,417
+1022600123,583,PT06M01.00S,4,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,418
+1022600123,583,PT06M01.00S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon STEAL (1 STL),,,1,0,419
+1022600123,585,PT05M48.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,96,-11,10,Missed,1,,,0,v,MISS Stevens 10' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,420
+1022600123,586,PT05M46.00S,4,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,421
+1022600123,587,PT05M28.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,43,12,4,Made,1,81,48,129,h,Lacan 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,422
+1022600123,589,PT05M22.00S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,99,65,12,Made,1,81,50,131,v,Sheldon 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,423
+1022600123,590,PT05M04.00S,4,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,v,Banham P.FOUL (P1.T3),Foul,Personal,1,0,424
+1022600123,592,PT05M04.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Kneepkens FOR Miller,Substitution,,0,0,425
+1022600123,593,PT05M04.00S,4,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,SUB: Beers FOR Edwards,Substitution,,0,0,426
+1022600123,594,PT05M04.00S,4,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,SUB: Poffenbarger FOR Jaquez,Substitution,,0,0,427
+1022600123,595,PT05M04.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,SUB: Taylor FOR Stevens,Substitution,,0,0,428
+1022600123,600,PT04M52.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,-39,68,8,Missed,1,,,0,h,MISS Nelson-Ododa 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,429
+1022600123,600,PT04M52.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso BLOCK (2 BLK),,,1,2,430
+1022600123,602,PT04M50.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,431
+1022600123,606,PT04M50.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Lacan,Substitution,,0,0,432
+1022600123,605,PT04M50.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,433
+1022600123,608,PT04M32.00S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,-229,85,24,Missed,1,,,0,v,MISS Sheldon 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,434
+1022600123,609,PT04M29.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,435
+1022600123,610,PT04M18.00S,4,1611661323,CON,1643429,Kneepkens,G. Kneepkens,179,180,25,Missed,1,,,0,h,MISS Kneepkens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,436
+1022600123,611,PT04M13.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,437
+1022600123,612,PT04M04.00S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,-35,16,4,Missed,1,,,0,v,MISS Sheldon 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,438
+1022600123,613,PT04M02.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,439
+1022600123,614,PT04M02.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,-6,1,Made,1,81,52,133,v,Cardoso 1' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,440
+1022600123,615,PT04M02.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,441
+1022600123,616,PT03M41.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,29,11,3,Missed,1,,,0,h,MISS Leger-Walker 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,442
+1022600123,617,PT03M39.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:5 Def:9),Rebound,Unknown,1,0,443
+1022600123,618,PT03M27.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,26,18,3,Made,1,81,54,135,v,Cardoso 3' Driving Layup (14 PTS) (Banham 1 AST),Made Shot,Driving Layup Shot,1,2,444
+1022600123,620,PT03M12.00S,4,1611661323,CON,1643441,Beers,R. Beers,32,6,3,Made,1,83,54,137,h,Beers 3' Cutting Layup Shot (2 PTS) (Nelson-Ododa 3 AST),Made Shot,Cutting Layup Shot,1,2,445
+1022600123,622,PT02M53.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,24,9,3,Made,1,83,56,139,v,Cardoso 3' Cutting Layup Shot (16 PTS) (Taylor 2 AST),Made Shot,Cutting Layup Shot,1,2,446
+1022600123,624,PT02M47.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers OFF.Foul (P1),Foul,Offensive,1,0,447
+1022600123,626,PT02M47.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,1,0,448
+1022600123,627,PT02M47.00S,4,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,SUB: Burke FOR Nelson-Ododa,Substitution,,0,0,449
+1022600123,628,PT02M47.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,SUB: Westbeld FOR Cardoso,Substitution,,0,0,450
+1022600123,631,PT02M34.00S,4,1611661329,CHI,1643458,Poffenbarger,S. Poffenbarger,-155,216,27,Missed,1,,,0,v,MISS Poffenbarger 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+1022600123,632,PT02M30.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,452
+1022600123,633,PT02M18.00S,4,1611661329,CHI,1643458,Poffenbarger,S. Poffenbarger,0,0,0,,0,,,0,v,Poffenbarger S.FOUL (P1.T4),Foul,Shooting,1,0,453
+1022600123,635,PT02M18.00S,4,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,MISS Angloma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,454
+1022600123,636,PT02M18.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,455
+1022600123,637,PT02M18.00S,4,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,84,56,140,h,Angloma Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,456
+1022600123,638,PT02M10.00S,4,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma P.FOUL (P2.PN),Foul,Personal,1,0,457
+1022600123,640,PT02M10.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,MISS Taylor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,458
+1022600123,641,PT02M10.00S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Normal Rebound,0,0,459
+1022600123,642,PT02M10.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,84,57,141,v,Taylor Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+1022600123,643,PT01M54.00S,4,1611661323,CON,1643441,Beers,R. Beers,-9,15,2,Made,1,86,57,143,h,Beers 2' Cutting Layup Shot (4 PTS) (Burke 3 AST),Made Shot,Cutting Layup Shot,1,2,461
+1022600123,645,PT01M38.00S,4,1611661323,CON,1643429,Kneepkens,G. Kneepkens,0,0,0,,0,,,0,h,Kneepkens P.FOUL (P1.PN),Foul,Personal,1,0,462
+1022600123,647,PT01M38.00S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,86,58,144,v,Sheldon Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,463
+1022600123,648,PT01M38.00S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,86,59,145,v,Sheldon Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,464
+1022600123,649,PT01M33.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers OFF.Foul (P2),Foul,Offensive,1,0,465
+1022600123,651,PT01M33.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,1,0,466
+1022600123,652,PT01M18.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,165,185,25,Missed,1,,,0,v,MISS Taylor 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,467
+1022600123,653,PT01M15.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,468
+1022600123,654,PT01M14.00S,4,1611661323,CON,1629568,Burke,K. Burke,8,17,2,Made,1,88,59,147,h,Burke 2' Running Layup (8 PTS) (Angloma 1 AST),Made Shot,Running Layup Shot,1,2,469
+1022600123,656,PT01M06.00S,4,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma P.FOUL (P3.PN),Foul,Personal,1,0,470
+1022600123,658,PT01M06.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,88,60,148,v,Taylor Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,471
+1022600123,659,PT01M06.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,88,61,149,v,Taylor Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,472
+1022600123,660,PT00M46.10S,4,1611661323,CON,1643429,Kneepkens,G. Kneepkens,-93,63,11,Made,1,90,61,151,h,Kneepkens 11' Pullup Jump Shot (2 PTS) (Leger-Walker 5 AST),Made Shot,Pullup Jump shot,1,2,473
+1022600123,662,PT00M35.10S,4,1611661329,CHI,1642818,Westbeld,M. Westbeld,56,244,25,Missed,1,,,0,v,MISS Westbeld 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,474
+1022600123,663,PT00M31.90S,4,1611661323,CON,1643429,Kneepkens,G. Kneepkens,0,0,0,,0,,,0,h,Kneepkens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,475
+1022600123,664,PT00M30.40S,4,1611661323,CON,1643429,Kneepkens,G. Kneepkens,-26,4,3,Made,1,92,61,153,h,Kneepkens 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,476
+1022600123,665,PT00M14.30S,4,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma S.FOUL (P4.PN),Foul,Shooting,1,0,477
+1022600123,667,PT00M14.30S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,92,62,154,v,Sheldon Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,478
+1022600123,668,PT00M14.30S,4,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,92,63,155,v,Sheldon Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,479
+1022600123,669,PT00M00.00S,4,0,,0,,,0,0,0,,0,92,63,155,,End of 4th Period (9:17 PM EST),period,end,1,0,480

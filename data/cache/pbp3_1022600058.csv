@@ -1,0 +1,447 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600058,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:34 PM EST),period,start,1,0,1
+1022600058,4,PT10M00.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Jump Ball Cardoso vs. Howard: Tip to Sheldon,Jump Ball,,1,0,2
+1022600058,7,PT09M41.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,157,182,24,Missed,1,,,0,h,MISS Diggins 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+1022600058,8,PT09M40.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+1022600058,9,PT09M27.00S,1,1611661324,MIN,203825,McBride,K. McBride,154,185,24,Missed,1,,,0,v,MISS McBride 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+1022600058,10,PT09M25.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+1022600058,11,PT09M17.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,7
+1022600058,12,PT09M00.00S,1,1611661324,MIN,203827,Howard,N. Howard,1,180,18,Missed,1,,,0,v,MISS Howard 18' Jump Shot,Missed Shot,Jump Shot,1,2,8
+1022600058,13,PT08M57.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+1022600058,14,PT08M42.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,-11,1,1,Made,1,2,0,2,h,Diggins 1' Cutting Layup Shot (2 PTS) (Sheldon 1 AST),Made Shot,Cutting Layup Shot,1,2,10
+1022600058,17,PT08M24.00S,1,1611661324,MIN,1627675,Williams,C. Williams,-155,100,18,Made,1,2,2,4,v,Williams 18' Pullup Jump Shot (2 PTS) (Coffey 1 AST),Made Shot,Pullup Jump shot,1,2,11
+1022600058,19,PT08M11.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P1.T1),Foul,Personal,1,0,12
+1022600058,22,PT08M00.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,1,4,0,Made,1,4,2,6,h,Cardoso Layup (2 PTS) (Sheldon 2 AST),Made Shot,Layup Shot,1,2,13
+1022600058,24,PT07M52.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,h,Stevens S.FOUL (P1.T1),Foul,Shooting,1,0,14
+1022600058,26,PT07M52.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,MISS Miles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,15
+1022600058,27,PT07M52.00S,1,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Normal Rebound,1,0,16
+1022600058,28,PT07M52.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,4,3,7,v,Miles Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,17
+1022600058,29,PT07M40.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,-23,7,2,Missed,1,,,0,h,MISS Cardoso 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,18
+1022600058,30,PT07M38.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+1022600058,31,PT07M24.00S,1,1611661324,MIN,203827,Howard,N. Howard,7,17,2,Made,1,4,5,9,v,Howard 2' Cutting Layup Shot (2 PTS) (Williams 1 AST),Made Shot,Cutting Layup Shot,1,2,20
+1022600058,33,PT07M17.00S,1,1611661329,CHI,1642292,Sheldon,J. Sheldon,226,-3,0,Missed,1,,,0,h,MISS Sheldon 3PT Jump Shot,Missed Shot,Jump Shot,1,3,21
+1022600058,33,PT07M17.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey BLOCK (1 BLK),,,1,3,22
+1022600058,35,PT07M17.00S,1,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Rebound,Rebound,Unknown,0,0,23
+1022600058,36,PT07M14.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,24
+1022600058,36,PT07M14.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride STEAL (1 STL),,,0,0,25
+1022600058,38,PT07M10.00S,1,1611661324,MIN,203827,Howard,N. Howard,7,11,1,Made,1,4,7,11,v,Howard 1' Running Layup (4 PTS) (Williams 2 AST),Made Shot,Running Layup Shot,0,2,26
+1022600058,40,PT06M50.00S,1,1611661329,CHI,1642292,Sheldon,J. Sheldon,93,215,0,Made,1,7,7,14,h,Sheldon 3PT Jump Shot (3 PTS) (Stevens 1 AST),Made Shot,Jump Shot,1,3,27
+1022600058,43,PT06M25.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,108,215,24,Missed,1,,,0,v,MISS Coffey 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+1022600058,44,PT06M23.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+1022600058,45,PT06M11.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P2.T2),Foul,Shooting,1,0,30
+1022600058,47,PT06M11.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,8,7,15,h,Diggins Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,31
+1022600058,48,PT06M11.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,h,SUB: Williams FOR Stevens,Substitution,,0,0,32
+1022600058,49,PT06M11.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,SUB: Banham FOR Cardoso,Substitution,,0,0,33
+1022600058,50,PT06M11.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,SUB: Caldwell FOR Williams,Substitution,,0,0,34
+1022600058,54,PT06M11.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,9,7,16,h,Diggins Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,35
+1022600058,55,PT06M01.00S,1,1611661324,MIN,203825,McBride,K. McBride,-27,173,18,Made,1,9,9,18,v,McBride 18' Pullup Jump Shot (2 PTS) (Coffey 2 AST),Made Shot,Pullup Jump shot,1,2,36
+1022600058,57,PT05M38.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,150,-12,15,Missed,1,,,0,h,MISS Diggins 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,37
+1022600058,57,PT05M38.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride BLOCK (1 BLK),,,1,2,38
+1022600058,59,PT05M35.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+1022600058,60,PT05M27.00S,1,1611661324,MIN,1643426,Miles,O. Miles,13,1,1,Made,1,9,11,20,v,Miles 1' Driving Finger Roll Layup (3 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,40
+1022600058,61,PT05M12.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,3,125,13,Missed,1,,,0,h,MISS Diggins 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,41
+1022600058,62,PT05M10.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,42
+1022600058,63,PT05M06.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins P.FOUL (P1.T2),Foul,Personal,1,0,43
+1022600058,65,PT05M04.00S,1,1611661324,MIN,203825,McBride,K. McBride,-16,1,2,Missed,1,,,0,v,MISS McBride 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,44
+1022600058,66,PT05M02.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,45
+1022600058,67,PT04M59.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,46
+1022600058,67,PT04M59.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles STEAL (1 STL),,,0,0,47
+1022600058,69,PT04M48.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,1,74,7,Missed,1,,,0,v,MISS Coffey 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,48
+1022600058,69,PT04M48.00S,1,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,Williams BLOCK (1 BLK),,,1,2,49
+1022600058,71,PT04M45.00S,1,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,50
+1022600058,73,PT04M45.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,51
+1022600058,74,PT04M45.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Cloud,Substitution,,0,0,52
+1022600058,76,PT04M28.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,77,44,9,Missed,1,,,0,h,MISS Coulibaly 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,53
+1022600058,77,PT04M20.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,54
+1022600058,78,PT04M19.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,-1,11,1,Missed,1,,,0,h,MISS Coulibaly 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,55
+1022600058,78,PT04M19.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard BLOCK (1 BLK),,,1,2,56
+1022600058,80,PT04M19.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+1022600058,81,PT04M09.00S,1,1611661324,MIN,1643426,Miles,O. Miles,86,92,13,Missed,1,,,0,v,MISS Miles 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,58
+1022600058,82,PT04M07.00S,1,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+1022600058,83,PT03M54.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,135,23,14,Missed,1,,,0,h,MISS Coulibaly 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,60
+1022600058,84,PT03M50.00S,1,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,61
+1022600058,85,PT03M47.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,6,4,1,Missed,1,,,0,h,MISS Coulibaly 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,62
+1022600058,86,PT03M46.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,63
+1022600058,88,PT03M45.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,64
+1022600058,88,PT03M45.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,Coulibaly STEAL (1 STL),,,1,0,65
+1022600058,90,PT03M43.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,Jump Ball Coulibaly vs. Howard: Tip to Miles,Jump Ball,,0,0,66
+1022600058,102,PT03M43.00S,1,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,SUB: Taylor FOR Sheldon,Substitution,,0,0,67
+1022600058,93,PT03M38.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,Coulibaly Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,68
+1022600058,93,PT03M38.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard STEAL (1 STL),,,1,0,69
+1022600058,95,PT03M36.00S,1,1611661324,MIN,203825,McBride,K. McBride,33,30,4,Missed,1,,,0,v,MISS McBride 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,70
+1022600058,95,PT03M36.00S,1,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham BLOCK (1 BLK),,,1,2,71
+1022600058,97,PT03M33.00S,1,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,72
+1022600058,98,PT03M25.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,3,13,1,Made,1,11,11,22,h,Coulibaly 1' Driving Layup (2 PTS) (Taylor 1 AST),Made Shot,Driving Layup Shot,1,2,73
+1022600058,100,PT03M17.00S,1,1611661324,MIN,203825,McBride,K. McBride,-159,205,26,Missed,1,,,0,v,MISS McBride 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+1022600058,101,PT03M15.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,75
+1022600058,104,PT03M01.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,118,206,24,Missed,1,,,0,h,MISS Taylor 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,76
+1022600058,105,PT02M59.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+1022600058,106,PT02M56.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins P.FOUL (P2.T3),Foul,Personal,1,0,78
+1022600058,108,PT02M56.00S,1,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,SUB: Cloud FOR Diggins,Substitution,,0,0,79
+1022600058,110,PT02M56.00S,1,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,SUB: Cardoso FOR Coulibaly,Substitution,,0,0,80
+1022600058,112,PT02M56.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,SUB: McCowan FOR Howard,Substitution,,0,0,81
+1022600058,114,PT02M50.00S,1,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan OFF.Foul (P1),Foul,Offensive,1,0,82
+1022600058,116,PT02M50.00S,1,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,83
+1022600058,117,PT02M34.00S,1,1611661329,CHI,204322,Williams,E. Williams,-1,38,4,Missed,1,,,0,h,MISS Williams 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,84
+1022600058,118,PT02M32.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,85
+1022600058,119,PT02M24.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,1,259,26,Made,1,11,14,25,v,Coffey 26' 3PT Jump Shot (3 PTS) (Miles 1 AST),Made Shot,Jump Shot,1,3,86
+1022600058,121,PT02M07.00S,1,1611661329,CHI,1627671,Banham,R. Banham,-240,-23,24,Missed,1,,,0,h,MISS Banham 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,87
+1022600058,122,PT02M04.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,88
+1022600058,123,PT01M51.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,193,152,25,Missed,1,,,0,v,MISS Caldwell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+1022600058,124,PT01M47.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,90
+1022600058,125,PT01M35.00S,1,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,91
+1022600058,125,PT01M35.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell STEAL (1 STL),,,1,0,92
+1022600058,127,PT01M35.00S,1,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham Transition Take Foul (P1.T4),Foul,Transition Take,1,0,93
+1022600058,129,PT01M35.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,MISS McBride Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,94
+1022600058,133,PT01M35.00S,1,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,1,0,95
+1022600058,130,PT01M35.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,SUB: Delaere FOR McBride,Substitution,,0,0,96
+1022600058,132,PT01M17.00S,1,1611661324,MIN,1643426,Miles,O. Miles,19,0,2,Made,1,11,16,27,v,Miles 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,97
+1022600058,134,PT01M07.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,216,92,0,Missed,1,,,0,h,MISS Taylor 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+1022600058,135,PT01M05.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,99
+1022600058,136,PT01M00.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,-96,174,20,Missed,1,,,0,v,MISS Coffey 20' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,100
+1022600058,137,PT00M58.30S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,101
+1022600058,138,PT00M44.70S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,16,6,2,Missed,1,,,0,h,MISS Cardoso 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,102
+1022600058,138,PT00M44.70S,1,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan BLOCK (1 BLK),,,1,2,103
+1022600058,140,PT00M42.00S,1,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+1022600058,141,PT00M37.10S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,224,14,0,Made,1,11,19,30,v,Caldwell 3PT Jump Shot (3 PTS) (Miles 2 AST),Made Shot,Jump Shot,1,3,105
+1022600058,144,PT00M27.50S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles S.FOUL (P1.T3),Foul,Shooting,1,0,106
+1022600058,146,PT00M27.50S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,MISS Cloud Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,107
+1022600058,147,PT00M27.50S,1,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Rebound,Rebound,Normal Rebound,0,0,108
+1022600058,148,PT00M27.50S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,SUB: King FOR Coffey,Substitution,,0,0,109
+1022600058,150,PT00M27.50S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,12,19,31,h,Cloud Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,110
+1022600058,151,PT00M05.50S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,233,14,0,Missed,1,,,0,v,MISS Caldwell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+1022600058,152,PT00M03.30S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,112
+1022600058,153,PT00M00.00S,1,0,,0,,,0,0,0,,0,12,19,31,,End of 1st Period (7:53 PM EST),period,end,1,0,113
+1022600058,160,PT10M00.00S,2,0,,0,,,0,0,0,,0,12,19,31,,Start of 2nd Period (7:57 PM EST),period,start,1,0,114
+1022600058,161,PT09M47.00S,2,1611661324,MIN,1629479,McCowan,T. McCowan,-26,62,7,Missed,1,,,0,v,MISS McCowan 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,115
+1022600058,162,PT09M45.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,116
+1022600058,163,PT09M34.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,50,13,5,Missed,1,,,0,h,MISS Cardoso 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,117
+1022600058,164,PT09M33.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,118
+1022600058,165,PT09M31.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,-7,25,3,Missed,1,,,0,h,MISS Cardoso 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,119
+1022600058,165,PT09M31.00S,2,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan BLOCK (2 BLK),,,1,2,120
+1022600058,167,PT09M30.00S,2,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,121
+1022600058,168,PT09M19.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud S.FOUL (P1.T1),Foul,Shooting,1,0,122
+1022600058,170,PT09M19.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,12,20,32,v,Caldwell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,123
+1022600058,171,PT09M19.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,12,21,33,v,Caldwell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,124
+1022600058,172,PT09M02.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,-182,133,0,Missed,1,,,0,h,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+1022600058,173,PT09M01.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,126
+1022600058,174,PT08M47.00S,2,1611661324,MIN,1629479,McCowan,T. McCowan,-172,82,19,Missed,1,,,0,v,MISS McCowan 19' Jump Shot,Missed Shot,Jump Shot,1,2,127
+1022600058,175,PT08M41.00S,2,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,128
+1022600058,176,PT08M38.00S,2,1611661324,MIN,1642820,King,L. King,223,-18,0,Missed,1,,,0,v,MISS King 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+1022600058,177,PT08M35.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,130
+1022600058,179,PT08M30.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,h,Stevens Traveling Turnover (P1.T6),Turnover,Traveling,1,0,131
+1022600058,180,PT08M30.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,h,SUB: Diggins FOR Taylor,Substitution,,0,0,132
+1022600058,182,PT08M18.00S,2,1611661324,MIN,1627675,Williams,C. Williams,72,170,18,Made,1,12,23,35,v,Williams 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,133
+1022600058,183,PT07M54.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,116,20,12,Made,1,14,23,37,h,Stevens 12' Pullup Jump Shot (2 PTS) (Diggins 1 AST),Made Shot,Pullup Jump shot,1,2,134
+1022600058,185,PT07M44.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud Violation:Kicked Ball,Violation,Kicked Ball,0,0,135
+1022600058,186,PT07M38.00S,2,1611661324,MIN,1627675,Williams,C. Williams,-101,191,22,Made,1,14,25,39,v,Williams 22' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,136
+1022600058,187,PT07M25.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,18,69,7,Made,1,16,25,41,h,Diggins 7' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,137
+1022600058,188,PT07M19.00S,2,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King OFF.Foul (P1),Foul,Offensive,1,0,138
+1022600058,190,PT07M19.00S,2,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,139
+1022600058,191,PT07M19.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,SUB: Howard FOR Caldwell,Substitution,,0,0,140
+1022600058,192,PT07M19.00S,2,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,SUB: McBride FOR McCowan,Substitution,,0,0,141
+1022600058,195,PT07M09.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,-29,72,8,Missed,1,,,0,h,MISS Diggins 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,142
+1022600058,196,PT07M07.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,143
+1022600058,197,PT07M02.00S,2,1611661324,MIN,1642820,King,L. King,-5,29,3,Made,1,16,27,43,v,King 3' Running Layup (2 PTS) (Williams 3 AST),Made Shot,Running Layup Shot,1,2,144
+1022600058,199,PT07M02.00S,2,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,145
+1022600058,200,PT06M50.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,-222,0,0,Missed,1,,,0,h,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+1022600058,201,PT06M48.00S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,147
+1022600058,202,PT06M40.00S,2,1611661324,MIN,203827,Howard,N. Howard,1,49,5,Missed,1,,,0,v,MISS Howard 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,148
+1022600058,203,PT06M37.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,149
+1022600058,204,PT06M35.00S,2,1611661324,MIN,203827,Howard,N. Howard,7,20,2,Missed,1,,,0,v,MISS Howard 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,150
+1022600058,205,PT06M33.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,151
+1022600058,206,PT06M29.00S,2,1611661329,CHI,1642292,Sheldon,J. Sheldon,205,124,24,Missed,1,,,0,h,MISS Sheldon 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,152
+1022600058,207,PT06M24.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,153
+1022600058,208,PT06M19.00S,2,1611661324,MIN,1627675,Williams,C. Williams,61,188,20,Missed,1,,,0,v,MISS Williams 20' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,154
+1022600058,209,PT06M17.00S,2,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,Sheldon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+1022600058,213,PT06M08.00S,2,0,,210,Brandon,T. Brandon,0,0,0,,0,16,27,43,,Instant Replay2nd Period (8:06 PM EST),Instant Replay,Support Ruling,0,0,156
+1022600058,214,PT06M08.00S,2,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,157
+1022600058,215,PT06M08.00S,2,0,,210,Brandon,T. Brandon,0,0,0,,0,16,27,43,,Instant Replay2nd Period (8:08 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,158
+1022600058,222,PT06M08.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,SUB: Williams FOR Cardoso,Substitution,,0,0,159
+1022600058,223,PT06M08.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Stevens,Substitution,,0,0,160
+1022600058,216,PT05M52.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,113,208,24,Missed,1,,,0,h,MISS Cloud 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+1022600058,217,PT05M49.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,162
+1022600058,218,PT05M49.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,Williams Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,163
+1022600058,218,PT05M49.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,1,0,164
+1022600058,220,PT05M49.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud P.FOUL (P2.T2),Foul,Personal,1,0,165
+1022600058,226,PT05M42.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,166
+1022600058,226,PT05M42.00S,2,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,Coulibaly STEAL (2 STL),,,1,0,167
+1022600058,228,PT05M38.00S,2,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,9,1,1,Made,1,18,27,45,h,Coulibaly 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,168
+1022600058,229,PT05M25.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,169
+1022600058,229,PT05M25.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins STEAL (1 STL),,,1,0,170
+1022600058,231,PT05M08.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P1.T1),Foul,Shooting,1,0,171
+1022600058,233,PT05M08.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,172
+1022600058,234,PT05M08.00S,2,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Rebound,Rebound,Normal Rebound,1,0,173
+1022600058,235,PT05M08.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,SUB: Banham FOR Cloud,Substitution,,0,0,174
+1022600058,236,PT05M08.00S,2,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,SUB: Coffey FOR King,Substitution,,0,0,175
+1022600058,237,PT05M08.00S,2,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,v,SUB: Miles FOR Delaere,Substitution,,0,0,176
+1022600058,241,PT05M08.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,177
+1022600058,242,PT05M07.00S,2,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,1,0,178
+1022600058,244,PT04M55.00S,2,1611661324,MIN,203825,McBride,K. McBride,111,213,24,Missed,1,,,0,v,MISS McBride 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,179
+1022600058,245,PT04M53.00S,2,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,180
+1022600058,246,PT04M48.00S,2,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,Coulibaly Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,181
+1022600058,246,PT04M48.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard STEAL (2 STL),,,1,0,182
+1022600058,248,PT04M34.00S,2,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,Sheldon P.FOUL (P1.T3),Foul,Personal,1,0,183
+1022600058,250,PT04M23.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,-44,245,25,Missed,1,,,0,v,MISS Coffey 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,184
+1022600058,251,PT04M22.00S,2,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Rebound,Rebound,Unknown,1,0,185
+1022600058,253,PT04M10.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,7,42,4,Made,1,20,27,47,h,Diggins 4' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,186
+1022600058,254,PT03M50.00S,2,1611661324,MIN,1627675,Williams,C. Williams,117,81,14,Missed,1,,,0,v,MISS Williams 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,187
+1022600058,255,PT03M48.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,188
+1022600058,256,PT03M45.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,-8,4,1,Missed,1,,,0,h,MISS Diggins 1' Running Layup,Missed Shot,Running Layup Shot,1,2,189
+1022600058,257,PT03M43.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,190
+1022600058,258,PT03M42.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,0,-6,1,Missed,1,,,0,h,MISS Diggins 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,191
+1022600058,259,PT03M39.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,192
+1022600058,260,PT03M34.00S,2,1611661324,MIN,1643426,Miles,O. Miles,203,116,0,Missed,1,,,0,v,MISS Miles 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+1022600058,261,PT03M31.00S,2,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,194
+1022600058,262,PT03M14.00S,2,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,-235,0,24,Missed,1,,,0,h,MISS Coulibaly 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+1022600058,263,PT03M12.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,196
+1022600058,264,PT03M08.00S,2,1611661324,MIN,203827,Howard,N. Howard,-10,15,2,Made,1,20,29,49,v,Howard 2' Running Reverse Layup (6 PTS) (Miles 3 AST),Made Shot,Running Reverse Layup Shot,1,2,197
+1022600058,266,PT02M50.00S,2,1611661329,CHI,1642292,Sheldon,J. Sheldon,-24,-3,2,Made,1,22,29,51,h,Sheldon 2' Driving Finger Roll Layup (5 PTS) (Williams 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,198
+1022600058,269,PT02M46.00S,2,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,SUB: Cloud FOR Diggins,Substitution,,0,0,199
+1022600058,270,PT02M46.00S,2,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,SUB: Taylor FOR Coulibaly,Substitution,,0,0,200
+1022600058,273,PT02M30.00S,2,1611661324,MIN,203825,McBride,K. McBride,-72,199,21,Made,1,22,31,53,v,McBride 21' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,201
+1022600058,274,PT02M08.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,-213,63,0,Made,1,25,31,56,h,Cloud 3PT Jump Shot (4 PTS) (Taylor 2 AST),Made Shot,Jump Shot,1,3,202
+1022600058,276,PT01M45.00S,2,1611661324,MIN,1643426,Miles,O. Miles,-12,13,2,Missed,1,,,0,v,MISS Miles 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,203
+1022600058,276,PT01M45.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,Williams BLOCK (2 BLK),,,1,2,204
+1022600058,278,PT01M43.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,205
+1022600058,279,PT01M37.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,-174,160,24,Missed,1,,,0,h,MISS Cloud 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+1022600058,280,PT01M34.00S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,207
+1022600058,281,PT01M23.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,Williams Violation:Kicked Ball,Violation,Kicked Ball,0,0,208
+1022600058,282,PT01M23.00S,2,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,SUB: Cardoso FOR Williams,Substitution,,0,0,209
+1022600058,284,PT01M12.00S,2,1611661324,MIN,203825,McBride,K. McBride,-204,111,0,Missed,1,,,0,v,MISS McBride 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,210
+1022600058,285,PT01M10.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,211
+1022600058,286,PT01M07.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,7,20,2,Made,1,25,33,58,v,Coffey 2' Cutting Layup Shot (5 PTS) (Howard 1 AST),Made Shot,Cutting Layup Shot,1,2,212
+1022600058,288,PT01M00.00S,2,1611661329,CHI,1627671,Banham,R. Banham,211,214,30,Made,1,28,33,61,h,Banham 30' 3PT Jump Shot (3 PTS) (Taylor 3 AST),Made Shot,Jump Shot,1,3,213
+1022600058,290,PT00M48.80S,2,1611661324,MIN,203827,Howard,N. Howard,5,5,1,Missed,1,,,0,v,MISS Howard 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,214
+1022600058,291,PT00M46.10S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,215
+1022600058,292,PT00M40.10S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,-15,2,2,Made,1,30,33,63,h,Cardoso 2' Cutting Layup Shot (4 PTS),Made Shot,Cutting Layup Shot,1,2,216
+1022600058,293,PT00M29.00S,2,1611661324,MIN,203825,McBride,K. McBride,0,258,26,Missed,1,,,0,v,MISS McBride 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,217
+1022600058,294,PT00M25.60S,2,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,218
+1022600058,296,PT00M07.20S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,219
+1022600058,297,PT00M00.00S,2,1611661324,MIN,1643426,Miles,O. Miles,-146,272,31,Missed,1,,,0,v,MISS Miles 31' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,220
+1022600058,298,PT00M00.00S,2,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,1,0,221
+1022600058,299,PT00M00.00S,2,0,,0,,,0,0,0,,0,30,33,63,,End of 2nd Period (8:21 PM EST),period,end,1,0,222
+1022600058,304,PT10M00.00S,3,0,,0,,,0,0,0,,0,30,33,63,,Start of 3rd Period (8:37 PM EST),period,start,0,0,223
+1022600058,305,PT09M44.00S,3,1611661324,MIN,203827,Howard,N. Howard,7,0,1,Made,1,30,35,65,v,Howard 1' Driving Hook Shot (8 PTS) (McBride 1 AST),Made Shot,Driving Hook Shot,1,2,224
+1022600058,307,PT09M34.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride P.FOUL (P1.T1),Foul,Personal,1,0,225
+1022600058,309,PT09M27.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles P.FOUL (P2.T2),Foul,Personal,1,0,226
+1022600058,311,PT09M16.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,5,-3,1,Missed,1,,,0,h,MISS Stevens 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,227
+1022600058,312,PT09M13.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,h,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,228
+1022600058,313,PT09M10.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,Sheldon Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,229
+1022600058,313,PT09M10.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard STEAL (3 STL),,,1,0,230
+1022600058,315,PT09M05.00S,3,1611661324,MIN,203827,Howard,N. Howard,15,10,2,Made,1,30,37,67,v,Howard 2' Running Layup (10 PTS) (Williams 4 AST),Made Shot,Running Layup Shot,1,2,231
+1022600058,317,PT08M48.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,-227,3,0,Missed,1,,,0,h,MISS Cloud 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+1022600058,318,PT08M45.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,233
+1022600058,319,PT08M38.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,234
+1022600058,319,PT08M38.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud STEAL (1 STL),,,1,0,235
+1022600058,321,PT08M19.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,-17,14,2,Missed,1,,,0,h,MISS Sheldon 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,236
+1022600058,322,PT08M17.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,237
+1022600058,323,PT08M14.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,Sheldon S.FOUL (P2.T1),Foul,Shooting,1,0,238
+1022600058,325,PT08M14.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,30,38,68,v,Howard Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,239
+1022600058,326,PT08M14.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,30,39,69,v,Howard Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,240
+1022600058,327,PT07M58.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,241
+1022600058,327,PT07M58.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride STEAL (2 STL),,,1,0,242
+1022600058,329,PT07M52.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,-223,4,0,Made,1,30,42,72,v,Coffey 3PT Jump Shot (8 PTS) (Williams 5 AST),Made Shot,Jump Shot,1,3,243
+1022600058,331,PT07M51.00S,3,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,244
+1022600058,332,PT07M45.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,Sheldon Offensive Charge Foul (P3),Foul,Offensive Charge,1,0,245
+1022600058,334,PT07M45.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,Sheldon Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,246
+1022600058,335,PT07M36.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,3,230,0,Made,1,30,45,75,v,Coffey 3PT Jump Shot (11 PTS) (Miles 4 AST),Made Shot,Jump Shot,1,3,247
+1022600058,337,PT07M26.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,28,46,5,Missed,1,,,0,h,MISS Stevens 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,248
+1022600058,338,PT07M26.00S,3,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Rebound,Rebound,Unknown,1,0,249
+1022600058,340,PT07M26.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,SUB: Banham FOR Sheldon,Substitution,,0,0,250
+1022600058,342,PT07M20.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,-49,175,18,Made,1,32,45,77,h,Diggins 18' Pullup Jump Shot (10 PTS) (Cloud 1 AST),Made Shot,Pullup Jump shot,1,2,251
+1022600058,344,PT07M08.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso S.FOUL (P1.T2),Foul,Shooting,1,0,252
+1022600058,346,PT07M08.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,32,46,78,v,Miles Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,253
+1022600058,347,PT07M08.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,32,47,79,v,Miles Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,254
+1022600058,348,PT06M53.00S,3,1611661329,CHI,1627671,Banham,R. Banham,50,237,24,Missed,1,,,0,h,MISS Banham 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+1022600058,349,PT06M52.00S,3,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,1,0,256
+1022600058,351,PT06M42.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,-71,221,0,Made,1,32,50,82,v,Coffey 3PT Jump Shot (14 PTS) (Miles 5 AST),Made Shot,Jump Shot,1,3,257
+1022600058,353,PT06M24.00S,3,1611661329,CHI,1627671,Banham,R. Banham,-234,12,0,Missed,1,,,0,h,MISS Banham 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+1022600058,354,PT06M22.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,259
+1022600058,355,PT06M11.00S,3,1611661324,MIN,203827,Howard,N. Howard,5,6,1,Made,1,32,52,84,v,Howard 1' Driving Reverse Layup (14 PTS),Made Shot,Driving Reverse Layup Shot,1,2,260
+1022600058,356,PT05M52.00S,3,1611661329,CHI,1627671,Banham,R. Banham,229,2,0,Made,1,35,52,87,h,Banham 3PT Jump Shot (6 PTS) (Cloud 2 AST),Made Shot,Jump Shot,1,3,261
+1022600058,358,PT05M32.00S,3,1611661324,MIN,203827,Howard,N. Howard,179,140,0,Missed,1,,,0,v,MISS Howard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+1022600058,359,PT05M28.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,263
+1022600058,360,PT05M21.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,5,15,2,Made,1,37,52,89,h,Stevens 2' Driving Reverse Layup (4 PTS) (Cardoso 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,264
+1022600058,362,PT05M03.00S,3,1611661324,MIN,203825,McBride,K. McBride,-13,5,1,Missed,1,,,0,v,MISS McBride 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,265
+1022600058,363,PT05M00.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,266
+1022600058,364,PT04M55.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso S.FOUL (P2.T3),Foul,Shooting,1,0,267
+1022600058,366,PT04M55.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,37,53,90,v,Miles Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,268
+1022600058,367,PT04M55.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,SUB: Williams FOR Cardoso,Substitution,,0,0,269
+1022600058,368,PT04M55.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Stevens,Substitution,,0,0,270
+1022600058,369,PT04M55.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,SUB: King FOR Coffey,Substitution,,0,0,271
+1022600058,373,PT04M55.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,37,54,91,v,Miles Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,272
+1022600058,374,PT04M41.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride S.FOUL (P2.T3),Foul,Shooting,1,0,273
+1022600058,376,PT04M41.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,38,54,92,h,Diggins Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,274
+1022600058,377,PT04M41.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,39,54,93,h,Diggins Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,275
+1022600058,379,PT04M26.00S,3,1611661324,MIN,1627675,Williams,C. Williams,-127,150,20,Made,1,39,56,95,v,Williams 20' Pullup Jump Shot (8 PTS) (Howard 2 AST),Made Shot,Pullup Jump shot,1,2,276
+1022600058,381,PT04M15.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P2.T4),Foul,Shooting,1,0,277
+1022600058,383,PT04M15.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,40,56,96,h,Cloud Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,278
+1022600058,384,PT04M15.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,41,56,97,h,Cloud Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,279
+1022600058,385,PT03M58.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,280
+1022600058,387,PT03M58.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams L.B.FOUL (P3.PN),Foul,Loose Ball,1,0,281
+1022600058,389,PT03M58.00S,3,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,282
+1022600058,390,PT03M58.00S,3,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Rebound,Rebound,Normal Rebound,1,0,283
+1022600058,391,PT03M58.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,SUB: Sheldon FOR Cloud,Substitution,,0,0,284
+1022600058,392,PT03M58.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,SUB: Caldwell FOR Williams,Substitution,,0,0,285
+1022600058,395,PT03M58.00S,3,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,286
+1022600058,396,PT03M55.00S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,287
+1022600058,397,PT03M51.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,Sheldon P.FOUL (P4.T4),Foul,Personal,1,0,288
+1022600058,399,PT03M51.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,h,SUB: Taylor FOR Sheldon,Substitution,,0,0,289
+1022600058,401,PT03M50.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,290
+1022600058,401,PT03M50.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins STEAL (2 STL),,,1,0,291
+1022600058,404,PT03M31.00S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King S.FOUL (P2.PN),Foul,Shooting,1,0,292
+1022600058,406,PT03M31.00S,3,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,42,56,98,h,Banham Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,293
+1022600058,407,PT03M31.00S,3,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,43,56,99,h,Banham Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+1022600058,408,PT03M14.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,-227,-27,0,Missed,1,,,0,v,MISS Caldwell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,295
+1022600058,409,PT03M12.00S,3,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,296
+1022600058,410,PT02M57.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,-182,194,27,Made,1,46,56,102,h,Taylor 27' 3PT Jump Shot (3 PTS) (Diggins 2 AST),Made Shot,Jump Shot,1,3,297
+1022600058,412,PT02M41.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,h,Taylor S.FOUL (P1.PN),Foul,Shooting,1,0,298
+1022600058,414,PT02M41.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,46,57,103,v,McBride Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,299
+1022600058,415,PT02M41.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,46,58,104,v,McBride Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,300
+1022600058,416,PT02M30.00S,3,1611661329,CHI,1627671,Banham,R. Banham,-149,226,27,Missed,1,,,0,h,MISS Banham 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+1022600058,417,PT02M27.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,302
+1022600058,418,PT02M19.00S,3,1611661324,MIN,1643426,Miles,O. Miles,31,232,0,Missed,1,,,0,v,MISS Miles 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,303
+1022600058,419,PT02M16.00S,3,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,Coulibaly REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,304
+1022600058,420,PT02M11.00S,3,1611661329,CHI,204322,Williams,E. Williams,-1,1,0,Missed,1,,,0,h,MISS Williams Running Layup,Missed Shot,Running Layup Shot,1,2,305
+1022600058,421,PT02M09.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,306
+1022600058,422,PT02M04.00S,3,1611661324,MIN,1642820,King,L. King,-113,208,24,Missed,1,,,0,v,MISS King 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,307
+1022600058,423,PT02M01.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,308
+1022600058,424,PT01M51.00S,3,1611661329,CHI,203400,Diggins,S. Diggins,-110,221,25,Missed,1,,,0,h,MISS Diggins 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,309
+1022600058,425,PT01M47.00S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,310
+1022600058,426,PT01M45.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,h,Taylor P.FOUL (P2.PN),Foul,Personal,1,0,311
+1022600058,428,PT01M45.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,46,59,105,v,Miles Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,312
+1022600058,429,PT01M45.00S,3,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,h,SUB: Cardoso FOR Williams,Substitution,,0,0,313
+1022600058,430,PT01M45.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,SUB: Kosu FOR Howard,Substitution,,0,0,314
+1022600058,431,PT01M45.00S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,SUB: McCowan FOR King,Substitution,,0,0,315
+1022600058,435,PT01M45.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,46,60,106,v,Miles Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,316
+1022600058,436,PT01M32.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,134,195,24,Missed,1,,,0,h,MISS Taylor 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,317
+1022600058,437,PT01M29.00S,3,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,318
+1022600058,438,PT01M20.00S,3,1611661324,MIN,1642797,Kosu,A. Kosu,-13,20,2,Missed,1,,,0,v,MISS Kosu 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,319
+1022600058,438,PT01M20.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso BLOCK (1 BLK),,,1,2,320
+1022600058,440,PT01M18.00S,3,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,v,Kosu REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,321
+1022600058,441,PT01M09.00S,3,1611661324,MIN,1643426,Miles,O. Miles,165,160,0,Missed,1,,,0,v,MISS Miles 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,322
+1022600058,442,PT01M07.00S,3,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,323
+1022600058,443,PT01M02.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,324
+1022600058,443,PT01M02.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles STEAL (2 STL),,,1,0,325
+1022600058,445,PT01M00.00S,3,1611661324,MIN,1643426,Miles,O. Miles,3,5,1,Made,1,46,62,108,v,Miles 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,326
+1022600058,446,PT00M49.20S,3,1611661329,CHI,1627671,Banham,R. Banham,-144,216,26,Missed,1,,,0,h,MISS Banham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,327
+1022600058,447,PT00M49.20S,3,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,328
+1022600058,448,PT00M33.70S,3,1611661324,MIN,1642797,Kosu,A. Kosu,-13,4,1,Made,1,46,64,110,v,Kosu 1' Cutting Layup Shot (2 PTS) (McBride 2 AST),Made Shot,Cutting Layup Shot,1,2,329
+1022600058,450,PT00M15.90S,3,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,h,Coulibaly Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0,330
+1022600058,450,PT00M15.90S,3,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,v,Kosu STEAL (1 STL),,,1,0,331
+1022600058,452,PT00M06.50S,3,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan OFF.Foul (P2),Foul,Offensive,1,0,332
+1022600058,454,PT00M06.50S,3,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,McCowan Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,333
+1022600058,458,PT00M06.50S,3,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,SUB: Cloud FOR Diggins,Substitution,,0,0,334
+1022600058,455,PT00M00.30S,3,1611661329,CHI,204333,Cloud,N. Cloud,107,224,25,Missed,1,,,0,h,MISS Cloud 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+1022600058,456,PT00M00.10S,3,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Rebound,Rebound,Unknown,1,0,336
+1022600058,457,PT00M00.00S,3,0,,0,,,0,0,0,,0,46,64,110,,End of 3rd Period (9:00 PM EST),period,end,1,0,337
+1022600058,466,PT10M00.00S,4,0,,0,,,0,0,0,,0,46,64,110,,Start of 4th Period (9:04 PM EST),period,start,0,0,338
+1022600058,467,PT09M47.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,-11,14,2,Made,1,48,64,112,h,Cardoso 2' Cutting Layup Shot (6 PTS) (Taylor 4 AST),Made Shot,Cutting Layup Shot,1,2,339
+1022600058,469,PT09M22.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,-62,101,12,Missed,1,,,0,v,MISS Caldwell 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,340
+1022600058,470,PT09M20.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,341
+1022600058,471,PT08M58.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,24,0,2,Made,1,50,64,114,h,Taylor 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,342
+1022600058,472,PT08M34.00S,4,1611661324,MIN,1627675,Williams,C. Williams,11,4,1,Made,1,50,66,116,v,Williams 1' Cutting Layup Shot (10 PTS) (McCowan 1 AST),Made Shot,Cutting Layup Shot,1,2,343
+1022600058,474,PT08M22.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,-238,20,24,Missed,1,,,0,h,MISS Taylor 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+1022600058,475,PT08M20.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,345
+1022600058,476,PT07M57.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,204,2,20,Missed,1,,,0,v,MISS Caldwell 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,346
+1022600058,477,PT07M54.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,347
+1022600058,478,PT07M49.00S,4,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,v,Kosu P.FOUL (P1.T1),Foul,Personal,1,0,348
+1022600058,480,PT07M49.00S,4,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,v,SUB: Coffey FOR Kosu,Substitution,,0,0,349
+1022600058,481,PT07M49.00S,4,1611661324,MIN,1629479,McCowan,T. McCowan,0,0,0,,0,,,0,v,SUB: Howard FOR McCowan,Substitution,,0,0,350
+1022600058,484,PT07M42.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,224,2,0,Missed,1,,,0,h,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,351
+1022600058,485,PT07M39.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,352
+1022600058,486,PT07M33.00S,4,1611661324,MIN,1643489,Delaere,A. Delaere,15,6,2,Missed,1,,,0,v,MISS Delaere 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,353
+1022600058,486,PT07M33.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso BLOCK (2 BLK),,,1,2,354
+1022600058,488,PT07M33.00S,4,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Rebound,Rebound,Unknown,1,0,355
+1022600058,490,PT07M33.00S,4,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,SUB: Diggins FOR Banham,Substitution,,0,0,356
+1022600058,492,PT07M08.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,-15,14,2,Made,1,52,66,118,h,Cardoso 2' Cutting Layup Shot (8 PTS) (Diggins 3 AST),Made Shot,Cutting Layup Shot,1,2,357
+1022600058,494,PT06M55.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,121,208,24,Made,1,52,69,121,v,Coffey 24' 3PT Jump Shot (17 PTS) (Delaere 1 AST),Made Shot,Jump Shot,1,3,358
+1022600058,496,PT06M33.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,359
+1022600058,496,PT06M33.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey STEAL (1 STL),,,1,0,360
+1022600058,498,PT06M33.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud P.FOUL (P3.T1),Foul,Personal,1,0,361
+1022600058,500,PT06M33.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,SUB: McBride FOR Caldwell,Substitution,,0,0,362
+1022600058,501,PT06M33.00S,4,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,v,SUB: Miles FOR Delaere,Substitution,,0,0,363
+1022600058,504,PT06M28.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,364
+1022600058,505,PT06M12.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,6,13,1,Made,1,54,69,123,h,Taylor 1' Driving Layup (7 PTS) (Stevens 2 AST),Made Shot,Driving Layup Shot,1,2,365
+1022600058,507,PT06M00.00S,4,1611661324,MIN,1627675,Williams,C. Williams,120,205,24,Missed,1,,,0,v,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+1022600058,508,PT05M57.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,367
+1022600058,509,PT05M37.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,156,186,24,Missed,1,,,0,h,MISS Stevens 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,368
+1022600058,510,PT05M34.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,369
+1022600058,511,PT05M14.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,-203,125,24,Missed,1,,,0,v,MISS Coffey 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+1022600058,512,PT05M10.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,371
+1022600058,513,PT05M01.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,h,Taylor Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,372
+1022600058,513,PT05M01.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard STEAL (4 STL),,,1,0,373
+1022600058,516,PT05M00.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,v,Miles Out of Bounds Lost Ball Turnover (P4.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,374
+1022600058,517,PT05M00.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,375
+1022600058,518,PT05M00.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,h,SUB: Williams FOR Stevens,Substitution,,0,0,376
+1022600058,520,PT04M57.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,-123,227,26,Missed,1,,,0,h,MISS Taylor 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+1022600058,521,PT04M54.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,378
+1022600058,522,PT04M45.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,379
+1022600058,523,PT04M36.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P3.T2),Foul,Shooting,1,0,380
+1022600058,525,PT04M36.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,55,69,124,h,Cardoso Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,381
+1022600058,526,PT04M36.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,56,69,125,h,Cardoso Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,382
+1022600058,527,PT04M24.00S,4,1611661324,MIN,1627675,Williams,C. Williams,82,134,16,Missed,1,,,0,v,MISS Williams 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,383
+1022600058,527,PT04M24.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud BLOCK (1 BLK),,,1,2,384
+1022600058,529,PT04M23.00S,4,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,1,0,385
+1022600058,530,PT04M23.00S,4,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins AWAY.FROM.PLAY.FOUL (P3.T2),Foul,Away From Play,1,0,386
+1022600058,532,PT04M23.00S,4,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,MISS McBride Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,387
+1022600058,533,PT04M23.00S,4,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,0,0,388
+1022600058,534,PT04M21.00S,4,1611661324,MIN,203825,McBride,K. McBride,-66,80,10,Missed,1,,,0,v,MISS McBride 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,389
+1022600058,535,PT04M19.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,390
+1022600058,536,PT04M16.00S,4,1611661324,MIN,203825,McBride,K. McBride,142,194,24,Missed,1,,,0,v,MISS McBride 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+1022600058,537,PT04M14.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,h,Taylor REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,392
+1022600058,538,PT04M08.00S,4,1611661329,CHI,203400,Diggins,S. Diggins,-128,217,25,Missed,1,,,0,h,MISS Diggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+1022600058,539,PT04M05.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,394
+1022600058,540,PT03M56.00S,4,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins P.FOUL (P4.T3),Foul,Personal,1,0,395
+1022600058,542,PT03M51.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard Traveling Turnover (P3.T13),Turnover,Traveling,1,0,396
+1022600058,543,PT03M39.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P4.T3),Foul,Shooting,1,0,397
+1022600058,546,PT03M39.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,57,69,126,h,Cardoso Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,398
+1022600058,547,PT03M39.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,58,69,127,h,Cardoso Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,399
+1022600058,548,PT03M26.00S,4,1611661324,MIN,1627675,Williams,C. Williams,-85,156,18,Missed,1,,,0,v,MISS Williams 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,400
+1022600058,549,PT03M26.00S,4,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Rebound,Rebound,Unknown,1,0,401
+1022600058,550,PT03M26.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,h,Taylor L.B.FOUL (P3.T4),Foul,Loose Ball,1,0,402
+1022600058,552,PT03M19.00S,4,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,403
+1022600058,552,PT03M19.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,Cloud STEAL (2 STL),,,1,0,404
+1022600058,554,PT03M16.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,21,3,2,Missed,1,,,0,h,MISS Cloud 2' Running Layup,Missed Shot,Running Layup Shot,1,2,405
+1022600058,555,PT03M14.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,406
+1022600058,556,PT03M14.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,-6,1,Missed,1,,,0,h,MISS Cardoso 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,407
+1022600058,557,PT03M11.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,408
+1022600058,558,PT02M54.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso S.FOUL (P3.PN),Foul,Shooting,1,0,409
+1022600058,560,PT02M54.00S,4,0,,1611661324,,,0,0,0,,0,,,0,v,Lynx Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,410
+1022600058,561,PT02M54.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,h,SUB: Banham FOR Taylor,Substitution,,0,0,411
+1022600058,563,PT02M54.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,58,70,128,v,Miles Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,412
+1022600058,564,PT02M54.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,58,71,129,v,Miles Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,413
+1022600058,565,PT02M36.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,11,19,2,Missed,1,,,0,h,MISS Cloud 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,414
+1022600058,566,PT02M34.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,Cardoso REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,415
+1022600058,567,PT02M30.00S,4,1611661329,CHI,1627671,Banham,R. Banham,30,79,8,Missed,1,,,0,h,MISS Banham 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,416
+1022600058,568,PT02M28.00S,4,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,Banham REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,417
+1022600058,569,PT02M21.00S,4,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,Diggins Bad Pass Turnover (P3.T17),Turnover,Bad Pass,1,0,418
+1022600058,569,PT02M21.00S,4,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,McBride STEAL (3 STL),,,1,0,419
+1022600058,571,PT01M59.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,133,198,24,Made,1,58,74,132,v,Coffey 24' 3PT Jump Shot (20 PTS) (Miles 6 AST),Made Shot,Jump Shot,1,3,420
+1022600058,573,PT01M47.00S,4,1611661329,CHI,1627671,Banham,R. Banham,-128,47,14,Missed,1,,,0,h,MISS Banham 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,421
+1022600058,574,PT01M45.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,Coffey REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,422
+1022600058,575,PT01M33.00S,4,1611661324,MIN,1643426,Miles,O. Miles,9,16,2,Made,1,58,76,134,v,Miles 2' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,423
+1022600058,576,PT01M21.00S,4,1611661329,CHI,1627671,Banham,R. Banham,-227,-8,0,Missed,1,,,0,h,MISS Banham 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+1022600058,577,PT01M19.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,425
+1022600058,578,PT01M08.00S,4,1611661324,MIN,203825,McBride,K. McBride,156,182,24,Made,1,58,79,137,v,McBride 24' 3PT Jump Shot (9 PTS) (Howard 3 AST),Made Shot,Jump Shot,1,3,426
+1022600058,580,PT01M08.00S,4,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,427
+1022600058,581,PT01M08.00S,4,1611661329,CHI,203400,Diggins,S. Diggins,0,0,0,,0,,,0,h,SUB: Coulibaly FOR Diggins,Substitution,,0,0,428
+1022600058,582,PT01M08.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,h,SUB: Sheldon FOR Cloud,Substitution,,0,0,429
+1022600058,583,PT01M08.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,h,SUB: Taylor FOR Cardoso,Substitution,,0,0,430
+1022600058,584,PT01M08.00S,4,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,,,0,h,SUB: Poffenbarger FOR Banham,Substitution,,0,0,431
+1022600058,585,PT01M08.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,v,SUB: King FOR Howard,Substitution,,0,0,432
+1022600058,586,PT01M08.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,v,SUB: Kosu FOR Williams,Substitution,,0,0,433
+1022600058,587,PT01M08.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,v,SUB: Delaere FOR Coffey,Substitution,,0,0,434
+1022600058,588,PT01M08.00S,4,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,v,SUB: Caldwell FOR McBride,Substitution,,0,0,435
+1022600058,597,PT00M59.60S,4,1611661329,CHI,1642321,Taylor,S. Taylor,-44,22,5,Missed,1,,,0,h,MISS Taylor 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,436
+1022600058,597,PT00M59.60S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,v,Caldwell BLOCK (1 BLK),,,1,2,437
+1022600058,599,PT00M56.60S,4,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,v,Kosu REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,438
+1022600058,600,PT00M40.50S,4,1611661324,MIN,1642820,King,L. King,-6,6,1,Missed,1,,,0,v,MISS King 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,439
+1022600058,601,PT00M37.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,h,Taylor REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,440
+1022600058,602,PT00M27.20S,4,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King P.FOUL (P3.T4),Foul,Personal,1,0,441
+1022600058,604,PT00M18.00S,4,1611661329,CHI,204322,Williams,E. Williams,10,-3,1,Missed,1,,,0,h,MISS Williams 1' Layup,Missed Shot,Layup Shot,1,2,442
+1022600058,604,PT00M18.00S,4,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,v,King BLOCK (1 BLK),,,1,2,443
+1022600058,606,PT00M18.00S,4,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Rebound,Rebound,Unknown,1,0,444
+1022600058,608,PT00M18.00S,4,0,,1611661329,,,0,0,0,,0,,,0,h,SKY Turnover: 5 Second Violation (T#18),Turnover,5 Second Violation,1,0,445
+1022600058,609,PT00M00.00S,4,0,,0,,,0,0,0,,0,58,79,137,,End of 4th Period (9:27 PM EST),period,end,1,0,446

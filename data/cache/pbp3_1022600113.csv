@@ -1,0 +1,461 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600113,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:40 PM EST),period,start,1,0,1
+1022600113,4,PT10M00.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Jump Ball Boston vs. Reese: Tip to Canada,Jump Ball,,1,0,2
+1022600113,7,PT09M43.00S,1,1611661330,ATL,1631009,Howard,R. Howard,-210,132,25,Missed,1,,,0,v,MISS Howard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+1022600113,8,PT09M38.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,Billings REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+1022600113,653,PT09M38.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,Billings Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,5
+1022600113,653,PT09M38.00S,1,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard STEAL (1 STL),,,0,0,6
+1022600113,9,PT09M34.00S,1,1611661330,ATL,1631009,Howard,R. Howard,-15,31,3,Made,1,0,2,2,v,Howard 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,7
+1022600113,10,PT09M20.00S,1,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon P.FOUL (P1.T1),Foul,Personal,1,0,8
+1022600113,12,PT09M14.00S,1,1611661325,IND,1641648,Boston,A. Boston,-8,39,4,Missed,1,,,0,h,MISS Boston 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,9
+1022600113,12,PT09M14.00S,1,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard BLOCK (1 BLK),,,1,2,10
+1022600113,14,PT09M14.00S,1,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Unknown,0,0,11
+1022600113,16,PT09M13.00S,1,1611661325,IND,1631086,Hull,L. Hull,138,36,14,Made,1,2,2,4,h,Hull 14' Jump Shot (2 PTS) (Clark 1 AST),Made Shot,Jump Shot,1,2,12
+1022600113,18,PT08M51.00S,1,1611661330,ATL,1628886,Canada,J. Canada,54,242,25,Made,1,2,5,7,v,Canada 25' 3PT Jump Shot (3 PTS) (Reese 1 AST),Made Shot,Jump Shot,1,3,13
+1022600113,21,PT08M29.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,14
+1022600113,21,PT08M29.00S,1,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada STEAL (1 STL),,,1,0,15
+1022600113,23,PT08M15.00S,1,1611661330,ATL,1642291,Reese,A. Reese,-20,25,3,Made,1,2,7,9,v,Reese 3' Driving Reverse Layup (2 PTS) (Howard 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,16
+1022600113,24,PT08M04.00S,1,1611661325,IND,1642286,Clark,C. Clark,18,28,3,Made,1,4,7,11,h,Clark 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,17
+1022600113,25,PT07M54.00S,1,1611661330,ATL,1628886,Canada,J. Canada,-177,165,24,Missed,1,,,0,v,MISS Canada 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,18
+1022600113,26,PT07M52.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,19
+1022600113,27,PT07M49.00S,1,1611661330,ATL,1631009,Howard,R. Howard,13,258,26,Missed,1,,,0,v,MISS Howard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+1022600113,28,PT07M46.00S,1,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,21
+1022600113,29,PT07M43.00S,1,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,22
+1022600113,29,PT07M43.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,Billings STEAL (1 STL),,,1,0,23
+1022600113,31,PT07M35.00S,1,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon P.FOUL (P2.T2),Foul,Personal,1,0,24
+1022600113,33,PT07M35.00S,1,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,SUB: Kone FOR Hillmon,Substitution,,0,0,25
+1022600113,35,PT07M29.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese P.FOUL (P1.T3),Foul,Personal,1,0,26
+1022600113,37,PT07M23.00S,1,1611661325,IND,1628881,Billings,M. Billings,-24,5,2,Made,1,6,7,13,h,Billings 2' Driving Layup (2 PTS) (Clark 2 AST),Made Shot,Driving Layup Shot,1,2,27
+1022600113,39,PT07M05.00S,1,1611661330,ATL,1631021,Kone,S. Kone,0,0,0,,0,,,0,v,Kone 3 Second Violation Turnover (P1.T2),Turnover,3 Second Violation,1,0,28
+1022600113,40,PT06M48.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,223,59,0,Missed,1,,,0,h,MISS Mitchell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+1022600113,41,PT06M45.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,30
+1022600113,42,PT06M38.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,Billings S.FOUL (P1.T1),Foul,Shooting,1,0,31
+1022600113,44,PT06M38.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,MISS Reese Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,32
+1022600113,45,PT06M38.00S,1,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Normal Rebound,0,0,33
+1022600113,46,PT06M38.00S,1,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,34
+1022600113,48,PT06M38.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,6,8,14,v,Reese Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,35
+1022600113,49,PT06M22.00S,1,1611661325,IND,1642286,Clark,C. Clark,-197,155,25,Made,1,9,8,17,h,Clark 25' 3PT Jump Shot (5 PTS) (Billings 1 AST),Made Shot,Jump Shot,1,3,36
+1022600113,52,PT06M09.00S,1,1611661330,ATL,1628277,Gray,A. Gray,-23,33,4,Made,1,9,10,19,v,Gray 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,37
+1022600113,54,PT05M57.00S,1,1611661325,IND,1642286,Clark,C. Clark,-151,-15,15,Missed,1,,,0,h,MISS Clark 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,38
+1022600113,55,PT05M54.00S,1,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,Paopao REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+1022600113,56,PT05M49.00S,1,1611661330,ATL,1628277,Gray,A. Gray,-27,36,5,Missed,1,,,0,v,MISS Gray 5' Running Layup,Missed Shot,Running Layup Shot,1,2,40
+1022600113,57,PT05M49.00S,1,1611661330,ATL,1631021,Kone,S. Kone,0,0,0,,0,,,0,v,Kone REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,41
+1022600113,58,PT05M49.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,h,Mitchell S.FOUL (P1.T2),Foul,Shooting,1,0,42
+1022600113,60,PT05M49.00S,1,1611661330,ATL,1631021,Kone,S. Kone,0,0,0,,0,,,0,v,MISS Kone Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,43
+1022600113,61,PT05M49.00S,1,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Normal Rebound,0,0,44
+1022600113,62,PT05M49.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,SUB: Timpson FOR Billings,Substitution,,0,0,45
+1022600113,63,PT05M49.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,SUB: Hillmon FOR Reese,Substitution,,0,0,46
+1022600113,66,PT05M49.00S,1,1611661330,ATL,1631021,Kone,S. Kone,0,0,0,,0,,,0,v,MISS Kone Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,47
+1022600113,67,PT05M48.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,Hull REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+1022600113,68,PT05M37.00S,1,1611661325,IND,1641648,Boston,A. Boston,-39,5,4,Made,1,11,10,21,h,Boston 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,49
+1022600113,69,PT05M24.00S,1,1611661330,ATL,1628277,Gray,A. Gray,-107,19,11,Missed,1,,,0,v,MISS Gray 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,50
+1022600113,70,PT05M22.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,Hull REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,51
+1022600113,71,PT05M20.00S,1,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray P.FOUL (P1.T4),Foul,Personal,1,0,52
+1022600113,73,PT05M20.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,SUB: Cunningham FOR Hull,Substitution,,0,0,53
+1022600113,74,PT05M20.00S,1,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,SUB: Canada FOR Gray,Substitution,,0,0,54
+1022600113,77,PT05M01.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,16,15,2,Made,1,13,10,23,h,Timpson 2' Cutting Layup Shot (2 PTS) (Boston 1 AST),Made Shot,Cutting Layup Shot,1,2,55
+1022600113,79,PT04M47.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston S.FOUL (P1.T3),Foul,Shooting,1,0,56
+1022600113,81,PT04M47.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,57
+1022600113,83,PT04M47.00S,1,1611661330,ATL,1631021,Kone,S. Kone,0,0,0,,0,13,11,24,v,Kone Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,58
+1022600113,84,PT04M47.00S,1,1611661330,ATL,1631021,Kone,S. Kone,0,0,0,,0,,,0,v,MISS Kone Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,59
+1022600113,85,PT04M44.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,60
+1022600113,86,PT04M32.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,61
+1022600113,86,PT04M32.00S,1,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard STEAL (2 STL),,,1,0,62
+1022600113,88,PT04M28.00S,1,1611661330,ATL,1631009,Howard,R. Howard,23,19,3,Made,1,13,13,26,v,Howard 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,63
+1022600113,89,PT04M13.00S,1,1611661325,IND,1642286,Clark,C. Clark,-6,93,9,Missed,1,,,0,h,MISS Clark 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,64
+1022600113,90,PT04M10.00S,1,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+1022600113,91,PT03M53.00S,1,1611661330,ATL,1631021,Kone,S. Kone,-28,25,4,Made,1,13,15,28,v,Kone 4' Cutting Layup Shot (3 PTS) (Canada 1 AST),Made Shot,Cutting Layup Shot,1,2,66
+1022600113,93,PT03M42.00S,1,1611661325,IND,1641648,Boston,A. Boston,34,66,7,Made,1,15,15,30,h,Boston 7' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,67
+1022600113,94,PT03M31.00S,1,1611661330,ATL,1628886,Canada,J. Canada,-12,13,2,Made,1,15,17,32,v,Canada 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,68
+1022600113,95,PT03M17.00S,1,1611661325,IND,1642286,Clark,C. Clark,28,17,3,Made,1,17,17,34,h,Clark 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,69
+1022600113,96,PT03M08.00S,1,1611661330,ATL,1642804,Paopao,T. Paopao,-62,267,27,Missed,1,,,0,v,MISS Paopao 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,70
+1022600113,97,PT03M04.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+1022600113,98,PT02M50.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,-39,240,24,Made,1,20,17,37,h,Cunningham 24' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,72
+1022600113,99,PT02M40.00S,1,1611661330,ATL,1642804,Paopao,T. Paopao,-20,35,4,Made,1,20,19,39,v,Paopao 4' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,73
+1022600113,100,PT02M19.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,-30,11,3,Made,1,22,19,41,h,Timpson 3' Driving Layup (4 PTS) (Mitchell 1 AST),Made Shot,Driving Layup Shot,1,2,74
+1022600113,102,PT02M07.00S,1,1611661330,ATL,1642804,Paopao,T. Paopao,-22,129,13,Missed,1,,,0,v,MISS Paopao 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,75
+1022600113,103,PT02M06.00S,1,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Unknown,0,0,76
+1022600113,105,PT02M06.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,SUB: Hines-Allen FOR Boston,Substitution,,0,0,77
+1022600113,106,PT02M06.00S,1,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Borlase FOR Paopao,Substitution,,0,0,78
+1022600113,107,PT02M06.00S,1,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,SUB: Reese FOR Howard,Substitution,,0,0,79
+1022600113,108,PT02M06.00S,1,1611661330,ATL,1631021,Kone,S. Kone,0,0,0,,0,,,0,v,SUB: Gray FOR Kone,Substitution,,0,0,80
+1022600113,114,PT01M56.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,SUB: Johnson FOR Clark,Substitution,,0,0,81
+1022600113,116,PT01M46.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,1,227,0,Missed,1,,,0,h,MISS Mitchell 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,82
+1022600113,117,PT01M45.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,83
+1022600113,118,PT01M43.00S,1,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase P.FOUL (P1.PN),Foul,Personal,1,0,84
+1022600113,120,PT01M43.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,23,19,42,h,Cunningham Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,85
+1022600113,121,PT01M43.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,24,19,43,h,Cunningham Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,86
+1022600113,122,PT01M31.00S,1,1611661330,ATL,1642291,Reese,A. Reese,27,27,4,Made,1,24,21,45,v,Reese 4' Cutting Layup Shot (5 PTS) (Hillmon 1 AST),Made Shot,Cutting Layup Shot,1,2,87
+1022600113,124,PT01M07.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,160,25,16,Made,1,26,21,47,h,Mitchell 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,88
+1022600113,125,PT00M49.00S,1,1611661330,ATL,1642302,Borlase,I. Borlase,16,13,2,Missed,1,,,0,v,MISS Borlase 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,89
+1022600113,126,PT00M46.80S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,90
+1022600113,127,PT00M44.60S,1,1611661330,ATL,1642291,Reese,A. Reese,-22,31,4,Made,1,26,23,49,v,Reese 4' Turnaround Bank Hook Shot (7 PTS),Made Shot,Turnaround Bank Hook Shot,1,2,91
+1022600113,128,PT00M44.60S,1,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,h,Hines-Allen S.FOUL (P1.T4),Foul,Shooting,1,0,92
+1022600113,130,PT00M44.60S,1,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,SUB: Howard FOR Hillmon,Substitution,,0,0,93
+1022600113,131,PT00M44.60S,1,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,SUB: Okot FOR Gray,Substitution,,0,0,94
+1022600113,134,PT00M44.60S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,26,24,50,v,Reese Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,95
+1022600113,135,PT00M31.30S,1,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,h,Johnson Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,96
+1022600113,135,PT00M31.30S,1,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada STEAL (2 STL),,,1,0,97
+1022600113,137,PT00M24.60S,1,1611661330,ATL,1642291,Reese,A. Reese,24,17,3,Missed,1,,,0,v,MISS Reese 3' Running Layup,Missed Shot,Running Layup Shot,1,2,98
+1022600113,138,PT00M21.30S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,h,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,99
+1022600113,139,PT00M04.60S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-241,29,24,Made,1,29,24,53,h,Mitchell 24' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,100
+1022600113,140,PT00M00.90S,1,1611661330,ATL,1628886,Canada,J. Canada,146,274,31,Missed,1,,,0,v,MISS Canada 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,101
+1022600113,141,PT00M00.90S,1,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Unknown,1,0,102
+1022600113,142,PT00M00.00S,1,0,,0,,,0,0,0,,0,29,24,53,,End of 1st Period (8:00 PM EST),period,end,1,0,103
+1022600113,151,PT10M00.00S,2,0,,0,,,0,0,0,,0,29,24,53,,Start of 2nd Period (8:04 PM EST),period,start,1,0,104
+1022600113,152,PT09M47.00S,2,1611661325,IND,1628881,Billings,M. Billings,-12,7,1,Missed,1,,,0,h,MISS Billings 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,105
+1022600113,153,PT09M42.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,Billings REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,106
+1022600113,154,PT09M41.00S,2,1611661325,IND,1642286,Clark,C. Clark,-156,205,26,Missed,1,,,0,h,MISS Clark 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,107
+1022600113,155,PT09M39.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+1022600113,156,PT09M31.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,-28,31,4,Made,1,29,26,55,v,Hillmon 4' Driving Reverse Layup (2 PTS) (Canada 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,109
+1022600113,158,PT09M22.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada P.FOUL (P1.T1),Foul,Personal,1,0,110
+1022600113,160,PT09M15.00S,2,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,h,Johnson Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,111
+1022600113,160,PT09M15.00S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray STEAL (1 STL),,,1,0,112
+1022600113,162,PT09M10.00S,2,1611661330,ATL,1631009,Howard,R. Howard,212,100,0,Made,1,29,29,58,v,Howard 3PT Running Pull-Up Jump Shot (7 PTS) (Gray 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,113
+1022600113,164,PT08M52.00S,2,1611661325,IND,1643433,Johnson,R. Johnson,37,26,5,Missed,1,,,0,h,MISS Johnson 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,114
+1022600113,165,PT08M50.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,115
+1022600113,166,PT08M45.00S,2,1611661330,ATL,1628886,Canada,J. Canada,-17,35,4,Made,1,29,31,60,v,Canada 4' Running Finger Roll Layup (7 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,116
+1022600113,167,PT08M45.00S,2,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,117
+1022600113,168,PT08M45.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,h,SUB: Boston FOR Hines-Allen,Substitution,,0,0,118
+1022600113,169,PT08M45.00S,2,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,h,SUB: Harris FOR Johnson,Substitution,,0,0,119
+1022600113,170,PT08M45.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,120
+1022600113,175,PT08M37.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese P.FOUL (P2.T2),Foul,Personal,1,0,121
+1022600113,177,PT08M30.00S,2,1611661325,IND,1642286,Clark,C. Clark,-127,117,17,Made,1,31,31,62,h,Clark 17' Step Back Jump Shot (9 PTS) (Boston 2 AST),Made Shot,Step Back Jump shot,1,2,122
+1022600113,178,PT08M13.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,h,Cunningham P.FOUL (P1.T1),Foul,Personal,1,0,123
+1022600113,180,PT08M09.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,-228,34,0,Made,1,31,34,65,v,Hillmon 3PT Jump Shot (5 PTS) (Paopao 1 AST),Made Shot,Jump Shot,1,3,124
+1022600113,182,PT07M49.00S,2,1611661325,IND,1641648,Boston,A. Boston,9,90,9,Missed,1,,,0,h,MISS Boston 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,125
+1022600113,183,PT07M46.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,126
+1022600113,184,PT07M39.00S,2,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,Paopao S.FOUL (P1.T3),Foul,Shooting,1,0,127
+1022600113,186,PT07M39.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,32,34,66,h,Clark Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,128
+1022600113,187,PT07M39.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,33,34,67,h,Clark Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,129
+1022600113,188,PT07M29.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese OFF.Foul (P3),Foul,Offensive,1,0,130
+1022600113,190,PT07M29.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,131
+1022600113,192,PT07M16.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,226,128,26,Made,1,36,34,70,h,Cunningham 26' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,1,3,132
+1022600113,193,PT07M03.00S,2,1611661330,ATL,1631009,Howard,R. Howard,32,22,4,Made,1,36,36,72,v,Howard 4' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,133
+1022600113,194,PT07M03.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark S.FOUL (P1.T2),Foul,Shooting,1,0,134
+1022600113,196,PT07M03.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,SUB: Borlase FOR Hillmon,Substitution,,0,0,135
+1022600113,197,PT07M03.00S,2,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Canada FOR Paopao,Substitution,,0,0,136
+1022600113,200,PT07M03.00S,2,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,36,37,73,v,Howard Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,137
+1022600113,201,PT06M50.00S,2,1611661325,IND,1630112,Harris,T. Harris,-6,102,10,Missed,1,,,0,h,MISS Harris 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,138
+1022600113,202,PT06M47.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,139
+1022600113,203,PT06M41.00S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,140
+1022600113,203,PT06M41.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,Harris STEAL (1 STL),,,1,0,141
+1022600113,205,PT06M36.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,-27,25,4,Made,1,38,37,75,h,Cunningham 4' Running Layup (10 PTS) (Harris 1 AST),Made Shot,Running Layup Shot,1,2,142
+1022600113,208,PT06M17.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,21,24,3,Made,1,38,39,77,v,Borlase 3' Cutting Layup Shot (2 PTS) (Canada 3 AST),Made Shot,Cutting Layup Shot,1,2,143
+1022600113,210,PT06M06.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,h,Cunningham 3 Second Violation Turnover (P1.T6),Turnover,3 Second Violation,1,0,144
+1022600113,211,PT06M06.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,SUB: Timpson FOR Billings,Substitution,,0,0,145
+1022600113,213,PT05M52.00S,2,1611661330,ATL,1631009,Howard,R. Howard,28,27,4,Missed,1,,,0,v,MISS Howard 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,146
+1022600113,214,PT05M49.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,147
+1022600113,215,PT05M49.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,-6,1,Missed,1,,,0,v,MISS Reese 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,148
+1022600113,216,PT05M48.00S,2,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,149
+1022600113,217,PT05M47.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,-22,251,25,Missed,1,,,0,v,MISS Borlase 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+1022600113,218,PT05M45.00S,2,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Unknown,1,0,151
+1022600113,219,PT05M45.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese L.B.FOUL (P4.T4),Foul,Loose Ball,1,0,152
+1022600113,221,PT05M45.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,SUB: Hillmon FOR Reese,Substitution,,0,0,153
+1022600113,223,PT05M45.00S,2,0,,219,Del Negro,V. Del Negro,0,0,0,,0,38,39,77,,Instant Replay2nd Period (8:15 PM EST),Instant Replay,Support Ruling,0,0,154
+1022600113,224,PT05M45.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,SUB: Mitchell FOR Harris,Substitution,,0,0,155
+1022600113,226,PT05M32.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Dream T.Foul (Def. 3 Sec Borlase ),Foul,Defense 3 Second,1,0,156
+1022600113,227,PT05M32.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,MISS Clark Free Throw Technical,Free Throw,Free Throw Technical,1,0,157
+1022600113,228,PT05M32.00S,2,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Normal Rebound,0,0,158
+1022600113,229,PT05M17.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,h,Mitchell Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,159
+1022600113,229,PT05M17.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada STEAL (3 STL),,,1,0,160
+1022600113,231,PT05M12.00S,2,1611661330,ATL,1628277,Gray,A. Gray,-117,233,26,Made,1,38,42,80,v,Gray 26' 3PT Running Jump Shot (5 PTS) (Canada 4 AST),Made Shot,Running Jump Shot,1,3,161
+1022600113,233,PT05M00.00S,2,1611661325,IND,1641648,Boston,A. Boston,-45,240,24,Made,1,41,42,83,h,Boston 24' 3PT Jump Shot (7 PTS) (Clark 3 AST),Made Shot,Jump Shot,1,3,162
+1022600113,235,PT04M47.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark S.FOUL (P2.T3),Foul,Shooting,1,0,163
+1022600113,238,PT04M47.00S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,MISS Gray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,164
+1022600113,239,PT04M47.00S,2,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Normal Rebound,0,0,165
+1022600113,240,PT04M47.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,166
+1022600113,242,PT04M47.00S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,41,43,84,v,Gray Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,167
+1022600113,243,PT04M38.00S,2,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P1.PN),Foul,Shooting,1,0,168
+1022600113,245,PT04M38.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,MISS Boston Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,169
+1022600113,246,PT04M38.00S,2,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Normal Rebound,0,0,170
+1022600113,247,PT04M38.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,42,43,85,h,Boston Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,171
+1022600113,248,PT04M23.00S,2,1611661330,ATL,1642804,Paopao,T. Paopao,-22,47,5,Made,1,42,45,87,v,Paopao 5' Driving Floating Jump Shot (4 PTS) (Howard 2 AST),Made Shot,Driving Floating Jump Shot,1,2,172
+1022600113,250,PT04M13.00S,2,1611661325,IND,1642286,Clark,C. Clark,-22,252,25,Missed,1,,,0,h,MISS Clark 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,173
+1022600113,258,PT04M09.00S,2,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Unknown,0,0,174
+1022600113,251,PT04M09.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,h,SUB: Hull FOR Cunningham,Substitution,,0,0,175
+1022600113,252,PT04M09.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,SUB: Okot FOR Hillmon,Substitution,,0,0,176
+1022600113,255,PT04M09.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Jump Ball Timpson vs. Borlase: Tip to Clark,Jump Ball,,1,0,177
+1022600113,260,PT04M02.00S,2,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot S.FOUL (P1.PN),Foul,Shooting,1,0,178
+1022600113,262,PT04M02.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,MISS Boston Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,179
+1022600113,263,PT04M02.00S,2,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Normal Rebound,0,0,180
+1022600113,264,PT04M02.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,43,45,88,h,Boston Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,181
+1022600113,265,PT03M47.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,5,61,6,Made,1,43,47,90,v,Borlase 6' Floating Jump Shot (4 PTS) (Okot 1 AST),Made Shot,Floating Jump shot,1,2,182
+1022600113,267,PT03M26.00S,2,1611661325,IND,1642286,Clark,C. Clark,-124,124,18,Made,1,45,47,92,h,Clark 18' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,2,183
+1022600113,268,PT03M16.00S,2,1611661330,ATL,1631009,Howard,R. Howard,-102,110,15,Missed,1,,,0,v,MISS Howard 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,184
+1022600113,269,PT03M12.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,Hull REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,185
+1022600113,270,PT03M06.00S,2,1611661325,IND,1641648,Boston,A. Boston,-28,29,4,Missed,1,,,0,h,MISS Boston 4' Running Layup,Missed Shot,Running Layup Shot,1,2,186
+1022600113,270,PT03M06.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase BLOCK (1 BLK),,,1,2,187
+1022600113,272,PT03M05.00S,2,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,188
+1022600113,273,PT02M58.00S,2,1611661330,ATL,1628277,Gray,A. Gray,23,13,3,Made,1,45,49,94,v,Gray 3' Driving Layup (8 PTS) (Paopao 2 AST),Made Shot,Driving Layup Shot,1,2,189
+1022600113,275,PT02M42.00S,2,1611661325,IND,1641648,Boston,A. Boston,-90,92,13,Missed,1,,,0,h,MISS Boston 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,190
+1022600113,276,PT02M41.00S,2,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,191
+1022600113,277,PT02M33.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson P.FOUL (P1.T4),Foul,Personal,1,0,192
+1022600113,279,PT02M33.00S,2,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,193
+1022600113,280,PT02M33.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,SUB: Cunningham FOR Timpson,Substitution,,0,0,194
+1022600113,281,PT02M33.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,SUB: Harris FOR Clark,Substitution,,0,0,195
+1022600113,284,PT02M20.00S,2,1611661330,ATL,1628277,Gray,A. Gray,-15,27,3,Made,1,45,51,96,v,Gray 3' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,196
+1022600113,286,PT02M02.00S,2,1611661325,IND,1631086,Hull,L. Hull,120,22,12,Missed,1,,,0,h,MISS Hull 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,197
+1022600113,287,PT02M00.00S,2,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,198
+1022600113,288,PT01M50.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,13,18,2,Made,1,45,53,98,v,Borlase 2' Driving Layup (6 PTS) (Gray 2 AST),Made Shot,Driving Layup Shot,1,2,199
+1022600113,290,PT01M50.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,Hull S.FOUL (P1.PN),Foul,Shooting,1,0,200
+1022600113,292,PT01M50.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,SUB: Clark FOR Hull,Substitution,,0,0,201
+1022600113,294,PT01M50.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,45,54,99,v,Borlase Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,202
+1022600113,295,PT01M35.00S,2,1611661325,IND,1642286,Clark,C. Clark,-152,213,26,Made,1,48,54,102,h,Clark 26' 3PT Jump Shot (16 PTS) (Cunningham 1 AST),Made Shot,Jump Shot,1,3,203
+1022600113,297,PT01M15.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,28,100,10,Made,1,48,56,104,v,Borlase 10' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,204
+1022600113,298,PT01M00.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase P.FOUL (P2.PN),Foul,Personal,1,0,205
+1022600113,300,PT01M00.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,49,56,105,h,Clark Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,206
+1022600113,301,PT01M00.00S,2,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Canada FOR Paopao,Substitution,,0,0,207
+1022600113,303,PT01M00.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,MISS Clark Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,208
+1022600113,304,PT00M58.60S,2,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,209
+1022600113,305,PT00M52.60S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark P.FOUL (P3.PN),Foul,Personal,1,0,210
+1022600113,307,PT00M52.60S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,49,57,106,v,Canada Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,211
+1022600113,308,PT00M52.60S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,49,58,107,v,Canada Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,212
+1022600113,309,PT00M30.60S,2,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot P.FOUL (P2.PN),Foul,Personal,1,0,213
+1022600113,311,PT00M30.60S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,MISS Clark Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,214
+1022600113,312,PT00M30.60S,2,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Normal Rebound,0,0,215
+1022600113,313,PT00M30.60S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,MISS Clark Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,216
+1022600113,314,PT00M29.40S,2,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,217
+1022600113,315,PT00M10.00S,2,1611661330,ATL,1643431,Okot,M. Okot,22,237,24,Missed,1,,,0,v,MISS Okot 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+1022600113,316,PT00M06.80S,2,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Unknown,0,0,219
+1022600113,318,PT00M01.10S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,220
+1022600113,319,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,58,107,,End of 2nd Period (8:36 PM EST),period,end,1,0,221
+1022600113,329,PT10M00.00S,3,0,,0,,,0,0,0,,0,49,58,107,,Start of 3rd Period (8:52 PM EST),period,start,1,0,222
+1022600113,330,PT09M42.00S,3,1611661325,IND,1641648,Boston,A. Boston,2,24,2,Made,1,51,58,109,h,Boston 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,223
+1022600113,331,PT09M23.00S,3,1611661330,ATL,1628886,Canada,J. Canada,-30,9,3,Missed,1,,,0,v,MISS Canada 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,224
+1022600113,332,PT09M21.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,225
+1022600113,334,PT09M08.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0,226
+1022600113,334,PT09M08.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray STEAL (2 STL),,,1,0,227
+1022600113,336,PT09M06.00S,3,1611661330,ATL,1628277,Gray,A. Gray,-16,39,4,Made,1,51,60,111,v,Gray 4' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,228
+1022600113,337,PT09M06.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,Hull S.FOUL (P2.T1),Foul,Shooting,1,0,229
+1022600113,339,PT09M06.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,51,61,112,v,Gray Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,230
+1022600113,340,PT08M49.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-3,108,11,Made,1,53,61,114,h,Mitchell 11' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,231
+1022600113,341,PT08M40.00S,3,1611661330,ATL,1642291,Reese,A. Reese,11,31,3,Missed,1,,,0,v,MISS Reese 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,232
+1022600113,342,PT08M39.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,233
+1022600113,343,PT08M34.00S,3,1611661325,IND,1642286,Clark,C. Clark,34,23,4,Made,1,55,61,116,h,Clark 4' Running Layup (19 PTS),Made Shot,Running Layup Shot,1,2,234
+1022600113,344,PT08M16.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,Billings S.FOUL (P2.T2),Foul,Shooting,1,0,235
+1022600113,346,PT08M16.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,55,62,117,v,Hillmon Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,236
+1022600113,347,PT08M16.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,55,63,118,v,Hillmon Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,237
+1022600113,348,PT08M02.00S,3,1611661325,IND,1642286,Clark,C. Clark,-184,258,32,Missed,1,,,0,h,MISS Clark 32' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,238
+1022600113,349,PT07M58.00S,3,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,239
+1022600113,350,PT07M50.00S,3,1611661330,ATL,1628277,Gray,A. Gray,-56,9,6,Missed,1,,,0,v,MISS Gray 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,240
+1022600113,351,PT07M47.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,241
+1022600113,352,PT07M44.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,Billings OFF.Foul (P3),Foul,Offensive,1,0,242
+1022600113,354,PT07M44.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,Billings Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,243
+1022600113,355,PT07M29.00S,3,1611661330,ATL,1631009,Howard,R. Howard,5,37,4,Missed,1,,,0,v,MISS Howard 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,244
+1022600113,356,PT07M28.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,245
+1022600113,357,PT07M24.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,246
+1022600113,357,PT07M24.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray STEAL (3 STL),,,1,0,247
+1022600113,360,PT07M22.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,248
+1022600113,360,PT07M22.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,h,Mitchell STEAL (1 STL),,,1,0,249
+1022600113,362,PT07M21.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,h,Mitchell Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,250
+1022600113,364,PT07M19.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,Hull L.B.FOUL (P3.T3),Foul,Loose Ball,1,0,251
+1022600113,366,PT07M01.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,-38,6,4,Missed,1,,,0,v,MISS Hillmon 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,252
+1022600113,367,PT06M58.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,253
+1022600113,368,PT06M53.00S,3,1611661325,IND,1628881,Billings,M. Billings,-26,31,4,Made,1,57,63,120,h,Billings 4' Running Layup (4 PTS) (Clark 4 AST),Made Shot,Running Layup Shot,1,2,254
+1022600113,370,PT06M50.00S,3,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,255
+1022600113,371,PT06M37.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston Traveling Turnover (P2.T13),Turnover,Traveling,1,0,256
+1022600113,372,PT06M24.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,-244,-17,24,Made,1,57,66,123,v,Hillmon 24' 3PT Jump Shot (10 PTS) (Gray 3 AST),Made Shot,Jump Shot,1,3,257
+1022600113,374,PT06M09.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-29,27,4,Made,1,59,66,125,h,Mitchell 4' Driving Layup (9 PTS) (Clark 5 AST),Made Shot,Driving Layup Shot,1,2,258
+1022600113,376,PT05M54.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,Hull S.FOUL (P4.T4),Foul,Shooting,1,0,259
+1022600113,378,PT05M54.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,59,67,126,v,Hillmon Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,260
+1022600113,379,PT05M54.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,SUB: Cunningham FOR Hull,Substitution,,0,0,261
+1022600113,380,PT05M54.00S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,262
+1022600113,383,PT05M54.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,59,68,127,v,Hillmon Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,263
+1022600113,384,PT05M42.00S,3,1611661325,IND,1641648,Boston,A. Boston,-12,98,10,Missed,1,,,0,h,MISS Boston 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,264
+1022600113,385,PT05M41.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,Billings REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,265
+1022600113,386,PT05M41.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray S.FOUL (P2.T1),Foul,Shooting,1,0,266
+1022600113,388,PT05M41.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,60,68,128,h,Billings Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,267
+1022600113,389,PT05M41.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,61,68,129,h,Billings Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,268
+1022600113,390,PT05M22.00S,3,1611661330,ATL,1642291,Reese,A. Reese,7,10,1,Missed,1,,,0,v,MISS Reese 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,269
+1022600113,390,PT05M22.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston BLOCK (1 BLK),,,1,2,270
+1022600113,392,PT05M22.00S,3,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Unknown,0,0,271
+1022600113,393,PT05M22.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston Violation:Jump Ball,Violation,Jump Ball,0,0,272
+1022600113,394,PT05M19.00S,3,1611661330,ATL,1642804,Paopao,T. Paopao,-29,244,25,Made,1,61,71,132,v,Paopao 25' 3PT Pullup Jump Shot (7 PTS) (Howard 3 AST),Made Shot,Pullup Jump shot,1,3,273
+1022600113,395,PT05M05.00S,3,1611661325,IND,1642286,Clark,C. Clark,-28,25,4,Missed,1,,,0,h,MISS Clark 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,274
+1022600113,396,PT05M04.00S,3,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Unknown,1,0,275
+1022600113,397,PT05M04.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon L.B.FOUL (P3.T2),Foul,Loose Ball,1,0,276
+1022600113,399,PT05M04.00S,3,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Canada FOR Paopao,Substitution,,0,0,277
+1022600113,402,PT05M02.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark Bad Pass Turnover (P5.T14),Turnover,Bad Pass,1,0,278
+1022600113,402,PT05M02.00S,3,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard STEAL (3 STL),,,1,0,279
+1022600113,404,PT04M59.00S,3,1611661330,ATL,1628886,Canada,J. Canada,15,17,2,Made,1,61,73,134,v,Canada 2' Running Layup (11 PTS) (Howard 4 AST),Made Shot,Running Layup Shot,1,2,280
+1022600113,405,PT04M59.00S,3,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,281
+1022600113,406,PT04M59.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,h,SUB: Timpson FOR Billings,Substitution,,0,0,282
+1022600113,407,PT04M59.00S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,283
+1022600113,410,PT04M44.00S,3,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Dream T.Foul (Def. 3 Sec Reese ),Foul,Defense 3 Second,1,0,284
+1022600113,411,PT04M44.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,62,73,135,h,Mitchell Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,1,0,285
+1022600113,412,PT04M32.00S,3,1611661325,IND,1641648,Boston,A. Boston,19,57,6,Missed,1,,,0,h,MISS Boston 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,286
+1022600113,412,PT04M32.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon BLOCK (1 BLK),,,1,2,287
+1022600113,417,PT04M31.00S,3,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Unknown,1,0,288
+1022600113,414,PT04M31.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h, ,Jump Ball,,1,0,289
+1022600113,418,PT04M29.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,h,Cunningham L.B.FOUL (P2.PN),Foul,Loose Ball,1,0,290
+1022600113,420,PT04M29.00S,3,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,291
+1022600113,421,PT04M29.00S,3,0,,418,Brooks,S. Brooks,0,0,0,,0,62,73,135,,Instant Replay3rd Period (9:08 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,292
+1022600113,422,PT04M29.00S,3,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,62,74,136,v,Howard Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,293
+1022600113,423,PT04M29.00S,3,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,62,75,137,v,Howard Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+1022600113,424,PT04M16.00S,3,1611661325,IND,1641648,Boston,A. Boston,8,19,2,Made,1,64,75,139,h,Boston 2' Cutting Layup Shot (13 PTS) (Clark 6 AST),Made Shot,Cutting Layup Shot,1,2,295
+1022600113,426,PT04M01.00S,3,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,Paopao Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,296
+1022600113,426,PT04M01.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston STEAL (1 STL),,,1,0,297
+1022600113,428,PT03M52.00S,3,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,Paopao P.FOUL (P2.T3),Foul,Personal,1,0,298
+1022600113,430,PT03M52.00S,3,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Canada FOR Paopao,Substitution,,0,0,299
+1022600113,432,PT03M52.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,SUB: Hines-Allen FOR Boston,Substitution,,0,0,300
+1022600113,434,PT03M41.00S,3,1611661325,IND,1642286,Clark,C. Clark,28,6,3,Missed,1,,,0,h,MISS Clark 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,301
+1022600113,435,PT03M38.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,302
+1022600113,436,PT03M31.00S,3,1611661330,ATL,1642291,Reese,A. Reese,-26,16,3,Made,1,64,77,141,v,Reese 3' Cutting Layup Shot (10 PTS) (Howard 5 AST),Made Shot,Cutting Layup Shot,1,2,303
+1022600113,438,PT03M23.00S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada P.FOUL (P2.T4),Foul,Personal,1,0,304
+1022600113,440,PT03M23.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,SUB: Borlase FOR Gray,Substitution,,0,0,305
+1022600113,442,PT03M20.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,75,258,27,Made,1,67,77,144,h,Mitchell 27' 3PT Pullup Jump Shot (13 PTS) (Clark 7 AST),Made Shot,Pullup Jump shot,1,3,306
+1022600113,444,PT03M09.00S,3,1611661330,ATL,1628886,Canada,J. Canada,16,-3,2,Made,1,67,79,146,v,Canada 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,307
+1022600113,445,PT02M59.00S,3,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase S.FOUL (P3.PN),Foul,Shooting,1,0,308
+1022600113,448,PT02M59.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,68,79,147,h,Clark Free Throw 1 of 3 (20 PTS),Free Throw,Free Throw 1 of 3,1,0,309
+1022600113,449,PT02M59.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,69,79,148,h,Clark Free Throw 2 of 3 (21 PTS),Free Throw,Free Throw 2 of 3,1,0,310
+1022600113,450,PT02M59.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,70,79,149,h,Clark Free Throw 3 of 3 (22 PTS),Free Throw,Free Throw 3 of 3,1,0,311
+1022600113,451,PT02M50.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,h,Mitchell S.FOUL (P2.PN),Foul,Shooting,1,0,312
+1022600113,453,PT02M50.00S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,70,80,150,v,Canada Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,313
+1022600113,454,PT02M50.00S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,70,81,151,v,Canada Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,314
+1022600113,455,PT02M27.00S,3,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,108,29,11,Missed,1,,,0,h,MISS Hines-Allen 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,315
+1022600113,456,PT02M24.00S,3,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,316
+1022600113,457,PT02M16.00S,3,1611661330,ATL,1642291,Reese,A. Reese,-26,5,3,Made,1,70,83,153,v,Reese 3' Cutting Layup Shot (12 PTS) (Hillmon 2 AST),Made Shot,Cutting Layup Shot,1,2,317
+1022600113,459,PT02M05.00S,3,1611661325,IND,1642286,Clark,C. Clark,-22,25,3,Made,1,72,83,155,h,Clark 3' Driving Reverse Layup (24 PTS),Made Shot,Driving Reverse Layup Shot,1,2,318
+1022600113,460,PT01M56.00S,3,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,319
+1022600113,460,PT01M56.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson STEAL (1 STL),,,1,0,320
+1022600113,462,PT01M51.00S,3,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase S.FOUL (P4.PN),Foul,Shooting,1,0,321
+1022600113,464,PT01M51.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,73,83,156,h,Clark Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,322
+1022600113,465,PT01M51.00S,3,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,SUB: Gray FOR Howard,Substitution,,0,0,323
+1022600113,467,PT01M51.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,74,83,157,h,Clark Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,324
+1022600113,468,PT01M40.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,325
+1022600113,468,PT01M40.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson STEAL (2 STL),,,1,0,326
+1022600113,470,PT01M30.00S,3,1611661325,IND,1642286,Clark,C. Clark,-137,27,14,Missed,1,,,0,h,MISS Clark 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,327
+1022600113,471,PT01M28.00S,3,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,328
+1022600113,472,PT01M17.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark P.FOUL (P4.PN),Foul,Personal,1,0,329
+1022600113,474,PT01M17.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,74,84,158,v,Hillmon Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,330
+1022600113,475,PT01M17.00S,3,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,h,SUB: Boston FOR Hines-Allen,Substitution,,0,0,331
+1022600113,476,PT01M17.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,SUB: Harris FOR Clark,Substitution,,0,0,332
+1022600113,477,PT01M17.00S,3,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,SUB: Howard FOR Borlase,Substitution,,0,0,333
+1022600113,481,PT01M17.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,74,85,159,v,Hillmon Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,334
+1022600113,482,PT00M58.40S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada S.FOUL (P3.PN),Foul,Shooting,1,0,335
+1022600113,484,PT00M58.40S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,75,85,160,h,Boston Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,336
+1022600113,485,PT00M58.40S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,76,85,161,h,Boston Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,337
+1022600113,486,PT00M43.40S,3,1611661330,ATL,1642291,Reese,A. Reese,-4,15,2,Made,1,76,87,163,v,Reese 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,338
+1022600113,487,PT00M21.60S,3,1611661325,IND,1641648,Boston,A. Boston,-29,36,5,Made,1,78,87,165,h,Boston 5' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,339
+1022600113,488,PT00M03.80S,3,1611661330,ATL,1628277,Gray,A. Gray,-222,99,24,Missed,1,,,0,v,MISS Gray 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+1022600113,489,PT00M00.50S,3,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,341
+1022600113,490,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,87,165,,End of 3rd Period (9:21 PM EST),period,end,1,0,342
+1022600113,495,PT10M00.00S,4,0,,0,,,0,0,0,,0,78,87,165,,Start of 4th Period (9:25 PM EST),period,start,1,0,343
+1022600113,497,PT09M47.00S,4,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,h,Hines-Allen S.FOUL (P2.T1),Foul,Shooting,1,0,344
+1022600113,499,PT09M47.00S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,78,88,166,v,Reese Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,345
+1022600113,500,PT09M47.00S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,MISS Reese Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,346
+1022600113,501,PT09M44.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,347
+1022600113,502,PT09M32.00S,4,1611661325,IND,1642286,Clark,C. Clark,27,23,4,Missed,1,,,0,h,MISS Clark 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,348
+1022600113,503,PT09M31.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,349
+1022600113,504,PT09M23.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,-12,18,2,Missed,1,,,0,v,MISS Hillmon 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,350
+1022600113,505,PT09M19.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,351
+1022600113,506,PT09M09.00S,4,1611661330,ATL,1628886,Canada,J. Canada,-47,4,5,Missed,1,,,0,v,MISS Canada 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,352
+1022600113,507,PT09M07.00S,4,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,h,Hines-Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,353
+1022600113,508,PT08M51.00S,4,1611661325,IND,1641648,Boston,A. Boston,-23,41,5,Made,1,80,88,168,h,Boston 5' Driving Hook Shot (19 PTS),Made Shot,Driving Hook Shot,1,2,354
+1022600113,509,PT08M41.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,Clark S.FOUL (P5.T2),Foul,Shooting,1,0,355
+1022600113,511,PT08M41.00S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,80,89,169,v,Canada Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,356
+1022600113,512,PT08M41.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,SUB: Mitchell FOR Clark,Substitution,,0,0,357
+1022600113,514,PT08M41.00S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,80,90,170,v,Canada Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,358
+1022600113,515,PT08M24.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon S.FOUL (P4.T1),Foul,Shooting,1,0,359
+1022600113,517,PT08M24.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,81,90,171,h,Boston Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,360
+1022600113,518,PT08M24.00S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,361
+1022600113,520,PT08M24.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,82,90,172,h,Boston Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,362
+1022600113,521,PT08M07.00S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese Traveling Turnover (P4.T10),Turnover,Traveling,1,0,363
+1022600113,522,PT07M49.00S,4,1611661325,IND,1641648,Boston,A. Boston,29,36,5,Made,1,84,90,174,h,Boston 5' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,2,364
+1022600113,523,PT07M36.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,-124,211,24,Made,1,84,93,177,v,Hillmon 24' 3PT Jump Shot (17 PTS) (Paopao 3 AST),Made Shot,Jump Shot,1,3,365
+1022600113,525,PT07M22.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,24,20,3,Made,1,86,93,179,h,Mitchell 3' Cutting Layup Shot (15 PTS) (Boston 3 AST),Made Shot,Cutting Layup Shot,1,2,366
+1022600113,527,PT07M22.00S,4,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,367
+1022600113,528,PT07M22.00S,4,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,h,SUB: Timpson FOR Hines-Allen,Substitution,,0,0,368
+1022600113,530,PT07M08.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,369
+1022600113,530,PT07M08.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson STEAL (3 STL),,,1,0,370
+1022600113,532,PT06M55.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-38,35,5,Made,1,88,93,181,h,Mitchell 5' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,371
+1022600113,533,PT06M44.00S,4,1611661330,ATL,1642291,Reese,A. Reese,28,16,3,Missed,1,,,0,v,MISS Reese 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,372
+1022600113,533,PT06M44.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston BLOCK (2 BLK),,,1,2,373
+1022600113,535,PT06M43.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,374
+1022600113,536,PT06M34.00S,4,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray P.FOUL (P3.T2),Foul,Personal,1,0,375
+1022600113,538,PT06M34.00S,4,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Canada FOR Paopao,Substitution,,0,0,376
+1022600113,540,PT06M34.00S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,SUB: Borlase FOR Reese,Substitution,,0,0,377
+1022600113,542,PT06M29.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston Lost Ball Turnover (P3.T15),Turnover,Lost Ball,1,0,378
+1022600113,542,PT06M29.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon STEAL (1 STL),,,1,0,379
+1022600113,544,PT06M22.00S,4,1611661330,ATL,1628886,Canada,J. Canada,-26,15,3,Missed,1,,,0,v,MISS Canada 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,380
+1022600113,545,PT06M19.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,381
+1022600113,546,PT06M07.00S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada P.FOUL (P4.T3),Foul,Personal,1,0,382
+1022600113,548,PT05M57.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-148,215,26,Made,1,91,93,184,h,Mitchell 26' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,1,3,383
+1022600113,549,PT05M42.00S,4,1611661330,ATL,1631009,Howard,R. Howard,-11,98,10,Missed,1,,,0,v,MISS Howard 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,384
+1022600113,550,PT05M42.00S,4,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Rebound,Rebound,Unknown,1,0,385
+1022600113,552,PT05M33.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-61,277,28,Missed,1,,,0,h,MISS Mitchell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,386
+1022600113,553,PT05M30.00S,4,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,387
+1022600113,554,PT05M18.00S,4,1611661330,ATL,1642302,Borlase,I. Borlase,17,17,2,Missed,1,,,0,v,MISS Borlase 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,388
+1022600113,555,PT05M16.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,389
+1022600113,556,PT05M08.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,-22,15,3,Made,1,93,93,186,h,Cunningham 3' Reverse Layup (12 PTS) (Harris 2 AST),Made Shot,Reverse Layup Shot,1,2,390
+1022600113,558,PT05M07.00S,4,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,391
+1022600113,559,PT05M07.00S,4,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,SUB: Reese FOR Borlase,Substitution,,0,0,392
+1022600113,561,PT04M57.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,Harris P.FOUL (P1.T3),Foul,Personal,1,0,393
+1022600113,563,PT04M43.00S,4,1611661330,ATL,1642291,Reese,A. Reese,26,12,3,Made,1,93,95,188,v,Reese 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,394
+1022600113,564,PT04M25.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,395
+1022600113,565,PT04M15.00S,4,1611661330,ATL,1628277,Gray,A. Gray,112,216,24,Missed,1,,,0,v,MISS Gray 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+1022600113,566,PT04M12.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,397
+1022600113,567,PT04M02.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston OFF.Foul (P2),Foul,Offensive,1,0,398
+1022600113,569,PT04M02.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston Offensive Foul Turnover (P4.T17),Turnover,Offensive Foul Turnover,1,0,399
+1022600113,594,PT03M40.00S,4,1611661330,ATL,1642291,Reese,A. Reese,17,16,2,Missed,1,,,0,v,MISS Reese 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,400
+1022600113,594,PT03M40.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston BLOCK (3 BLK),,,1,2,401
+1022600113,596,PT03M39.00S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,402
+1022600113,570,PT03M38.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,188,184,26,Missed,1,,,0,v,MISS Hillmon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+1022600113,571,PT03M35.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,404
+1022600113,572,PT03M28.00S,4,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray P.FOUL (P4.T4),Foul,Personal,1,0,405
+1022600113,574,PT03M28.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,SUB: Clark FOR Harris,Substitution,,0,0,406
+1022600113,576,PT03M16.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,27,14,3,Made,1,95,95,190,h,Mitchell 3' Driving Floating Jump Shot (22 PTS) (Cunningham 2 AST),Made Shot,Driving Floating Jump Shot,1,2,407
+1022600113,578,PT03M05.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,h,Boston S.FOUL (P3.T4),Foul,Shooting,1,0,408
+1022600113,580,PT03M05.00S,4,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,95,96,191,v,Gray Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,409
+1022600113,581,PT03M05.00S,4,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,95,97,192,v,Gray Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,410
+1022600113,582,PT02M46.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,61,251,26,Missed,1,,,0,h,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,411
+1022600113,583,PT02M44.00S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,412
+1022600113,584,PT02M30.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,-5,236,24,Missed,1,,,0,v,MISS Hillmon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+1022600113,585,PT02M27.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,h,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,414
+1022600113,586,PT02M12.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0,415
+1022600113,586,PT02M12.00S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada STEAL (4 STL),,,1,0,416
+1022600113,588,PT02M08.00S,4,1611661330,ATL,1628277,Gray,A. Gray,-23,17,3,Made,1,95,99,194,v,Gray 3' Running Layup (17 PTS) (Canada 5 AST),Made Shot,Running Layup Shot,1,2,417
+1022600113,590,PT01M56.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,27,165,17,Missed,1,,,0,h,MISS Mitchell 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,418
+1022600113,591,PT01M54.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,419
+1022600113,592,PT01M52.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon P.FOUL (P5.PN),Foul,Personal,1,0,420
+1022600113,597,PT01M52.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,96,99,195,h,Timpson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,421
+1022600113,598,PT01M52.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,97,99,196,h,Timpson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,422
+1022600113,599,PT01M33.00S,4,1611661330,ATL,1631009,Howard,R. Howard,-33,55,6,Made,1,97,101,198,v,Howard 6' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,2,423
+1022600113,600,PT01M10.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,-63,19,7,Missed,1,,,0,h,MISS Timpson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,424
+1022600113,601,PT01M08.00S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,425
+1022600113,602,PT00M48.60S,4,1611661330,ATL,1631009,Howard,R. Howard,62,26,7,Made,1,97,103,200,v,Howard 7' Driving Floating Bank Jump Shot (16 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,426
+1022600113,603,PT00M48.20S,4,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,427
+1022600113,604,PT00M39.60S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-23,25,3,Made,1,99,103,202,h,Mitchell 3' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,1,2,428
+1022600113,605,PT00M23.10S,4,1611661330,ATL,1642291,Reese,A. Reese,-10,22,2,Made,1,99,105,204,v,Reese 2' Cutting Layup Shot (19 PTS) (Howard 6 AST),Made Shot,Cutting Layup Shot,1,2,429
+1022600113,607,PT00M23.10S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,Timpson S.FOUL (P2.PN),Foul,Shooting,1,0,430
+1022600113,609,PT00M23.10S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,99,106,205,v,Reese Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1,0,431
+1022600113,610,PT00M18.30S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon S.FOUL (P6.PN),Foul,Shooting,1,0,432
+1022600113,612,PT00M18.30S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,h,SUB: Harris FOR Clark,Substitution,,0,0,433
+1022600113,613,PT00M18.30S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,SUB: Paopao FOR Hillmon,Substitution,,0,0,434
+1022600113,616,PT00M18.30S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,100,106,206,h,Mitchell Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,435
+1022600113,617,PT00M18.30S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,101,106,207,h,Mitchell Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,436
+1022600113,618,PT00M18.30S,4,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,437
+1022600113,619,PT00M18.30S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,SUB: Hull FOR Timpson,Substitution,,0,0,438
+1022600113,621,PT00M17.20S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,Harris Personal Take Foul (P2.PN),Foul,Personal Take,1,0,439
+1022600113,623,PT00M17.20S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,101,107,208,v,Canada Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,440
+1022600113,624,PT00M17.20S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,MISS Canada Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,441
+1022600113,625,PT00M16.90S,4,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Unknown,0,0,442
+1022600113,627,PT00M16.90S,4,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Timeout: Coach Challenge (Reg.4 Short 0),Timeout,Coach Challenge,0,0,443
+1022600113,628,PT00M16.90S,4,0,,626,,,0,0,0,,0,101,107,208,,Instant Replay4th Period (9:55 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,444
+1022600113,629,PT00M16.90S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,h,SUB: Timpson FOR Hull,Substitution,,0,0,445
+1022600113,631,PT00M15.90S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,1,0,446
+1022600113,633,PT00M15.90S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,SUB: Clark FOR Timpson,Substitution,,0,0,447
+1022600113,636,PT00M15.90S,4,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Timeout: Reset (Full 4 Short 0),Timeout,Reset,0,0,448
+1022600113,637,PT00M12.40S,4,1611661325,IND,1641648,Boston,A. Boston,-35,266,27,Missed,1,,,0,h,MISS Boston 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+1022600113,638,PT00M09.30S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,450
+1022600113,639,PT00M08.70S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,Harris Personal Take Foul (P3.PN),Foul,Personal Take,1,0,451
+1022600113,641,PT00M08.70S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,MISS Reese Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,452
+1022600113,642,PT00M08.70S,4,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Normal Rebound,0,0,453
+1022600113,643,PT00M08.70S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,h,SUB: Timpson FOR Harris,Substitution,,0,0,454
+1022600113,645,PT00M08.70S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,101,108,209,v,Reese Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,455
+1022600113,646,PT00M08.70S,4,0,,1611661325,,,0,0,0,,0,,,0,h,FEVER Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,456
+1022600113,647,PT00M08.70S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,h,SUB: Harris FOR Timpson,Substitution,,0,0,457
+1022600113,649,PT00M06.80S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,173,270,32,Missed,1,,,0,h,MISS Cunningham 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+1022600113,650,PT00M04.00S,4,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,459
+1022600113,651,PT00M00.00S,4,0,,0,,,0,0,0,,0,101,108,209,,End of 4th Period (10:00 PM EST),period,end,1,0,460

@@ -1,0 +1,414 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600036,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:03 PM EST),period,start,1,0,1
+1022600036,4,PT10M00.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h, ,Jump Ball,,1,0,2
+1022600036,8,PT09M50.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams P.FOUL (P1.T1),Foul,Personal,1,0,3
+1022600036,10,PT09M40.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,85,217,0,Missed,1,,,0,v,MISS Juskaite 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+1022600036,11,PT09M38.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+1022600036,12,PT09M25.00S,1,1611661324,MIN,203827,Howard,N. Howard,-9,36,4,Made,1,2,0,2,h,Howard 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,6
+1022600036,13,PT09M08.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,172,183,25,Missed,1,,,0,v,MISS Sykes 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+1022600036,14,PT09M06.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,8
+1022600036,15,PT09M02.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,9
+1022600036,16,PT08M43.00S,1,1611661332,TOR,1629576,Conde,M. Conde,-239,-33,24,Missed,1,,,0,v,MISS Conde 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,10
+1022600036,17,PT08M41.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+1022600036,18,PT08M37.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard OFF.Foul (P1),Foul,Offensive,1,0,12
+1022600036,20,PT08M37.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,13
+1022600036,21,PT08M20.00S,1,1611661332,TOR,1643445,Rice,K. Rice,-145,58,16,Missed,1,,,0,v,MISS Rice 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,14
+1022600036,22,PT08M17.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+1022600036,23,PT08M10.00S,1,1611661324,MIN,1643426,Miles,O. Miles,-18,9,2,Made,1,4,0,4,h,Miles 2' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,1,2,16
+1022600036,24,PT08M03.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,17
+1022600036,25,PT07M49.00S,1,1611661324,MIN,1627675,Williams,C. Williams,228,-8,0,Missed,1,,,0,h,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,18
+1022600036,26,PT07M46.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+1022600036,27,PT07M42.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey OFF.Foul (P1),Foul,Offensive,1,0,20
+1022600036,29,PT07M42.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey Offensive Foul Turnover (P2.T2),Turnover,Offensive Foul Turnover,1,0,21
+1022600036,30,PT07M27.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice P.FOUL (P1.T1),Foul,Personal,1,0,22
+1022600036,32,PT07M17.00S,1,1611661324,MIN,203827,Howard,N. Howard,10,46,5,Made,1,6,0,6,h,Howard 5' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,23
+1022600036,34,PT07M00.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,-57,233,24,Missed,1,,,0,v,MISS Sykes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+1022600036,35,PT06M58.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,25
+1022600036,36,PT06M47.00S,1,1611661332,TOR,1629576,Conde,M. Conde,196,138,24,Made,1,6,3,9,v,Conde 24' 3PT Jump Shot (3 PTS) (Rice 1 AST),Made Shot,Jump Shot,1,3,26
+1022600036,38,PT06M29.00S,1,1611661324,MIN,203827,Howard,N. Howard,-11,11,2,Made,1,8,3,11,h,Howard 2' Cutting Layup Shot (6 PTS) (McBride 1 AST),Made Shot,Cutting Layup Shot,1,2,27
+1022600036,40,PT06M10.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,-163,168,0,Missed,1,,,0,v,MISS Mabrey 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,28
+1022600036,41,PT06M08.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,Coffey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+1022600036,42,PT05M58.00S,1,1611661324,MIN,1627675,Williams,C. Williams,-137,120,18,Made,1,10,3,13,h,Williams 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,30
+1022600036,43,PT05M39.00S,1,1611661332,TOR,1629576,Conde,M. Conde,-15,4,2,Missed,1,,,0,v,MISS Conde 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,31
+1022600036,44,PT05M38.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,Coffey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,32
+1022600036,45,PT05M33.00S,1,1611661324,MIN,203827,Howard,N. Howard,-27,15,3,Missed,1,,,0,h,MISS Howard 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,33
+1022600036,46,PT05M31.00S,1,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+1022600036,47,PT05M26.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride P.FOUL (P1.T2),Foul,Personal,1,0,35
+1022600036,49,PT05M17.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,3,233,0,Made,1,10,6,16,v,Juskaite 3PT Jump Shot (3 PTS) (Rice 2 AST),Made Shot,Jump Shot,1,3,36
+1022600036,51,PT05M08.00S,1,1611661324,MIN,203825,McBride,K. McBride,234,15,0,Made,1,13,6,19,h,McBride 3PT Jump Shot (3 PTS) (Howard 1 AST),Made Shot,Jump Shot,1,3,37
+1022600036,53,PT04M55.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey OFF.Foul (P2),Foul,Offensive,1,0,38
+1022600036,55,PT04M55.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey Offensive Foul Turnover (P3.T3),Turnover,Offensive Foul Turnover,1,0,39
+1022600036,56,PT04M55.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,40
+1022600036,57,PT04M55.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Key FOR Juskaite,Substitution,,0,0,41
+1022600036,58,PT04M55.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Nurse FOR Mabrey,Substitution,,0,0,42
+1022600036,61,PT04M46.00S,1,1611661324,MIN,203825,McBride,K. McBride,-124,180,22,Missed,1,,,0,h,MISS McBride 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,43
+1022600036,62,PT04M44.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,44
+1022600036,63,PT04M39.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,-24,10,3,Missed,1,,,0,v,MISS Sykes 3' Running Layup,Missed Shot,Running Layup Shot,1,2,45
+1022600036,64,PT04M37.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,46
+1022600036,65,PT04M31.00S,1,1611661324,MIN,1627675,Williams,C. Williams,-148,192,24,Missed,1,,,0,h,MISS Williams 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,47
+1022600036,66,PT04M28.00S,1,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,Nurse REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+1022600036,67,PT04M07.00S,1,1611661332,TOR,1628915,Nurse,K. Nurse,-213,92,0,Missed,1,,,0,v,MISS Nurse 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,49
+1022600036,68,PT04M05.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,50
+1022600036,69,PT04M01.00S,1,1611661324,MIN,203825,McBride,K. McBride,22,14,3,Made,1,15,6,21,h,McBride 3' Running Layup (5 PTS) (Williams 1 AST),Made Shot,Running Layup Shot,1,2,51
+1022600036,71,PT03M40.00S,1,1611661332,TOR,1643457,Key,T. Key,-19,-1,2,Missed,1,,,0,v,MISS Key 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,52
+1022600036,72,PT03M39.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,53
+1022600036,73,PT03M37.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes S.FOUL (P1.T2),Foul,Shooting,1,0,54
+1022600036,75,PT03M37.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,16,6,22,h,McBride Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,55
+1022600036,76,PT03M37.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Caldwell FOR Williams,Substitution,,0,0,56
+1022600036,77,PT03M37.00S,1,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,SUB: Kosu FOR Coffey,Substitution,,0,0,57
+1022600036,78,PT03M37.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,SUB: Juskaite FOR Rice,Substitution,,0,0,58
+1022600036,79,PT03M37.00S,1,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Held FOR Conde,Substitution,,0,0,59
+1022600036,84,PT03M37.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,17,6,23,h,McBride Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,60
+1022600036,85,PT03M24.00S,1,1611661332,TOR,1631118,Held,L. Held,223,-28,0,Missed,1,,,0,v,MISS Held 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+1022600036,86,PT03M22.00S,1,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+1022600036,87,PT03M09.00S,1,1611661324,MIN,1642797,Kosu,A. Kosu,-16,8,2,Made,1,19,6,25,h,Kosu 2' Cutting Layup Shot (2 PTS) (McBride 2 AST),Made Shot,Cutting Layup Shot,1,2,63
+1022600036,89,PT02M49.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,24,18,3,Made,1,19,8,27,v,Juskaite 3' Driving Layup (5 PTS) (Sykes 1 AST),Made Shot,Driving Layup Shot,1,2,64
+1022600036,91,PT02M36.00S,1,1611661324,MIN,1643426,Miles,O. Miles,82,176,19,Missed,1,,,0,h,MISS Miles 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,65
+1022600036,92,PT02M35.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,66
+1022600036,93,PT02M35.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,23,4,2,Made,1,21,8,29,h,Caldwell 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,67
+1022600036,94,PT02M24.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes OFF.Foul (P2),Foul,Offensive,1,0,68
+1022600036,96,PT02M24.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,69
+1022600036,97,PT02M24.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,SUB: Rice FOR Sykes,Substitution,,0,0,70
+1022600036,99,PT02M15.00S,1,1611661324,MIN,1643426,Miles,O. Miles,15,14,2,Made,1,23,8,31,h,Miles 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,71
+1022600036,100,PT02M15.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite S.FOUL (P1.T3),Foul,Shooting,1,0,72
+1022600036,102,PT02M15.00S,1,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,73
+1022600036,103,PT02M15.00S,1,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,SUB: Milic FOR Key,Substitution,,0,0,74
+1022600036,105,PT02M15.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,24,8,32,h,Miles Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,75
+1022600036,106,PT02M02.00S,1,1611661332,TOR,1628915,Nurse,K. Nurse,-127,222,26,Made,1,24,11,35,v,Nurse 26' 3PT Jump Shot (3 PTS) (Milic 1 AST),Made Shot,Jump Shot,1,3,76
+1022600036,108,PT01M45.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard OFF.Foul (P2),Foul,Offensive,1,0,77
+1022600036,110,PT01M45.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,1,0,78
+1022600036,111,PT01M45.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,SUB: Williams FOR Howard,Substitution,,0,0,79
+1022600036,112,PT01M45.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,SUB: King FOR Miles,Substitution,,0,0,80
+1022600036,115,PT01M29.00S,1,1611661332,TOR,1628915,Nurse,K. Nurse,-19,263,26,Missed,1,,,0,v,MISS Nurse 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+1022600036,116,PT01M27.00S,1,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,82
+1022600036,117,PT01M13.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,175,162,24,Made,1,27,11,38,h,Caldwell 24' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,83
+1022600036,118,PT00M59.60S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,77,221,0,Missed,1,,,0,v,MISS Juskaite 3PT Jump Shot,Missed Shot,Jump Shot,1,3,84
+1022600036,119,PT00M56.40S,1,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,Nurse REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,85
+1022600036,120,PT00M51.60S,1,1611661332,TOR,1628915,Nurse,K. Nurse,-84,224,24,Made,1,27,14,41,v,Nurse 24' 3PT Jump Shot (6 PTS) (Rice 3 AST),Made Shot,Jump Shot,1,3,86
+1022600036,122,PT00M33.80S,1,1611661324,MIN,1642820,King,L. King,227,-5,0,Missed,1,,,0,h,MISS King 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+1022600036,123,PT00M32.00S,1,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,1,0,88
+1022600036,125,PT00M32.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,SUB: Delaere FOR McBride,Substitution,,0,0,89
+1022600036,128,PT00M08.10S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,90
+1022600036,128,PT00M08.10S,1,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu STEAL (1 STL),,,1,0,91
+1022600036,130,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,14,41,,End of 1st Period (8:23 PM EST),period,end,1,0,92
+1022600036,133,PT10M00.00S,2,0,,0,,,0,0,0,,0,27,14,41,,Start of 2nd Period (8:26 PM EST),period,start,0,0,93
+1022600036,134,PT09M50.00S,2,1611661324,MIN,1627675,Williams,C. Williams,45,228,0,Made,1,30,14,44,h,Williams 3PT Jump Shot (5 PTS) (Delaere 1 AST),Made Shot,Jump Shot,1,3,94
+1022600036,136,PT09M28.00S,2,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Jump Ball Kosu vs. Juskaite: Tip to Caldwell,Jump Ball,,1,0,95
+1022600036,139,PT09M26.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,96
+1022600036,139,PT09M26.00S,2,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu STEAL (2 STL),,,1,0,97
+1022600036,141,PT09M21.00S,2,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu Traveling Turnover (P1.T4),Turnover,Traveling,1,0,98
+1022600036,142,PT09M04.00S,2,1611661332,TOR,1631263,Milic,N. Milic,13,9,2,Made,1,30,16,46,v,Milic 2' Layup (2 PTS) (Mabrey 1 AST),Made Shot,Layup Shot,1,2,99
+1022600036,144,PT08M46.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,-106,130,17,Made,1,32,16,48,h,Caldwell 17' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,100
+1022600036,145,PT08M28.00S,2,1611661332,TOR,1643445,Rice,K. Rice,94,228,25,Missed,1,,,0,v,MISS Rice 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,101
+1022600036,146,PT08M24.00S,2,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,King REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+1022600036,147,PT08M17.00S,2,1611661324,MIN,1642797,Kosu,A. Kosu,-26,9,3,Missed,1,,,0,h,MISS Kosu 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,103
+1022600036,148,PT08M16.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+1022600036,149,PT08M05.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-16,-12,2,Made,1,32,18,50,v,Mabrey 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,105
+1022600036,150,PT08M05.00S,2,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu S.FOUL (P1.T1),Foul,Shooting,1,0,106
+1022600036,152,PT08M05.00S,2,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,SUB: Conde FOR Nurse,Substitution,,0,0,107
+1022600036,154,PT08M05.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,32,19,51,v,Mabrey Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,108
+1022600036,155,PT07M49.00S,2,1611661324,MIN,1627675,Williams,C. Williams,33,196,20,Made,1,34,19,53,h,Williams 20' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,109
+1022600036,156,PT07M32.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-161,181,24,Missed,1,,,0,v,MISS Mabrey 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,110
+1022600036,157,PT07M30.00S,2,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,King REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,111
+1022600036,158,PT07M17.00S,2,1611661324,MIN,1642820,King,L. King,147,3,15,Made,1,36,19,55,h,King 15' Pullup Jump Shot (2 PTS) (Delaere 2 AST),Made Shot,Pullup Jump shot,1,2,112
+1022600036,160,PT07M04.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-201,192,28,Missed,1,,,0,v,MISS Mabrey 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+1022600036,161,PT07M00.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,114
+1022600036,162,PT06M58.00S,2,1611661324,MIN,1627675,Williams,C. Williams,8,151,15,Made,1,38,19,57,h,Williams 15' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,115
+1022600036,163,PT06M55.00S,2,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,116
+1022600036,164,PT06M55.00S,2,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,SUB: Coffey FOR Kosu,Substitution,,0,0,117
+1022600036,165,PT06M55.00S,2,1611661332,TOR,1631263,Milic,N. Milic,0,0,0,,0,,,0,v,SUB: Sykes FOR Milic,Substitution,,0,0,118
+1022600036,168,PT06M33.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,160,167,0,Made,1,38,22,60,v,Sykes 3PT Jump Shot (3 PTS) (Juskaite 1 AST),Made Shot,Jump Shot,1,3,119
+1022600036,170,PT06M20.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,-16,14,2,Made,1,40,22,62,h,Coffey 2' Cutting Layup Shot (2 PTS) (Caldwell 1 AST),Made Shot,Cutting Layup Shot,1,2,120
+1022600036,172,PT05M55.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,-193,141,24,Missed,1,,,0,v,MISS Sykes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+1022600036,173,PT05M51.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,122
+1022600036,174,PT05M50.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,27,236,24,Missed,1,,,0,v,MISS Mabrey 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+1022600036,175,PT05M48.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,124
+1022600036,176,PT05M35.00S,2,1611661324,MIN,1642820,King,L. King,-67,234,24,Made,1,43,22,65,h,King 24' 3PT Jump Shot (5 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,125
+1022600036,178,PT05M20.00S,2,1611661332,TOR,1629576,Conde,M. Conde,18,230,0,Missed,1,,,0,v,MISS Conde 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+1022600036,179,PT05M18.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,127
+1022600036,180,PT05M08.00S,2,1611661324,MIN,1627675,Williams,C. Williams,58,180,19,Missed,1,,,0,h,MISS Williams 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,128
+1022600036,181,PT05M05.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,129
+1022600036,182,PT04M56.00S,2,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,h,Delaere FLAGRANT.FOUL.TYPE1 (P1.T2),Foul,Flagrant Type 1,1,0,130
+1022600036,184,PT04M56.00S,2,0,,182,Owens,B. Owens,0,0,0,,0,43,22,65,,Instant Replay2nd Period (8:36 PM EST),Instant Replay,Overturn Ruling,0,0,131
+1022600036,185,PT04M56.00S,2,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,SUB: Howard FOR King,Substitution,,0,0,132
+1022600036,186,PT04M56.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,SUB: Miles FOR Caldwell,Substitution,,0,0,133
+1022600036,187,PT04M56.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: McBride FOR Williams,Substitution,,0,0,134
+1022600036,188,PT04M56.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Milic FOR Juskaite,Substitution,,0,0,135
+1022600036,193,PT04M56.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,43,23,66,v,Rice Free Throw Flagrant 1 of 3 (1 PTS),Free Throw,Free Throw Flagrant 1 of 3,1,0,136
+1022600036,194,PT04M56.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,MISS Rice Free Throw Flagrant 2 of 3,Free Throw,Free Throw Flagrant 2 of 3,1,0,137
+1022600036,195,PT04M56.00S,2,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Normal Rebound,0,0,138
+1022600036,196,PT04M56.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,43,24,67,v,Rice Free Throw Flagrant 3 of 3 (2 PTS),Free Throw,Free Throw Flagrant 3 of 3,0,0,139
+1022600036,197,PT04M44.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-169,200,26,Missed,1,,,0,v,MISS Mabrey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+1022600036,198,PT04M42.00S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,141
+1022600036,199,PT04M31.00S,2,1611661324,MIN,1643489,Delaere,A. Delaere,234,4,0,Missed,1,,,0,h,MISS Delaere 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+1022600036,200,PT04M29.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,143
+1022600036,201,PT04M26.00S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde P.FOUL (P1.T1),Foul,Personal,1,0,144
+1022600036,203,PT04M26.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,SUB: Nurse FOR Rice,Substitution,,0,0,145
+1022600036,204,PT04M26.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Held FOR Mabrey,Substitution,,0,0,146
+1022600036,207,PT04M16.00S,2,1611661324,MIN,1643426,Miles,O. Miles,-17,18,2,Made,1,45,24,69,h,Miles 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,147
+1022600036,208,PT04M01.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,LYNX T.Foul (Def. 3 Sec Coffey ),Foul,Defense 3 Second,1,0,148
+1022600036,216,PT04M01.00S,2,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,h,SUB: Williams FOR Delaere,Substitution,,0,0,149
+1022600036,209,PT04M01.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,45,25,70,v,Sykes Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,150
+1022600036,210,PT03M50.00S,2,1611661332,TOR,1629576,Conde,M. Conde,-91,214,0,Missed,1,,,0,v,MISS Conde 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+1022600036,211,PT03M47.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,152
+1022600036,212,PT03M37.00S,2,1611661324,MIN,1643426,Miles,O. Miles,15,14,2,Missed,1,,,0,h,MISS Miles 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,153
+1022600036,213,PT03M36.00S,2,1611661332,TOR,1631118,Held,L. Held,0,0,0,,0,,,0,v,Held REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,154
+1022600036,214,PT03M28.00S,2,1611661332,TOR,1631263,Milic,N. Milic,5,33,3,Made,1,45,27,72,v,Milic 3' Running Layup (4 PTS) (Held 1 AST),Made Shot,Running Layup Shot,1,2,155
+1022600036,218,PT03M09.00S,2,1611661332,TOR,1631263,Milic,N. Milic,0,0,0,,0,,,0,v,Milic S.FOUL (P1.T2),Foul,Shooting,1,0,156
+1022600036,220,PT03M09.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,157
+1022600036,221,PT03M09.00S,2,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Normal Rebound,0,0,158
+1022600036,222,PT03M09.00S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Juskaite FOR Conde,Substitution,,0,0,159
+1022600036,223,PT03M09.00S,2,1611661332,TOR,1631263,Milic,N. Milic,0,0,0,,0,,,0,v,SUB: Key FOR Milic,Substitution,,0,0,160
+1022600036,226,PT03M09.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,46,27,73,h,Howard Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,161
+1022600036,227,PT02M47.00S,2,1611661332,TOR,1643457,Key,T. Key,32,10,3,Missed,1,,,0,v,MISS Key 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,162
+1022600036,229,PT02M44.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,163
+1022600036,230,PT02M34.00S,2,1611661324,MIN,1643426,Miles,O. Miles,136,199,24,Missed,1,,,0,h,MISS Miles 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,164
+1022600036,231,PT02M32.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,165
+1022600036,232,PT02M24.00S,2,1611661332,TOR,1643457,Key,T. Key,-5,133,13,Made,1,46,29,75,v,Key 13' Pullup Jump Shot (2 PTS) (Sykes 2 AST),Made Shot,Pullup Jump shot,1,2,166
+1022600036,234,PT02M22.00S,2,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,167
+1022600036,235,PT02M11.00S,2,1611661324,MIN,1628269,Coffey,N. Coffey,18,11,2,Made,1,48,29,77,h,Coffey 2' Reverse Layup (4 PTS) (Howard 2 AST),Made Shot,Reverse Layup Shot,1,2,168
+1022600036,237,PT01M49.00S,2,1611661332,TOR,1631118,Held,L. Held,-189,162,25,Made,1,48,32,80,v,Held 25' 3PT Step Back Jump Shot (3 PTS) (Juskaite 2 AST),Made Shot,Step Back Jump shot,1,3,169
+1022600036,239,PT01M26.00S,2,1611661324,MIN,1627675,Williams,C. Williams,150,190,24,Made,1,51,32,83,h,Williams 24' 3PT Jump Shot (12 PTS) (Miles 1 AST),Made Shot,Jump Shot,1,3,170
+1022600036,242,PT01M06.00S,2,1611661332,TOR,1631118,Held,L. Held,229,-23,0,Missed,1,,,0,v,MISS Held 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+1022600036,243,PT01M05.00S,2,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,0,0,172
+1022600036,244,PT01M05.00S,2,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,Key L.B.FOUL (P1.T3),Foul,Loose Ball,1,0,173
+1022600036,246,PT00M47.90S,2,1611661324,MIN,203827,Howard,N. Howard,-20,9,2,Made,1,53,32,85,h,Howard 2' Layup (9 PTS) (Miles 2 AST),Made Shot,Layup Shot,1,2,174
+1022600036,248,PT00M26.80S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,20,236,24,Missed,1,,,0,v,MISS Juskaite 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+1022600036,249,PT00M25.50S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,176
+1022600036,252,PT00M02.80S,2,1611661324,MIN,1627675,Williams,C. Williams,238,-13,24,Missed,1,,,0,h,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,177
+1022600036,253,PT00M01.20S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,178
+1022600036,254,PT00M00.20S,2,1611661324,MIN,203827,Howard,N. Howard,-27,4,3,Missed,1,,,0,h,MISS Howard 3' Layup,Missed Shot,Layup Shot,1,2,179
+1022600036,255,PT00M00.20S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,180
+1022600036,256,PT00M00.00S,2,0,,0,,,0,0,0,,0,53,32,85,,End of 2nd Period (8:50 PM EST),period,end,1,0,181
+1022600036,263,PT10M00.00S,3,0,,0,,,0,0,0,,0,53,32,85,,Start of 3rd Period (9:06 PM EST),period,start,1,0,182
+1022600036,264,PT09M46.00S,3,1611661324,MIN,203825,McBride,K. McBride,22,9,2,Made,1,55,32,87,h,McBride 2' Cutting Layup Shot (9 PTS) (Howard 3 AST),Made Shot,Cutting Layup Shot,1,2,183
+1022600036,266,PT09M21.00S,3,1611661332,TOR,1643445,Rice,K. Rice,-200,129,24,Made,1,55,35,90,v,Rice 24' 3PT Jump Shot (5 PTS) (Sykes 3 AST),Made Shot,Jump Shot,1,3,184
+1022600036,268,PT09M11.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,-23,6,2,Made,1,57,35,92,h,Coffey 2' Driving Layup (6 PTS) (Miles 3 AST),Made Shot,Driving Layup Shot,0,2,185
+1022600036,270,PT08M49.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,143,199,25,Missed,1,,,0,v,MISS Mabrey 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,186
+1022600036,271,PT08M47.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,187
+1022600036,272,PT08M47.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard S.FOUL (P3.T1),Foul,Shooting,1,0,188
+1022600036,274,PT08M47.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,57,36,93,v,Juskaite Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,189
+1022600036,275,PT08M47.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,57,37,94,v,Juskaite Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,190
+1022600036,276,PT08M31.00S,3,1611661324,MIN,1643426,Miles,O. Miles,21,2,2,Made,1,59,37,96,h,Miles 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,191
+1022600036,277,PT08M31.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite S.FOUL (P2.T1),Foul,Shooting,1,0,192
+1022600036,279,PT08M31.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,60,37,97,h,Miles Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,193
+1022600036,280,PT08M08.00S,3,1611661332,TOR,1643445,Rice,K. Rice,-123,237,27,Made,1,60,40,100,v,Rice 27' 3PT Jump Shot (8 PTS) (Sykes 4 AST),Made Shot,Jump Shot,1,3,194
+1022600036,282,PT07M52.00S,3,1611661324,MIN,203825,McBride,K. McBride,210,87,0,Missed,1,,,0,h,MISS McBride 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+1022600036,283,PT07M50.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,196
+1022600036,284,PT07M46.00S,3,1611661332,TOR,1643445,Rice,K. Rice,-20,15,3,Made,1,60,42,102,v,Rice 3' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,197
+1022600036,285,PT07M46.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,Coffey S.FOUL (P1.T2),Foul,Shooting,1,0,198
+1022600036,288,PT07M46.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,60,43,103,v,Rice Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,199
+1022600036,289,PT07M33.00S,3,1611661324,MIN,203827,Howard,N. Howard,-2,13,1,Made,1,62,43,105,h,Howard 1' Driving Floating Jump Shot (11 PTS) (Miles 4 AST),Made Shot,Driving Floating Jump Shot,1,2,200
+1022600036,291,PT07M23.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,-143,199,25,Missed,1,,,0,v,MISS Juskaite 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,201
+1022600036,292,PT07M20.00S,3,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,202
+1022600036,294,PT07M01.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite P.FOUL (P3.T2),Foul,Personal,1,0,203
+1022600036,298,PT07M01.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Milic FOR Juskaite,Substitution,,0,0,204
+1022600036,296,PT06M57.00S,3,1611661324,MIN,203825,McBride,K. McBride,-17,23,3,Made,1,64,43,107,h,McBride 3' Cutting Layup Shot (11 PTS) (Coffey 1 AST),Made Shot,Cutting Layup Shot,1,2,205
+1022600036,300,PT06M35.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-234,-16,0,Missed,1,,,0,v,MISS Mabrey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+1022600036,301,PT06M33.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,207
+1022600036,302,PT06M28.00S,3,1611661324,MIN,203825,McBride,K. McBride,228,1,0,Missed,1,,,0,h,MISS McBride 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+1022600036,303,PT06M26.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,209
+1022600036,304,PT06M22.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0,210
+1022600036,304,PT06M22.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey STEAL (1 STL),,,1,0,211
+1022600036,306,PT06M13.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey Lost Ball Turnover (P4.T7),Turnover,Lost Ball,1,0,212
+1022600036,306,PT06M13.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride STEAL (1 STL),,,1,0,213
+1022600036,309,PT06M06.00S,3,1611661324,MIN,1643426,Miles,O. Miles,-13,16,2,Made,1,66,43,109,h,Miles 2' Cutting Layup Shot (12 PTS) (Williams 3 AST),Made Shot,Cutting Layup Shot,1,2,214
+1022600036,311,PT05M44.00S,3,1611661332,TOR,1631263,Milic,N. Milic,-109,55,12,Missed,1,,,0,v,MISS Milic 12' Jump Shot,Missed Shot,Jump Shot,1,2,215
+1022600036,312,PT05M43.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,Sykes REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,216
+1022600036,313,PT05M38.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,13,9,2,Made,1,66,45,111,v,Sykes 2' Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,1,2,217
+1022600036,314,PT05M25.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,218
+1022600036,315,PT05M25.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Nurse FOR Mabrey,Substitution,,0,0,219
+1022600036,317,PT05M12.00S,3,1611661332,TOR,1643445,Rice,K. Rice,29,11,3,Missed,1,,,0,v,MISS Rice 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,220
+1022600036,318,PT05M10.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,221
+1022600036,319,PT05M07.00S,3,1611661324,MIN,1627675,Williams,C. Williams,-23,149,15,Missed,1,,,0,h,MISS Williams 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,222
+1022600036,320,PT05M04.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,223
+1022600036,321,PT04M53.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,-29,142,14,Missed,1,,,0,v,MISS Sykes 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,224
+1022600036,322,PT04M50.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,225
+1022600036,323,PT04M42.00S,3,1611661324,MIN,1643426,Miles,O. Miles,24,10,3,Missed,1,,,0,h,MISS Miles 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,2,226
+1022600036,324,PT04M42.00S,3,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,0,0,227
+1022600036,325,PT04M42.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,Nurse L.B.FOUL (P1.T3),Foul,Loose Ball,0,0,228
+1022600036,327,PT04M42.00S,3,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,229
+1022600036,328,PT04M42.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,SUB: Kosu FOR Coffey,Substitution,,0,0,230
+1022600036,329,PT04M42.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,SUB: Juskaite FOR Rice,Substitution,,0,0,231
+1022600036,330,PT04M42.00S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Held FOR Conde,Substitution,,0,0,232
+1022600036,334,PT04M40.00S,3,1611661324,MIN,203825,McBride,K. McBride,24,-1,2,Made,1,68,45,113,h,McBride 2' Cutting Layup Shot (13 PTS) (Miles 5 AST),Made Shot,Cutting Layup Shot,1,2,233
+1022600036,336,PT04M18.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,-157,221,27,Made,1,68,48,116,v,Nurse 27' 3PT Jump Shot (9 PTS) (Held 2 AST),Made Shot,Jump Shot,1,3,234
+1022600036,338,PT04M03.00S,3,1611661324,MIN,1627675,Williams,C. Williams,-152,120,19,Missed,1,,,0,h,MISS Williams 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,235
+1022600036,339,PT04M03.00S,3,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,236
+1022600036,340,PT04M03.00S,3,1611661332,TOR,1631118,Held,L. Held,0,0,0,,0,,,0,v,Held L.B.FOUL (P1.T4),Foul,Loose Ball,1,0,237
+1022600036,342,PT04M03.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,v,SUB: Mabrey FOR Sykes,Substitution,,0,0,238
+1022600036,344,PT03M51.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite S.FOUL (P4.PN),Foul,Shooting,1,0,239
+1022600036,346,PT03M51.00S,3,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,69,48,117,h,Kosu Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,240
+1022600036,347,PT03M51.00S,3,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,MISS Kosu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,241
+1022600036,348,PT03M48.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,242
+1022600036,349,PT03M48.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard Out of Bounds Lost Ball Turnover (P4.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,243
+1022600036,364,PT03M37.00S,3,1611661332,TOR,1631118,Held,L. Held,93,59,11,Missed,1,,,0,v,MISS Held 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,244
+1022600036,364,PT03M37.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles BLOCK (1 BLK),,,1,2,245
+1022600036,366,PT03M36.00S,3,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,246
+1022600036,353,PT03M36.00S,3,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Timeout: Coach Challenge (Full 1 Short 0),Timeout,Coach Challenge,0,0,247
+1022600036,352,PT03M36.00S,3,0,,350,,,0,0,0,,0,69,48,117,,Instant Replay3rd Period (9:21 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,248
+1022600036,354,PT03M23.00S,3,1611661332,TOR,1631263,Milic,N. Milic,0,0,0,,0,,,0,v,Milic S.FOUL (P2.PN),Foul,Shooting,1,0,249
+1022600036,356,PT03M23.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,70,48,118,h,Howard Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,250
+1022600036,357,PT03M23.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,71,48,119,h,Howard Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,251
+1022600036,358,PT03M13.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,119,218,25,Missed,1,,,0,v,MISS Nurse 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+1022600036,359,PT03M09.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,253
+1022600036,360,PT03M01.00S,3,1611661324,MIN,1627675,Williams,C. Williams,-63,232,24,Missed,1,,,0,h,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,254
+1022600036,361,PT02M58.00S,3,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,255
+1022600036,362,PT02M57.00S,3,1611661324,MIN,1642797,Kosu,A. Kosu,23,13,3,Made,1,73,48,121,h,Kosu 3' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,256
+1022600036,363,PT02M55.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,257
+1022600036,367,PT02M55.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,SUB: Caldwell FOR Howard,Substitution,,0,0,258
+1022600036,368,PT02M55.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Coffey FOR Williams,Substitution,,0,0,259
+1022600036,369,PT02M55.00S,3,1611661332,TOR,1631263,Milic,N. Milic,0,0,0,,0,,,0,v,SUB: Key FOR Milic,Substitution,,0,0,260
+1022600036,373,PT02M45.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell P.FOUL (P1.T3),Foul,Personal,1,0,261
+1022600036,375,PT02M39.00S,3,1611661332,TOR,1631118,Held,L. Held,0,0,0,,0,,,0,v,Held Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,262
+1022600036,375,PT02M39.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,Coffey STEAL (1 STL),,,1,0,263
+1022600036,377,PT02M36.00S,3,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,Coffey Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,264
+1022600036,377,PT02M36.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey STEAL (2 STL),,,1,0,265
+1022600036,379,PT02M30.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,266
+1022600036,379,PT02M30.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles STEAL (1 STL),,,1,0,267
+1022600036,381,PT02M28.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite Transition Take Foul (P5.PN),Foul,Transition Take,1,0,268
+1022600036,383,PT02M28.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Conde FOR Juskaite,Substitution,,0,0,269
+1022600036,385,PT02M28.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,MISS McBride Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,270
+1022600036,386,PT02M28.00S,3,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,0,0,271
+1022600036,387,PT02M28.00S,3,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,SUB: King FOR Kosu,Substitution,,0,0,272
+1022600036,389,PT02M10.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,-62,225,0,Missed,1,,,0,h,MISS Caldwell 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,273
+1022600036,390,PT02M06.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,Nurse REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,274
+1022600036,391,PT01M56.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell P.FOUL (P2.T4),Foul,Personal,1,0,275
+1022600036,393,PT01M44.00S,3,1611661332,TOR,1629576,Conde,M. Conde,12,22,3,Missed,1,,,0,v,MISS Conde 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,276
+1022600036,394,PT01M42.00S,3,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,Key REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,277
+1022600036,395,PT01M40.00S,3,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,Key Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,278
+1022600036,395,PT01M40.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell STEAL (1 STL),,,1,0,279
+1022600036,397,PT01M35.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,-195,128,0,Missed,1,,,0,h,MISS Caldwell 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,280
+1022600036,398,PT01M32.00S,3,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,Key REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,281
+1022600036,399,PT01M27.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,Nurse Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,282
+1022600036,400,PT01M27.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,SUB: Delaere FOR McBride,Substitution,,0,0,283
+1022600036,402,PT01M08.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,-38,53,7,Missed,1,,,0,h,MISS Caldwell 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,284
+1022600036,402,PT01M08.00S,3,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,Key BLOCK (1 BLK),,,1,2,285
+1022600036,403,PT01M07.00S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,King REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,286
+1022600036,404,PT01M05.00S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde S.FOUL (P2.PN),Foul,Shooting,1,0,287
+1022600036,407,PT01M05.00S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,74,48,122,h,King Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,288
+1022600036,408,PT01M05.00S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Fasoula FOR Conde,Substitution,,0,0,289
+1022600036,410,PT01M05.00S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,MISS King Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,290
+1022600036,411,PT01M03.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,291
+1022600036,412,PT00M51.70S,3,1611661332,TOR,1628915,Nurse,K. Nurse,-234,7,0,Missed,1,,,0,v,MISS Nurse 3PT Jump Shot,Missed Shot,Jump Shot,1,3,292
+1022600036,413,PT00M47.20S,3,1611661332,TOR,1630108,Fasoula,M. Fasoula,0,0,0,,0,,,0,v,Fasoula REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,293
+1022600036,414,PT00M45.20S,3,1611661332,TOR,1630108,Fasoula,M. Fasoula,0,0,0,,0,,,0,v,Fasoula Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,294
+1022600036,414,PT00M45.20S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,King STEAL (1 STL),,,1,0,295
+1022600036,416,PT00M36.20S,3,1611661324,MIN,1643426,Miles,O. Miles,16,160,16,Made,1,76,48,124,h,Miles 16' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,2,296
+1022600036,417,PT00M22.30S,3,1611661332,TOR,1631118,Held,L. Held,18,19,3,Missed,1,,,0,v,MISS Held 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,297
+1022600036,419,PT00M21.30S,3,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,King REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,298
+1022600036,420,PT00M02.40S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,299
+1022600036,420,PT00M02.40S,3,1611661332,TOR,1630108,Fasoula,M. Fasoula,0,0,0,,0,,,0,v,Fasoula STEAL (1 STL),,,1,0,300
+1022600036,422,PT00M00.60S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,10,377,38,Missed,1,,,0,v,MISS Mabrey 38' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,301
+1022600036,423,PT00M00.20S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,302
+1022600036,424,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,48,124,,End of 3rd Period (9:33 PM EST),period,end,1,0,303
+1022600036,429,PT10M00.00S,4,0,,0,,,0,0,0,,0,76,48,124,,Start of 4th Period (9:37 PM EST),period,start,0,0,304
+1022600036,430,PT09M46.00S,4,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,h,Delaere S.FOUL (P2.T1),Foul,Shooting,1,0,305
+1022600036,432,PT09M46.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,76,49,125,v,Nurse Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,306
+1022600036,433,PT09M46.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,76,50,126,v,Nurse Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,307
+1022600036,434,PT09M34.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,-200,122,0,Missed,1,,,0,h,MISS Caldwell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,308
+1022600036,435,PT09M30.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,Coffey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,309
+1022600036,436,PT09M26.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,0,0,0,,0,,,0,v,Fasoula P.FOUL (P1.T1),Foul,Personal,1,0,310
+1022600036,438,PT09M20.00S,4,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,King Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,311
+1022600036,438,PT09M20.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,Nurse STEAL (1 STL),,,1,0,312
+1022600036,440,PT09M16.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P2.T2),Foul,Shooting,1,0,313
+1022600036,442,PT09M16.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,76,51,127,v,Nurse Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,314
+1022600036,443,PT09M16.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,76,52,128,v,Nurse Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,315
+1022600036,444,PT09M02.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,228,-22,0,Made,1,79,52,131,h,Caldwell 3PT Jump Shot (10 PTS) (Coffey 2 AST),Made Shot,Jump Shot,1,3,316
+1022600036,446,PT08M48.00S,4,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,h,LYNX T.Foul (Def. 3 Sec Delaere ),Foul,Defense 3 Second,1,0,317
+1022600036,447,PT08M48.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,79,53,132,v,Nurse Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,1,0,318
+1022600036,463,PT08M36.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,4,139,14,Missed,1,,,0,v,MISS Nurse 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,319
+1022600036,463,PT08M36.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell BLOCK (1 BLK),,,1,2,320
+1022600036,465,PT08M35.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,321
+1022600036,450,PT08M35.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,322
+1022600036,451,PT08M35.00S,4,0,,448,Outlaw,B. Outlaw,0,0,0,,0,79,53,132,,Instant Replay4th Period (9:41 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,323
+1022600036,452,PT08M17.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,-6,-7,1,Missed,1,,,0,h,MISS Caldwell 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,324
+1022600036,453,PT08M15.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,325
+1022600036,454,PT08M10.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,227,60,0,Made,1,79,56,135,v,Nurse 3PT Running Jump Shot (17 PTS) (Rice 4 AST),Made Shot,Running Jump Shot,1,3,326
+1022600036,456,PT07M47.00S,4,1611661324,MIN,1642820,King,L. King,11,7,1,Missed,1,,,0,h,MISS King 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,327
+1022600036,456,PT07M47.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,0,0,0,,0,,,0,v,Fasoula BLOCK (1 BLK),,,1,2,328
+1022600036,458,PT07M47.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,329
+1022600036,461,PT07M47.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,330
+1022600036,466,PT07M47.00S,4,0,,459,,,0,0,0,,0,79,56,135,,Instant Replay4th Period (9:45 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,331
+1022600036,467,PT07M35.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,112,87,14,Missed,1,,,0,v,MISS Nurse 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,332
+1022600036,468,PT07M33.00S,4,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,Key REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,333
+1022600036,469,PT07M26.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,19,18,3,Made,1,79,58,137,v,Fasoula 3' Layup (2 PTS) (Held 3 AST),Made Shot,Layup Shot,1,2,334
+1022600036,471,PT07M09.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,4,194,19,Made,1,81,58,139,h,Coffey 19' Jump Shot (8 PTS) (Caldwell 2 AST),Made Shot,Jump Shot,1,2,335
+1022600036,473,PT06M56.00S,4,1611661332,TOR,1643445,Rice,K. Rice,-40,98,11,Missed,1,,,0,v,MISS Rice 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,336
+1022600036,474,PT06M55.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,337
+1022600036,475,PT06M49.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell P.FOUL (P3.T3),Foul,Personal,1,0,338
+1022600036,477,PT06M49.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,SUB: Conde FOR Rice,Substitution,,0,0,339
+1022600036,479,PT06M49.00S,4,1611661324,MIN,1628269,Coffey,N. Coffey,0,0,0,,0,,,0,h,SUB: Howard FOR Coffey,Substitution,,0,0,340
+1022600036,481,PT06M49.00S,4,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,h,Delaere AWAY.FROM.PLAY.FOUL (P3.T4),Foul,Away From Play,1,0,341
+1022600036,483,PT06M49.00S,4,0,,481,,,0,0,0,,0,81,58,139,,Instant Replay4th Period (9:49 PM EST),Instant Replay,Overturn Ruling,0,0,342
+1022600036,484,PT06M49.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,MISS Nurse Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,343
+1022600036,485,PT06M49.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,344
+1022600036,486,PT06M43.00S,4,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,345
+1022600036,487,PT06M29.00S,4,1611661324,MIN,1642820,King,L. King,-21,11,2,Made,1,83,58,141,h,King 2' Driving Finger Roll Layup (8 PTS) (Caldwell 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,346
+1022600036,488,PT06M11.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,-32,50,6,Made,1,83,60,143,v,Fasoula 6' Finger Roll Layup (4 PTS) (Conde 1 AST),Made Shot,Finger Roll Layup Shot,1,2,347
+1022600036,490,PT05M54.00S,4,1611661324,MIN,1627675,Williams,C. Williams,-201,120,0,Missed,1,,,0,h,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,348
+1022600036,491,PT05M51.00S,4,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,h,Delaere REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,349
+1022600036,492,PT05M49.00S,4,1611661324,MIN,1627675,Williams,C. Williams,-191,160,25,Made,1,86,60,146,h,Williams 25' 3PT Jump Shot (15 PTS) (Delaere 3 AST),Made Shot,Jump Shot,1,3,350
+1022600036,494,PT05M33.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,196,140,24,Made,1,86,63,149,v,Nurse 24' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,1,3,351
+1022600036,495,PT05M21.00S,4,1611661324,MIN,1627675,Williams,C. Williams,162,96,19,Missed,1,,,0,h,MISS Williams 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,352
+1022600036,496,PT05M20.00S,4,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,King REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,353
+1022600036,497,PT05M20.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,0,0,0,,0,,,0,v,Fasoula S.FOUL (P2.T2),Foul,Shooting,1,0,354
+1022600036,500,PT05M20.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Kosu FOR Williams,Substitution,,0,0,355
+1022600036,501,PT05M20.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,SUB: Hamzova FOR Howard,Substitution,,0,0,356
+1022600036,499,PT05M20.00S,4,1611661324,MIN,1642820,King,L. King,0,0,0,,0,87,63,150,h,King Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,357
+1022600036,505,PT05M20.00S,4,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,MISS King Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,358
+1022600036,506,PT05M17.00S,4,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,359
+1022600036,507,PT05M16.00S,4,1611661324,MIN,1643489,Delaere,A. Delaere,-193,134,0,Missed,1,,,0,h,MISS Delaere 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+1022600036,508,PT05M14.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,361
+1022600036,509,PT05M08.00S,4,1611661324,MIN,1643489,Delaere,A. Delaere,0,0,0,,0,,,0,h,Delaere Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,362
+1022600036,510,PT04M57.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,-149,43,16,Missed,1,,,0,v,MISS Fasoula 16' Jump Shot,Missed Shot,Jump Shot,1,2,363
+1022600036,511,PT04M55.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,Hamzova REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,364
+1022600036,512,PT04M52.00S,4,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde P.FOUL (P3.T3),Foul,Personal,1,0,365
+1022600036,514,PT04M51.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,Hamzova Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,366
+1022600036,515,PT04M42.00S,4,1611661332,TOR,1643457,Key,T. Key,-15,240,24,Missed,1,,,0,v,MISS Key 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+1022600036,516,PT04M41.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,368
+1022600036,518,PT04M23.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,-19,4,2,Missed,1,,,0,h,MISS Hamzova 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,369
+1022600036,518,PT04M23.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,0,0,0,,0,,,0,v,Fasoula BLOCK (2 BLK),,,1,2,370
+1022600036,520,PT04M20.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,Hamzova REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,371
+1022600036,521,PT04M20.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,0,0,0,,0,,,0,v,Fasoula S.FOUL (P3.T4),Foul,Shooting,1,0,372
+1022600036,523,PT04M20.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,88,63,151,h,Hamzova Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,373
+1022600036,524,PT04M20.00S,4,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Juskaite FOR Conde,Substitution,,0,0,374
+1022600036,526,PT04M20.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,MISS Hamzova Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,375
+1022600036,527,PT04M17.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,Nurse REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,376
+1022600036,528,PT03M59.00S,4,1611661332,TOR,1631118,Held,L. Held,-51,97,11,Missed,1,,,0,v,MISS Held 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,377
+1022600036,529,PT03M57.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,Hamzova REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,378
+1022600036,530,PT03M55.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,Hamzova Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,379
+1022600036,530,PT03M55.00S,4,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,Key STEAL (1 STL),,,1,0,380
+1022600036,532,PT03M53.00S,4,1611661332,TOR,1643457,Key,T. Key,-23,14,3,Made,1,88,65,153,v,Key 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,381
+1022600036,533,PT03M34.00S,4,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu Double Dribble Turnover (P2.T14),Turnover,Double Dribble,1,0,382
+1022600036,534,PT03M20.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,-154,190,24,Missed,1,,,0,v,MISS Juskaite 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+1022600036,535,PT03M16.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,Hamzova REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,384
+1022600036,536,PT03M12.00S,4,1611661324,MIN,1643489,Delaere,A. Delaere,232,-23,0,Made,1,91,65,156,h,Delaere 3PT Running Jump Shot (3 PTS) (Hamzova 1 AST),Made Shot,Running Jump Shot,1,3,385
+1022600036,538,PT02M55.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,21,28,4,Missed,1,,,0,v,MISS Fasoula 4' Layup,Missed Shot,Layup Shot,1,2,386
+1022600036,539,PT02M54.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,1,0,387
+1022600036,541,PT02M54.00S,4,1611661332,TOR,1643457,Key,T. Key,0,0,0,,0,,,0,v,SUB: Milic FOR Key,Substitution,,0,0,388
+1022600036,543,PT02M48.00S,4,1611661332,TOR,1631263,Milic,N. Milic,12,4,1,Made,1,91,67,158,v,Milic 1' Layup (6 PTS) (Nurse 1 AST),Made Shot,Layup Shot,1,2,389
+1022600036,545,PT02M37.00S,4,1611661332,TOR,1631118,Held,L. Held,0,0,0,,0,,,0,v,Held P.FOUL (P2.PN),Foul,Personal,1,0,390
+1022600036,547,PT02M37.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,MISS Hamzova Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,391
+1022600036,548,PT02M37.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Normal Rebound,1,0,392
+1022600036,549,PT02M37.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,92,67,159,h,Hamzova Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,393
+1022600036,550,PT02M24.00S,4,1611661332,TOR,1630108,Fasoula,M. Fasoula,-20,13,2,Missed,1,,,0,v,MISS Fasoula 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,394
+1022600036,550,PT02M24.00S,4,1611661324,MIN,1642797,Kosu,A. Kosu,0,0,0,,0,,,0,h,Kosu BLOCK (1 BLK),,,1,2,395
+1022600036,552,PT02M22.00S,4,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,King REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,396
+1022600036,553,PT02M08.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,235,-14,24,Made,1,95,67,162,h,Caldwell 24' 3PT Jump Shot (13 PTS) (Delaere 4 AST),Made Shot,Jump Shot,1,3,397
+1022600036,555,PT01M44.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,-167,168,24,Made,1,95,70,165,v,Nurse 24' 3PT Step Back Jump Shot (23 PTS) (Fasoula 1 AST),Made Shot,Step Back Jump shot,1,3,398
+1022600036,557,PT01M32.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,-15,7,2,Missed,1,,,0,h,MISS Caldwell 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,399
+1022600036,558,PT01M30.00S,4,1611661332,TOR,1631263,Milic,N. Milic,0,0,0,,0,,,0,v,Milic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,400
+1022600036,559,PT01M15.00S,4,1611661332,TOR,1631263,Milic,N. Milic,-22,12,3,Made,1,95,72,167,v,Milic 3' Layup (8 PTS) (Nurse 2 AST),Made Shot,Layup Shot,1,2,401
+1022600036,561,PT01M00.00S,4,1611661332,TOR,1631118,Held,L. Held,0,0,0,,0,,,0,v,Held S.FOUL (P3.PN),Foul,Shooting,1,0,402
+1022600036,563,PT01M00.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,96,72,168,h,Hamzova Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,403
+1022600036,564,PT01M00.00S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,97,72,169,h,Hamzova Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,404
+1022600036,565,PT00M50.30S,4,1611661332,TOR,1628915,Nurse,K. Nurse,88,227,24,Missed,1,,,0,v,MISS Nurse 24' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,405
+1022600036,566,PT00M47.50S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,Hamzova REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,406
+1022600036,567,PT00M42.80S,4,1611661324,MIN,1642797,Kosu,A. Kosu,-149,1,15,Missed,1,,,0,h,MISS Kosu 15' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,407
+1022600036,568,PT00M39.90S,4,1611661324,MIN,1643490,Hamzova,E. Hamzova,0,0,0,,0,,,0,h,Hamzova REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,408
+1022600036,569,PT00M37.20S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,-138,187,0,Made,1,100,72,172,h,Caldwell 3PT Jump Shot (16 PTS) (Hamzova 2 AST),Made Shot,Jump Shot,1,3,409
+1022600036,571,PT00M36.20S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,410
+1022600036,572,PT00M23.80S,4,1611661332,TOR,1631263,Milic,N. Milic,-109,217,24,Missed,1,,,0,v,MISS Milic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+1022600036,573,PT00M20.60S,4,1611661324,MIN,1642820,King,L. King,0,0,0,,0,,,0,h,King REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,412
+1022600036,574,PT00M00.00S,4,0,,0,,,0,0,0,,0,100,72,172,,End of 4th Period (10:04 PM EST),period,end,1,0,413

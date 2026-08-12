@@ -1,0 +1,424 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600199,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:03 PM EST),period,start,1,0,1
+1022600199,4,PT10M00.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jump Ball Jones vs. Cardoso: Tip to Ionescu,Jump Ball,,1,0,2
+1022600199,7,PT09M46.00S,1,1611661313,NYL,1627673,Jones,J. Jones,-197,25,20,Made,1,2,0,2,h,Jones 20' Jump Shot (2 PTS) (Astier 1 AST),Made Shot,Jump Shot,1,2,3
+1022600199,9,PT09M27.00S,1,1611661329,CHI,202664,Vandersloot,C. Vandersloot,-100,88,13,Made,1,2,2,4,v,Vandersloot 13' Pullup Jump Shot (2 PTS) (Cardoso 1 AST),Made Shot,Pullup Jump shot,1,2,4
+1022600199,11,PT09M06.00S,1,1611661313,NYL,1627673,Jones,J. Jones,120,49,13,Missed,1,,,0,h,MISS Jones 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,5
+1022600199,12,PT09M05.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+1022600199,13,PT09M00.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,-71,245,26,Missed,1,,,0,v,MISS Taylor 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,7
+1022600199,14,PT08M58.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+1022600199,15,PT08M49.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,-29,25,4,Missed,1,,,0,h,MISS Stewart 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,9
+1022600199,16,PT08M48.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+1022600199,17,PT08M42.00S,1,1611661313,NYL,1631136,Astier,P. Astier,-6,2,1,Missed,1,,,0,h,MISS Astier 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,11
+1022600199,18,PT08M41.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,12
+1022600199,19,PT08M30.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,-59,12,6,Made,1,2,4,6,v,Cardoso 6' Cutting Layup Shot (2 PTS) (Cloud 1 AST),Made Shot,Cutting Layup Shot,1,2,13
+1022600199,21,PT08M10.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,14
+1022600199,21,PT08M10.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens STEAL (1 STL),,,1,0,15
+1022600199,23,PT08M08.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,23,11,3,Made,1,2,6,8,v,Taylor 3' Running Finger Roll Layup (2 PTS) (Stevens 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,16
+1022600199,24,PT07M51.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,128,216,25,Made,1,5,6,11,h,Stewart 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,17
+1022600199,25,PT07M40.00S,1,1611661329,CHI,202664,Vandersloot,C. Vandersloot,-74,243,25,Made,1,5,9,14,v,Vandersloot 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,18
+1022600199,26,PT07M30.00S,1,1611661313,NYL,1631136,Astier,P. Astier,53,11,5,Missed,1,,,0,h,MISS Astier 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,19
+1022600199,26,PT07M30.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens BLOCK (1 BLK),,,1,2,20
+1022600199,27,PT07M29.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,21
+1022600199,28,PT07M23.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,173,180,25,Made,1,5,12,17,v,Taylor 25' 3PT Running Jump Shot (5 PTS) (Stevens 2 AST),Made Shot,Running Jump Shot,1,3,22
+1022600199,29,PT07M23.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,23
+1022600199,30,PT07M23.00S,1,0,,24,Jennings,K. Jennings,0,0,0,,0,5,12,17,,Instant Replay1st Period (7:08 PM EST),Instant Replay,Support Ruling,0,0,24
+1022600199,32,PT07M11.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,24,18,3,Made,1,7,12,19,h,Ionescu 3' Driving Finger Roll Layup (2 PTS) (Stewart 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,25
+1022600199,34,PT07M10.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens Inbound Turnover (P1.T1),Turnover,Inbound Turnover,1,0,26
+1022600199,35,PT07M08.00S,1,1611661313,NYL,1627673,Jones,J. Jones,93,241,26,Missed,1,,,0,h,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+1022600199,36,PT07M06.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,28
+1022600199,37,PT07M02.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,-47,232,24,Made,1,10,12,22,h,Ionescu 24' 3PT Jump Shot (5 PTS) (Stewart 2 AST),Made Shot,Jump Shot,1,3,29
+1022600199,39,PT06M49.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,-15,7,2,Made,1,10,14,24,v,Taylor 2' Cutting Layup Shot (7 PTS) (Vandersloot 1 AST),Made Shot,Cutting Layup Shot,1,2,30
+1022600199,42,PT06M31.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,31
+1022600199,43,PT06M20.00S,1,1611661329,CHI,202664,Vandersloot,C. Vandersloot,29,13,3,Missed,1,,,0,v,MISS Vandersloot 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,32
+1022600199,43,PT06M20.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones BLOCK (1 BLK),,,1,2,33
+1022600199,44,PT06M19.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,34
+1022600199,45,PT06M19.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,23,19,3,Missed,1,,,0,v,MISS Cardoso 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,35
+1022600199,45,PT06M19.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu BLOCK (1 BLK),,,1,2,36
+1022600199,47,PT06M18.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,37
+1022600199,48,PT06M06.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud S.FOUL (P1.T1),Foul,Shooting,1,0,38
+1022600199,50,PT06M06.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,11,14,25,h,Stewart Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,39
+1022600199,51,PT06M06.00S,1,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,,,0,v,SUB: Sheldon FOR Vandersloot,Substitution,,0,0,40
+1022600199,53,PT06M06.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,12,14,26,h,Stewart Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,41
+1022600199,54,PT05M54.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,146,189,24,Made,1,12,17,29,v,Taylor 24' 3PT Pullup Jump Shot (10 PTS) (Cloud 2 AST),Made Shot,Pullup Jump shot,1,3,42
+1022600199,56,PT05M31.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,-56,238,24,Made,1,15,17,32,h,Stewart 24' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,43
+1022600199,57,PT05M14.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,-4,167,17,Made,1,15,19,34,v,Taylor 17' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,44
+1022600199,58,PT05M01.00S,1,1611661313,NYL,204296,Allen,R. Allen,-234,10,0,Made,1,18,19,37,h,Allen 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,45
+1022600199,62,PT04M48.00S,1,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,SUB: Gardner FOR Allen,Substitution,,0,0,46
+1022600199,64,PT04M45.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,15,20,3,Made,1,18,21,39,v,Cardoso 3' Layup (4 PTS) (Taylor 1 AST),Made Shot,Layup Shot,1,2,47
+1022600199,66,PT04M30.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,-55,224,0,Missed,1,,,0,h,MISS Stewart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,48
+1022600199,67,PT04M28.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+1022600199,68,PT04M19.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,32,40,5,Missed,1,,,0,v,MISS Taylor 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,50
+1022600199,69,PT04M17.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,51
+1022600199,70,PT04M06.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,19,13,2,Made,1,18,23,41,v,Stevens 2' Layup (2 PTS) (Cloud 3 AST),Made Shot,Layup Shot,1,2,52
+1022600199,72,PT03M46.00S,1,1611661313,NYL,203822,Gardner,R. Gardner,-23,17,3,Missed,1,,,0,h,MISS Gardner 3' Layup,Missed Shot,Layup Shot,1,2,53
+1022600199,72,PT03M46.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso BLOCK (1 BLK),,,1,2,54
+1022600199,74,PT03M44.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,55
+1022600199,75,PT03M43.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,56
+1022600199,75,PT03M43.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens STEAL (2 STL),,,1,0,57
+1022600199,77,PT03M36.00S,1,1611661329,CHI,1642292,Sheldon,J. Sheldon,-4,261,26,Missed,1,,,0,v,MISS Sheldon 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,58
+1022600199,78,PT03M36.00S,1,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,59
+1022600199,80,PT03M36.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Fauthoux FOR Jones,Substitution,,0,0,60
+1022600199,81,PT03M36.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Xu FOR Astier,Substitution,,0,0,61
+1022600199,82,PT03M36.00S,1,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,SUB: Williams FOR Cardoso,Substitution,,0,0,62
+1022600199,83,PT03M36.00S,1,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,SUB: Jaquez FOR Taylor,Substitution,,0,0,63
+1022600199,88,PT03M28.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,197,56,20,Made,1,18,25,43,v,Stevens 20' Jump Shot (4 PTS) (Jaquez 1 AST),Made Shot,Jump Shot,1,2,64
+1022600199,90,PT03M06.00S,1,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,55,235,24,Missed,1,,,0,h,MISS Fauthoux 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,65
+1022600199,90,PT03M06.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens BLOCK (2 BLK),,,1,3,66
+1022600199,92,PT03M01.00S,1,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,67
+1022600199,93,PT02M53.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,223,-8,0,Missed,1,,,0,v,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+1022600199,94,PT02M51.00S,1,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+1022600199,95,PT02M46.00S,1,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon S.FOUL (P1.T2),Foul,Shooting,1,0,70
+1022600199,97,PT02M46.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,19,25,44,h,Ionescu Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,71
+1022600199,98,PT02M46.00S,1,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,SUB: Banham FOR Cloud,Substitution,,0,0,72
+1022600199,100,PT02M46.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,20,25,45,h,Ionescu Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,73
+1022600199,102,PT02M27.00S,1,1611661329,CHI,204322,Williams,E. Williams,56,29,6,Made,1,20,27,47,v,Williams 6' Layup (2 PTS) (Banham 1 AST),Made Shot,Layup Shot,1,2,74
+1022600199,104,PT02M13.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,166,194,26,Missed,1,,,0,h,MISS Stewart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+1022600199,105,PT02M12.00S,1,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,0,0,76
+1022600199,107,PT02M00.00S,1,1611661329,CHI,1627671,Banham,R. Banham,115,170,21,Missed,1,,,0,v,MISS Banham 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,77
+1022600199,108,PT01M58.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,78
+1022600199,109,PT01M42.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,-29,15,3,Made,1,22,27,49,h,Ionescu 3' Driving Bank Hook Shot (9 PTS),Made Shot,Driving Bank Hook Shot,1,2,79
+1022600199,110,PT01M30.00S,1,1611661329,CHI,1643447,Jaquez,G. Jaquez,-40,119,13,Made,1,22,29,51,v,Jaquez 13' Driving Floating Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Driving Floating Jump Shot,1,2,80
+1022600199,112,PT01M20.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens S.FOUL (P1.T3),Foul,Shooting,1,0,81
+1022600199,114,PT01M20.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,23,29,52,h,Stewart Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,82
+1022600199,116,PT01M20.00S,1,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,SUB: Coulibaly FOR Stevens,Substitution,,0,0,83
+1022600199,118,PT01M20.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,24,29,53,h,Stewart Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,84
+1022600199,119,PT01M03.00S,1,1611661329,CHI,1643447,Jaquez,G. Jaquez,35,28,4,Missed,1,,,0,v,MISS Jaquez 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,85
+1022600199,120,PT01M02.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,86
+1022600199,122,PT00M50.70S,1,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,40,48,6,Made,1,26,29,55,h,Fauthoux 6' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,87
+1022600199,123,PT00M30.70S,1,1611661329,CHI,1627671,Banham,R. Banham,-165,234,29,Missed,1,,,0,v,MISS Banham 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+1022600199,124,PT00M28.40S,1,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,89
+1022600199,125,PT00M07.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,1,34,3,Missed,1,,,0,h,MISS Stewart 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,90
+1022600199,126,PT00M03.90S,1,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+1022600199,127,PT00M01.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu S.FOUL (P1.T1),Foul,Shooting,1,0,92
+1022600199,129,PT00M01.00S,1,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,26,30,56,v,Banham Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,93
+1022600199,130,PT00M01.00S,1,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,26,31,57,v,Banham Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,94
+1022600199,131,PT00M01.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,SUB: Jones FOR Ionescu,Substitution,,0,0,95
+1022600199,133,PT00M01.00S,1,1611661329,CHI,1627671,Banham,R. Banham,0,0,0,,0,26,32,58,v,Banham Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,96
+1022600199,134,PT00M00.50S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,97
+1022600199,134,PT00M00.50S,1,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez STEAL (1 STL),,,1,0,98
+1022600199,136,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,32,58,,End of 1st Period (7:22 PM EST),period,end,1,0,99
+1022600199,147,PT10M00.00S,2,0,,0,,,0,0,0,,0,26,32,58,,Start of 2nd Period (7:25 PM EST),period,start,1,0,100
+1022600199,148,PT09M38.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,18,57,6,Missed,1,,,0,v,MISS Cardoso 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,101
+1022600199,149,PT09M35.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,102
+1022600199,150,PT09M15.00S,2,1611661313,NYL,204296,Allen,R. Allen,27,15,3,Made,1,28,32,60,h,Allen 3' Cutting Layup Shot (5 PTS) (Carrera 1 AST),Made Shot,Cutting Layup Shot,1,2,103
+1022600199,152,PT09M04.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,41,136,14,Missed,1,,,0,v,MISS Taylor 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,104
+1022600199,153,PT09M01.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+1022600199,154,PT08M49.00S,2,1611661313,NYL,204296,Allen,R. Allen,-33,5,3,Missed,1,,,0,h,MISS Allen 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,106
+1022600199,154,PT08M49.00S,2,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,,,0,v,Vandersloot BLOCK (1 BLK),,,1,2,107
+1022600199,156,PT08M49.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,108
+1022600199,158,PT08M48.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso S.FOUL (P1.T1),Foul,Shooting,0,0,109
+1022600199,160,PT08M48.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,29,32,61,h,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,110
+1022600199,161,PT08M48.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,30,32,62,h,Jones Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,111
+1022600199,162,PT08M35.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,-96,70,12,Missed,1,,,0,v,MISS Taylor 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,112
+1022600199,163,PT08M31.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,113
+1022600199,164,PT08M16.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,34,25,4,Missed,1,,,0,h,MISS Gardner 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,114
+1022600199,166,PT08M15.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,115
+1022600199,167,PT08M14.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,31,17,4,Missed,1,,,0,h,MISS Gardner 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,116
+1022600199,168,PT08M12.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,117
+1022600199,169,PT08M06.00S,2,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,v,Coulibaly Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,118
+1022600199,170,PT07M54.00S,2,1611661313,NYL,1627673,Jones,J. Jones,34,12,4,Missed,1,,,0,h,MISS Jones 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,119
+1022600199,171,PT07M51.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,120
+1022600199,172,PT07M45.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P1.T1),Foul,Shooting,1,0,121
+1022600199,174,PT07M45.00S,2,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux T.FOUL (P0.T1),Foul,Technical,1,0,122
+1022600199,175,PT07M45.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,MISS Taylor Free Throw Technical,Free Throw,Free Throw Technical,1,0,123
+1022600199,176,PT07M45.00S,2,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Normal Rebound,1,0,124
+1022600199,177,PT07M45.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,30,33,63,v,Taylor Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,125
+1022600199,178,PT07M45.00S,2,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,SUB: Astier FOR Fauthoux,Substitution,,0,0,126
+1022600199,179,PT07M45.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,SUB: Ionescu FOR Gardner,Substitution,,0,0,127
+1022600199,180,PT07M45.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,SUB: Cloud FOR Jaquez,Substitution,,0,0,128
+1022600199,184,PT07M45.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,30,34,64,v,Taylor Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,129
+1022600199,185,PT07M28.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones OFF.Foul (P2),Foul,Offensive,1,0,130
+1022600199,187,PT07M28.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0,131
+1022600199,188,PT07M16.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,-168,188,25,Missed,1,,,0,v,MISS Cloud 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+1022600199,189,PT07M11.00S,2,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,v,Coulibaly REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,133
+1022600199,190,PT07M09.00S,2,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,205,132,24,Missed,1,,,0,v,MISS Coulibaly 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,134
+1022600199,191,PT07M06.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,135
+1022600199,192,PT06M50.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,-218,80,0,Missed,1,,,0,h,MISS Ionescu 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,136
+1022600199,193,PT06M47.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,137
+1022600199,194,PT06M44.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,138
+1022600199,194,PT06M44.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier STEAL (1 STL),,,1,0,139
+1022600199,196,PT06M41.00S,2,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,,,0,v,Vandersloot S.FOUL (P1.T2),Foul,Shooting,1,0,140
+1022600199,198,PT06M41.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,31,34,65,h,Astier Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,141
+1022600199,199,PT06M41.00S,2,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,SUB: Stewart FOR Carrera,Substitution,,0,0,142
+1022600199,200,PT06M41.00S,2,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,v,SUB: Stevens FOR Coulibaly,Substitution,,0,0,143
+1022600199,203,PT06M41.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,32,34,66,h,Astier Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,144
+1022600199,204,PT06M26.00S,2,1611661329,CHI,202664,Vandersloot,C. Vandersloot,74,138,16,Made,1,32,36,68,v,Vandersloot 16' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,145
+1022600199,205,PT06M04.00S,2,1611661313,NYL,204296,Allen,R. Allen,-6,240,24,Made,1,35,36,71,h,Allen 24' 3PT Jump Shot (8 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,3,146
+1022600199,207,PT05M46.00S,2,1611661329,CHI,202664,Vandersloot,C. Vandersloot,23,133,13,Made,1,35,38,73,v,Vandersloot 13' Pullup Jump Shot (9 PTS) (Cardoso 2 AST),Made Shot,Pullup Jump shot,1,2,147
+1022600199,209,PT05M26.00S,2,1611661313,NYL,204296,Allen,R. Allen,55,37,7,Made,1,37,38,75,h,Allen 7' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,1,2,148
+1022600199,210,PT05M10.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,-173,186,25,Missed,1,,,0,v,MISS Taylor 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,149
+1022600199,211,PT05M09.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,150
+1022600199,212,PT05M00.00S,2,1611661313,NYL,204296,Allen,R. Allen,220,74,0,Missed,1,,,0,h,MISS Allen 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,151
+1022600199,213,PT04M59.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,152
+1022600199,214,PT04M55.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,-38,40,6,Missed,1,,,0,v,MISS Taylor 6' Running Layup,Missed Shot,Running Layup Shot,1,2,153
+1022600199,214,PT04M55.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart BLOCK (1 BLK),,,1,2,154
+1022600199,216,PT04M54.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,155
+1022600199,217,PT04M48.00S,2,1611661313,NYL,1631136,Astier,P. Astier,-43,-1,4,Missed,1,,,0,h,MISS Astier 4' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,156
+1022600199,218,PT04M47.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,157
+1022600199,219,PT04M45.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,158
+1022600199,219,PT04M45.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor STEAL (1 STL),,,1,0,159
+1022600199,221,PT04M31.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P1.T2),Foul,Shooting,1,0,160
+1022600199,223,PT04M31.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,161
+1022600199,224,PT04M31.00S,2,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,SUB: Sheldon FOR Taylor,Substitution,,0,0,162
+1022600199,226,PT04M31.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,37,39,76,v,Stevens Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,163
+1022600199,227,PT04M31.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,37,40,77,v,Stevens Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,164
+1022600199,228,PT04M14.00S,2,1611661313,NYL,1627673,Jones,J. Jones,16,16,2,Made,1,39,40,79,h,Jones 2' Driving Layup (6 PTS) (Astier 2 AST),Made Shot,Driving Layup Shot,1,2,165
+1022600199,230,PT03M58.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,7,9,1,Made,1,39,42,81,v,Cardoso 1' Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,1,2,166
+1022600199,232,PT03M51.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,167
+1022600199,232,PT03M51.00S,2,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon STEAL (1 STL),,,1,0,168
+1022600199,234,PT03M42.00S,2,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,169
+1022600199,236,PT03M42.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Fauthoux FOR Astier,Substitution,,0,0,170
+1022600199,237,PT03M42.00S,2,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,,,0,v,SUB: Jaquez FOR Vandersloot,Substitution,,0,0,171
+1022600199,238,PT03M42.00S,2,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,SUB: Williams FOR Cardoso,Substitution,,0,0,172
+1022600199,242,PT03M28.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones OFF.Foul (P3),Foul,Offensive,1,0,173
+1022600199,244,PT03M28.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,1,0,174
+1022600199,245,PT03M28.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Xu FOR Jones,Substitution,,0,0,175
+1022600199,247,PT03M18.00S,2,1611661329,CHI,204322,Williams,E. Williams,-53,95,11,Made,1,39,44,83,v,Williams 11' Floating Jump Shot (4 PTS) (Cloud 4 AST),Made Shot,Floating Jump shot,1,2,176
+1022600199,249,PT02M59.00S,2,1611661313,NYL,204296,Allen,R. Allen,-55,18,6,Missed,1,,,0,h,MISS Allen 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,177
+1022600199,250,PT02M57.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,178
+1022600199,251,PT02M54.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart S.FOUL (P1.T3),Foul,Shooting,1,0,179
+1022600199,253,PT02M54.00S,2,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,180
+1022600199,254,PT02M54.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,39,45,84,v,Stevens Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,181
+1022600199,255,PT02M54.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,39,46,85,v,Stevens Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,182
+1022600199,256,PT02M39.00S,2,1611661313,NYL,1629566,Han,Han,55,81,10,Made,1,41,46,87,h,Xu 10' Turnaround Jump Shot (2 PTS) (Ionescu 1 AST),Made Shot,Turnaround Jump Shot,1,2,183
+1022600199,258,PT02M27.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen P.FOUL (P2.T4),Foul,Personal,1,0,184
+1022600199,260,PT02M17.00S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,-70,72,10,Missed,1,,,0,v,MISS Jaquez 10' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,185
+1022600199,261,PT02M15.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,186
+1022600199,263,PT02M02.00S,2,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon P.FOUL (P2.T3),Foul,Personal,1,0,187
+1022600199,265,PT01M52.00S,2,1611661313,NYL,204296,Allen,R. Allen,99,61,12,Missed,1,,,0,h,MISS Allen 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,188
+1022600199,266,PT01M48.00S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,189
+1022600199,268,PT01M44.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,65,238,25,Missed,1,,,0,v,MISS Cloud 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,190
+1022600199,269,PT01M39.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,191
+1022600199,270,PT01M33.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,33,40,5,Missed,1,,,0,h,MISS Stewart 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,192
+1022600199,271,PT01M30.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,193
+1022600199,272,PT01M29.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,41,18,4,Made,1,43,46,89,h,Stewart 4' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,194
+1022600199,273,PT01M11.00S,2,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,195
+1022600199,274,PT01M11.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,SUB: Gardner FOR Allen,Substitution,,0,0,196
+1022600199,276,PT00M56.70S,2,1611661313,NYL,203822,Gardner,R. Gardner,239,52,24,Missed,1,,,0,h,MISS Gardner 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+1022600199,277,PT00M54.40S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,198
+1022600199,278,PT00M52.90S,2,1611661313,NYL,203822,Gardner,R. Gardner,-11,5,1,Made,1,45,46,91,h,Gardner 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,199
+1022600199,279,PT00M41.20S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,236,23,24,Missed,1,,,0,v,MISS Jaquez 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+1022600199,280,PT00M38.40S,2,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,201
+1022600199,281,PT00M34.20S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,-8,238,24,Made,1,48,46,94,h,Ionescu 24' 3PT Running Jump Shot (12 PTS) (Fauthoux 1 AST),Made Shot,Running Jump Shot,1,3,202
+1022600199,283,PT00M32.80S,2,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,203
+1022600199,284,PT00M32.80S,2,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,SUB: Banham FOR Jaquez,Substitution,,0,0,204
+1022600199,286,PT00M13.50S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens OFF.Foul (P2),Foul,Offensive,1,0,205
+1022600199,288,PT00M13.50S,2,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,206
+1022600199,289,PT00M00.10S,2,1611661313,NYL,1629566,Han,Han,209,96,0,Missed,1,,,0,h,MISS Xu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+1022600199,290,PT00M00.10S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,208
+1022600199,293,PT00M00.00S,2,0,,0,,,0,0,0,,0,48,46,94,,End of 2nd Period (7:52 PM EST),period,end,1,0,209
+1022600199,306,PT10M00.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud T.FOUL (P1.T0),Foul,Technical,0,0,210
+1022600199,307,PT10M00.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,49,46,95,h,Ionescu Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,1,0,211
+1022600199,308,PT10M00.00S,3,0,,0,,,0,0,0,,0,49,46,95,,Start of 3rd Period (8:07 PM EST),period,start,1,0,212
+1022600199,309,PT09M48.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,213
+1022600199,310,PT09M27.00S,3,1611661313,NYL,204296,Allen,R. Allen,23,24,3,Made,1,51,46,97,h,Allen 3' Cutting Layup Shot (12 PTS) (Ionescu 2 AST),Made Shot,Cutting Layup Shot,1,2,214
+1022600199,312,PT09M12.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,22,91,9,Made,1,51,48,99,v,Taylor 9' Driving Floating Jump Shot (16 PTS) (Cardoso 3 AST),Made Shot,Driving Floating Jump Shot,1,2,215
+1022600199,314,PT09M01.00S,3,1611661313,NYL,1631136,Astier,P. Astier,-35,34,5,Made,1,53,48,101,h,Astier 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,216
+1022600199,315,PT08M50.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,131,13,Made,1,53,50,103,v,Cloud 13' Pullup Jump Shot (2 PTS) (Stevens 3 AST),Made Shot,Pullup Jump shot,1,2,217
+1022600199,318,PT08M32.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud P.FOUL (P2.T1),Foul,Personal,1,0,218
+1022600199,320,PT08M28.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,219
+1022600199,320,PT08M28.00S,3,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,,,0,v,Vandersloot STEAL (1 STL),,,1,0,220
+1022600199,322,PT08M23.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier S.FOUL (P1.T1),Foul,Shooting,1,0,221
+1022600199,324,PT08M23.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,53,51,104,v,Taylor Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,222
+1022600199,325,PT08M23.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,53,52,105,v,Taylor Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,223
+1022600199,327,PT08M09.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso S.FOUL (P2.T2),Foul,Shooting,1,0,224
+1022600199,329,PT08M09.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,225
+1022600199,330,PT08M09.00S,3,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Normal Rebound,0,0,226
+1022600199,331,PT08M09.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,54,52,106,h,Jones Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,227
+1022600199,332,PT07M57.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P3.T2),Foul,Shooting,1,0,228
+1022600199,334,PT07M57.00S,3,0,,332,,,0,0,0,,0,54,52,106,,Instant Replay3rd Period (8:12 PM EST),Instant Replay,Ruling Stands,0,0,229
+1022600199,335,PT07M57.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor T.FOUL (P0.T2),Foul,Technical,0,0,230
+1022600199,336,PT07M57.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,55,52,107,h,Ionescu Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,1,0,231
+1022600199,337,PT07M57.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,55,53,108,v,Taylor Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,232
+1022600199,338,PT07M57.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,55,54,109,v,Taylor Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,233
+1022600199,339,PT07M47.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso P.FOUL (P3.T3),Foul,Personal,1,0,234
+1022600199,341,PT07M32.00S,3,1611661313,NYL,204296,Allen,R. Allen,233,33,24,Missed,1,,,0,h,MISS Allen 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,235
+1022600199,342,PT07M27.00S,3,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,,,0,v,Vandersloot REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,236
+1022600199,343,PT07M25.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,13,12,2,Made,1,55,56,111,v,Taylor 2' Running Layup (22 PTS) (Vandersloot 2 AST),Made Shot,Running Layup Shot,1,2,237
+1022600199,345,PT07M09.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens S.FOUL (P3.T4),Foul,Shooting,1,0,238
+1022600199,347,PT07M09.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,56,56,112,h,Stewart Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,239
+1022600199,348,PT07M09.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,57,56,113,h,Stewart Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,240
+1022600199,349,PT06M56.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,-13,-1,1,Missed,1,,,0,v,MISS Cardoso 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,241
+1022600199,350,PT06M54.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,242
+1022600199,351,PT06M36.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Traveling Turnover (P3.T10),Turnover,Traveling,1,0,243
+1022600199,353,PT06M22.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,154,97,18,Made,1,57,58,115,v,Cloud 18' Step Back Jump Shot (4 PTS) (Cardoso 4 AST),Made Shot,Step Back Jump shot,1,2,244
+1022600199,355,PT06M08.00S,3,1611661313,NYL,1631136,Astier,P. Astier,-22,11,2,Made,1,59,58,117,h,Astier 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,245
+1022600199,356,PT06M08.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso S.FOUL (P4.PN),Foul,Shooting,1,0,246
+1022600199,359,PT06M08.00S,3,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,,,0,v,SUB: Sheldon FOR Vandersloot,Substitution,,0,0,247
+1022600199,360,PT06M08.00S,3,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,SUB: Williams FOR Cardoso,Substitution,,0,0,248
+1022600199,358,PT06M08.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,60,58,118,h,Astier Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,249
+1022600199,363,PT05M59.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart Violation:Kicked Ball,Violation,Kicked Ball,0,0,250
+1022600199,367,PT05M59.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Fauthoux FOR Astier,Substitution,,0,0,251
+1022600199,364,PT05M53.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,-16,12,2,Made,1,60,60,120,v,Sheldon 2' Driving Floating Jump Shot (2 PTS) (Williams 2 AST),Made Shot,Driving Floating Jump Shot,1,2,252
+1022600199,365,PT05M38.00S,3,1611661313,NYL,1627673,Jones,J. Jones,-109,240,26,Made,1,63,60,123,h,Jones 26' 3PT Jump Shot (10 PTS) (Ionescu 3 AST),Made Shot,Jump Shot,1,3,253
+1022600199,369,PT05M12.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,46,48,7,Missed,1,,,0,v,MISS Taylor 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,254
+1022600199,370,PT05M11.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,255
+1022600199,371,PT05M00.00S,3,1611661313,NYL,204296,Allen,R. Allen,154,206,26,Missed,1,,,0,h,MISS Allen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+1022600199,372,PT04M56.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,257
+1022600199,373,PT04M50.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,121,240,27,Made,1,63,63,126,v,Cloud 27' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,258
+1022600199,375,PT04M35.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,259
+1022600199,376,PT04M35.00S,3,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,260
+1022600199,377,PT04M35.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,SUB: Gardner FOR Allen,Substitution,,0,0,261
+1022600199,379,PT04M35.00S,3,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,SUB: Jaquez FOR Taylor,Substitution,,0,0,262
+1022600199,383,PT04M13.00S,3,1611661329,CHI,204322,Williams,E. Williams,34,54,6,Made,1,63,65,128,v,Williams 6' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,2,263
+1022600199,384,PT03M46.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,-31,119,12,Missed,1,,,0,h,MISS Stewart 12' Jump Shot,Missed Shot,Jump Shot,1,2,264
+1022600199,385,PT03M44.00S,3,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,265
+1022600199,386,PT03M31.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,71,142,16,Missed,1,,,0,v,MISS Sheldon 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,266
+1022600199,387,PT03M27.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,267
+1022600199,388,PT03M14.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,7,49,5,Missed,1,,,0,h,MISS Stewart 5' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,268
+1022600199,389,PT03M14.00S,3,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,0,0,269
+1022600199,391,PT03M14.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Xu FOR Jones,Substitution,,0,0,270
+1022600199,393,PT03M01.00S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,88,163,19,Missed,1,,,0,v,MISS Sheldon 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,271
+1022600199,394,PT03M00.00S,3,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,272
+1022600199,395,PT03M00.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner L.B.FOUL (P1.T3),Foul,Loose Ball,1,0,273
+1022600199,397,PT03M00.00S,3,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,SUB: Vandersloot FOR Cloud,Substitution,,0,0,274
+1022600199,399,PT02M56.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,139,221,26,Missed,1,,,0,v,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,275
+1022600199,400,PT02M52.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,276
+1022600199,401,PT02M47.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens S.FOUL (P4.PN),Foul,Shooting,1,0,277
+1022600199,403,PT02M47.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,64,65,129,h,Stewart Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,278
+1022600199,404,PT02M47.00S,3,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,SUB: Coulibaly FOR Stevens,Substitution,,0,0,279
+1022600199,406,PT02M47.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,65,65,130,h,Stewart Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,280
+1022600199,407,PT02M38.00S,3,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux S.FOUL (P1.T4),Foul,Shooting,1,0,281
+1022600199,409,PT02M38.00S,3,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,65,66,131,v,Vandersloot Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,282
+1022600199,410,PT02M38.00S,3,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,65,67,132,v,Vandersloot Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,283
+1022600199,411,PT02M22.00S,3,1611661313,NYL,1629566,Han,Han,-39,68,8,Made,1,67,67,134,h,Xu 8' Driving Floating Bank Jump Shot (4 PTS) (Ionescu 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,284
+1022600199,413,PT02M22.00S,3,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P1.PN),Foul,Shooting,1,0,285
+1022600199,415,PT02M22.00S,3,1611661313,NYL,1629566,Han,Han,0,0,0,,0,68,67,135,h,Xu Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,286
+1022600199,416,PT02M07.00S,3,1611661329,CHI,204322,Williams,E. Williams,15,18,2,Made,1,68,69,137,v,Williams 2' Layup (8 PTS) (Vandersloot 3 AST),Made Shot,Layup Shot,1,2,287
+1022600199,419,PT01M51.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,-81,136,16,Missed,1,,,0,h,MISS Ionescu 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,288
+1022600199,420,PT01M49.00S,3,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,289
+1022600199,421,PT01M40.00S,3,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,-10,12,2,Made,1,68,71,139,v,Coulibaly 2' Cutting Layup Shot (2 PTS) (Sheldon 1 AST),Made Shot,Cutting Layup Shot,1,2,290
+1022600199,423,PT01M25.00S,3,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,-83,256,27,Missed,1,,,0,h,MISS Fauthoux 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,291
+1022600199,424,PT01M21.00S,3,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,v,Coulibaly REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,292
+1022600199,426,PT01M17.00S,3,1611661329,CHI,204322,Williams,E. Williams,-18,55,6,Missed,1,,,0,v,MISS Williams 6' Layup,Missed Shot,Layup Shot,0,2,293
+1022600199,427,PT01M13.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,294
+1022600199,428,PT00M58.20S,3,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez S.FOUL (P1.PN),Foul,Shooting,1,0,295
+1022600199,430,PT00M58.20S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,69,71,140,h,Ionescu Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,296
+1022600199,431,PT00M58.20S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,70,71,141,h,Ionescu Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+1022600199,432,PT00M48.30S,3,1611661329,CHI,1643447,Jaquez,G. Jaquez,-228,0,0,Missed,1,,,0,v,MISS Jaquez 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+1022600199,433,PT00M44.70S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,299
+1022600199,434,PT00M31.60S,3,1611661313,NYL,1627668,Stewart,B. Stewart,104,29,11,Missed,1,,,0,h,MISS Stewart 11' Driving Layup,Missed Shot,Driving Layup Shot,1,2,300
+1022600199,435,PT00M29.10S,3,1611661329,CHI,1642292,Sheldon,J. Sheldon,0,0,0,,0,,,0,v,Sheldon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,301
+1022600199,436,PT00M22.20S,3,1611661329,CHI,1643447,Jaquez,G. Jaquez,67,58,9,Missed,1,,,0,v,MISS Jaquez 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,302
+1022600199,437,PT00M19.60S,3,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,303
+1022600199,439,PT00M00.00S,3,0,,0,,,0,0,0,,0,70,71,141,,End of 3rd Period (8:32 PM EST),period,end,1,0,304
+1022600199,446,PT10M00.00S,4,0,,0,,,0,0,0,,0,70,71,141,,Start of 4th Period (8:35 PM EST),period,start,1,0,305
+1022600199,447,PT09M40.00S,4,1611661313,NYL,1629566,Han,Han,32,65,7,Missed,1,,,0,h,MISS Xu 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,306
+1022600199,448,PT09M39.00S,4,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,v,Coulibaly REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,307
+1022600199,449,PT09M25.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,-162,183,24,Missed,1,,,0,v,MISS Taylor 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,308
+1022600199,450,PT09M22.00S,4,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,309
+1022600199,451,PT09M14.00S,4,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,310
+1022600199,451,PT09M14.00S,4,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,1,0,311
+1022600199,453,PT09M03.00S,4,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen P.FOUL (P4.T1),Foul,Personal,1,0,312
+1022600199,455,PT08M49.00S,4,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,4,-1,0,Made,1,70,73,143,v,Coulibaly Driving Reverse Layup (4 PTS) (Cloud 5 AST),Made Shot,Driving Reverse Layup Shot,1,2,313
+1022600199,457,PT08M37.00S,4,1611661313,NYL,203822,Gardner,R. Gardner,-237,29,24,Missed,1,,,0,h,MISS Gardner 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+1022600199,458,PT08M34.00S,4,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,v,Coulibaly REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,315
+1022600199,459,PT08M13.00S,4,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,-24,2,2,Missed,1,,,0,v,MISS Coulibaly 2' Layup,Missed Shot,Layup Shot,1,2,316
+1022600199,460,PT08M10.00S,4,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,317
+1022600199,461,PT08M05.00S,4,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,v,Coulibaly S.FOUL (P1.T1),Foul,Shooting,1,0,318
+1022600199,463,PT08M05.00S,4,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,71,73,144,h,Gardner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,319
+1022600199,464,PT08M05.00S,4,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,SUB: Jones FOR Xu,Substitution,,0,0,320
+1022600199,465,PT08M05.00S,4,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,SUB: Cardoso FOR Williams,Substitution,,0,0,321
+1022600199,466,PT08M05.00S,4,1611661329,CHI,1642786,Coulibaly,A. Coulibaly,0,0,0,,0,,,0,v,SUB: Stevens FOR Coulibaly,Substitution,,0,0,322
+1022600199,470,PT08M05.00S,4,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,72,73,145,h,Gardner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,323
+1022600199,471,PT07M56.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,109,109,15,Missed,1,,,0,v,MISS Cloud 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,324
+1022600199,472,PT07M52.00S,4,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,Jaquez REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,325
+1022600199,473,PT07M50.00S,4,1611661329,CHI,1643447,Jaquez,G. Jaquez,-225,32,0,Made,1,72,76,148,v,Jaquez 3PT Jump Shot (5 PTS) (Taylor 2 AST),Made Shot,Jump Shot,1,3,326
+1022600199,475,PT07M32.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,-89,261,28,Missed,1,,,0,h,MISS Fauthoux 28' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,327
+1022600199,476,PT07M30.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,328
+1022600199,477,PT07M24.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,138,225,26,Made,1,72,79,151,v,Taylor 26' 3PT Running Jump Shot (25 PTS) (Cloud 6 AST),Made Shot,Running Jump Shot,1,3,329
+1022600199,479,PT07M21.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,330
+1022600199,480,PT07M21.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,SUB: Ionescu FOR Fauthoux,Substitution,,0,0,331
+1022600199,481,PT07M21.00S,4,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,SUB: Astier FOR Gardner,Substitution,,0,0,332
+1022600199,484,PT07M08.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,21,6,2,Missed,1,,,0,h,MISS Stewart 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,333
+1022600199,485,PT07M05.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,334
+1022600199,486,PT06M53.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,33,25,4,Made,1,72,81,153,v,Cardoso 4' Layup (8 PTS) (Taylor 3 AST),Made Shot,Layup Shot,1,2,335
+1022600199,488,PT06M37.00S,4,1611661313,NYL,1627673,Jones,J. Jones,-43,249,25,Missed,1,,,0,h,MISS Jones 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,336
+1022600199,489,PT06M34.00S,4,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,337
+1022600199,490,PT06M32.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,99,239,26,Missed,1,,,0,h,MISS Ionescu 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+1022600199,491,PT06M29.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,339
+1022600199,494,PT06M20.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,26,29,4,Missed,1,,,0,h,MISS Stewart 4' Layup,Missed Shot,Layup Shot,1,2,340
+1022600199,494,PT06M20.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens BLOCK (3 BLK),,,1,2,341
+1022600199,496,PT06M19.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,342
+1022600199,497,PT06M17.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,36,44,6,Missed,1,,,0,h,MISS Stewart 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,343
+1022600199,498,PT06M16.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,344
+1022600199,499,PT05M57.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,24,32,4,Missed,1,,,0,v,MISS Stevens 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,345
+1022600199,499,PT05M57.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart BLOCK (2 BLK),,,1,2,346
+1022600199,500,PT05M53.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,347
+1022600199,502,PT05M49.00S,4,1611661313,NYL,204296,Allen,R. Allen,-220,115,25,Missed,1,,,0,h,MISS Allen 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,348
+1022600199,503,PT05M46.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,Taylor REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,349
+1022600199,504,PT05M34.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,-11,12,2,Missed,1,,,0,v,MISS Cardoso 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,350
+1022600199,504,PT05M34.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones BLOCK (2 BLK),,,1,2,351
+1022600199,506,PT05M33.00S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,0,0,352
+1022600199,508,PT05M29.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,-218,134,26,Made,1,72,84,156,v,Taylor 26' 3PT Step Back Jump Shot (28 PTS) (Cloud 7 AST),Made Shot,Step Back Jump shot,1,3,353
+1022600199,511,PT05M11.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,16,98,10,Missed,1,,,0,h,MISS Stewart 10' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,354
+1022600199,511,PT05M11.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens BLOCK (4 BLK),,,1,2,355
+1022600199,516,PT05M10.00S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,356
+1022600199,513,PT05M10.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Jump Ball Astier vs. Taylor: Tip to Jaquez,Jump Ball,,0,0,357
+1022600199,517,PT05M08.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart P.FOUL (P2.T2),Foul,Personal,1,0,358
+1022600199,519,PT04M59.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,-185,151,24,Missed,1,,,0,v,MISS Cloud 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,359
+1022600199,520,PT04M55.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,360
+1022600199,521,PT04M50.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-1,125,13,Made,1,74,84,158,h,Stewart 13' Running Pull-Up Jump Shot (18 PTS) (Astier 3 AST),Made Shot,Running Pull-Up Jump Shot,1,2,361
+1022600199,523,PT04M30.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,-38,11,4,Missed,1,,,0,v,MISS Cardoso 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,362
+1022600199,524,PT04M29.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,363
+1022600199,525,PT04M29.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens P.FOUL (P5.T2),Foul,Personal,1,0,364
+1022600199,527,PT04M29.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,,,0,v,SUB: Vandersloot FOR Taylor,Substitution,,0,0,365
+1022600199,530,PT04M21.00S,4,1611661313,NYL,1627673,Jones,J. Jones,-16,255,26,Made,1,77,84,161,h,Jones 26' 3PT Jump Shot (13 PTS) (Stewart 3 AST),Made Shot,Jump Shot,1,3,366
+1022600199,532,PT04M19.00S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,367
+1022600199,533,PT03M58.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,368
+1022600199,534,PT03M37.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-38,43,6,Missed,1,,,0,h,MISS Stewart 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,369
+1022600199,535,PT03M34.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,370
+1022600199,536,PT03M29.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,211,126,25,Made,1,80,84,164,h,Ionescu 25' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,3,371
+1022600199,538,PT03M29.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,0,0,0,,0,,,0,v,Cloud S.FOUL (P3.T3),Foul,Shooting,1,0,372
+1022600199,540,PT03M29.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,81,84,165,h,Ionescu Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1,0,373
+1022600199,547,PT03M29.00S,4,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,SUB: Taylor FOR Jaquez,Substitution,,0,0,374
+1022600199,549,PT03M05.00S,4,1611661329,CHI,204333,Cloud,N. Cloud,-60,167,18,Made,1,81,86,167,v,Cloud 18' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,375
+1022600199,550,PT02M50.00S,4,1611661313,NYL,1631136,Astier,P. Astier,-23,47,5,Made,1,83,86,169,h,Astier 5' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,376
+1022600199,551,PT02M41.00S,4,1611661329,CHI,202664,Vandersloot,C. Vandersloot,23,37,4,Missed,1,,,0,v,MISS Vandersloot 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,377
+1022600199,551,PT02M41.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart BLOCK (3 BLK),,,1,2,378
+1022600199,553,PT02M39.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,379
+1022600199,554,PT02M35.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-26,25,4,Made,1,85,86,171,h,Stewart 4' Running Layup (20 PTS) (Astier 4 AST),Made Shot,Running Layup Shot,1,2,380
+1022600199,556,PT02M34.00S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,381
+1022600199,557,PT02M21.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,-24,4,2,Made,1,85,88,173,v,Cardoso 2' Cutting Layup Shot (10 PTS) (Vandersloot 4 AST),Made Shot,Cutting Layup Shot,1,2,382
+1022600199,559,PT02M06.00S,4,1611661313,NYL,1627673,Jones,J. Jones,99,239,26,Missed,1,,,0,h,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+1022600199,560,PT02M02.00S,4,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,384
+1022600199,562,PT01M53.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart AWAY.FROM.PLAY.FOUL (P3.T3),Foul,Away From Play,1,0,385
+1022600199,564,PT01M53.00S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,85,89,174,v,Taylor Free Throw 1 of 1 (29 PTS),Free Throw,Free Throw 1 of 1,1,0,386
+1022600199,565,PT01M42.00S,4,1611661329,CHI,202664,Vandersloot,C. Vandersloot,-94,69,12,Made,1,85,91,176,v,Vandersloot 12' Pullup Jump Shot (13 PTS) (Cardoso 5 AST),Made Shot,Pullup Jump shot,1,2,387
+1022600199,567,PT01M20.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,388
+1022600199,567,PT01M20.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso STEAL (1 STL),,,1,0,389
+1022600199,571,PT01M09.00S,4,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,,,0,v,Vandersloot Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,390
+1022600199,570,PT01M00.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-27,73,8,Missed,1,,,0,h,MISS Stewart 8' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,391
+1022600199,572,PT00M58.90S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Rebound,Rebound,Unknown,1,0,392
+1022600199,573,PT00M58.90S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart P.FOUL (P4.PN),Foul,Personal,1,0,393
+1022600199,575,PT00M58.90S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,85,92,177,v,Taylor Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0,394
+1022600199,576,PT00M58.90S,4,1611661329,CHI,1642321,Taylor,S. Taylor,0,0,0,,0,85,93,178,v,Taylor Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,395
+1022600199,577,PT00M58.90S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Reset (Full 2 Short 0),Timeout,Reset,0,0,396
+1022600199,578,PT00M56.10S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,232,40,24,Made,1,88,93,181,h,Ionescu 24' 3PT Pullup Jump Shot (23 PTS) (Astier 5 AST),Made Shot,Pullup Jump shot,1,3,397
+1022600199,580,PT00M31.00S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,398
+1022600199,581,PT00M31.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,399
+1022600199,601,PT00M31.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Fauthoux FOR Astier,Substitution,,0,0,400
+1022600199,584,PT00M28.10S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,44,254,26,Made,1,91,93,184,h,Ionescu 26' 3PT Pullup Jump Shot (26 PTS) (Stewart 4 AST),Made Shot,Pullup Jump shot,1,3,401
+1022600199,586,PT00M27.30S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,402
+1022600199,605,PT00M27.30S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,SUB: Astier FOR Fauthoux,Substitution,,0,0,403
+1022600199,589,PT00M26.30S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart Personal Take Foul (P5.PN),Foul,Personal Take,1,0,404
+1022600199,591,PT00M26.30S,4,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,91,94,185,v,Vandersloot Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,405
+1022600199,592,PT00M26.30S,4,1611661329,CHI,202664,Vandersloot,C. Vandersloot,0,0,0,,0,,,0,v,MISS Vandersloot Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,406
+1022600199,593,PT00M25.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,407
+1022600199,594,PT00M15.10S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,-18,13,2,Made,1,93,94,187,h,Ionescu 2' Driving Finger Roll Layup (28 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,408
+1022600199,595,PT00M15.10S,4,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,Stevens S.FOUL (P6.T4),Foul,Shooting,1,0,409
+1022600199,597,PT00M15.10S,4,1611661329,CHI,1628922,Stevens,A. Stevens,0,0,0,,0,,,0,v,SUB: Jaquez FOR Stevens,Substitution,,0,0,410
+1022600199,599,PT00M15.10S,4,1611661329,CHI,1643447,Jaquez,G. Jaquez,0,0,0,,0,,,0,v,SUB: Williams FOR Jaquez,Substitution,,0,0,411
+1022600199,603,PT00M15.10S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,94,94,188,h,Ionescu Free Throw 1 of 1 (29 PTS),Free Throw,Free Throw 1 of 1,1,0,412
+1022600199,604,PT00M15.10S,4,0,,1611661329,,,0,0,0,,0,,,0,v,Sky Timeout: Reset (Reg.5 Short 0),Timeout,Reset,0,0,413
+1022600199,607,PT00M15.10S,4,1611661329,CHI,204322,Williams,E. Williams,0,0,0,,0,,,0,v,SUB: Jaquez FOR Williams,Substitution,,0,0,414
+1022600199,609,PT00M05.10S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,-50,-6,5,Missed,1,,,0,v,MISS Cardoso 5' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,415
+1022600199,610,PT00M03.40S,4,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,416
+1022600199,611,PT00M03.40S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso L.B.FOUL (P5.PN),Foul,Loose Ball,1,0,417
+1022600199,613,PT00M03.40S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,95,94,189,h,Jones Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,418
+1022600199,614,PT00M03.40S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,419
+1022600199,615,PT00M01.00S,4,1611661329,CHI,1642289,Cardoso,K. Cardoso,0,0,0,,0,,,0,v,Cardoso REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,420
+1022600199,616,PT00M00.00S,4,1611661329,CHI,202664,Vandersloot,C. Vandersloot,-135,365,39,Missed,1,,,0,v,MISS Vandersloot 39' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,421
+1022600199,617,PT00M00.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,422
+1022600199,618,PT00M00.00S,4,0,,0,,,0,0,0,,0,95,94,189,,End of 4th Period (9:08 PM EST),period,end,1,0,423

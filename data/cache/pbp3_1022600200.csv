@@ -1,0 +1,433 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600200,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:33 PM EST),period,start,1,0,1
+1022600200,4,PT10M00.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Jump Ball Austin vs. Smith: Tip to Wilson,Jump Ball,,1,0,2
+1022600200,7,PT09M36.00S,1,1611661319,LVA,203833,Gray,C. Gray,128,101,16,Made,1,0,2,2,v,Gray 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,3
+1022600200,8,PT09M17.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,26,10,3,Made,1,2,2,4,h,Iriafen 3' Layup (2 PTS) (Onyenwere 1 AST),Made Shot,Layup Shot,1,2,4
+1022600200,10,PT09M02.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,27,2,3,Made,1,2,4,6,v,Talbot 3' Cutting Layup Shot (2 PTS) (Wilson 1 AST),Made Shot,Cutting Layup Shot,1,2,5
+1022600200,12,PT08M40.00S,1,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray S.FOUL (P1.T1),Foul,Shooting,1,0,6
+1022600200,14,PT08M40.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,3,4,7,h,Onyenwere Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,7
+1022600200,15,PT08M40.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,4,4,8,h,Onyenwere Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,8
+1022600200,16,PT08M20.00S,1,1611661319,LVA,1629498,Young,J. Young,28,2,3,Missed,1,,,0,v,MISS Young 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,9
+1022600200,17,PT08M19.00S,1,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+1022600200,18,PT08M16.00S,1,1611661319,LVA,1629498,Young,J. Young,28,6,3,Made,1,4,6,10,v,Young 3' Jump Shot (2 PTS),Made Shot,Jump Shot,1,2,11
+1022600200,19,PT08M03.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,-54,29,6,Missed,1,,,0,h,MISS Iriafen 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,12
+1022600200,19,PT08M03.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith BLOCK (1 BLK),,,1,2,13
+1022600200,21,PT08M02.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+1022600200,22,PT07M49.00S,1,1611661319,LVA,203833,Gray,C. Gray,-125,96,16,Missed,1,,,0,v,MISS Gray 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,15
+1022600200,23,PT07M47.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+1022600200,24,PT07M38.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,-161,219,27,Made,1,7,6,13,h,Amoore 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,17
+1022600200,25,PT07M24.00S,1,1611661319,LVA,1629498,Young,J. Young,-90,221,24,Missed,1,,,0,v,MISS Young 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,18
+1022600200,26,PT07M23.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,19
+1022600200,27,PT07M10.00S,1,1611661322,WAS,1642785,Citron,S. Citron,-43,19,5,Missed,1,,,0,h,MISS Citron 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,20
+1022600200,28,PT07M08.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,21
+1022600200,29,PT07M07.00S,1,1611661322,WAS,1631022,Austin,S. Austin,-37,-2,4,Missed,1,,,0,h,MISS Austin 4' Layup,Missed Shot,Layup Shot,1,2,22
+1022600200,30,PT07M06.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+1022600200,31,PT07M00.00S,1,1611661319,LVA,1629498,Young,J. Young,29,0,3,Made,1,7,8,15,v,Young 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,24
+1022600200,32,PT06M36.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,25
+1022600200,32,PT06M36.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith STEAL (1 STL),,,1,0,26
+1022600200,34,PT06M29.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-29,-4,3,Made,1,7,10,17,v,Wilson 3' Running Layup (2 PTS) (Young 1 AST),Made Shot,Running Layup Shot,1,2,27
+1022600200,36,PT06M17.00S,1,1611661322,WAS,1642785,Citron,S. Citron,-27,-5,3,Missed,1,,,0,h,MISS Citron 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,28
+1022600200,37,PT06M16.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,29
+1022600200,38,PT06M15.00S,1,1611661322,WAS,1642785,Citron,S. Citron,-7,20,2,Missed,1,,,0,h,MISS Citron 2' Layup,Missed Shot,Layup Shot,1,2,30
+1022600200,39,PT06M14.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,31
+1022600200,40,PT06M11.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,-229,0,0,Made,1,10,10,20,h,Onyenwere 3PT Jump Shot (5 PTS) (Citron 1 AST),Made Shot,Jump Shot,1,3,32
+1022600200,43,PT05M46.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,48,225,0,Made,1,10,13,23,v,Wilson 3PT Jump Shot (5 PTS) (Young 2 AST),Made Shot,Jump Shot,1,3,33
+1022600200,45,PT05M31.00S,1,1611661322,WAS,1631022,Austin,S. Austin,-5,124,12,Missed,1,,,0,h,MISS Austin 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,34
+1022600200,45,PT05M31.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson BLOCK (1 BLK),,,1,2,35
+1022600200,47,PT05M29.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,36
+1022600200,48,PT05M28.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,18,0,2,Made,1,12,13,25,h,Iriafen 2' Layup (4 PTS),Made Shot,Layup Shot,1,2,37
+1022600200,49,PT05M15.00S,1,1611661319,LVA,1629498,Young,J. Young,211,115,24,Missed,1,,,0,v,MISS Young 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,38
+1022600200,50,PT05M13.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,Amoore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+1022600200,51,PT04M59.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,-94,-9,9,Missed,1,,,0,h,MISS Iriafen 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,40
+1022600200,52,PT04M58.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,41
+1022600200,53,PT04M50.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-27,124,13,Missed,1,,,0,v,MISS Wilson 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,42
+1022600200,54,PT04M47.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,43
+1022600200,55,PT04M33.00S,1,1611661322,WAS,1631022,Austin,S. Austin,41,-7,4,Missed,1,,,0,h,MISS Austin 4' Layup,Missed Shot,Layup Shot,1,2,44
+1022600200,55,PT04M33.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith BLOCK (2 BLK),,,1,2,45
+1022600200,57,PT04M33.00S,1,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,1,0,46
+1022600200,59,PT04M33.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,47
+1022600200,60,PT04M33.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,SUB: Betts FOR Amoore,Substitution,,0,0,48
+1022600200,61,PT04M33.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,SUB: Prosper FOR Austin,Substitution,,0,0,49
+1022600200,62,PT04M33.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,SUB: Florez FOR Onyenwere,Substitution,,0,0,50
+1022600200,63,PT04M33.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,SUB: Loyd FOR Smith,Substitution,,0,0,51
+1022600200,64,PT04M33.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,v,SUB: Parker-Tyus FOR Talbot,Substitution,,0,0,52
+1022600200,70,PT04M24.00S,1,1611661322,WAS,1643644,Florez,A. Florez,-120,270,30,Missed,1,,,0,h,MISS Florez 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,53
+1022600200,71,PT04M22.00S,1,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,54
+1022600200,72,PT04M16.00S,1,1611661319,LVA,1629498,Young,J. Young,-82,104,13,Made,1,12,15,27,v,Young 13' Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,55
+1022600200,73,PT03M59.00S,1,1611661322,WAS,1643467,Prosper,C. Prosper,8,46,5,Missed,1,,,0,h,MISS Prosper 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,56
+1022600200,74,PT03M58.00S,1,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,1,0,57
+1022600200,76,PT03M51.00S,1,1611661322,WAS,1642785,Citron,S. Citron,-38,167,17,Made,1,14,15,29,h,Citron 17' Pullup Jump Shot (2 PTS) (Florez 1 AST),Made Shot,Pullup Jump shot,1,2,58
+1022600200,78,PT03M32.00S,1,1611661319,LVA,1629498,Young,J. Young,3,131,13,Missed,1,,,0,v,MISS Young 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,59
+1022600200,79,PT03M31.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,60
+1022600200,80,PT03M28.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-11,80,8,Made,1,14,17,31,v,Wilson 8' Jump Shot (7 PTS),Made Shot,Jump Shot,1,2,61
+1022600200,84,PT03M20.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,SUB: McMahon FOR Citron,Substitution,,0,0,62
+1022600200,102,PT03M20.00S,1,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,SUB: Evans FOR Gray,Substitution,,0,0,63
+1022600200,86,PT03M11.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,-216,54,0,Missed,1,,,0,h,MISS Iriafen 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+1022600200,87,PT03M09.00S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,v,Parker-Tyus REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+1022600200,88,PT02M55.00S,1,1611661319,LVA,1629498,Young,J. Young,5,118,12,Made,1,14,19,33,v,Young 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,66
+1022600200,90,PT02M42.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,SUB: Austin FOR Iriafen,Substitution,,0,0,67
+1022600200,92,PT02M39.00S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,v,Parker-Tyus S.FOUL (P1.T2),Foul,Shooting,1,0,68
+1022600200,94,PT02M39.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,MISS Austin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,69
+1022600200,95,PT02M39.00S,1,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Normal Rebound,0,0,70
+1022600200,96,PT02M39.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,15,19,34,h,Austin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,71
+1022600200,97,PT02M22.00S,1,1611661319,LVA,204319,Loyd,J. Loyd,27,5,3,Missed,1,,,0,v,MISS Loyd 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,72
+1022600200,98,PT02M19.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,McMahon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+1022600200,99,PT02M16.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,18,40,4,Made,1,17,19,36,h,McMahon 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,74
+1022600200,100,PT01M50.00S,1,1611661319,LVA,1629498,Young,J. Young,137,201,24,Missed,1,,,0,v,MISS Young 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,75
+1022600200,101,PT01M47.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,McMahon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+1022600200,104,PT01M44.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson P.FOUL (P1.T3),Foul,Personal,1,0,77
+1022600200,106,PT01M44.00S,1,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,h,SUB: Onyenwere FOR Florez,Substitution,,0,0,78
+1022600200,107,PT01M44.00S,1,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,h,SUB: Dugalic FOR Prosper,Substitution,,0,0,79
+1022600200,108,PT01M44.00S,1,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,h,SUB: Amoore FOR Betts,Substitution,,0,0,80
+1022600200,109,PT01M44.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,SUB: Turner FOR Wilson,Substitution,,0,0,81
+1022600200,114,PT01M39.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,Amoore Palming Turnover (P1.T2),Turnover,Palming Turnover,1,0,82
+1022600200,115,PT01M23.00S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,-18,28,3,Missed,1,,,0,v,MISS Parker-Tyus 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,83
+1022600200,116,PT01M21.00S,1,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,h,Dugalic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+1022600200,117,PT01M13.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,-46,19,5,Missed,1,,,0,h,MISS Onyenwere 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,85
+1022600200,118,PT01M11.00S,1,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+1022600200,119,PT00M52.70S,1,1611661319,LVA,1629498,Young,J. Young,31,247,25,Missed,1,,,0,v,MISS Young 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+1022600200,120,PT00M50.10S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,McMahon REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,88
+1022600200,121,PT00M42.40S,1,1611661322,WAS,1631022,Austin,S. Austin,4,25,3,Made,1,19,19,38,h,Austin 3' Driving Layup (3 PTS) (McMahon 1 AST),Made Shot,Driving Layup Shot,1,2,89
+1022600200,123,PT00M32.10S,1,1611661319,LVA,204319,Loyd,J. Loyd,-233,-20,0,Made,1,19,22,41,v,Loyd 3PT Jump Shot (3 PTS) (Young 3 AST),Made Shot,Jump Shot,1,3,90
+1022600200,125,PT00M20.40S,1,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,Loyd S.FOUL (P1.PN),Foul,Shooting,1,0,91
+1022600200,127,PT00M20.40S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,20,22,42,h,Onyenwere Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,92
+1022600200,129,PT00M20.40S,1,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,v,SUB: Gray FOR Turner,Substitution,,0,0,93
+1022600200,131,PT00M20.40S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,21,22,43,h,Onyenwere Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,94
+1022600200,132,PT00M04.30S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,McMahon P.FOUL (P1.T1),Foul,Personal,1,0,95
+1022600200,135,PT00M00.00S,1,0,,0,,,0,0,0,,0,21,22,43,,End of 1st Period (7:51 PM EST),period,end,1,0,96
+1022600200,142,PT10M00.00S,2,0,,0,,,0,0,0,,0,21,22,43,,Start of 2nd Period (7:55 PM EST),period,start,0,0,97
+1022600200,143,PT09M49.00S,2,1611661322,WAS,1642785,Citron,S. Citron,-123,232,26,Missed,1,,,0,h,MISS Citron 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,98
+1022600200,144,PT09M48.00S,2,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,99
+1022600200,145,PT09M44.00S,2,1611661322,WAS,1631022,Austin,S. Austin,57,50,8,Missed,1,,,0,h,MISS Austin 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,100
+1022600200,146,PT09M43.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,Onyenwere REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,101
+1022600200,147,PT09M35.00S,2,1611661322,WAS,1631022,Austin,S. Austin,-15,157,16,Made,1,23,22,45,h,Austin 16' Step Back Jump Shot (5 PTS) (Citron 2 AST),Made Shot,Step Back Jump shot,1,2,102
+1022600200,149,PT09M18.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray FLAGRANT.FOUL.TYPE1 (P2.T1),Foul,Flagrant Type 1,1,0,103
+1022600200,151,PT09M18.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,104
+1022600200,152,PT09M18.00S,2,0,,149,Adams,M. Adams,0,0,0,,0,23,22,45,,Instant Replay2nd Period (7:56 PM EST),Instant Replay,Overturn Ruling,0,0,105
+1022600200,153,PT09M18.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,SUB: Prosper FOR Onyenwere,Substitution,,0,0,106
+1022600200,155,PT09M18.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,MISS Citron Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,1,0,107
+1022600200,156,PT09M18.00S,2,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Normal Rebound,0,0,108
+1022600200,157,PT09M18.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,24,22,46,h,Citron Free Throw Flagrant 2 of 2 (3 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,109
+1022600200,158,PT09M05.00S,2,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,h,Dugalic Backcourt Turnover (P1.T3),Turnover,Backcourt Turnover,1,0,110
+1022600200,159,PT08M57.00S,2,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,h,Prosper P.FOUL (P1.T1),Foul,Personal,1,0,111
+1022600200,161,PT08M54.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,Loyd Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0,112
+1022600200,162,PT08M32.00S,2,1611661322,WAS,1631022,Austin,S. Austin,-26,14,3,Made,1,26,22,48,h,Austin 3' Turnaround Bank Shot (7 PTS) (Dugalic 1 AST),Made Shot,Turnaround Bank shot,1,2,113
+1022600200,164,PT08M15.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,26,5,3,Missed,1,,,0,v,MISS Loyd 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,114
+1022600200,165,PT08M13.00S,2,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,h,Dugalic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+1022600200,167,PT08M03.00S,2,1611661319,LVA,1630389,Evans,D. Evans,0,0,0,,0,,,0,v,Evans P.FOUL (P1.T2),Foul,Personal,1,0,116
+1022600200,169,PT08M03.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,SUB: Wilson FOR Smith,Substitution,,0,0,117
+1022600200,171,PT07M53.00S,2,1611661322,WAS,1631022,Austin,S. Austin,-55,31,6,Made,1,28,22,50,h,Austin 6' Driving Layup (9 PTS) (Citron 3 AST),Made Shot,Driving Layup Shot,1,2,118
+1022600200,173,PT07M37.00S,2,1611661319,LVA,1629488,Turner,B. Turner,31,-9,3,Made,1,28,24,52,v,Turner 3' Cutting Layup Shot (2 PTS) (Wilson 2 AST),Made Shot,Cutting Layup Shot,1,2,119
+1022600200,175,PT07M22.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,-29,6,3,Made,1,30,24,54,h,Amoore 3' Driving Layup (5 PTS) (Dugalic 2 AST),Made Shot,Driving Layup Shot,1,2,120
+1022600200,177,PT07M08.00S,2,1611661319,LVA,1629488,Turner,B. Turner,23,10,3,Made,1,30,26,56,v,Turner 3' Layup (4 PTS) (Gray 1 AST),Made Shot,Layup Shot,1,2,121
+1022600200,179,PT06M45.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,-88,267,28,Missed,1,,,0,h,MISS Amoore 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+1022600200,180,PT06M44.00S,2,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Rebound,Rebound,Unknown,1,0,123
+1022600200,182,PT06M44.00S,2,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,h,SUB: Betts FOR Dugalic,Substitution,,0,0,124
+1022600200,183,PT06M44.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,SUB: Young FOR Loyd,Substitution,,0,0,125
+1022600200,186,PT06M25.00S,2,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,h,Prosper S.FOUL (P2.T2),Foul,Shooting,1,0,126
+1022600200,188,PT06M25.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,30,27,57,v,Gray Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,127
+1022600200,189,PT06M25.00S,2,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,h,SUB: Onyenwere FOR Prosper,Substitution,,0,0,128
+1022600200,191,PT06M25.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,30,28,58,v,Gray Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,129
+1022600200,192,PT06M12.00S,2,1611661322,WAS,1631022,Austin,S. Austin,7,28,3,Made,1,32,28,60,h,Austin 3' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,130
+1022600200,193,PT06M12.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P2.T3),Foul,Shooting,1,0,131
+1022600200,195,PT06M12.00S,2,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,MISS Austin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,132
+1022600200,196,PT06M11.00S,2,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,v,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,133
+1022600200,197,PT05M56.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,134
+1022600200,197,PT05M56.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron STEAL (1 STL),,,1,0,135
+1022600200,199,PT05M51.00S,2,1611661322,WAS,1642785,Citron,S. Citron,-17,17,2,Made,1,34,28,62,h,Citron 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,136
+1022600200,200,PT05M51.00S,2,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,137
+1022600200,201,PT05M51.00S,2,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,v,SUB: Smith FOR Turner,Substitution,,0,0,138
+1022600200,203,PT05M30.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,57,140,15,Made,1,34,30,64,v,Wilson 15' Pullup Jump Shot (9 PTS) (Young 4 AST),Made Shot,Pullup Jump shot,1,2,139
+1022600200,205,PT05M14.00S,2,1611661322,WAS,1631022,Austin,S. Austin,-37,126,13,Missed,1,,,0,h,MISS Austin 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,140
+1022600200,206,PT05M13.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,141
+1022600200,207,PT05M10.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young S.FOUL (P1.T4),Foul,Shooting,1,0,142
+1022600200,209,PT05M10.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,35,30,65,h,Betts Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,143
+1022600200,210,PT05M10.00S,2,1611661319,LVA,1630389,Evans,D. Evans,0,0,0,,0,,,0,v,SUB: Loyd FOR Evans,Substitution,,0,0,144
+1022600200,212,PT05M10.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,36,30,66,h,Betts Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,145
+1022600200,213,PT04M55.00S,2,1611661319,LVA,1629498,Young,J. Young,26,1,3,Made,1,36,32,68,v,Young 3' Driving Layup (10 PTS) (Wilson 3 AST),Made Shot,Driving Layup Shot,1,2,146
+1022600200,215,PT04M35.00S,2,1611661322,WAS,1631022,Austin,S. Austin,-35,-5,4,Missed,1,,,0,h,MISS Austin 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,147
+1022600200,216,PT04M33.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,148
+1022600200,217,PT04M28.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,29,-3,3,Made,1,36,34,70,v,Wilson 3' Running Layup (11 PTS) (Young 5 AST),Made Shot,Running Layup Shot,1,2,149
+1022600200,219,PT04M17.00S,2,1611661322,WAS,1631022,Austin,S. Austin,1,27,3,Missed,1,,,0,h,MISS Austin 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,150
+1022600200,219,PT04M17.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray BLOCK (1 BLK),,,1,2,151
+1022600200,221,PT04M16.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,152
+1022600200,222,PT04M10.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,-236,-25,24,Missed,1,,,0,v,MISS Loyd 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,153
+1022600200,223,PT04M08.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,Amoore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,154
+1022600200,224,PT03M59.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,155
+1022600200,224,PT03M59.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson STEAL (1 STL),,,1,0,156
+1022600200,226,PT03M51.00S,2,1611661319,LVA,203833,Gray,C. Gray,-101,233,25,Missed,1,,,0,v,MISS Gray 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,157
+1022600200,227,PT03M50.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,h,Betts REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,158
+1022600200,228,PT03M28.00S,2,1611661322,WAS,1642785,Citron,S. Citron,-81,50,10,Missed,1,,,0,h,MISS Citron 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,159
+1022600200,229,PT03M28.00S,2,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,1,0,160
+1022600200,230,PT03M28.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young L.B.FOUL (P2.PN),Foul,Loose Ball,1,0,161
+1022600200,232,PT03M28.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,37,34,71,h,Betts Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,162
+1022600200,233,PT03M28.00S,2,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,SUB: Iriafen FOR Austin,Substitution,,0,0,163
+1022600200,234,PT03M28.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,SUB: Florez FOR Amoore,Substitution,,0,0,164
+1022600200,237,PT03M28.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,h,MISS Betts Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,165
+1022600200,238,PT03M25.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,166
+1022600200,239,PT03M21.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,Onyenwere P.FOUL (P1.T3),Foul,Personal,1,0,167
+1022600200,241,PT03M21.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,SUB: McMahon FOR Citron,Substitution,,0,0,168
+1022600200,243,PT03M15.00S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen S.FOUL (P1.T4),Foul,Shooting,1,0,169
+1022600200,245,PT03M15.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,37,35,72,v,Wilson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,170
+1022600200,246,PT03M15.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,37,36,73,v,Wilson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,171
+1022600200,247,PT02M55.00S,2,1611661322,WAS,1643644,Florez,A. Florez,82,28,9,Missed,1,,,0,h,MISS Florez 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,172
+1022600200,248,PT02M54.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,h,Betts REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,173
+1022600200,249,PT02M53.00S,2,1611661322,WAS,1643427,Betts,L. Betts,50,15,5,Missed,1,,,0,h,MISS Betts 5' Layup,Missed Shot,Layup Shot,1,2,174
+1022600200,250,PT02M50.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,175
+1022600200,251,PT02M47.00S,2,1611661319,LVA,1631019,Smith,N. Smith,29,-3,3,Made,1,37,38,75,v,Smith 3' Running Layup (2 PTS) (Young 6 AST),Made Shot,Running Layup Shot,1,2,176
+1022600200,253,PT02M46.00S,2,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,177
+1022600200,254,PT02M25.00S,2,1611661322,WAS,1643427,Betts,L. Betts,104,22,11,Made,1,39,38,77,h,Betts 11' Jump Shot (5 PTS) (Onyenwere 2 AST),Made Shot,Jump Shot,1,2,178
+1022600200,256,PT02M08.00S,2,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,h,Florez P.FOUL (P1.PN),Foul,Personal,1,0,179
+1022600200,258,PT02M08.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,39,39,78,v,Wilson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,180
+1022600200,259,PT02M08.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,39,40,79,v,Wilson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,181
+1022600200,260,PT01M46.00S,2,1611661322,WAS,1643427,Betts,L. Betts,23,9,2,Made,1,41,40,81,h,Betts 2' Layup (7 PTS) (Florez 2 AST),Made Shot,Layup Shot,1,2,182
+1022600200,262,PT01M34.00S,2,1611661319,LVA,1631019,Smith,N. Smith,-16,4,2,Made,1,41,42,83,v,Smith 2' Layup (4 PTS) (Gray 2 AST),Made Shot,Layup Shot,1,2,183
+1022600200,264,PT01M34.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,h,Betts S.FOUL (P1.PN),Foul,Shooting,1,0,184
+1022600200,266,PT01M34.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,MISS Smith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,185
+1022600200,267,PT01M33.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,186
+1022600200,268,PT01M29.00S,2,1611661319,LVA,203833,Gray,C. Gray,12,241,24,Made,1,41,45,86,v,Gray 24' 3PT Jump Shot (7 PTS) (Wilson 4 AST),Made Shot,Jump Shot,1,3,187
+1022600200,270,PT01M00.00S,2,1611661322,WAS,1643644,Florez,A. Florez,130,206,24,Made,1,44,45,89,h,Florez 24' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,188
+1022600200,271,PT00M48.70S,2,1611661319,LVA,203833,Gray,C. Gray,6,163,16,Missed,1,,,0,v,MISS Gray 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,189
+1022600200,272,PT00M46.30S,2,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,McMahon REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,190
+1022600200,273,PT00M36.70S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P3.PN),Foul,Shooting,1,0,191
+1022600200,275,PT00M36.70S,2,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,MISS McMahon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,192
+1022600200,276,PT00M36.70S,2,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Normal Rebound,0,0,193
+1022600200,277,PT00M36.70S,2,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,MISS McMahon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,194
+1022600200,278,PT00M34.60S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,195
+1022600200,279,PT00M27.50S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,-5,8,1,Made,1,46,45,91,h,Iriafen 1' Hook Shot (6 PTS) (McMahon 2 AST),Made Shot,Hook Shot,1,2,196
+1022600200,281,PT00M03.40S,2,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,197
+1022600200,282,PT00M03.40S,2,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,h,SUB: Amoore FOR Florez,Substitution,,0,0,198
+1022600200,283,PT00M03.40S,2,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,SUB: Citron FOR McMahon,Substitution,,0,0,199
+1022600200,284,PT00M03.40S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,SUB: Turner FOR Smith,Substitution,,0,0,200
+1022600200,288,PT00M03.40S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,SUB: Smith FOR Wilson,Substitution,,0,0,201
+1022600200,290,PT00M00.20S,2,1611661322,WAS,1642785,Citron,S. Citron,135,240,28,Missed,1,,,0,h,MISS Citron 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,202
+1022600200,291,PT00M00.10S,2,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,1,0,203
+1022600200,293,PT00M00.00S,2,0,,270,Grant,H. Grant,0,0,0,,0,46,45,91,,Instant Replay2nd Period (8:24 PM EST),Instant Replay,Ruling Stands,0,0,204
+1022600200,292,PT00M00.00S,2,0,,0,,,0,0,0,,0,46,45,91,,End of 2nd Period (8:24 PM EST),period,end,1,0,205
+1022600200,300,PT10M00.00S,3,0,,0,,,0,0,0,,0,46,45,91,,Start of 3rd Period (8:41 PM EST),period,start,0,0,206
+1022600200,301,PT09M47.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,207
+1022600200,301,PT09M47.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson STEAL (2 STL),,,1,0,208
+1022600200,303,PT09M37.00S,3,1611661319,LVA,1629498,Young,J. Young,-112,58,13,Made,1,46,47,93,v,Young 13' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,2,209
+1022600200,304,PT09M37.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,Amoore S.FOUL (P1.T1),Foul,Shooting,1,0,210
+1022600200,306,PT09M37.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,46,48,94,v,Young Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,211
+1022600200,307,PT09M22.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,46,7,5,Missed,1,,,0,h,MISS Iriafen 5' Layup,Missed Shot,Layup Shot,1,2,212
+1022600200,307,PT09M22.00S,3,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith BLOCK (3 BLK),,,1,2,213
+1022600200,309,PT09M21.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,214
+1022600200,310,PT09M20.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,27,-1,3,Made,1,48,48,96,h,Iriafen 3' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,215
+1022600200,311,PT09M10.00S,3,1611661319,LVA,203833,Gray,C. Gray,-142,43,15,Made,1,48,50,98,v,Gray 15' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,216
+1022600200,312,PT08M50.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,217
+1022600200,312,PT08M50.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson STEAL (3 STL),,,1,0,218
+1022600200,314,PT08M45.00S,3,1611661319,LVA,1629498,Young,J. Young,-45,30,5,Missed,1,,,0,v,MISS Young 5' Running Layup,Missed Shot,Running Layup Shot,1,2,219
+1022600200,315,PT08M43.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,220
+1022600200,316,PT08M38.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray Violation:Kicked Ball,Violation,Kicked Ball,0,0,221
+1022600200,317,PT08M24.00S,3,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P1.T1),Foul,Shooting,1,0,222
+1022600200,319,PT08M24.00S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,49,50,99,h,Austin Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,223
+1022600200,320,PT08M24.00S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,MISS Austin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,224
+1022600200,321,PT08M24.00S,3,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,1,0,225
+1022600200,323,PT08M18.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,26,63,7,Missed,1,,,0,h,MISS Iriafen 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,226
+1022600200,324,PT08M17.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,227
+1022600200,325,PT08M07.00S,3,1611661319,LVA,1631019,Smith,N. Smith,27,19,3,Missed,1,,,0,v,MISS Smith 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,228
+1022600200,326,PT08M05.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,229
+1022600200,327,PT07M58.00S,3,1611661322,WAS,1631022,Austin,S. Austin,23,-1,2,Made,1,51,50,101,h,Austin 2' Layup (14 PTS) (Amoore 1 AST),Made Shot,Layup Shot,1,2,230
+1022600200,329,PT07M47.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,231
+1022600200,330,PT07M34.00S,3,1611661322,WAS,1642785,Citron,S. Citron,-23,147,15,Missed,1,,,0,h,MISS Citron 15' Jump Shot,Missed Shot,Jump Shot,1,2,232
+1022600200,331,PT07M32.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,233
+1022600200,332,PT07M26.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron Violation:Kicked Ball,Violation,Kicked Ball,0,0,234
+1022600200,333,PT07M16.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,-35,160,16,Made,1,51,52,103,v,Wilson 16' Jump Shot (17 PTS) (Young 7 AST),Made Shot,Jump Shot,1,2,235
+1022600200,335,PT07M02.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,Amoore Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,236
+1022600200,335,PT07M02.00S,3,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith STEAL (2 STL),,,1,0,237
+1022600200,337,PT06M49.00S,3,1611661319,LVA,1629498,Young,J. Young,-89,137,16,Made,1,51,54,105,v,Young 16' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,238
+1022600200,338,PT06M49.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,Amoore S.FOUL (P2.T2),Foul,Shooting,1,0,239
+1022600200,340,PT06M49.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,SUB: McMahon FOR Amoore,Substitution,,0,0,240
+1022600200,342,PT06M49.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,51,55,106,v,Young Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,241
+1022600200,343,PT06M41.00S,3,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P2.T2),Foul,Shooting,1,0,242
+1022600200,345,PT06M41.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,52,55,107,h,Citron Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,243
+1022600200,346,PT06M41.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,v,SUB: Loyd FOR Talbot,Substitution,,0,0,244
+1022600200,348,PT06M41.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,53,55,108,h,Citron Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,245
+1022600200,349,PT06M28.00S,3,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,McMahon P.FOUL (P2.T3),Foul,Personal,1,0,246
+1022600200,351,PT06M15.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,-74,256,27,Missed,1,,,0,v,MISS Wilson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,247
+1022600200,352,PT06M13.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,248
+1022600200,353,PT06M10.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,Onyenwere S.FOUL (P2.T4),Foul,Shooting,1,0,249
+1022600200,355,PT06M10.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,53,56,109,v,Wilson Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,250
+1022600200,356,PT06M10.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,53,57,110,v,Wilson Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,251
+1022600200,357,PT06M05.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young P.FOUL (P3.T3),Foul,Personal,1,0,252
+1022600200,359,PT05M54.00S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,253
+1022600200,359,PT05M54.00S,3,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,Loyd STEAL (1 STL),,,1,0,254
+1022600200,363,PT05M53.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,Onyenwere Transition Take Foul (P3.PN),Foul,Transition Take,1,0,255
+1022600200,365,PT05M53.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,53,58,111,v,Wilson Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1,0,256
+1022600200,366,PT05M38.00S,3,1611661319,LVA,1629498,Young,J. Young,-49,97,11,Made,1,53,60,113,v,Young 11' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,257
+1022600200,367,PT05M38.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron S.FOUL (P1.PN),Foul,Shooting,1,0,258
+1022600200,371,PT05M38.00S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,SUB: Betts FOR Austin,Substitution,,0,0,259
+1022600200,372,PT05M38.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,53,61,114,v,Young Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,260
+1022600200,373,PT05M32.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,Young P.FOUL (P4.T4),Foul,Personal,1,0,261
+1022600200,375,PT05M32.00S,3,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,SUB: Parker-Tyus FOR Smith,Substitution,,0,0,262
+1022600200,377,PT05M18.00S,3,1611661322,WAS,1643430,McMahon,C. McMahon,57,20,6,Missed,1,,,0,h,MISS McMahon 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,263
+1022600200,377,PT05M18.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson BLOCK (2 BLK),,,1,2,264
+1022600200,379,PT05M16.00S,3,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,0,0,265
+1022600200,381,PT05M14.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0,266
+1022600200,381,PT05M14.00S,3,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,Loyd STEAL (2 STL),,,1,0,267
+1022600200,383,PT05M09.00S,3,1611661319,LVA,204319,Loyd,J. Loyd,219,116,25,Missed,1,,,0,v,MISS Loyd 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,268
+1022600200,384,PT05M07.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,269
+1022600200,385,PT04M51.00S,3,1611661322,WAS,1642785,Citron,S. Citron,45,4,5,Made,1,55,61,116,h,Citron 5' Driving Layup (9 PTS) (Betts 1 AST),Made Shot,Driving Layup Shot,1,2,270
+1022600200,387,PT04M34.00S,3,1611661319,LVA,203833,Gray,C. Gray,-31,36,5,Made,1,55,63,118,v,Gray 5' Driving Floating Jump Shot (11 PTS) (Wilson 5 AST),Made Shot,Driving Floating Jump Shot,1,2,271
+1022600200,389,PT04M19.00S,3,1611661322,WAS,1643427,Betts,L. Betts,13,-11,2,Made,1,57,63,120,h,Betts 2' Layup (9 PTS) (Citron 4 AST),Made Shot,Layup Shot,1,2,272
+1022600200,391,PT04M08.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen P.FOUL (P2.PN),Foul,Personal,1,0,273
+1022600200,393,PT04M08.00S,3,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,274
+1022600200,394,PT04M08.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,SUB: Prosper FOR Onyenwere,Substitution,,0,0,275
+1022600200,396,PT04M08.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,57,64,121,v,Young Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+1022600200,397,PT04M08.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,57,65,122,v,Young Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,277
+1022600200,398,PT03M56.00S,3,1611661322,WAS,1642785,Citron,S. Citron,38,10,4,Made,1,59,65,124,h,Citron 4' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,278
+1022600200,399,PT03M38.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen S.FOUL (P3.PN),Foul,Shooting,1,0,279
+1022600200,401,PT03M38.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,280
+1022600200,402,PT03M38.00S,3,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Rebound,Rebound,Normal Rebound,1,0,281
+1022600200,403,PT03M38.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,59,66,125,v,Young Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,282
+1022600200,404,PT03M22.00S,3,1611661322,WAS,1643430,McMahon,C. McMahon,201,147,25,Made,1,62,66,128,h,McMahon 25' 3PT Jump Shot (5 PTS) (Betts 2 AST),Made Shot,Jump Shot,1,3,283
+1022600200,406,PT03M06.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,-23,13,3,Made,1,62,68,130,v,Wilson 3' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,2,284
+1022600200,407,PT02M54.00S,3,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,v,Parker-Tyus P.FOUL (P2.PN),Foul,Personal,1,0,285
+1022600200,409,PT02M54.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,63,68,131,h,Iriafen Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,286
+1022600200,410,PT02M54.00S,3,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,h,SUB: Onyenwere FOR Prosper,Substitution,,0,0,287
+1022600200,411,PT02M54.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,v,SUB: Evans FOR Young,Substitution,,0,0,288
+1022600200,414,PT02M54.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,64,68,132,h,Iriafen Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,289
+1022600200,415,PT02M47.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron S.FOUL (P2.PN),Foul,Shooting,1,0,290
+1022600200,417,PT02M47.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,64,69,133,v,Gray Free Throw 1 of 3 (12 PTS),Free Throw,Free Throw 1 of 3,1,0,291
+1022600200,418,PT02M47.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,64,70,134,v,Gray Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,1,0,292
+1022600200,419,PT02M47.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,SUB: Austin FOR Iriafen,Substitution,,0,0,293
+1022600200,421,PT02M47.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,64,71,135,v,Gray Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,1,0,294
+1022600200,422,PT02M31.00S,3,1611661322,WAS,1642785,Citron,S. Citron,230,82,24,Made,1,67,71,138,h,Citron 24' 3PT Jump Shot (14 PTS) (Austin 1 AST),Made Shot,Jump Shot,1,3,295
+1022600200,424,PT02M13.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,-3,50,5,Made,1,67,73,140,v,Wilson 5' Turnaround Jump Shot (24 PTS) (Gray 3 AST),Made Shot,Turnaround Jump Shot,1,2,296
+1022600200,426,PT01M59.00S,3,1611661322,WAS,1643430,McMahon,C. McMahon,-132,0,13,Made,1,69,73,142,h,McMahon 13' Step Back Jump Shot (7 PTS) (Citron 5 AST),Made Shot,Step Back Jump shot,1,2,297
+1022600200,428,PT01M49.00S,3,1611661319,LVA,203833,Gray,C. Gray,-5,180,18,Made,1,69,75,144,v,Gray 18' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,2,298
+1022600200,429,PT01M30.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray P.FOUL (P3.PN),Foul,Personal,1,0,299
+1022600200,431,PT01M30.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,70,75,145,h,Betts Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,300
+1022600200,432,PT01M30.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,SUB: Turner FOR Wilson,Substitution,,0,0,301
+1022600200,434,PT01M30.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,71,75,146,h,Betts Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,302
+1022600200,435,PT01M20.00S,3,1611661319,LVA,1630389,Evans,D. Evans,0,0,0,,0,,,0,v,Evans Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,303
+1022600200,435,PT01M20.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,h,Betts STEAL (1 STL),,,1,0,304
+1022600200,437,PT01M15.00S,3,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,McMahon Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,305
+1022600200,438,PT00M58.80S,3,1611661319,LVA,204319,Loyd,J. Loyd,85,62,11,Missed,1,,,0,v,MISS Loyd 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,306
+1022600200,439,PT00M57.60S,3,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,1,0,307
+1022600200,441,PT00M45.50S,3,1611661322,WAS,1643427,Betts,L. Betts,5,185,19,Missed,1,,,0,h,MISS Betts 19' Jump Shot,Missed Shot,Jump Shot,1,2,308
+1022600200,442,PT00M41.40S,3,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,Loyd REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,309
+1022600200,443,PT00M32.90S,3,1611661319,LVA,204319,Loyd,J. Loyd,219,22,0,Made,1,71,78,149,v,Loyd 3PT Jump Shot (6 PTS) (Evans 1 AST),Made Shot,Jump Shot,1,3,310
+1022600200,445,PT00M25.20S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron Lost Ball Turnover (P5.T11),Turnover,Lost Ball,1,0,311
+1022600200,445,PT00M25.20S,3,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,v,Parker-Tyus STEAL (1 STL),,,1,0,312
+1022600200,447,PT00M03.10S,3,1611661319,LVA,1630389,Evans,D. Evans,-104,116,16,Missed,1,,,0,v,MISS Evans 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,313
+1022600200,448,PT00M01.80S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,314
+1022600200,449,PT00M00.20S,3,1611661322,WAS,1643430,McMahon,C. McMahon,12,512,51,Missed,1,,,0,h,MISS McMahon 51' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,315
+1022600200,450,PT00M00.10S,3,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,0,0,316
+1022600200,451,PT00M00.00S,3,0,,0,,,0,0,0,,0,71,78,149,,End of 3rd Period (9:06 PM EST),period,end,0,0,317
+1022600200,456,PT10M00.00S,4,0,,0,,,0,0,0,,0,71,78,149,,Start of 4th Period (9:10 PM EST),period,start,0,0,318
+1022600200,457,PT09M42.00S,4,1611661319,LVA,203833,Gray,C. Gray,-68,61,9,Missed,1,,,0,v,MISS Gray 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,319
+1022600200,458,PT09M40.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,h,Betts REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,320
+1022600200,459,PT09M19.00S,4,1611661322,WAS,1631022,Austin,S. Austin,-68,15,7,Missed,1,,,0,h,MISS Austin 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,321
+1022600200,460,PT09M17.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,Loyd REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,322
+1022600200,461,PT09M05.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,36,15,4,Made,1,71,80,151,v,Wilson 4' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,1,2,323
+1022600200,462,PT08M45.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,-17,-15,2,Made,1,73,80,153,h,Amoore 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,324
+1022600200,463,PT08M27.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,90,127,16,Made,1,73,82,155,v,Wilson 16' Pullup Jump Shot (28 PTS) (Evans 2 AST),Made Shot,Pullup Jump shot,0,2,325
+1022600200,465,PT08M17.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,Loyd P.FOUL (P2.T1),Foul,Personal,1,0,326
+1022600200,467,PT08M17.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,SUB: Citron FOR Onyenwere,Substitution,,0,0,327
+1022600200,469,PT08M06.00S,4,1611661322,WAS,1642785,Citron,S. Citron,33,-5,3,Missed,1,,,0,h,MISS Citron 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,328
+1022600200,470,PT08M04.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,329
+1022600200,472,PT08M00.00S,4,1611661319,LVA,1630389,Evans,D. Evans,0,0,0,,0,,,0,v,Evans OFF.Foul (P2),Foul,Offensive,1,0,330
+1022600200,474,PT08M00.00S,4,1611661319,LVA,1630389,Evans,D. Evans,0,0,0,,0,,,0,v,Evans Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,331
+1022600200,475,PT08M00.00S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,SUB: Iriafen FOR Austin,Substitution,,0,0,332
+1022600200,477,PT07M44.00S,4,1611661322,WAS,1643427,Betts,L. Betts,21,29,4,Made,1,75,82,157,h,Betts 4' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,333
+1022600200,479,PT07M33.00S,4,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,v,Turner OFF.Foul (P1),Foul,Offensive,1,0,334
+1022600200,481,PT07M33.00S,4,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,v,Turner Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,335
+1022600200,482,PT07M33.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,SUB: Young FOR Loyd,Substitution,,0,0,336
+1022600200,484,PT07M15.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,-82,56,10,Missed,1,,,0,h,MISS Iriafen 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,337
+1022600200,485,PT07M12.00S,4,1611661319,LVA,1630389,Evans,D. Evans,0,0,0,,0,,,0,v,Evans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,338
+1022600200,486,PT07M05.00S,4,1611661319,LVA,1630389,Evans,D. Evans,-1,140,14,Missed,1,,,0,v,MISS Evans 14' Driving Layup,Missed Shot,Driving Layup Shot,1,2,339
+1022600200,486,PT07M05.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,Amoore BLOCK (1 BLK),,,1,2,340
+1022600200,488,PT07M03.00S,4,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,McMahon REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,341
+1022600200,489,PT06M56.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,120,220,25,Made,1,78,82,160,h,Amoore 25' 3PT Jump Shot (10 PTS) (McMahon 3 AST),Made Shot,Jump Shot,1,3,342
+1022600200,491,PT06M55.00S,4,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,343
+1022600200,492,PT06M55.00S,4,1611661319,LVA,1630389,Evans,D. Evans,0,0,0,,0,,,0,v,SUB: Smith FOR Evans,Substitution,,0,0,344
+1022600200,493,PT06M55.00S,4,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,v,SUB: Loyd FOR Turner,Substitution,,0,0,345
+1022600200,496,PT06M34.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,131,224,26,Made,1,78,85,163,v,Wilson 26' 3PT Jump Shot (31 PTS) (Gray 4 AST),Made Shot,Jump Shot,1,3,346
+1022600200,498,PT06M11.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,95,48,11,Missed,1,,,0,h,MISS Iriafen 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,347
+1022600200,499,PT06M10.00S,4,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,348
+1022600200,500,PT06M02.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,Amoore P.FOUL (P3.T1),Foul,Personal,1,0,349
+1022600200,502,PT05M51.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,19,60,6,Missed,1,,,0,v,MISS Wilson 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,350
+1022600200,503,PT05M49.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,351
+1022600200,504,PT05M35.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,13,0,1,Missed,1,,,0,h,MISS Amoore 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,352
+1022600200,505,PT05M33.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,353
+1022600200,506,PT05M19.00S,4,1611661319,LVA,1629498,Young,J. Young,-146,78,17,Made,1,78,87,165,v,Young 17' Fadeaway Jumper (24 PTS),Made Shot,Fadeaway Jump Shot,1,2,354
+1022600200,507,PT05M18.00S,4,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,355
+1022600200,508,PT05M18.00S,4,0,,496,,,0,0,0,,0,78,87,165,,Instant Replay4th Period (9:20 PM EST),Instant Replay,Overturn Ruling,0,0,356
+1022600200,509,PT05M18.00S,4,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,SUB: Austin FOR McMahon,Substitution,,0,0,357
+1022600200,510,PT05M18.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,h,SUB: Onyenwere FOR Betts,Substitution,,0,0,358
+1022600200,513,PT05M06.00S,4,1611661322,WAS,1642785,Citron,S. Citron,13,-9,2,Made,1,80,87,167,h,Citron 2' Cutting Layup Shot (16 PTS) (Austin 2 AST),Made Shot,Cutting Layup Shot,1,2,359
+1022600200,515,PT04M48.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,Amoore S.FOUL (P4.T2),Foul,Shooting,1,0,360
+1022600200,517,PT04M48.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,80,88,168,v,Loyd Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,361
+1022600200,518,PT04M48.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,80,89,169,v,Loyd Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,362
+1022600200,519,PT04M41.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,h,Citron Lost Ball Turnover (P6.T12),Turnover,Lost Ball,1,0,363
+1022600200,519,PT04M41.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray STEAL (1 STL),,,1,0,364
+1022600200,521,PT04M33.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,-71,24,7,Missed,1,,,0,v,MISS Wilson 7' Jump Shot,Missed Shot,Jump Shot,1,2,365
+1022600200,522,PT04M31.00S,4,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,1,0,366
+1022600200,523,PT04M31.00S,4,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith P.FOUL (P3.T2),Foul,Personal,1,0,367
+1022600200,525,PT04M17.00S,4,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P4.T3),Foul,Shooting,1,0,368
+1022600200,527,PT04M17.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,81,89,170,h,Iriafen Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,369
+1022600200,528,PT04M17.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,h,SUB: McMahon FOR Amoore,Substitution,,0,0,370
+1022600200,530,PT04M17.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,82,89,171,h,Iriafen Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,371
+1022600200,531,PT03M59.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,-6,76,8,Made,1,82,91,173,v,Wilson 8' Driving Floating Jump Shot (33 PTS),Made Shot,Driving Floating Jump Shot,1,2,372
+1022600200,532,PT03M41.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P4.T4),Foul,Shooting,1,0,373
+1022600200,534,PT03M41.00S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,83,91,174,h,Austin Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,374
+1022600200,535,PT03M41.00S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,MISS Austin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,375
+1022600200,536,PT03M39.00S,4,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,376
+1022600200,537,PT03M33.00S,4,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,377
+1022600200,538,PT03M29.00S,4,1611661319,LVA,1631019,Smith,N. Smith,30,11,3,Missed,1,,,0,v,MISS Smith 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,378
+1022600200,539,PT03M27.00S,4,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,h,McMahon REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,379
+1022600200,540,PT03M18.00S,4,1611661322,WAS,1631022,Austin,S. Austin,22,-17,3,Made,1,85,91,176,h,Austin 3' Driving Layup (17 PTS) (Citron 6 AST),Made Shot,Driving Layup Shot,1,2,380
+1022600200,542,PT03M18.00S,4,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P5.PN),Foul,Shooting,1,0,381
+1022600200,544,PT03M18.00S,4,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,382
+1022600200,545,PT03M18.00S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,86,91,177,h,Austin Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,383
+1022600200,546,PT02M59.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,Wilson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,384
+1022600200,546,PT02M59.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,Onyenwere STEAL (1 STL),,,1,0,385
+1022600200,548,PT02M53.00S,4,1611661322,WAS,1631022,Austin,S. Austin,26,-14,3,Made,1,88,91,179,h,Austin 3' Running Layup (20 PTS) (Onyenwere 3 AST),Made Shot,Running Layup Shot,1,2,386
+1022600200,550,PT02M36.00S,4,1611661319,LVA,1629498,Young,J. Young,60,62,9,Missed,1,,,0,v,MISS Young 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,387
+1022600200,551,PT02M33.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,388
+1022600200,552,PT02M25.00S,4,1611661322,WAS,1631022,Austin,S. Austin,-75,22,8,Made,1,90,91,181,h,Austin 8' Jump Shot (22 PTS) (Citron 7 AST),Made Shot,Jump Shot,1,2,389
+1022600200,554,PT02M11.00S,4,1611661319,LVA,203833,Gray,C. Gray,69,68,10,Made,1,90,93,183,v,Gray 10' Jump Shot (18 PTS),Made Shot,Jump Shot,1,2,390
+1022600200,555,PT02M11.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,h,Onyenwere S.FOUL (P4.T3),Foul,Shooting,1,0,391
+1022600200,557,PT02M11.00S,4,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,v,SUB: Turner FOR Smith,Substitution,,0,0,392
+1022600200,559,PT02M11.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,90,94,184,v,Gray Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,393
+1022600200,560,PT01M55.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,196,157,25,Made,1,93,94,187,h,Onyenwere 25' 3PT Jump Shot (10 PTS) (Citron 8 AST),Made Shot,Jump Shot,1,3,394
+1022600200,562,PT01M43.00S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin S.FOUL (P1.T4),Foul,Shooting,1,0,395
+1022600200,564,PT01M43.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,93,95,188,v,Wilson Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,0,396
+1022600200,565,PT01M43.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,93,96,189,v,Wilson Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+1022600200,566,PT01M26.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,-35,-4,4,Missed,1,,,0,h,MISS Onyenwere 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,398
+1022600200,567,PT01M25.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,399
+1022600200,597,PT01M25.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,11,21,2,Missed,1,,,0,h,MISS Iriafen 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,400
+1022600200,598,PT01M24.00S,4,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Rebound,Rebound,Unknown,1,0,401
+1022600200,570,PT01M10.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,402
+1022600200,570,PT01M10.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,Loyd STEAL (3 STL),,,1,0,403
+1022600200,572,PT00M48.20S,4,1611661319,LVA,203833,Gray,C. Gray,-111,142,18,Missed,1,,,0,v,MISS Gray 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,404
+1022600200,573,PT00M46.60S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,h,Iriafen REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,405
+1022600200,574,PT00M43.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,v,Gray P.FOUL (P4.PN),Foul,Personal,1,0,406
+1022600200,576,PT00M43.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,94,96,190,h,Citron Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,407
+1022600200,577,PT00M43.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,95,96,191,h,Citron Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,408
+1022600200,578,PT00M30.60S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin P.FOUL (P2.PN),Foul,Personal,1,0,409
+1022600200,580,PT00M30.60S,4,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,410
+1022600200,581,PT00M30.60S,4,0,,578,,,0,0,0,,0,95,98,193,,Instant Replay4th Period (9:39 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,411
+1022600200,582,PT00M30.60S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,95,97,192,v,Wilson Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,0,412
+1022600200,583,PT00M30.60S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,95,98,193,v,Wilson Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0,413
+1022600200,584,PT00M19.60S,4,1611661322,WAS,1642785,Citron,S. Citron,23,-17,3,Made,1,97,98,195,h,Citron 3' Driving Layup (20 PTS) (Austin 3 AST),Made Shot,Driving Layup Shot,1,2,414
+1022600200,586,PT00M19.60S,4,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Timeout: Reset (Reg.3 Short 0),Timeout,Reset,0,0,415
+1022600200,587,PT00M19.60S,4,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,v,SUB: Evans FOR Turner,Substitution,,0,0,416
+1022600200,589,PT00M17.80S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin P.FOUL (P3.PN),Foul,Personal,1,0,417
+1022600200,591,PT00M17.80S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,v,MISS Wilson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,418
+1022600200,592,PT00M17.80S,4,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Rebound,Rebound,Normal Rebound,0,0,419
+1022600200,593,PT00M17.80S,4,1611661319,LVA,1630389,Evans,D. Evans,0,0,0,,0,,,0,v,SUB: Turner FOR Evans,Substitution,,0,0,420
+1022600200,595,PT00M17.80S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,97,99,196,v,Wilson Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,1,0,421
+1022600200,596,PT00M17.80S,4,0,,1611661322,,,0,0,0,,0,,,0,h,MYSTICS Timeout: Reset (Full 4 Short 0),Timeout,Reset,0,0,422
+1022600200,599,PT00M13.30S,4,1611661322,WAS,1642785,Citron,S. Citron,-12,-6,1,Missed,1,,,0,h,MISS Citron 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,423
+1022600200,600,PT00M12.80S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,h,Austin REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,424
+1022600200,601,PT00M12.80S,4,1611661322,WAS,1631022,Austin,S. Austin,-6,11,1,Made,1,99,99,198,h,Austin 1' Putback Layup (24 PTS),Made Shot,Putback Layup Shot,1,2,425
+1022600200,602,PT00M12.80S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,v,Loyd S.FOUL (P3.PN),Foul,Shooting,1,0,426
+1022600200,604,PT00M12.80S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,100,99,199,h,Austin Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,1,0,427
+1022600200,605,PT00M12.80S,4,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,428
+1022600200,606,PT00M12.80S,4,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,v,SUB: Evans FOR Turner,Substitution,,0,0,429
+1022600200,608,PT00M01.40S,4,1611661319,LVA,203833,Gray,C. Gray,193,120,0,Missed,1,,,0,v,MISS Gray 3PT Jump Shot,Missed Shot,Jump Shot,1,3,430
+1022600200,609,PT00M01.40S,4,0,,1611661319,,,0,0,0,,0,,,0,v,Aces Rebound,Rebound,Unknown,1,0,431
+1022600200,610,PT00M00.00S,4,0,,0,,,0,0,0,,0,100,99,199,,End of 4th Period (9:44 PM EST),period,end,1,0,432

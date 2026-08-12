@@ -35,7 +35,7 @@ DEFAULT_SEASONS = {"nba": "2025-26", "wnba": "2026"}
 SLEEP_SECONDS = 0.8  # be polite to stats.nba.com
 
 REQUIRED_COLS = {"period", "actionType", "isFieldGoal", "shotResult",
-                 "playerNameI", "teamTricode", "description"}
+                 "playerName", "playerNameI", "teamTricode", "description"}
 
 
 def get_season_games(season: str, league: str) -> pd.DataFrame:
@@ -84,11 +84,14 @@ def extract_game_facts(pbp: pd.DataFrame) -> dict | None:
 
     facts = {}
 
-    # Name (initial format, e.g. "L. James") -> team map for this game
-    named = p1.dropna(subset=["playerNameI", "teamTricode"])
-    name_team = dict(zip(named["playerNameI"], named["teamTricode"]))
+    # Descriptions reference bare LAST names ("Tip to Thompson"), so map
+    # playerName (last name) -> team. If both teams have that last name in
+    # this game, treat the tip as unparseable rather than guess.
+    named = p1.dropna(subset=["playerName", "teamTricode"])
+    name_teams = named.groupby("playerName")["teamTricode"].agg(set)
+    name_team = {n: next(iter(t)) for n, t in name_teams.items() if len(t) == 1}
 
-    # Opening jump ball: description ends "...: Tip to <name>"
+    # Opening jump ball: description ends "...: Tip to <last name>"
     jumps = p1[p1["actionType"].astype(str).str.lower().str.contains("jump")]
     facts["tip_win_team"] = None
     facts["tip_to_player"] = None

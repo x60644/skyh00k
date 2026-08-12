@@ -1,11 +1,22 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import GameCard from './components/GameCard.jsx'
 import { demoSlate } from './data/demoSlate.js'
-import { APP_VERSION, DEMO_MODE, DEFAULT_LEAGUE, LEAGUES } from './config.js'
+import { APP_VERSION, DEFAULT_LEAGUE, LEAGUES } from './config.js'
 
 export default function App() {
   const [league, setLeague] = useState(DEFAULT_LEAGUE)
-  const games = demoSlate.filter((g) => g.league === league)
+  const [live, setLive] = useState(null)
+
+  useEffect(() => {
+    fetch('/slate.json')
+      .then((r) => (r.ok ? r.json() : null))
+      .then((data) => { if (data && Array.isArray(data.games)) setLive(data) })
+      .catch(() => {})
+  }, [])
+
+  const liveGames = live && live.games.filter((g) => g.league === league)
+  const isLive = !!(liveGames && liveGames.length > 0)
+  const games = isLive ? liveGames : demoSlate.filter((g) => g.league === league)
 
   return (
     <div className="app">
@@ -13,19 +24,18 @@ export default function App() {
         <div className="logo">skyh<span>00</span>k</div>
         <div className="lgswitch" role="tablist" aria-label="League">
           {Object.entries(LEAGUES).map(([key, lg]) => (
-            <button
-              key={key}
-              role="tab"
-              aria-selected={league === key}
+            <button key={key} role="tab" aria-selected={league === key}
               className={'lg' + (league === key ? ' on' : '')}
-              onClick={() => setLeague(key)}
-            >
+              onClick={() => setLeague(key)}>
               {lg.label}
             </button>
           ))}
         </div>
         <div className="tagline">
-          First basket board {DEMO_MODE && <em className="demo">DEMO</em>}
+          First basket board{' '}
+          {isLive
+            ? <em className="livechip">{live.date}</em>
+            : <em className="demo">DEMO</em>}
         </div>
       </header>
       <main className="slate">
@@ -36,7 +46,7 @@ export default function App() {
         )}
       </main>
       <footer className="appfoot">
-        {APP_VERSION} · demo data — live pipeline coming with phase 1
+        {APP_VERSION}{isLive ? ` · live slate generated ${live.generated.slice(0, 16)}Z` : ' · demo data'}
       </footer>
     </div>
   )

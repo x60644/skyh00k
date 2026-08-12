@@ -1,0 +1,398 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600107,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:03 PM EST),period,start,1,0,1
+1022600107,4,PT10M00.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Jump Ball Griner vs. Betts: Tip to Onyenwere,Jump Ball,,1,0,2
+1022600107,7,PT09M38.00S,1,1611661322,WAS,1643427,Betts,L. Betts,16,60,6,Made,1,0,2,2,v,Betts 6' Driving Layup (2 PTS) (Citron 1 AST),Made Shot,Driving Layup Shot,1,2,3
+1022600107,9,PT09M19.00S,1,1611661323,CON,203398,Griner,B. Griner,-17,85,9,Made,1,2,2,4,h,Griner 9' Turnaround Jump Shot (2 PTS) (Lacan 1 AST),Made Shot,Turnaround Jump Shot,1,2,4
+1022600107,11,PT08M57.00S,1,1611661322,WAS,1643427,Betts,L. Betts,-32,55,6,Missed,1,,,0,v,MISS Betts 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,5
+1022600107,12,PT08M55.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+1022600107,13,PT08M41.00S,1,1611661323,CON,1641649,Miller,D. Miller,68,150,16,Made,1,4,2,6,h,Miller 16' Pullup Jump Shot (2 PTS) (Edwards 1 AST),Made Shot,Pullup Jump shot,1,2,7
+1022600107,15,PT08M29.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,8
+1022600107,17,PT08M08.00S,1,1611661323,CON,1641649,Miller,D. Miller,2,-3,0,Made,1,6,2,8,h,Miller Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,9
+1022600107,18,PT07M53.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,1,33,3,Made,1,6,4,10,v,Onyenwere 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,10
+1022600107,19,PT07M42.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Jump Ball Griner vs. Citron: Tip to Lacan,Jump Ball,,0,0,11
+1022600107,23,PT07M29.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,-123,150,19,Missed,1,,,0,h,MISS Lacan 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,12
+1022600107,24,PT07M28.00S,1,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,Dugalic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+1022600107,25,PT07M11.00S,1,1611661322,WAS,1642785,Citron,S. Citron,-34,71,8,Made,1,6,6,12,v,Citron 8' Jump Shot (2 PTS),Made Shot,Jump Shot,1,2,14
+1022600107,26,PT06M59.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,-24,-5,2,Made,1,8,6,14,h,Edwards 2' Layup (2 PTS) (Rivers 1 AST),Made Shot,Layup Shot,1,2,15
+1022600107,28,PT06M46.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere Offensive Charge Foul (P1),Foul,Offensive Charge,1,0,16
+1022600107,30,PT06M46.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,17
+1022600107,31,PT06M46.00S,1,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,SUB: Olsen FOR Dugalic,Substitution,,0,0,18
+1022600107,44,PT06M46.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,SUB: McMahon FOR Amoore,Substitution,,0,0,19
+1022600107,35,PT06M34.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,13,61,6,Missed,1,,,0,h,MISS Edwards 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,20
+1022600107,36,PT06M32.00S,1,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+1022600107,37,PT06M16.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,119,229,26,Made,1,8,9,17,v,Onyenwere 26' 3PT Jump Shot (5 PTS) (Olsen 1 AST),Made Shot,Jump Shot,1,3,22
+1022600107,39,PT06M00.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,10,11,1,Made,1,10,9,19,h,Rivers 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,23
+1022600107,40,PT05M45.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,68,234,24,Made,1,10,12,22,v,Onyenwere 24' 3PT Jump Shot (8 PTS) (Citron 2 AST),Made Shot,Jump Shot,1,3,24
+1022600107,42,PT05M34.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron P.FOUL (P1.T1),Foul,Personal,1,0,25
+1022600107,45,PT05M34.00S,1,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,SUB: Morrow FOR Edwards,Substitution,,0,0,26
+1022600107,47,PT05M27.00S,1,1611661323,CON,1641649,Miller,D. Miller,-232,56,24,Missed,1,,,0,h,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+1022600107,48,PT05M26.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+1022600107,49,PT05M09.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,38,22,4,Missed,1,,,0,v,MISS Onyenwere 4' Jump Shot,Missed Shot,Jump Shot,1,2,29
+1022600107,50,PT05M07.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+1022600107,51,PT05M04.00S,1,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,Olsen P.FOUL (P1.T2),Foul,Personal,1,0,31
+1022600107,53,PT05M04.00S,1,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Angloma FOR Miller,Substitution,,0,0,32
+1022600107,55,PT04M57.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,122,271,30,Missed,1,,,0,h,MISS Lacan 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+1022600107,56,PT04M55.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+1022600107,57,PT04M46.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner P.FOUL (P1.T1),Foul,Personal,1,0,35
+1022600107,59,PT04M46.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,36
+1022600107,60,PT04M46.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,SUB: Prosper FOR Onyenwere,Substitution,,0,0,37
+1022600107,62,PT04M41.00S,1,1611661322,WAS,1642785,Citron,S. Citron,16,19,2,Missed,1,,,0,v,MISS Citron 2' Layup,Missed Shot,Layup Shot,1,2,38
+1022600107,63,PT04M37.00S,1,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,1,0,39
+1022600107,65,PT04M24.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,40
+1022600107,66,PT04M16.00S,1,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,v,Prosper P.FOUL (P1.T3),Foul,Personal,1,0,41
+1022600107,68,PT04M15.00S,1,1611661323,CON,203398,Griner,B. Griner,-33,249,25,Missed,1,,,0,h,MISS Griner 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+1022600107,69,PT04M13.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,43
+1022600107,70,PT03M56.00S,1,1611661322,WAS,1643427,Betts,L. Betts,-1,28,3,Missed,1,,,0,v,MISS Betts 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,44
+1022600107,71,PT03M54.00S,1,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,1,0,45
+1022600107,72,PT03M54.00S,1,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,SUB: Burke FOR Rivers,Substitution,,0,0,46
+1022600107,75,PT03M37.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,-216,109,24,Missed,1,,,0,h,MISS Lacan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+1022600107,76,PT03M36.00S,1,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,Olsen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+1022600107,77,PT03M23.00S,1,1611661322,WAS,1643427,Betts,L. Betts,74,196,21,Missed,1,,,0,v,MISS Betts 21' Jump Shot,Missed Shot,Jump Shot,1,2,49
+1022600107,78,PT03M21.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,50
+1022600107,79,PT03M07.00S,1,1611661323,CON,203398,Griner,B. Griner,71,151,17,Missed,1,,,0,h,MISS Griner 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,51
+1022600107,80,PT03M04.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,52
+1022600107,81,PT02M48.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,78,143,16,Missed,1,,,0,v,MISS McMahon 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,53
+1022600107,82,PT02M46.00S,1,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,v,Prosper REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,54
+1022600107,83,PT02M37.00S,1,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,v,Prosper Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,55
+1022600107,83,PT02M37.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow STEAL (1 STL),,,1,0,56
+1022600107,85,PT02M36.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,57
+1022600107,85,PT02M36.00S,1,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,Olsen STEAL (1 STL),,,1,0,58
+1022600107,87,PT02M33.00S,1,1611661322,WAS,1642802,Olsen,L. Olsen,17,34,4,Missed,1,,,0,v,MISS Olsen 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,59
+1022600107,88,PT02M30.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,60
+1022600107,89,PT02M26.00S,1,1611661323,CON,1629568,Burke,K. Burke,131,235,27,Missed,1,,,0,h,MISS Burke 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,61
+1022600107,90,PT02M22.00S,1,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,1,0,62
+1022600107,91,PT02M22.00S,1,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Griner,Substitution,,0,0,63
+1022600107,92,PT02M22.00S,1,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Lacan,Substitution,,0,0,64
+1022600107,93,PT02M22.00S,1,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,SUB: Dugalic FOR Betts,Substitution,,0,0,65
+1022600107,97,PT02M04.00S,1,1611661322,WAS,1642802,Olsen,L. Olsen,7,141,14,Made,1,10,14,24,v,Olsen 14' Pullup Jump Shot (2 PTS) (Citron 3 AST),Made Shot,Pullup Jump shot,1,2,66
+1022600107,99,PT01M53.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,-21,18,3,Missed,1,,,0,h,MISS Morrow 3' Layup,Missed Shot,Layup Shot,1,2,67
+1022600107,100,PT01M52.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,68
+1022600107,101,PT01M47.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker S.FOUL (P1.T2),Foul,Shooting,1,0,69
+1022600107,103,PT01M47.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,10,15,25,v,McMahon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,70
+1022600107,104,PT01M47.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,SUB: Amoore FOR Citron,Substitution,,0,0,71
+1022600107,105,PT01M47.00S,1,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,SUB: Onyenwere FOR Olsen,Substitution,,0,0,72
+1022600107,108,PT01M47.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,10,16,26,v,McMahon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,73
+1022600107,109,PT01M31.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,11,5,1,Made,1,12,16,28,h,Morrow 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,74
+1022600107,110,PT01M21.00S,1,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker Violation:Kicked Ball,Violation,Kicked Ball,0,0,75
+1022600107,111,PT01M14.00S,1,1611661322,WAS,1643455,Dugalic,A. Dugalic,83,223,24,Missed,1,,,0,v,MISS Dugalic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+1022600107,112,PT01M12.00S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,77
+1022600107,113,PT00M53.50S,1,1611661323,CON,1642800,Morrow,A. Morrow,9,0,1,Missed,1,,,0,h,MISS Morrow 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,78
+1022600107,114,PT00M52.10S,1,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,79
+1022600107,115,PT00M52.10S,1,1611661323,CON,1642800,Morrow,A. Morrow,-25,-6,3,Made,1,14,16,30,h,Morrow 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,80
+1022600107,116,PT00M32.40S,1,1611661322,WAS,1643455,Dugalic,A. Dugalic,-1,2,0,Made,1,14,18,32,v,Dugalic Layup (2 PTS),Made Shot,Layup Shot,1,2,81
+1022600107,117,PT00M16.80S,1,1611661323,CON,1642800,Morrow,A. Morrow,-135,213,25,Missed,1,,,0,h,MISS Morrow 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,82
+1022600107,118,PT00M15.00S,1,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,83
+1022600107,119,PT00M00.00S,1,1611661322,WAS,1643455,Dugalic,A. Dugalic,-54,115,13,Missed,1,,,0,v,MISS Dugalic 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,84
+1022600107,120,PT00M00.00S,1,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,1,0,85
+1022600107,121,PT00M00.00S,1,0,,0,,,0,0,0,,0,14,18,32,,End of 1st Period (7:22 PM EST),period,end,1,0,86
+1022600107,126,PT10M00.00S,2,0,,0,,,0,0,0,,0,14,18,32,,Start of 2nd Period (7:26 PM EST),period,start,1,0,87
+1022600107,127,PT09M36.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,77,40,9,Made,1,16,18,34,h,Leger-Walker 9' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,88
+1022600107,129,PT09M16.00S,2,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,Olsen Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,89
+1022600107,129,PT09M16.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa STEAL (1 STL),,,1,0,90
+1022600107,131,PT09M05.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,-5,42,4,Made,1,18,18,36,h,Morrow 4' Cutting Layup Shot (6 PTS) (Leger-Walker 1 AST),Made Shot,Cutting Layup Shot,1,2,91
+1022600107,133,PT08M46.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker P.FOUL (P2.T1),Foul,Personal,1,0,92
+1022600107,135,PT08M37.00S,2,1611661322,WAS,1643430,McMahon,C. McMahon,0,35,4,Missed,1,,,0,v,MISS McMahon 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,93
+1022600107,136,PT08M36.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,94
+1022600107,137,PT08M30.00S,2,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,Dugalic S.FOUL (P1.T1),Foul,Shooting,1,0,95
+1022600107,139,PT08M30.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,19,18,37,h,Angloma Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,96
+1022600107,140,PT08M30.00S,2,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,v,SUB: Onyenwere FOR Prosper,Substitution,,0,0,97
+1022600107,142,PT08M30.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,20,18,38,h,Angloma Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,98
+1022600107,143,PT08M11.00S,2,1611661322,WAS,1642785,Citron,S. Citron,-3,31,3,Made,1,20,20,40,v,Citron 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,99
+1022600107,144,PT07M54.00S,2,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,Olsen S.FOUL (P2.T2),Foul,Shooting,1,0,100
+1022600107,146,PT07M54.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,MISS Angloma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,101
+1022600107,147,PT07M54.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,102
+1022600107,148,PT07M54.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,MISS Angloma Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,103
+1022600107,149,PT07M54.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+1022600107,150,PT07M43.00S,2,1611661322,WAS,1643455,Dugalic,A. Dugalic,81,83,12,Made,1,20,22,42,v,Dugalic 12' Pullup Jump Shot (4 PTS) (McMahon 1 AST),Made Shot,Pullup Jump shot,1,2,105
+1022600107,152,PT07M30.00S,2,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon S.FOUL (P1.T3),Foul,Shooting,1,0,106
+1022600107,154,PT07M30.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,21,22,43,h,Burke Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,107
+1022600107,155,PT07M30.00S,2,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,SUB: Griner FOR Leger-Walker,Substitution,,0,0,108
+1022600107,156,PT07M30.00S,2,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,SUB: Edwards FOR Nelson-Ododa,Substitution,,0,0,109
+1022600107,158,PT07M30.00S,2,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,SUB: Betts FOR Dugalic,Substitution,,0,0,110
+1022600107,169,PT07M30.00S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,SUB: Lacan FOR Morrow,Substitution,,0,0,111
+1022600107,163,PT07M30.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,MISS Burke Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,112
+1022600107,164,PT07M28.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,0,0,113
+1022600107,166,PT07M20.00S,2,1611661323,CON,1629568,Burke,K. Burke,-145,224,27,Made,1,24,22,46,h,Burke 27' 3PT Jump Shot (4 PTS) (Lacan 2 AST),Made Shot,Jump Shot,1,3,114
+1022600107,168,PT06M57.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma S.FOUL (P1.T2),Foul,Shooting,1,0,115
+1022600107,171,PT06M57.00S,2,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,24,23,47,v,Olsen Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,116
+1022600107,172,PT06M57.00S,2,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,24,24,48,v,Olsen Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,117
+1022600107,173,PT06M48.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,134,216,25,Missed,1,,,0,h,MISS Angloma 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+1022600107,174,PT06M46.00S,2,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,119
+1022600107,175,PT06M42.00S,2,1611661322,WAS,1642785,Citron,S. Citron,19,14,2,Made,1,24,26,50,v,Citron 2' Running Layup (6 PTS) (McMahon 2 AST),Made Shot,Running Layup Shot,1,2,120
+1022600107,177,PT06M33.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts P.FOUL (P1.T4),Foul,Personal,1,0,121
+1022600107,179,PT06M33.00S,2,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,SUB: Rivers FOR Angloma,Substitution,,0,0,122
+1022600107,181,PT06M29.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,73,178,19,Missed,1,,,0,h,MISS Rivers 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,123
+1022600107,182,PT06M27.00S,2,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,0,0,124
+1022600107,184,PT06M07.00S,2,1611661322,WAS,1642802,Olsen,L. Olsen,-154,191,25,Missed,1,,,0,v,MISS Olsen 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+1022600107,185,PT06M05.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Unknown,0,0,126
+1022600107,186,PT06M05.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere L.B.FOUL (P2.PN),Foul,Loose Ball,1,0,127
+1022600107,188,PT06M05.00S,2,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,25,26,51,h,Edwards Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,128
+1022600107,189,PT06M05.00S,2,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,MISS Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,129
+1022600107,190,PT06M03.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,130
+1022600107,191,PT05M47.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,27,71,8,Missed,1,,,0,v,MISS Onyenwere 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,131
+1022600107,192,PT05M46.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+1022600107,193,PT05M36.00S,2,1611661323,CON,1642303,Lacan,L. Lacan,138,220,26,Missed,1,,,0,h,MISS Lacan 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,133
+1022600107,194,PT05M35.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,134
+1022600107,195,PT05M11.00S,2,1611661322,WAS,1642802,Olsen,L. Olsen,58,54,8,Missed,1,,,0,v,MISS Olsen 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,135
+1022600107,196,PT05M10.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,136
+1022600107,197,PT04M53.00S,2,1611661323,CON,1629568,Burke,K. Burke,-210,162,27,Missed,1,,,0,h,MISS Burke 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+1022600107,198,PT04M52.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,138
+1022600107,199,PT04M42.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner P.FOUL (P2.T3),Foul,Personal,1,0,139
+1022600107,201,PT04M42.00S,2,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,140
+1022600107,202,PT04M42.00S,2,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,SUB: Kneepkens FOR Burke,Substitution,,0,0,141
+1022600107,203,PT04M42.00S,2,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,SUB: Amoore FOR McMahon,Substitution,,0,0,142
+1022600107,204,PT04M42.00S,2,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,SUB: Prosper FOR Olsen,Substitution,,0,0,143
+1022600107,208,PT04M28.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,-163,178,24,Missed,1,,,0,v,MISS Amoore 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,144
+1022600107,209,PT04M27.00S,2,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,1,0,145
+1022600107,210,PT04M25.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers P.FOUL (P1.T4),Foul,Personal,1,0,146
+1022600107,212,PT04M25.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,SUB: Dugalic FOR Onyenwere,Substitution,,0,0,147
+1022600107,214,PT04M15.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,-168,199,26,Missed,1,,,0,v,MISS Amoore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+1022600107,215,PT04M13.00S,2,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,v,Prosper REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,149
+1022600107,216,PT04M06.00S,2,1611661322,WAS,1642785,Citron,S. Citron,169,184,25,Missed,1,,,0,v,MISS Citron 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+1022600107,217,PT04M05.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,151
+1022600107,218,PT03M43.00S,2,1611661323,CON,1642809,Rivers,S. Rivers,187,208,28,Missed,1,,,0,h,MISS Rivers 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,152
+1022600107,219,PT03M42.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,153
+1022600107,220,PT03M29.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,-213,148,26,Made,1,25,29,54,v,Amoore 26' 3PT Jump Shot (3 PTS) (Dugalic 1 AST),Made Shot,Jump Shot,1,3,154
+1022600107,222,PT03M09.00S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,0,0,0,,0,,,0,h,Kneepkens Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,155
+1022600107,223,PT02M46.00S,2,1611661322,WAS,1643467,Prosper,C. Prosper,-13,27,3,Missed,1,,,0,v,MISS Prosper 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,156
+1022600107,223,PT02M46.00S,2,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner BLOCK (1 BLK),,,1,2,157
+1022600107,225,PT02M44.00S,2,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,158
+1022600107,226,PT02M32.00S,2,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,Dugalic P.FOUL (P2.PN),Foul,Personal,1,0,159
+1022600107,228,PT02M32.00S,2,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,160
+1022600107,229,PT02M32.00S,2,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,v,SUB: Onyenwere FOR Prosper,Substitution,,0,0,161
+1022600107,231,PT02M32.00S,2,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,26,29,55,h,Edwards Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,162
+1022600107,232,PT02M32.00S,2,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,27,29,56,h,Edwards Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,163
+1022600107,233,PT02M15.00S,2,1611661322,WAS,1642785,Citron,S. Citron,11,15,2,Made,1,27,31,58,v,Citron 2' Driving Layup (8 PTS) (Amoore 1 AST),Made Shot,Driving Layup Shot,1,2,164
+1022600107,235,PT02M09.00S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,-206,155,26,Missed,1,,,0,h,MISS Kneepkens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+1022600107,236,PT02M07.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,166
+1022600107,237,PT01M56.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,-188,185,26,Made,1,27,34,61,v,Amoore 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,3,167
+1022600107,238,PT01M36.00S,2,1611661323,CON,1642290,Edwards,A. Edwards,-68,177,19,Missed,1,,,0,h,MISS Edwards 19' Jump Shot,Missed Shot,Jump Shot,1,2,168
+1022600107,239,PT01M35.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,169
+1022600107,240,PT01M23.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts 3 Second Violation Turnover (P1.T6),Turnover,3 Second Violation,1,0,170
+1022600107,241,PT01M23.00S,2,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,SUB: Morrow FOR Edwards,Substitution,,0,0,171
+1022600107,244,PT00M56.10S,2,1611661323,CON,203398,Griner,B. Griner,-73,177,19,Missed,1,,,0,h,MISS Griner 19' Jump Shot,Missed Shot,Jump Shot,1,2,172
+1022600107,245,PT00M54.80S,2,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,173
+1022600107,246,PT00M54.80S,2,1611661323,CON,1642800,Morrow,A. Morrow,16,15,2,Made,1,29,34,63,h,Morrow 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,174
+1022600107,247,PT00M44.30S,2,1611661322,WAS,1642781,Amoore,G. Amoore,12,28,3,Made,1,29,36,65,v,Amoore 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,175
+1022600107,248,PT00M29.50S,2,1611661323,CON,203398,Griner,B. Griner,15,20,3,Missed,1,,,0,h,MISS Griner 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,176
+1022600107,249,PT00M27.20S,2,1611661323,CON,1643429,Kneepkens,G. Kneepkens,0,0,0,,0,,,0,h,Kneepkens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,177
+1022600107,250,PT00M24.10S,2,1611661323,CON,1642809,Rivers,S. Rivers,-67,270,28,Missed,1,,,0,h,MISS Rivers 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+1022600107,251,PT00M23.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,179
+1022600107,253,PT00M00.00S,2,0,,0,,,0,0,0,,0,29,36,65,,End of 2nd Period (7:50 PM EST),period,end,1,0,180
+1022600107,258,PT10M00.00S,3,0,,0,,,0,0,0,,0,29,36,65,,Start of 3rd Period (8:06 PM EST),period,start,1,0,181
+1022600107,259,PT09M46.00S,3,1611661323,CON,1641649,Miller,D. Miller,225,62,0,Missed,1,,,0,h,MISS Miller 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+1022600107,260,PT09M44.00S,3,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,Dugalic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,183
+1022600107,261,PT09M34.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,184
+1022600107,261,PT09M34.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan STEAL (1 STL),,,1,0,185
+1022600107,263,PT09M30.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,19,27,3,Missed,1,,,0,h,MISS Lacan 3' Running Layup,Missed Shot,Running Layup Shot,1,2,186
+1022600107,264,PT09M28.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,187
+1022600107,265,PT09M28.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,0,-6,1,Made,1,31,36,67,h,Angloma 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,188
+1022600107,266,PT09M09.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,12,42,4,Made,1,31,38,69,v,Onyenwere 4' Reverse Layup (10 PTS) (Amoore 2 AST),Made Shot,Reverse Layup Shot,1,2,189
+1022600107,268,PT09M01.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere Violation:Kicked Ball,Violation,Kicked Ball,0,0,190
+1022600107,269,PT08M55.00S,3,1611661323,CON,203398,Griner,B. Griner,10,34,4,Made,1,33,38,71,h,Griner 4' Pullup Jump Shot (4 PTS) (Angloma 1 AST),Made Shot,Pullup Jump shot,1,2,191
+1022600107,271,PT08M36.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller P.FOUL (P1.T1),Foul,Personal,1,0,192
+1022600107,274,PT08M24.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,193
+1022600107,274,PT08M24.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner STEAL (1 STL),,,1,0,194
+1022600107,276,PT08M15.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,29,24,4,Made,1,35,38,73,h,Morrow 4' Driving Layup (10 PTS) (Lacan 3 AST),Made Shot,Driving Layup Shot,1,2,195
+1022600107,278,PT07M58.00S,3,1611661322,WAS,1642785,Citron,S. Citron,10,55,6,Made,1,35,40,75,v,Citron 6' Driving Layup (10 PTS) (Betts 1 AST),Made Shot,Driving Layup Shot,1,2,196
+1022600107,280,PT07M49.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,26,14,3,Made,1,37,40,77,h,Lacan 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,197
+1022600107,281,PT07M31.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan P.FOUL (P1.T2),Foul,Personal,0,0,198
+1022600107,283,PT07M22.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,-93,113,15,Missed,1,,,0,v,MISS Onyenwere 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,199
+1022600107,284,PT07M20.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,200
+1022600107,285,PT07M19.00S,3,1611661322,WAS,1643427,Betts,L. Betts,-4,61,6,Missed,1,,,0,v,MISS Betts 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,201
+1022600107,285,PT07M19.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner BLOCK (2 BLK),,,1,2,202
+1022600107,287,PT07M17.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,203
+1022600107,288,PT07M08.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,-116,19,12,Missed,1,,,0,h,MISS Angloma 12' Jump Shot,Missed Shot,Jump Shot,1,2,204
+1022600107,289,PT07M07.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,205
+1022600107,316,PT06M54.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,206
+1022600107,316,PT06M54.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller STEAL (1 STL),,,0,0,207
+1022600107,293,PT06M44.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,-17,258,26,Missed,1,,,0,h,MISS Angloma 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,208
+1022600107,294,PT06M41.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,209
+1022600107,295,PT06M41.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore S.FOUL (P1.T1),Foul,Shooting,0,0,210
+1022600107,297,PT06M41.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,MISS Morrow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,211
+1022600107,298,PT06M41.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,1,0,212
+1022600107,305,PT06M41.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,38,40,78,h,Morrow Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,213
+1022600107,299,PT06M41.00S,3,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Lacan,Substitution,,0,0,214
+1022600107,300,PT06M41.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,SUB: McMahon FOR Amoore,Substitution,,0,0,215
+1022600107,301,PT06M41.00S,3,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,SUB: Olsen FOR Dugalic,Substitution,,0,0,216
+1022600107,306,PT06M24.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,217
+1022600107,306,PT06M24.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow STEAL (2 STL),,,1,0,218
+1022600107,308,PT06M11.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,149,41,15,Missed,1,,,0,h,MISS Morrow 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,219
+1022600107,309,PT06M11.00S,3,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,220
+1022600107,310,PT06M07.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner S.FOUL (P3.T3),Foul,Shooting,1,0,221
+1022600107,312,PT06M07.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,38,41,79,v,Citron Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,222
+1022600107,313,PT06M07.00S,3,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,SUB: Nelson-Ododa FOR Griner,Substitution,,0,0,223
+1022600107,315,PT06M07.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,38,42,80,v,Citron Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,224
+1022600107,318,PT06M00.00S,3,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,Olsen S.FOUL (P3.T2),Foul,Shooting,1,0,225
+1022600107,320,PT06M00.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,39,42,81,h,Leger-Walker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,226
+1022600107,321,PT06M00.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,40,42,82,h,Leger-Walker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,227
+1022600107,322,PT05M52.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,Angloma P.FOUL (P2.T4),Foul,Personal,1,0,228
+1022600107,324,PT05M51.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller S.FOUL (P2.PN),Foul,Shooting,1,0,229
+1022600107,326,PT05M51.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,40,43,83,v,Citron Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,230
+1022600107,327,PT05M51.00S,3,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,SUB: Rivers FOR Miller,Substitution,,0,0,231
+1022600107,329,PT05M51.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,40,44,84,v,Citron Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,232
+1022600107,330,PT05M33.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,2,57,6,Missed,1,,,0,h,MISS Angloma 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,233
+1022600107,331,PT05M33.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,234
+1022600107,332,PT05M21.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa S.FOUL (P1.PN),Foul,Shooting,1,0,235
+1022600107,334,PT05M21.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,40,45,85,v,Betts Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,236
+1022600107,335,PT05M21.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,40,46,86,v,Betts Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,237
+1022600107,336,PT04M57.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,-90,19,9,Missed,1,,,0,h,MISS Leger-Walker 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,238
+1022600107,337,PT04M55.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,239
+1022600107,338,PT04M46.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,17,71,7,Made,1,40,48,88,v,Onyenwere 7' Cutting Layup Shot (12 PTS) (McMahon 3 AST),Made Shot,Cutting Layup Shot,1,2,240
+1022600107,340,PT04M45.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,241
+1022600107,341,PT04M45.00S,3,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,SUB: Edwards FOR Morrow,Substitution,,0,0,242
+1022600107,342,PT04M45.00S,3,1611661323,CON,1643448,Angloma,N. Angloma,0,0,0,,0,,,0,h,SUB: Burke FOR Angloma,Substitution,,0,0,243
+1022600107,343,PT04M45.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,SUB: Dugalic FOR Onyenwere,Substitution,,0,0,244
+1022600107,344,PT04M45.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,SUB: Prosper FOR Betts,Substitution,,0,0,245
+1022600107,349,PT04M26.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,21,23,3,Made,1,42,48,90,h,Nelson-Ododa 3' Layup (2 PTS) (Leger-Walker 2 AST),Made Shot,Layup Shot,1,2,246
+1022600107,351,PT04M16.00S,3,1611661322,WAS,1642802,Olsen,L. Olsen,-19,39,4,Made,1,42,50,92,v,Olsen 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,247
+1022600107,352,PT03M59.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,16,36,4,Made,1,44,50,94,h,Nelson-Ododa 4' Layup (4 PTS),Made Shot,Layup Shot,1,2,248
+1022600107,353,PT03M49.00S,3,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,249
+1022600107,354,PT03M39.00S,3,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,Dugalic P.FOUL (P3.T3),Foul,Personal,1,0,250
+1022600107,356,PT03M39.00S,3,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,SUB: Betts FOR Dugalic,Substitution,,0,0,251
+1022600107,359,PT03M39.00S,3,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,v,Prosper AWAY.FROM.PLAY.FOUL (P2.T4),Foul,Away From Play,1,0,252
+1022600107,360,PT03M39.00S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,45,50,95,h,Leger-Walker Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,253
+1022600107,361,PT03M38.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,-3,1,0,Missed,1,,,0,h,MISS Edwards Driving Layup,Missed Shot,Driving Layup Shot,1,2,254
+1022600107,362,PT03M36.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,255
+1022600107,363,PT03M32.00S,3,1611661323,CON,1629568,Burke,K. Burke,188,163,25,Made,1,48,50,98,h,Burke 25' 3PT Jump Shot (7 PTS) (Nelson-Ododa 1 AST),Made Shot,Jump Shot,1,3,256
+1022600107,364,PT03M11.00S,3,1611661322,WAS,1643467,Prosper,C. Prosper,-213,160,27,Made,1,48,53,101,v,Prosper 27' 3PT Jump Shot (3 PTS) (McMahon 4 AST),Made Shot,Jump Shot,1,3,257
+1022600107,366,PT02M59.00S,3,1611661322,WAS,1643467,Prosper,C. Prosper,0,0,0,,0,,,0,v,SUB: Onyenwere FOR Prosper,Substitution,,0,0,258
+1022600107,368,PT02M48.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron S.FOUL (P2.PN),Foul,Shooting,1,0,259
+1022600107,370,PT02M48.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,MISS Nelson-Ododa Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,260
+1022600107,371,PT02M48.00S,3,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,261
+1022600107,372,PT02M48.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,49,53,102,h,Nelson-Ododa Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,262
+1022600107,373,PT02M35.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa P.FOUL (P2.PN),Foul,Personal,1,0,263
+1022600107,375,PT02M35.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,49,54,103,v,Betts Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,264
+1022600107,376,PT02M35.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,49,55,104,v,Betts Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,265
+1022600107,377,PT02M21.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,-129,68,15,Made,1,51,55,106,h,Rivers 15' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,266
+1022600107,380,PT01M54.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,88,226,24,Made,1,51,58,109,v,Onyenwere 24' 3PT Jump Shot (15 PTS) (Betts 2 AST),Made Shot,Jump Shot,1,3,267
+1022600107,382,PT01M39.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,0,36,4,Made,1,53,58,111,h,Edwards 4' Driving Layup (7 PTS) (Leger-Walker 3 AST),Made Shot,Driving Layup Shot,1,2,268
+1022600107,384,PT01M39.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere S.FOUL (P3.PN),Foul,Shooting,1,0,269
+1022600107,386,PT01M39.00S,3,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,SUB: Amoore FOR Olsen,Substitution,,0,0,270
+1022600107,388,PT01M39.00S,3,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,MISS Edwards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,271
+1022600107,389,PT01M37.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,272
+1022600107,392,PT01M21.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa P.FOUL (P3.PN),Foul,Personal,1,0,273
+1022600107,394,PT01M21.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,Nelson-Ododa T.FOUL (P3.PN),Foul,Technical,1,0,274
+1022600107,395,PT01M21.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,53,59,112,v,Citron Free Throw Technical (15 PTS),Free Throw,Free Throw Technical,1,0,275
+1022600107,396,PT01M21.00S,3,1611661323,CON,1631135,Nelson-Ododa,O. Nelson-Ododa,0,0,0,,0,,,0,h,SUB: Beers FOR Nelson-Ododa,Substitution,,0,0,276
+1022600107,398,PT01M21.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,53,60,113,v,Betts Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,277
+1022600107,399,PT01M21.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,53,61,114,v,Betts Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,278
+1022600107,400,PT01M06.00S,3,1611661323,CON,1642809,Rivers,S. Rivers,-50,131,14,Missed,1,,,0,h,MISS Rivers 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,279
+1022600107,401,PT01M05.00S,3,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,280
+1022600107,402,PT00M57.40S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,110,216,24,Made,1,56,61,117,h,Leger-Walker 24' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,281
+1022600107,404,PT00M39.50S,3,1611661322,WAS,1643427,Betts,L. Betts,-22,-12,3,Made,1,56,63,119,v,Betts 3' Cutting Layup Shot (10 PTS) (Citron 4 AST),Made Shot,Cutting Layup Shot,1,2,282
+1022600107,406,PT00M30.10S,3,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,-72,110,13,Missed,1,,,0,h,MISS Leger-Walker 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,283
+1022600107,407,PT00M29.70S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,284
+1022600107,408,PT00M06.30S,3,1611661322,WAS,1642785,Citron,S. Citron,155,199,25,Missed,1,,,0,v,MISS Citron 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,285
+1022600107,409,PT00M03.80S,3,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,286
+1022600107,410,PT00M00.60S,3,1611661323,CON,1642809,Rivers,S. Rivers,8,25,3,Made,1,58,63,121,h,Rivers 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,287
+1022600107,411,PT00M00.00S,3,0,,410,,,0,0,0,,0,58,63,121,,Instant Replay3rd Period (8:32 PM EST),Instant Replay,Support Ruling,0,0,288
+1022600107,412,PT00M00.00S,3,0,,0,,,0,0,0,,0,58,63,121,,End of 3rd Period (8:32 PM EST),period,end,1,0,289
+1022600107,419,PT10M00.00S,4,0,,0,,,0,0,0,,0,58,63,121,,Start of 4th Period (8:35 PM EST),period,start,1,0,290
+1022600107,420,PT09M48.00S,4,1611661322,WAS,1642785,Citron,S. Citron,-188,177,26,Missed,1,,,0,v,MISS Citron 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,291
+1022600107,421,PT09M47.00S,4,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,292
+1022600107,422,PT09M35.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron S.FOUL (P3.T1),Foul,Shooting,1,0,293
+1022600107,424,PT09M35.00S,4,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,59,63,122,h,Edwards Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,294
+1022600107,425,PT09M35.00S,4,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,60,63,123,h,Edwards Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,295
+1022600107,426,PT09M25.00S,4,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers P.FOUL (P2.T1),Foul,Personal,1,0,296
+1022600107,428,PT09M14.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,-18,-5,2,Missed,1,,,0,v,MISS Onyenwere 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,297
+1022600107,428,PT09M14.00S,4,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards BLOCK (1 BLK),,,1,2,298
+1022600107,430,PT09M14.00S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,0,0,299
+1022600107,431,PT09M13.00S,4,1611661322,WAS,1643455,Dugalic,A. Dugalic,-22,-12,3,Made,1,60,65,125,v,Dugalic 3' Cutting Layup Shot (6 PTS) (Olsen 2 AST),Made Shot,Cutting Layup Shot,1,2,300
+1022600107,433,PT08M56.00S,4,1611661323,CON,1629568,Burke,K. Burke,7,2,1,Made,1,62,65,127,h,Burke 1' Cutting Layup Shot (9 PTS) (Beers 1 AST),Made Shot,Cutting Layup Shot,1,2,301
+1022600107,436,PT08M34.00S,4,1611661322,WAS,1643430,McMahon,C. McMahon,-218,86,0,Missed,1,,,0,v,MISS McMahon 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+1022600107,437,PT08M34.00S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,0,0,303
+1022600107,439,PT08M32.00S,4,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,Olsen Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,304
+1022600107,439,PT08M32.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan STEAL (2 STL),,,1,0,305
+1022600107,441,PT08M29.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,6,2,1,Made,1,64,65,129,h,Lacan 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,306
+1022600107,442,PT08M26.00S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,307
+1022600107,443,PT08M08.00S,4,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,Rivers S.FOUL (P3.T2),Foul,Shooting,1,0,308
+1022600107,445,PT08M08.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,64,66,130,v,Onyenwere Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,309
+1022600107,446,PT08M08.00S,4,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,SUB: Betts FOR McMahon,Substitution,,0,0,310
+1022600107,448,PT08M08.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,64,67,131,v,Onyenwere Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,311
+1022600107,449,PT07M51.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,43,265,27,Missed,1,,,0,h,MISS Lacan 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,312
+1022600107,450,PT07M49.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,313
+1022600107,451,PT07M49.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers P.FOUL (P1.T3),Foul,Personal,1,0,314
+1022600107,453,PT07M35.00S,4,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,Edwards S.FOUL (P1.T4),Foul,Shooting,1,0,315
+1022600107,455,PT07M35.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,64,68,132,v,Citron Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,316
+1022600107,456,PT07M35.00S,4,1611661323,CON,1642290,Edwards,A. Edwards,0,0,0,,0,,,0,h,SUB: Leger-Walker FOR Edwards,Substitution,,0,0,317
+1022600107,457,PT07M35.00S,4,1611661323,CON,1642809,Rivers,S. Rivers,0,0,0,,0,,,0,h,SUB: Morrow FOR Rivers,Substitution,,0,0,318
+1022600107,460,PT07M35.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,64,69,133,v,Citron Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,319
+1022600107,461,PT07M23.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,119,126,17,Made,1,66,69,135,h,Lacan 17' Pullup Jump Shot (6 PTS) (Morrow 1 AST),Made Shot,Pullup Jump shot,1,2,320
+1022600107,463,PT07M06.00S,4,1611661322,WAS,1642802,Olsen,L. Olsen,-95,142,17,Missed,1,,,0,v,MISS Olsen 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,321
+1022600107,464,PT07M04.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,322
+1022600107,465,PT06M53.00S,4,1611661323,CON,1643441,Beers,R. Beers,18,22,3,Made,1,68,69,137,h,Beers 3' Cutting Layup Shot (2 PTS) (Morrow 2 AST),Made Shot,Cutting Layup Shot,1,2,323
+1022600107,467,PT06M37.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers P.FOUL (P2.PN),Foul,Personal,1,0,324
+1022600107,469,PT06M37.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,68,70,138,v,Betts Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,325
+1022600107,470,PT06M37.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,MISS Betts Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,326
+1022600107,471,PT06M34.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,327
+1022600107,472,PT06M26.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,66,126,14,Missed,1,,,0,h,MISS Lacan 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,328
+1022600107,472,PT06M26.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron BLOCK (1 BLK),,,1,2,329
+1022600107,474,PT06M23.00S,4,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,Olsen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,330
+1022600107,475,PT06M10.00S,4,1611661322,WAS,1643427,Betts,L. Betts,-78,119,14,Missed,1,,,0,v,MISS Betts 14' Jump Shot,Missed Shot,Jump Shot,1,2,331
+1022600107,476,PT06M08.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,332
+1022600107,477,PT05M46.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,10,29,3,Made,1,70,70,140,h,Lacan 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,333
+1022600107,478,PT05M17.00S,4,1611661322,WAS,1643455,Dugalic,A. Dugalic,68,275,28,Missed,1,,,0,v,MISS Dugalic 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+1022600107,479,PT05M15.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,335
+1022600107,480,PT05M11.00S,4,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,Olsen P.FOUL (P4.T2),Foul,Personal,1,0,336
+1022600107,482,PT05M11.00S,4,1611661322,WAS,1642802,Olsen,L. Olsen,0,0,0,,0,,,0,v,SUB: Amoore FOR Olsen,Substitution,,0,0,337
+1022600107,484,PT05M02.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,21,40,5,Missed,1,,,0,h,MISS Morrow 5' Layup,Missed Shot,Layup Shot,1,2,338
+1022600107,485,PT05M01.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,339
+1022600107,486,PT05M01.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers P.FOUL (P3.PN),Foul,Personal,1,0,340
+1022600107,488,PT05M01.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,70,71,141,v,Betts Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,341
+1022600107,489,PT05M01.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,70,72,142,v,Betts Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,342
+1022600107,490,PT04M50.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,343
+1022600107,491,PT04M46.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan Violation:Kicked Ball,Violation,Kicked Ball,0,0,344
+1022600107,492,PT04M30.00S,4,1611661322,WAS,1642785,Citron,S. Citron,170,195,26,Missed,1,,,0,v,MISS Citron 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+1022600107,493,PT04M28.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,346
+1022600107,494,PT04M14.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,347
+1022600107,494,PT04M14.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere STEAL (1 STL),,,1,0,348
+1022600107,496,PT04M11.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,-19,45,5,Made,1,70,74,144,v,Onyenwere 5' Running Layup (19 PTS) (Dugalic 2 AST),Made Shot,Running Layup Shot,1,2,349
+1022600107,498,PT04M10.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,350
+1022600107,499,PT03M57.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,100,143,17,Missed,1,,,0,h,MISS Lacan 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,351
+1022600107,500,PT03M56.00S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,1,0,352
+1022600107,501,PT03M56.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,Beers L.B.FOUL (P4.PN),Foul,Loose Ball,1,0,353
+1022600107,504,PT03M56.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,70,75,145,v,Amoore Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,354
+1022600107,505,PT03M56.00S,4,1611661323,CON,1643441,Beers,R. Beers,0,0,0,,0,,,0,h,SUB: Griner FOR Beers,Substitution,,0,0,355
+1022600107,507,PT03M56.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,70,76,146,v,Amoore Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,356
+1022600107,508,PT03M43.00S,4,1611661323,CON,203398,Griner,B. Griner,16,119,12,Made,1,72,76,148,h,Griner 12' Jump Shot (6 PTS) (Lacan 4 AST),Made Shot,Jump Shot,1,2,357
+1022600107,510,PT03M21.00S,4,1611661322,WAS,1643455,Dugalic,A. Dugalic,138,190,0,Missed,1,,,0,v,MISS Dugalic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+1022600107,511,PT03M19.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,359
+1022600107,512,PT03M11.00S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,13,35,4,Made,1,74,76,150,h,Leger-Walker 4' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,360
+1022600107,513,PT02M53.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,-155,216,27,Made,1,74,79,153,v,Onyenwere 27' 3PT Jump Shot (22 PTS) (Dugalic 3 AST),Made Shot,Jump Shot,1,3,361
+1022600107,515,PT02M39.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,140,202,25,Missed,1,,,0,h,MISS Morrow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+1022600107,516,PT02M38.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,363
+1022600107,517,PT02M25.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,,,0,h,Lacan P.FOUL (P2.PN),Foul,Personal,1,0,364
+1022600107,519,PT02M25.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,74,80,154,v,Citron Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,365
+1022600107,520,PT02M25.00S,4,1611661323,CON,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,SUB: Miller FOR Morrow,Substitution,,0,0,366
+1022600107,522,PT02M25.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,74,81,155,v,Citron Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,367
+1022600107,523,PT02M12.00S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner OFF.Foul (P4),Foul,Offensive,1,0,368
+1022600107,525,PT02M12.00S,4,1611661323,CON,203398,Griner,B. Griner,0,0,0,,0,,,0,h,Griner Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,369
+1022600107,526,PT01M52.00S,4,1611661322,WAS,1642785,Citron,S. Citron,3,50,5,Made,1,74,83,157,v,Citron 5' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,370
+1022600107,527,PT01M52.00S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller S.FOUL (P3.PN),Foul,Shooting,1,0,371
+1022600107,529,PT01M52.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,74,84,158,v,Citron Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1,0,372
+1022600107,530,PT01M43.00S,4,1611661322,WAS,1643455,Dugalic,A. Dugalic,0,0,0,,0,,,0,v,Dugalic S.FOUL (P4.T3),Foul,Shooting,1,0,373
+1022600107,532,PT01M43.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,MISS Burke Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,374
+1022600107,533,PT01M43.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Rebound,Rebound,Normal Rebound,0,0,375
+1022600107,534,PT01M43.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,75,84,159,h,Burke Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+1022600107,535,PT01M29.00S,4,1611661322,WAS,1642785,Citron,S. Citron,15,6,2,Made,1,75,86,161,v,Citron 2' Cutting Layup Shot (24 PTS) (Betts 3 AST),Made Shot,Cutting Layup Shot,1,2,377
+1022600107,537,PT01M29.00S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,378
+1022600107,539,PT01M29.00S,4,1611661323,CON,1629568,Burke,K. Burke,0,0,0,,0,,,0,h,SUB: Morrow FOR Burke,Substitution,,0,0,379
+1022600107,541,PT01M25.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,23,15,3,Made,1,77,86,163,h,Lacan 3' Cutting Layup Shot (10 PTS) (Leger-Walker 4 AST),Made Shot,Cutting Layup Shot,1,2,380
+1022600107,543,PT01M25.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron S.FOUL (P4.PN),Foul,Shooting,1,0,381
+1022600107,545,PT01M25.00S,4,1611661323,CON,1642303,Lacan,L. Lacan,0,0,0,,0,78,86,164,h,Lacan Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,382
+1022600107,546,PT01M01.00S,4,1611661322,WAS,1642785,Citron,S. Citron,89,119,15,Missed,1,,,0,v,MISS Citron 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,383
+1022600107,547,PT00M58.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,384
+1022600107,548,PT00M45.60S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,385
+1022600107,548,PT00M45.60S,4,1611661323,CON,1641649,Miller,D. Miller,0,0,0,,0,,,0,h,Miller STEAL (2 STL),,,1,0,386
+1022600107,550,PT00M35.20S,4,1611661323,CON,1641649,Miller,D. Miller,-40,245,25,Made,1,81,86,167,h,Miller 25' 3PT Jump Shot (7 PTS) (Griner 1 AST),Made Shot,Jump Shot,1,3,387
+1022600107,552,PT00M35.20S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,388
+1022600107,553,PT00M31.40S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Leger-Walker P.FOUL (P3.PN),Foul,Personal,1,0,389
+1022600107,555,PT00M31.40S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,81,87,168,v,Citron Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,390
+1022600107,556,PT00M31.40S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,SUB: McMahon FOR Amoore,Substitution,,0,0,391
+1022600107,558,PT00M31.40S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,81,88,169,v,Citron Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,392
+1022600107,559,PT00M31.40S,4,0,,1611661323,,,0,0,0,,0,,,0,h,SUN Timeout: Reset (Full 4 Short 0),Timeout,Reset,0,0,393
+1022600107,560,PT00M24.30S,4,1611661323,CON,1642303,Lacan,L. Lacan,-99,116,15,Missed,1,,,0,h,MISS Lacan 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,394
+1022600107,564,PT00M21.50S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,1,0,395
+1022600107,561,PT00M21.50S,4,1611661323,CON,1643449,Leger-Walker,C. Leger-Walker,0,0,0,,0,,,0,h,Jump Ball Leger-Walker vs. Onyenwere: Tip to Citron,Jump Ball,,1,0,396
+1022600107,565,PT00M00.00S,4,0,,0,,,0,0,0,,0,81,88,169,,End of 4th Period (9:09 PM EST),period,end,1,0,397

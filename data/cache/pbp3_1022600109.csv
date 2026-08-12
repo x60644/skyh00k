@@ -1,0 +1,385 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600109,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:04 PM EST),period,start,1,0,1
+1022600109,4,PT10M00.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Jump Ball Stokes vs. Kuier: Tip to Bueckers,Jump Ball,,1,0,2
+1022600109,7,PT09M46.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,95,22,10,Missed,1,,,0,v,MISS Bueckers 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,3
+1022600109,8,PT09M43.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Stokes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+1022600109,9,PT09M20.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,-24,16,3,Missed,1,,,0,h,MISS Stokes 3' Layup,Missed Shot,Layup Shot,1,2,5
+1022600109,10,PT09M18.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,v,Ogunbowale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+1022600109,11,PT09M18.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,Kuier Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,7
+1022600109,12,PT09M09.00S,1,1611661331,GSV,1628931,Williams,G. Williams,116,236,26,Missed,1,,,0,h,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,8
+1022600109,13,PT09M07.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+1022600109,14,PT09M01.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,12,38,4,Made,1,0,2,2,v,Kuier 4' Running Layup (2 PTS) (Shepard 1 AST),Made Shot,Running Layup Shot,1,2,10
+1022600109,16,PT08M35.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-18,70,7,Made,1,2,2,4,h,Zandalasini 7' Pullup Jump Shot (2 PTS) (Thornton 1 AST),Made Shot,Pullup Jump shot,1,2,11
+1022600109,18,PT08M18.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,22,119,12,Missed,1,,,0,v,MISS Ogunbowale 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,12
+1022600109,19,PT08M16.00S,1,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+1022600109,20,PT08M02.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,h,Zandalasini Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,14
+1022600109,20,PT08M02.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd STEAL (1 STL),,,1,0,15
+1022600109,22,PT07M38.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,-4,124,12,Made,1,2,4,6,v,Shepard 12' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,16
+1022600109,23,PT07M13.00S,1,1611661331,GSV,1631007,Burton,V. Burton,27,107,11,Missed,1,,,0,h,MISS Burton 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,17
+1022600109,24,PT07M10.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,v,Ogunbowale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,18
+1022600109,25,PT06M58.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,-227,41,0,Missed,1,,,0,v,MISS Kuier 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+1022600109,26,PT06M55.00S,1,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+1022600109,27,PT06M38.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-112,145,18,Missed,1,,,0,h,MISS Zandalasini 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,21
+1022600109,28,PT06M36.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,22
+1022600109,29,PT06M29.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,-139,55,15,Made,1,2,6,8,v,Shepard 15' Jump Shot (4 PTS) (Ogunbowale 1 AST),Made Shot,Jump Shot,1,2,23
+1022600109,31,PT06M14.00S,1,1611661331,GSV,203866,Thornton,K. Thornton,-23,243,24,Missed,1,,,0,h,MISS Thornton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+1022600109,32,PT06M13.00S,1,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Rebound,Rebound,Unknown,0,0,25
+1022600109,34,PT05M59.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,Kuier Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,26
+1022600109,35,PT05M59.00S,1,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,SUB: Salaun FOR Thornton,Substitution,,0,0,27
+1022600109,37,PT05M44.00S,1,1611661331,GSV,1628931,Williams,G. Williams,-6,123,12,Made,1,4,6,10,h,Williams 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,28
+1022600109,39,PT05M29.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,67,63,9,Made,1,4,8,12,v,Shepard 9' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,2,29
+1022600109,40,PT05M10.00S,1,1611661331,GSV,1628931,Williams,G. Williams,20,23,3,Made,1,6,8,14,h,Williams 3' Driving Layup (4 PTS) (Zandalasini 1 AST),Made Shot,Driving Layup Shot,1,2,30
+1022600109,42,PT04M53.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-22,184,19,Missed,1,,,0,v,MISS Ogunbowale 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,31
+1022600109,43,PT04M51.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Stokes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,32
+1022600109,44,PT04M45.00S,1,1611661331,GSV,1631007,Burton,V. Burton,-26,25,4,Missed,1,,,0,h,MISS Burton 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,33
+1022600109,44,PT04M45.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd BLOCK (1 BLK),,,1,2,34
+1022600109,46,PT04M42.00S,1,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,35
+1022600109,47,PT04M38.00S,1,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,Salaun Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,36
+1022600109,47,PT04M38.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,Kuier STEAL (1 STL),,,1,0,37
+1022600109,49,PT04M31.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-23,250,25,Made,1,6,11,17,v,Ogunbowale 25' 3PT Jump Shot (3 PTS) (Bueckers 1 AST),Made Shot,Jump Shot,1,3,38
+1022600109,51,PT04M30.00S,1,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,39
+1022600109,52,PT04M30.00S,1,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,SUB: Charles FOR Williams,Substitution,,0,0,40
+1022600109,53,PT04M30.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,SUB: Amihere FOR Stokes,Substitution,,0,0,41
+1022600109,56,PT04M16.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,h,Zandalasini Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,42
+1022600109,56,PT04M16.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd STEAL (2 STL),,,1,0,43
+1022600109,58,PT04M05.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,30,49,6,Made,1,6,13,19,v,Shepard 6' Driving Layup (8 PTS) (Bueckers 2 AST),Made Shot,Driving Layup Shot,1,2,44
+1022600109,60,PT03M47.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd P.FOUL (P1.T1),Foul,Personal,1,0,45
+1022600109,62,PT03M41.00S,1,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,Charles Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,46
+1022600109,62,PT03M41.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd STEAL (3 STL),,,1,0,47
+1022600109,64,PT03M34.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,35,27,4,Missed,1,,,0,v,MISS Fudd 4' Running Layup,Missed Shot,Running Layup Shot,1,2,48
+1022600109,65,PT03M31.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,h,Zandalasini REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+1022600109,66,PT03M25.00S,1,1611661331,GSV,1630097,Charles,K. Charles,215,87,0,Made,1,9,13,22,h,Charles 3PT Step Back Jump Shot (3 PTS) (Zandalasini 2 AST),Made Shot,Step Back Jump shot,1,3,50
+1022600109,68,PT03M05.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,27,25,4,Made,1,9,15,24,v,Shepard 4' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,51
+1022600109,69,PT02M44.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,h,Zandalasini OFF.Foul (P1),Foul,Offensive,1,0,52
+1022600109,71,PT02M44.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,h,Zandalasini Offensive Foul Turnover (P3.T5),Turnover,Offensive Foul Turnover,1,0,53
+1022600109,72,PT02M44.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,h,SUB: Hayes FOR Zandalasini,Substitution,,0,0,54
+1022600109,73,PT02M44.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,v,SUB: Smith FOR Ogunbowale,Substitution,,0,0,55
+1022600109,74,PT02M44.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,SUB: Sutton FOR Kuier,Substitution,,0,0,56
+1022600109,78,PT02M26.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,115,36,12,Made,1,9,17,26,v,Bueckers 12' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,57
+1022600109,79,PT02M10.00S,1,1611661331,GSV,203026,Hayes,T. Hayes,-26,17,3,Made,1,11,17,28,h,Hayes 3' Driving Layup (2 PTS) (Amihere 1 AST),Made Shot,Driving Layup Shot,1,2,58
+1022600109,81,PT01M53.00S,1,1611661321,DAL,1629501,Smith,A. Smith,-171,180,25,Made,1,11,20,31,v,Smith 25' 3PT Jump Shot (3 PTS) (Bueckers 3 AST),Made Shot,Jump Shot,1,3,59
+1022600109,83,PT01M38.00S,1,1611661331,GSV,1642767,Salaun,J. Salaun,20,33,4,Missed,1,,,0,h,MISS Salaun 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,60
+1022600109,84,PT01M35.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,61
+1022600109,85,PT01M29.00S,1,1611661321,DAL,1630134,Sutton,S. Sutton,-228,18,0,Made,1,11,23,34,v,Sutton 3PT Jump Shot (3 PTS) (Bueckers 4 AST),Made Shot,Jump Shot,1,3,62
+1022600109,87,PT01M15.00S,1,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,v,Sutton P.FOUL (P1.T2),Foul,Personal,1,0,63
+1022600109,89,PT01M15.00S,1,1611661331,GSV,1641656,Amihere,L. Amihere,0,0,0,,0,,,0,h,SUB: Chen FOR Amihere,Substitution,,0,0,64
+1022600109,90,PT01M15.00S,1,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,SUB: Williams FOR Burton,Substitution,,0,0,65
+1022600109,91,PT01M15.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,SUB: Siegrist FOR Shepard,Substitution,,0,0,66
+1022600109,92,PT01M15.00S,1,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,SUB: Ogunbowale FOR Fudd,Substitution,,0,0,67
+1022600109,97,PT01M11.00S,1,1611661331,GSV,1642767,Salaun,J. Salaun,24,21,3,Made,1,13,23,36,h,Salaun 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,68
+1022600109,98,PT01M11.00S,1,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,v,Smith S.FOUL (P1.PN),Foul,Shooting,1,0,69
+1022600109,100,PT01M11.00S,1,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,14,23,37,h,Salaun Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,70
+1022600109,101,PT00M51.70S,1,1611661321,DAL,1630134,Sutton,S. Sutton,5,49,5,Made,1,14,25,39,v,Sutton 5' Driving Layup (5 PTS) (Bueckers 5 AST),Made Shot,Driving Layup Shot,1,2,71
+1022600109,102,PT00M45.10S,1,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,h,Chen Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,72
+1022600109,103,PT00M30.80S,1,1611661321,DAL,1629501,Smith,A. Smith,32,261,26,Missed,1,,,0,v,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+1022600109,104,PT00M28.20S,1,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,Charles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+1022600109,105,PT00M07.30S,1,1611661331,GSV,1642767,Salaun,J. Salaun,-178,160,24,Made,1,17,25,42,h,Salaun 24' 3PT Jump Shot (6 PTS) (Hayes 1 AST),Made Shot,Jump Shot,1,3,75
+1022600109,107,PT00M00.40S,1,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,h,Hayes S.FOUL (P1.T1),Foul,Shooting,1,0,76
+1022600109,109,PT00M00.40S,1,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,v,MISS Siegrist Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,77
+1022600109,110,PT00M00.40S,1,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Rebound,Rebound,Normal Rebound,0,0,78
+1022600109,111,PT00M00.40S,1,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,17,26,43,v,Siegrist Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,79
+1022600109,112,PT00M00.00S,1,0,,0,,,0,0,0,,0,17,26,43,,End of 1st Period (10:21 PM EST),period,end,1,0,80
+1022600109,116,PT10M00.00S,2,0,,0,,,0,0,0,,0,17,26,43,,Start of 2nd Period (10:25 PM EST),period,start,1,0,81
+1022600109,117,PT09M49.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,v,Siegrist S.FOUL (P1.T1),Foul,Shooting,1,0,82
+1022600109,119,PT09M49.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,18,26,44,h,Salaun Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,83
+1022600109,120,PT09M49.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,MISS Salaun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,84
+1022600109,124,PT09M48.00S,2,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Rebound,Rebound,Unknown,1,0,85
+1022600109,121,PT09M48.00S,2,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,Jump Ball Charles vs. Siegrist: Tip to Hayes,Jump Ball,,1,0,86
+1022600109,125,PT09M40.00S,2,1611661331,GSV,203026,Hayes,T. Hayes,-30,9,3,Missed,1,,,0,h,MISS Hayes 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,87
+1022600109,126,PT09M38.00S,2,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Rebound,Rebound,Unknown,1,0,88
+1022600109,127,PT09M38.00S,2,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,h,Hayes L.B.FOUL (P2.T1),Foul,Loose Ball,1,0,89
+1022600109,132,PT09M38.00S,2,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,v,SUB: Kuier FOR Smith,Substitution,,0,0,90
+1022600109,133,PT09M38.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,v,SUB: Shepard FOR Siegrist,Substitution,,0,0,91
+1022600109,129,PT09M26.00S,2,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,v,Sutton Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,92
+1022600109,130,PT09M08.00S,2,1611661331,GSV,203026,Hayes,T. Hayes,234,0,0,Made,1,21,26,47,h,Hayes 3PT Jump Shot (5 PTS) (Chen 1 AST),Made Shot,Jump Shot,1,3,93
+1022600109,136,PT08M42.00S,2,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,h,Chen S.FOUL (P1.T2),Foul,Shooting,1,0,94
+1022600109,138,PT08M42.00S,2,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,v,MISS Sutton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,95
+1022600109,139,PT08M42.00S,2,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Rebound,Rebound,Normal Rebound,0,0,96
+1022600109,140,PT08M42.00S,2,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,21,27,48,v,Sutton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,97
+1022600109,141,PT08M32.00S,2,1611661331,GSV,1630097,Charles,K. Charles,-232,23,0,Missed,1,,,0,h,MISS Charles 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+1022600109,142,PT08M29.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,Kuier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,99
+1022600109,143,PT08M24.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,Salaun P.FOUL (P1.T3),Foul,Personal,1,0,100
+1022600109,145,PT08M24.00S,2,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,v,SUB: Bueckers FOR Sutton,Substitution,,0,0,101
+1022600109,147,PT08M24.00S,2,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,SUB: Thornton FOR Charles,Substitution,,0,0,102
+1022600109,149,PT08M09.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-115,254,28,Made,1,21,30,51,v,Ogunbowale 28' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,103
+1022600109,150,PT07M51.00S,2,1611661331,GSV,1642822,Chen,K. Chen,-23,7,2,Made,1,23,30,53,h,Chen 2' Driving Layup (2 PTS) (Williams 1 AST),Made Shot,Driving Layup Shot,1,2,104
+1022600109,152,PT07M24.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,194,163,25,Missed,1,,,0,v,MISS Bueckers 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,105
+1022600109,153,PT07M21.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,Salaun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+1022600109,154,PT07M15.00S,2,1611661331,GSV,1642822,Chen,K. Chen,74,40,8,Made,1,25,30,55,h,Chen 8' Driving Finger Roll Layup (4 PTS) (Salaun 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,107
+1022600109,156,PT06M55.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-48,211,22,Missed,1,,,0,v,MISS Ogunbowale 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,108
+1022600109,157,PT06M53.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,Salaun REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,109
+1022600109,158,PT06M48.00S,2,1611661331,GSV,1628931,Williams,G. Williams,-150,179,0,Made,1,28,30,58,h,Williams 3PT Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,110
+1022600109,160,PT06M46.00S,2,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,111
+1022600109,161,PT06M46.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,SUB: Burton FOR Salaun,Substitution,,0,0,112
+1022600109,162,PT06M46.00S,2,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,h,SUB: Stokes FOR Hayes,Substitution,,0,0,113
+1022600109,165,PT06M35.00S,2,1611661321,DAL,1643425,Fudd,A. Fudd,-23,201,20,Missed,1,,,0,v,MISS Fudd 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,114
+1022600109,166,PT06M33.00S,2,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Stokes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,115
+1022600109,167,PT06M22.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,v,Ogunbowale S.FOUL (P1.T2),Foul,Shooting,1,0,116
+1022600109,169,PT06M22.00S,2,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,117
+1022600109,170,PT06M22.00S,2,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Rebound,Rebound,Normal Rebound,0,0,118
+1022600109,171,PT06M22.00S,2,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,29,30,59,h,Williams Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,119
+1022600109,172,PT06M05.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,-3,58,6,Missed,1,,,0,v,MISS Shepard 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,120
+1022600109,173,PT06M03.00S,2,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,121
+1022600109,174,PT05M48.00S,2,1611661331,GSV,1628931,Williams,G. Williams,-213,109,24,Made,1,32,30,62,h,Williams 24' 3PT Jump Shot (11 PTS) (Burton 1 AST),Made Shot,Jump Shot,1,3,122
+1022600109,176,PT05M30.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,97,82,13,Missed,1,,,0,v,MISS Bueckers 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,123
+1022600109,177,PT05M28.00S,2,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Stokes REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,124
+1022600109,178,PT05M16.00S,2,1611661331,GSV,1628931,Williams,G. Williams,-164,187,25,Missed,1,,,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+1022600109,179,PT05M14.00S,2,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,126
+1022600109,180,PT05M12.00S,2,1611661331,GSV,203866,Thornton,K. Thornton,-43,235,24,Made,1,35,30,65,h,Thornton 24' 3PT Jump Shot (3 PTS) (Burton 2 AST),Made Shot,Jump Shot,1,3,127
+1022600109,182,PT05M10.00S,2,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,128
+1022600109,183,PT05M10.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,v,SUB: Sutton FOR Ogunbowale,Substitution,,0,0,129
+1022600109,185,PT04M56.00S,2,1611661321,DAL,1643425,Fudd,A. Fudd,15,116,12,Missed,1,,,0,v,MISS Fudd 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,130
+1022600109,186,PT04M53.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,131
+1022600109,187,PT04M40.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,-4,0,0,Missed,1,,,0,v,MISS Shepard Driving Layup,Missed Shot,Driving Layup Shot,1,2,132
+1022600109,188,PT04M38.00S,2,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Stokes REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,133
+1022600109,189,PT04M26.00S,2,1611661331,GSV,1628931,Williams,G. Williams,109,163,20,Made,1,37,30,67,h,Williams 20' Pullup Jump Shot (13 PTS) (Chen 2 AST),Made Shot,Pullup Jump shot,1,2,134
+1022600109,191,PT04M09.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,29,274,28,Missed,1,,,0,v,MISS Kuier 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+1022600109,192,PT04M07.00S,2,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,136
+1022600109,193,PT03M53.00S,2,1611661331,GSV,1628931,Williams,G. Williams,-146,197,25,Missed,1,,,0,h,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+1022600109,194,PT03M52.00S,2,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,138
+1022600109,237,PT03M51.00S,2,1611661331,GSV,203866,Thornton,K. Thornton,-7,76,8,Missed,1,,,0,h,MISS Thornton 8' Putback Layup,Missed Shot,Putback Layup Shot,1,2,139
+1022600109,238,PT03M50.00S,2,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Rebound,Rebound,Unknown,1,0,140
+1022600109,199,PT03M50.00S,2,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Timeout: Coach Challenge (Reg.2 Short 0),Timeout,Coach Challenge,0,0,141
+1022600109,198,PT03M50.00S,2,0,,0,,,0,0,0,,0,37,30,67,,Instant Replay2nd Period (10:42 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,142
+1022600109,200,PT03M50.00S,2,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,SUB: Charles FOR Williams,Substitution,,0,0,143
+1022600109,202,PT03M41.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,144
+1022600109,202,PT03M41.00S,2,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton STEAL (1 STL),,,1,0,145
+1022600109,204,PT03M30.00S,2,1611661331,GSV,1630097,Charles,K. Charles,5,23,2,Missed,1,,,0,h,MISS Charles 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,146
+1022600109,205,PT03M27.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,147
+1022600109,206,PT03M17.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,-38,87,9,Missed,1,,,0,v,MISS Bueckers 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,148
+1022600109,207,PT03M12.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,149
+1022600109,208,PT03M11.00S,2,1611661321,DAL,1643425,Fudd,A. Fudd,144,210,25,Missed,1,,,0,v,MISS Fudd 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+1022600109,209,PT03M09.00S,2,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,151
+1022600109,210,PT02M52.00S,2,1611661331,GSV,203866,Thornton,K. Thornton,-239,-3,24,Missed,1,,,0,h,MISS Thornton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+1022600109,211,PT02M49.00S,2,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,Charles REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,153
+1022600109,212,PT02M47.00S,2,1611661331,GSV,1642822,Chen,K. Chen,49,230,24,Made,1,40,30,70,h,Chen 24' 3PT Jump Shot (7 PTS) (Charles 1 AST),Made Shot,Jump Shot,1,3,154
+1022600109,214,PT02M21.00S,2,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton S.FOUL (P1.T4),Foul,Shooting,1,0,155
+1022600109,216,PT02M21.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,40,31,71,v,Kuier Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,156
+1022600109,217,PT02M21.00S,2,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,v,SUB: James FOR Sutton,Substitution,,0,0,157
+1022600109,219,PT02M21.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,MISS Kuier Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,158
+1022600109,220,PT02M19.00S,2,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,159
+1022600109,221,PT02M05.00S,2,1611661331,GSV,1631007,Burton,V. Burton,24,17,3,Missed,1,,,0,h,MISS Burton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,160
+1022600109,222,PT02M02.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,161
+1022600109,223,PT01M48.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,16,38,4,Made,1,40,33,73,v,Shepard 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,162
+1022600109,224,PT01M22.00S,2,1611661331,GSV,1642822,Chen,K. Chen,13,16,2,Made,1,42,33,75,h,Chen 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,163
+1022600109,225,PT01M07.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,197,146,25,Missed,1,,,0,v,MISS Bueckers 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+1022600109,226,PT01M05.00S,2,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,Charles REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,165
+1022600109,227,PT00M47.70S,2,1611661331,GSV,204329,Stokes,K. Stokes,-4,18,2,Made,1,44,33,77,h,Stokes 2' Layup (2 PTS) (Burton 3 AST),Made Shot,Layup Shot,1,2,166
+1022600109,229,PT00M30.20S,2,1611661321,DAL,1629491,Shepard,J. Shepard,15,31,3,Missed,1,,,0,v,MISS Shepard 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,167
+1022600109,230,PT00M27.70S,2,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Stokes REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,168
+1022600109,231,PT00M08.50S,2,1611661331,GSV,1642822,Chen,K. Chen,200,126,24,Missed,1,,,0,h,MISS Chen 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+1022600109,232,PT00M05.80S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,170
+1022600109,233,PT00M00.00S,2,1611661321,DAL,1642793,James,A. James,-205,147,25,Missed,1,,,0,v,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+1022600109,233,PT00M00.00S,2,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Stokes BLOCK (1 BLK),,,1,3,172
+1022600109,235,PT00M00.00S,2,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Rebound,Rebound,Unknown,1,0,173
+1022600109,236,PT00M00.00S,2,0,,0,,,0,0,0,,0,44,33,77,,End of 2nd Period (10:50 PM EST),period,end,1,0,174
+1022600109,245,PT10M00.00S,3,0,,0,,,0,0,0,,0,44,33,77,,Start of 3rd Period (11:06 PM EST),period,start,1,0,175
+1022600109,246,PT09M42.00S,3,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,Williams Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,176
+1022600109,246,PT09M42.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers STEAL (1 STL),,,1,0,177
+1022600109,249,PT09M29.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-55,162,17,Made,1,44,35,79,v,Fudd 17' Pullup Jump Shot (2 PTS) (Bueckers 6 AST),Made Shot,Pullup Jump shot,1,2,178
+1022600109,251,PT09M15.00S,3,1611661331,GSV,1628931,Williams,G. Williams,61,100,12,Missed,1,,,0,h,MISS Williams 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,179
+1022600109,252,PT09M13.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,Kuier REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,180
+1022600109,254,PT09M06.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,28,33,4,Made,1,44,37,81,v,Ogunbowale 4' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,181
+1022600109,255,PT09M06.00S,3,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,h,Zandalasini S.FOUL (P2.T1),Foul,Shooting,1,0,182
+1022600109,258,PT09M06.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,44,38,82,v,Ogunbowale Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,183
+1022600109,259,PT08M55.00S,3,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,Williams Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,184
+1022600109,259,PT08M55.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd STEAL (4 STL),,,1,0,185
+1022600109,261,PT08M49.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-213,98,0,Made,1,44,41,85,v,Ogunbowale 3PT Running Jump Shot (12 PTS) (Shepard 2 AST),Made Shot,Running Jump Shot,1,3,186
+1022600109,263,PT08M48.00S,3,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,187
+1022600109,264,PT08M37.00S,3,1611661331,GSV,1628931,Williams,G. Williams,4,256,26,Missed,1,,,0,h,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,188
+1022600109,265,PT08M34.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,189
+1022600109,266,PT08M27.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,11,147,15,Missed,1,,,0,v,MISS Shepard 15' Jump Shot,Missed Shot,Jump Shot,1,2,190
+1022600109,267,PT08M24.00S,3,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,191
+1022600109,268,PT08M10.00S,3,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-209,147,26,Missed,1,,,0,h,MISS Zandalasini 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,192
+1022600109,269,PT08M08.00S,3,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,193
+1022600109,270,PT08M06.00S,3,1611661331,GSV,1628931,Williams,G. Williams,-18,34,4,Made,1,46,41,87,h,Williams 4' Layup (15 PTS),Made Shot,Layup Shot,1,2,194
+1022600109,271,PT08M06.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,Kuier S.FOUL (P1.T1),Foul,Shooting,1,0,195
+1022600109,273,PT08M06.00S,3,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,h,SUB: Charles FOR Zandalasini,Substitution,,0,0,196
+1022600109,275,PT08M06.00S,3,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,47,41,88,h,Williams Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,197
+1022600109,276,PT07M55.00S,3,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton S.FOUL (P1.T2),Foul,Shooting,1,0,198
+1022600109,278,PT07M55.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,47,42,89,v,Ogunbowale Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,199
+1022600109,279,PT07M55.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,47,43,90,v,Ogunbowale Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,200
+1022600109,280,PT07M40.00S,3,1611661331,GSV,1631007,Burton,V. Burton,-184,208,28,Missed,1,,,0,h,MISS Burton 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,201
+1022600109,281,PT07M37.00S,3,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Rebound,Rebound,Unknown,1,0,202
+1022600109,283,PT07M29.00S,3,1611661331,GSV,1628931,Williams,G. Williams,40,131,14,Missed,1,,,0,h,MISS Williams 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,203
+1022600109,284,PT07M27.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,204
+1022600109,285,PT07M14.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-74,161,18,Missed,1,,,0,v,MISS Fudd 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,205
+1022600109,286,PT07M12.00S,3,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,206
+1022600109,287,PT07M06.00S,3,1611661331,GSV,1631007,Burton,V. Burton,-15,35,4,Made,1,49,43,92,h,Burton 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,207
+1022600109,288,PT07M06.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers S.FOUL (P1.T2),Foul,Shooting,1,0,208
+1022600109,290,PT07M06.00S,3,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,50,43,93,h,Burton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,209
+1022600109,291,PT06M50.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,113,126,17,Made,1,50,45,95,v,Bueckers 17' Pullup Jump Shot (4 PTS) (Kuier 1 AST),Made Shot,Pullup Jump shot,1,2,210
+1022600109,293,PT06M30.00S,3,1611661331,GSV,1631007,Burton,V. Burton,166,195,26,Made,1,53,45,98,h,Burton 26' 3PT Jump Shot (6 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,211
+1022600109,295,PT06M10.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,94,12,9,Missed,1,,,0,v,MISS Shepard 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,212
+1022600109,295,PT06M10.00S,3,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton BLOCK (1 BLK),,,1,2,213
+1022600109,297,PT06M08.00S,3,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,Charles REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,214
+1022600109,298,PT05M47.00S,3,1611661331,GSV,203866,Thornton,K. Thornton,5,275,28,Made,1,56,45,101,h,Thornton 28' 3PT Jump Shot (6 PTS) (Charles 2 AST),Made Shot,Jump Shot,1,3,215
+1022600109,300,PT05M30.00S,3,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,Charles P.FOUL (P1.T3),Foul,Personal,1,0,216
+1022600109,302,PT05M30.00S,3,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,SUB: Salaun FOR Stokes,Substitution,,0,0,217
+1022600109,303,PT05M30.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,SUB: Smith FOR Kuier,Substitution,,0,0,218
+1022600109,306,PT05M25.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,18,68,7,Missed,1,,,0,v,MISS Ogunbowale 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,219
+1022600109,306,PT05M25.00S,3,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton BLOCK (1 BLK),,,1,2,220
+1022600109,308,PT05M23.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,Salaun REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,221
+1022600109,309,PT05M21.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,Salaun Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,222
+1022600109,309,PT05M21.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,v,Ogunbowale STEAL (1 STL),,,1,0,223
+1022600109,311,PT05M15.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,-10,15,2,Made,1,56,47,103,v,Shepard 2' Running Layup (14 PTS),Made Shot,Running Layup Shot,1,2,224
+1022600109,312,PT04M59.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,-157,126,20,Missed,1,,,0,h,MISS Salaun 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,225
+1022600109,313,PT04M56.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,226
+1022600109,314,PT04M47.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,-6,54,5,Missed,1,,,0,v,MISS Bueckers 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,227
+1022600109,315,PT04M45.00S,3,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,228
+1022600109,316,PT04M31.00S,3,1611661331,GSV,1631007,Burton,V. Burton,13,77,8,Missed,1,,,0,h,MISS Burton 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,229
+1022600109,316,PT04M31.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers BLOCK (1 BLK),,,1,2,230
+1022600109,318,PT04M29.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,231
+1022600109,319,PT04M18.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,7,0,1,Made,1,56,49,105,v,Fudd 1' Reverse Layup (4 PTS) (Shepard 3 AST),Made Shot,Reverse Layup Shot,1,2,232
+1022600109,321,PT03M55.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd S.FOUL (P2.T3),Foul,Shooting,1,0,233
+1022600109,323,PT03M55.00S,3,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,57,49,106,h,Williams Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,234
+1022600109,324,PT03M55.00S,3,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,SUB: Stokes FOR Thornton,Substitution,,0,0,235
+1022600109,325,PT03M55.00S,3,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,SUB: Chen FOR Burton,Substitution,,0,0,236
+1022600109,326,PT03M55.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,SUB: James FOR Bueckers,Substitution,,0,0,237
+1022600109,327,PT03M55.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,v,SUB: Siegrist FOR Ogunbowale,Substitution,,0,0,238
+1022600109,328,PT03M55.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,SUB: Sutton FOR Shepard,Substitution,,0,0,239
+1022600109,334,PT03M55.00S,3,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,240
+1022600109,335,PT03M53.00S,3,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,241
+1022600109,336,PT03M40.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,-50,123,13,Missed,1,,,0,v,MISS Fudd 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,242
+1022600109,337,PT03M37.00S,3,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Rebound,Rebound,Unknown,1,0,243
+1022600109,338,PT03M36.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,v,Siegrist L.B.FOUL (P2.T4),Foul,Loose Ball,1,0,244
+1022600109,340,PT03M36.00S,3,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,SUB: Hayes FOR Williams,Substitution,,0,0,245
+1022600109,342,PT03M14.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,-92,248,26,Made,1,60,49,109,h,Hayes 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,246
+1022600109,343,PT02M50.00S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,v,James Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,247
+1022600109,343,PT02M50.00S,3,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,h,Chen STEAL (1 STL),,,1,0,248
+1022600109,345,PT02M47.00S,3,1611661331,GSV,1642822,Chen,K. Chen,7,76,8,Missed,1,,,0,h,MISS Chen 8' Running Layup,Missed Shot,Running Layup Shot,1,2,249
+1022600109,346,PT02M45.00S,3,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Rebound,Rebound,Unknown,0,0,250
+1022600109,348,PT02M43.00S,3,1611661331,GSV,1630097,Charles,K. Charles,138,61,15,Missed,1,,,0,h,MISS Charles 15' Jump Shot,Missed Shot,Jump Shot,1,2,251
+1022600109,349,PT02M40.00S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,252
+1022600109,351,PT02M20.00S,3,1611661321,DAL,1630134,Sutton,S. Sutton,-28,9,3,Missed,1,,,0,v,MISS Sutton 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,253
+1022600109,352,PT02M18.00S,3,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Stokes REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,254
+1022600109,354,PT02M16.00S,3,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,h,Stokes Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,255
+1022600109,354,PT02M16.00S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,v,James STEAL (1 STL),,,1,0,256
+1022600109,356,PT02M10.00S,3,1611661321,DAL,1642793,James,A. James,5,71,7,Made,1,60,51,111,v,James 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,257
+1022600109,357,PT01M47.00S,3,1611661331,GSV,1630097,Charles,K. Charles,-55,47,7,Missed,1,,,0,h,MISS Charles 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,258
+1022600109,359,PT01M45.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,v,Siegrist REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,259
+1022600109,360,PT01M39.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,193,170,26,Made,1,60,54,114,v,Fudd 26' 3PT Jump Shot (7 PTS) (Sutton 1 AST),Made Shot,Jump Shot,1,3,260
+1022600109,362,PT01M23.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd S.FOUL (P3.PN),Foul,Shooting,1,0,261
+1022600109,364,PT01M23.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,61,54,115,h,Hayes Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,262
+1022600109,365,PT01M23.00S,3,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,SUB: Burton FOR Charles,Substitution,,0,0,263
+1022600109,366,PT01M23.00S,3,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,SUB: Bueckers FOR Fudd,Substitution,,0,0,264
+1022600109,369,PT01M23.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,62,54,116,h,Hayes Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,265
+1022600109,370,PT01M11.00S,3,1611661321,DAL,1642793,James,A. James,233,7,0,Missed,1,,,0,v,MISS James 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+1022600109,371,PT01M05.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,Salaun REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,267
+1022600109,372,PT00M59.00S,3,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,268
+1022600109,372,PT00M59.00S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,v,James STEAL (2 STL),,,1,0,269
+1022600109,374,PT00M49.60S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,247,25,Made,1,62,57,119,v,Bueckers 25' 3PT Jump Shot (7 PTS) (Sutton 2 AST),Made Shot,Jump Shot,1,3,270
+1022600109,376,PT00M36.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,v,Siegrist P.FOUL (P3.PN),Foul,Personal,1,0,271
+1022600109,378,PT00M36.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,63,57,120,h,Salaun Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,272
+1022600109,379,PT00M36.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,64,57,121,h,Salaun Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,273
+1022600109,380,PT00M27.70S,3,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton S.FOUL (P2.T4),Foul,Shooting,1,0,274
+1022600109,382,PT00M27.70S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,64,58,122,v,Bueckers Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,275
+1022600109,383,PT00M27.70S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,64,59,123,v,Bueckers Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,276
+1022600109,384,PT00M09.60S,3,1611661331,GSV,1642767,Salaun,J. Salaun,-89,245,26,Missed,1,,,0,h,MISS Salaun 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+1022600109,385,PT00M08.00S,3,1611661321,DAL,1642793,James,A. James,0,0,0,,0,,,0,v,James REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,278
+1022600109,386,PT00M01.10S,3,1611661321,DAL,1630134,Sutton,S. Sutton,-145,228,27,Made,1,64,62,126,v,Sutton 27' 3PT Jump Shot (9 PTS) (Bueckers 7 AST),Made Shot,Jump Shot,1,3,279
+1022600109,388,PT00M00.00S,3,0,,386,Perry,E. Perry,0,0,0,,0,64,62,126,,Instant Replay3rd Period (11:27 PM EST),Instant Replay,Support Ruling,0,0,280
+1022600109,389,PT00M00.00S,3,0,,0,,,0,0,0,,0,64,62,126,,End of 3rd Period (11:27 PM EST),period,end,1,0,281
+1022600109,396,PT10M00.00S,4,0,,0,,,0,0,0,,0,64,62,126,,Start of 4th Period (11:30 PM EST),period,start,1,0,282
+1022600109,397,PT09M43.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,227,53,0,Missed,1,,,0,v,MISS Bueckers 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+1022600109,398,PT09M39.00S,4,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,284
+1022600109,399,PT09M23.00S,4,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,v,Sutton P.FOUL (P2.T1),Foul,Personal,1,0,285
+1022600109,401,PT09M14.00S,4,1611661331,GSV,1642822,Chen,K. Chen,8,67,7,Made,1,66,62,128,h,Chen 7' Driving Finger Roll Layup (11 PTS) (Burton 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,286
+1022600109,403,PT08M58.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,287
+1022600109,403,PT08M58.00S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,0,288
+1022600109,405,PT08M49.00S,4,1611661331,GSV,1642822,Chen,K. Chen,63,38,7,Missed,1,,,0,h,MISS Chen 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,289
+1022600109,406,PT08M47.00S,4,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,v,Siegrist REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,290
+1022600109,407,PT08M36.00S,4,1611661321,DAL,1629501,Smith,A. Smith,44,240,24,Missed,1,,,0,v,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+1022600109,408,PT08M32.00S,4,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,292
+1022600109,409,PT08M25.00S,4,1611661331,GSV,1628931,Williams,G. Williams,-29,33,4,Made,1,68,62,130,h,Williams 4' Driving Layup (19 PTS) (Burton 5 AST),Made Shot,Driving Layup Shot,1,2,293
+1022600109,411,PT08M20.00S,4,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,294
+1022600109,412,PT08M20.00S,4,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,v,SUB: Kuier FOR Sutton,Substitution,,0,0,295
+1022600109,413,PT08M20.00S,4,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,v,SUB: Shepard FOR Smith,Substitution,,0,0,296
+1022600109,414,PT08M20.00S,4,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,v,SUB: Ogunbowale FOR Siegrist,Substitution,,0,0,297
+1022600109,418,PT08M13.00S,4,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,h,Chen S.FOUL (P2.T1),Foul,Shooting,1,0,298
+1022600109,420,PT08M13.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,MISS Fudd Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,299
+1022600109,421,PT08M13.00S,4,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Rebound,Rebound,Normal Rebound,1,0,300
+1022600109,422,PT08M13.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,MISS Fudd Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,301
+1022600109,423,PT08M11.00S,4,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,302
+1022600109,425,PT07M50.00S,4,1611661331,GSV,1631007,Burton,V. Burton,-149,234,28,Made,1,71,62,133,h,Burton 28' 3PT Jump Shot (9 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,3,303
+1022600109,427,PT07M31.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,11,22,2,Made,1,71,64,135,v,Ogunbowale 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,2,304
+1022600109,428,PT07M07.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,v,Ogunbowale S.FOUL (P2.T2),Foul,Shooting,1,0,305
+1022600109,430,PT07M07.00S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,72,64,136,h,Williams Free Throw 1 of 3 (20 PTS),Free Throw,Free Throw 1 of 3,1,0,306
+1022600109,431,PT07M07.00S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,73,64,137,h,Williams Free Throw 2 of 3 (21 PTS),Free Throw,Free Throw 2 of 3,1,0,307
+1022600109,432,PT07M07.00S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,74,64,138,h,Williams Free Throw 3 of 3 (22 PTS),Free Throw,Free Throw 3 of 3,1,0,308
+1022600109,434,PT06M52.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-50,1,5,Made,1,74,66,140,v,Ogunbowale 5' Driving Layup (18 PTS) (Fudd 1 AST),Made Shot,Driving Layup Shot,1,2,309
+1022600109,435,PT06M52.00S,4,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton S.FOUL (P3.T2),Foul,Shooting,1,0,310
+1022600109,437,PT06M52.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,74,67,141,v,Ogunbowale Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,311
+1022600109,438,PT06M37.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,36,259,26,Missed,1,,,0,h,MISS Salaun 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+1022600109,439,PT06M31.00S,4,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,313
+1022600109,443,PT06M23.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers S.FOUL (P2.T3),Foul,Shooting,1,0,314
+1022600109,445,PT06M23.00S,4,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,75,67,142,h,Thornton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,315
+1022600109,446,PT06M23.00S,4,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,76,67,143,h,Thornton Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,316
+1022600109,448,PT06M08.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,Kuier Step Out of Bounds Turnover (P3.T7),Turnover,Step Out of Bounds Turnover,1,0,317
+1022600109,449,PT06M08.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,v,SUB: Smith FOR Kuier,Substitution,,0,0,318
+1022600109,451,PT05M56.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,-189,195,27,Made,1,79,67,146,h,Salaun 27' 3PT Jump Shot (12 PTS) (Thornton 2 AST),Made Shot,Jump Shot,1,3,319
+1022600109,453,PT05M45.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,21,21,3,Made,1,79,69,148,v,Bueckers 3' Cutting Layup Shot (11 PTS) (Shepard 4 AST),Made Shot,Cutting Layup Shot,1,2,320
+1022600109,455,PT05M21.00S,4,1611661331,GSV,1642822,Chen,K. Chen,57,25,6,Made,1,81,69,150,h,Chen 6' Driving Hook Shot (13 PTS),Made Shot,Driving Hook Shot,1,2,321
+1022600109,457,PT05M12.00S,4,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,h,Chen P.FOUL (P3.T3),Foul,Personal,1,0,322
+1022600109,459,PT05M12.00S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,SUB: Charles FOR Williams,Substitution,,0,0,323
+1022600109,462,PT05M07.00S,4,1611661321,DAL,1629501,Smith,A. Smith,24,13,3,Made,1,81,71,152,v,Smith 3' Cutting Layup Shot (5 PTS) (Bueckers 8 AST),Made Shot,Cutting Layup Shot,1,2,324
+1022600109,464,PT04M49.00S,4,1611661331,GSV,203866,Thornton,K. Thornton,10,248,25,Missed,1,,,0,h,MISS Thornton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+1022600109,465,PT04M47.00S,4,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,326
+1022600109,466,PT04M37.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,-228,52,0,Made,1,81,74,155,v,Fudd 3PT Step Back Jump Shot (10 PTS) (Ogunbowale 2 AST),Made Shot,Step Back Jump shot,1,3,327
+1022600109,468,PT04M36.00S,4,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,328
+1022600109,469,PT04M36.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,h,SUB: Williams FOR Salaun,Substitution,,0,0,329
+1022600109,471,PT04M17.00S,4,1611661331,GSV,1628931,Williams,G. Williams,44,57,7,Missed,1,,,0,h,MISS Williams 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,330
+1022600109,472,PT04M15.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,331
+1022600109,473,PT03M58.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,120,83,15,Made,1,81,76,157,v,Bueckers 15' Pullup Jump Shot (13 PTS) (Ogunbowale 3 AST),Made Shot,Pullup Jump shot,1,2,332
+1022600109,475,PT03M40.00S,4,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,h,Chen Traveling Turnover (P2.T12),Turnover,Traveling,1,0,333
+1022600109,476,PT03M26.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,155,199,25,Missed,1,,,0,v,MISS Fudd 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+1022600109,477,PT03M23.00S,4,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,335
+1022600109,478,PT03M10.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard P.FOUL (P1.T4),Foul,Personal,1,0,336
+1022600109,480,PT03M00.00S,4,1611661331,GSV,1642822,Chen,K. Chen,-24,30,4,Made,1,83,76,159,h,Chen 4' Driving Layup (15 PTS) (Williams 4 AST),Made Shot,Driving Layup Shot,1,2,337
+1022600109,482,PT03M00.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard S.FOUL (P2.PN),Foul,Shooting,1,0,338
+1022600109,484,PT03M00.00S,4,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,h,MISS Chen Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,339
+1022600109,485,PT02M58.00S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,340
+1022600109,486,PT02M47.00S,4,1611661331,GSV,1628931,Williams,G. Williams,-16,127,13,Missed,1,,,0,h,MISS Williams 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,341
+1022600109,487,PT02M45.00S,4,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,h,Thornton REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,342
+1022600109,488,PT02M45.00S,4,1611661331,GSV,203866,Thornton,K. Thornton,15,17,2,Missed,1,,,0,h,MISS Thornton 2' Layup,Missed Shot,Layup Shot,1,2,343
+1022600109,488,PT02M45.00S,4,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,v,Smith BLOCK (1 BLK),,,1,2,344
+1022600109,490,PT02M43.00S,4,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,v,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,345
+1022600109,491,PT02M35.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,5,6,1,Made,1,83,78,161,v,Ogunbowale 1' Running Layup (21 PTS),Made Shot,Running Layup Shot,1,2,346
+1022600109,492,PT02M13.00S,4,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,347
+1022600109,492,PT02M13.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd STEAL (5 STL),,,1,0,348
+1022600109,494,PT02M06.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,349
+1022600109,494,PT02M06.00S,4,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton STEAL (2 STL),,,1,0,350
+1022600109,496,PT02M00.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,0,0,0,,0,,,0,v,Fudd S.FOUL (P4.PN),Foul,Shooting,1,0,351
+1022600109,498,PT02M00.00S,4,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,84,78,162,h,Burton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,352
+1022600109,499,PT02M00.00S,4,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,85,78,163,h,Burton Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+1022600109,500,PT01M44.00S,4,1611661321,DAL,1643425,Fudd,A. Fudd,27,65,7,Missed,1,,,0,v,MISS Fudd 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,354
+1022600109,501,PT01M41.00S,4,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,h,Chen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,355
+1022600109,502,PT01M19.00S,4,1611661331,GSV,1628931,Williams,G. Williams,-152,131,20,Missed,1,,,0,h,MISS Williams 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,356
+1022600109,503,PT01M17.00S,4,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,Charles REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,357
+1022600109,504,PT01M15.00S,4,1611661331,GSV,1630097,Charles,K. Charles,-27,23,4,Made,1,87,78,165,h,Charles 4' Layup (5 PTS),Made Shot,Layup Shot,1,2,358
+1022600109,505,PT01M14.00S,4,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,359
+1022600109,506,PT01M04.00S,4,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,Charles S.FOUL (P2.T4),Foul,Shooting,1,0,360
+1022600109,508,PT01M04.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,87,79,166,v,Bueckers Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,361
+1022600109,509,PT01M04.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,87,80,167,v,Bueckers Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,362
+1022600109,510,PT00M58.10S,4,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,363
+1022600109,511,PT00M58.10S,4,0,,0,,,0,0,0,,0,87,80,167,,Instant Replay4th Period (11:57 PM EST),Instant Replay,Ruling Stands,0,0,364
+1022600109,512,PT00M56.90S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers Personal Take Foul (P3.PN),Foul,Personal Take,1,0,365
+1022600109,514,PT00M56.90S,4,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,h,MISS Charles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,366
+1022600109,515,PT00M56.90S,4,0,,1611661331,,,0,0,0,,0,,,0,h,VALKYRIES Rebound,Rebound,Normal Rebound,0,0,367
+1022600109,516,PT00M56.90S,4,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,88,80,168,h,Charles Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,368
+1022600109,517,PT00M56.90S,4,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Timeout: Reset (Reg.4 Short 0),Timeout,Reset,0,0,369
+1022600109,518,PT00M50.90S,4,1611661321,DAL,1643425,Fudd,A. Fudd,-22,244,24,Missed,1,,,0,v,MISS Fudd 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+1022600109,519,PT00M48.60S,4,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,h,Chen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,371
+1022600109,520,PT00M42.80S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,v,Bueckers Personal Take Foul (P4.PN),Foul,Personal Take,1,0,372
+1022600109,522,PT00M42.80S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,89,80,169,h,Williams Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,373
+1022600109,523,PT00M42.80S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,374
+1022600109,524,PT00M42.40S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,375
+1022600109,525,PT00M42.40S,4,0,,1611661321,,,0,0,0,,0,,,0,v,Wings Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,376
+1022600109,526,PT00M39.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,83,253,27,Missed,1,,,0,v,MISS Bueckers 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+1022600109,527,PT00M37.50S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,378
+1022600109,528,PT00M34.90S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,v,Shepard Personal Take Foul (P3.PN),Foul,Personal Take,1,0,379
+1022600109,530,PT00M34.90S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,90,80,170,h,Williams Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,380
+1022600109,531,PT00M34.90S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,91,80,171,h,Williams Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,381
+1022600109,532,PT00M21.30S,4,1611661321,DAL,1629491,Shepard,J. Shepard,3,112,11,Missed,1,,,0,v,MISS Shepard 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,382
+1022600109,533,PT00M19.00S,4,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,h,Burton REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,383
+1022600109,534,PT00M00.00S,4,0,,0,,,0,0,0,,0,91,80,171,,End of 4th Period (12:05 AM EST),period,end,1,0,384

@@ -12,7 +12,7 @@ function RosterRow({ league, p, tint }) {
           <span>{p.name}</span>
           <span className="stats">{p.share} · {p.fg}%</span>
         </div>
-        <div className="bar"><i style={{ width: `${p.share * 2}%` }} /></div>
+        <div className="bar"><i style={{ width: `${Math.min(p.share * 2, 100)}%` }} /></div>
       </div>
     </div>
   )
@@ -29,6 +29,8 @@ export default function GameCard({ game }) {
   const awayTint = TEAM_TINTS[game.away.tri] || DEFAULT_TINTS.away
   const pick = game.topPick
   const pickTint = pick.side === 'home' ? homeTint : awayTint
+  const hasDetail = !!(game.shots || (game.callouts && game.callouts.length) ||
+    (game.badges && game.badges.length))
 
   return (
     <div className="cardwrap">
@@ -62,13 +64,16 @@ export default function GameCard({ game }) {
           <div className="pickbody">
             <div className="pickrow">
               <div className="pickname">{pick.name}</div>
-              <div className="pickodds">{pick.bookOdds}</div>
+              <div className="pickodds">{pick.bookOdds || pick.fairOdds}</div>
             </div>
             <div className="pickmeta">
               <span>Rank <b>#{pick.rank}</b></span>
-              <span>Fair <b>{pick.fairOdds}</b></span>
+              {pick.bookOdds
+                ? <span>Fair <b>{pick.fairOdds}</b></span>
+                : <span className="modelchip">model fair odds</span>}
               <span>1st shot <b>{pick.share}%</b></span>
-              <span className={'verdict ' + pick.verdict.toLowerCase()}>{pick.verdict}</span>
+              {pick.verdict &&
+                <span className={'verdict ' + pick.verdict.toLowerCase()}>{pick.verdict}</span>}
             </div>
           </div>
         </div>
@@ -94,58 +99,68 @@ export default function GameCard({ game }) {
           </div>
         </div>
 
-        <div className="legend">First-shot share · first-attempt FG% — last 10 starts</div>
+        <div className="legend">First-shot share · first-attempt FG% — last 10 games</div>
 
-        <div className="foot">
-          <button type="button" onClick={() => setOpen(!open)}>
-            {open ? 'Collapse detail ▴' : 'Expand detail ▾'}
-          </button>
-        </div>
+        {hasDetail && (
+          <div className="foot">
+            <button type="button" onClick={() => setOpen(!open)}>
+              {open ? 'Collapse detail ▴' : 'Expand detail ▾'}
+            </button>
+          </div>
+        )}
       </div>
 
-      {open && (
+      {open && hasDetail && (
         <div className="card detail">
-          <div className="dhead">Court · <b>{game.shots.playerLabel}</b> — shots until first make</div>
-          <div className="toggles">
-            <button className={'tg' + (showPlayer ? ' on' : '')} onClick={() => setShowPlayer(!showPlayer)}>
-              {game.shots.playerLabel}
-            </button>
-            <button className={'tg' + (showTeam ? ' on' : '')} onClick={() => setShowTeam(!showTeam)}>
-              Team L10
-            </button>
-            <button className={'tg' + (showMisses ? ' on' : '')} onClick={() => setShowMisses(!showMisses)}>
-              Show misses
-            </button>
-          </div>
-          <div className="courtwrap">
-            <Court shots={game.shots} showPlayer={showPlayer} showTeam={showTeam} showMisses={showMisses} />
-          </div>
-          <div className="courtcap"><span className="mk">●</span> make · ○ miss · attempts before team's first make</div>
-
-          <div className="callouts">
-            <div className="chead">Model read · factor audit</div>
-            {game.callouts.map((c, i) => (
-              <div className="co" key={i}>
-                <span className={'tag ' + c.tag.toLowerCase()}>{c.tag}</span>
-                <div>{c.text}</div>
+          {game.shots && (
+            <>
+              <div className="dhead">Court · <b>{game.shots.playerLabel}</b> — shots until first make</div>
+              <div className="toggles">
+                <button className={'tg' + (showPlayer ? ' on' : '')} onClick={() => setShowPlayer(!showPlayer)}>
+                  {game.shots.playerLabel}
+                </button>
+                <button className={'tg' + (showTeam ? ' on' : '')} onClick={() => setShowTeam(!showTeam)}>
+                  Team L10
+                </button>
+                <button className={'tg' + (showMisses ? ' on' : '')} onClick={() => setShowMisses(!showMisses)}>
+                  Show misses
+                </button>
               </div>
-            ))}
-          </div>
+              <div className="courtwrap">
+                <Court shots={game.shots} showPlayer={showPlayer} showTeam={showTeam} showMisses={showMisses} />
+              </div>
+              <div className="courtcap"><span className="mk">●</span> make · ○ miss · attempts before team's first make</div>
+            </>
+          )}
 
-          <div className="badgesec">
-            {game.badges.map((b) => (
-              <div key={b.player}>
-                <div className="chead">Badges — {b.player}</div>
-                <div className="brow">
-                  {b.items.map((it) => (
-                    <div key={it.label} className={'bdg ' + it.tier}>
-                      <span>{it.icon}</span>{it.label} <small>{it.note}</small>
-                    </div>
-                  ))}
+          {game.callouts && game.callouts.length > 0 && (
+            <div className="callouts">
+              <div className="chead">Model read · factor audit</div>
+              {game.callouts.map((c, i) => (
+                <div className="co" key={i}>
+                  <span className={'tag ' + c.tag.toLowerCase()}>{c.tag}</span>
+                  <div>{c.text}</div>
                 </div>
-              </div>
-            ))}
-          </div>
+              ))}
+            </div>
+          )}
+
+          {game.badges && game.badges.length > 0 && (
+            <div className="badgesec">
+              {game.badges.map((b) => (
+                <div key={b.player}>
+                  <div className="chead">Badges — {b.player}</div>
+                  <div className="brow">
+                    {b.items.map((it) => (
+                      <div key={it.label} className={'bdg ' + it.tier}>
+                        <span>{it.icon}</span>{it.label} <small>{it.note}</small>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       )}
     </div>

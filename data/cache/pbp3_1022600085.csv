@@ -1,0 +1,412 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600085,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:08 PM EST),period,start,1,0,1
+1022600085,4,PT10M00.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Jump Ball Smith vs. Malonga: Tip to Horston,Jump Ball,,1,0,2
+1022600085,7,PT09M39.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,3
+1022600085,7,PT09M39.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot STEAL (1 STL),,,1,0,4
+1022600085,9,PT09M29.00S,1,1611661319,LVA,1631019,Smith,N. Smith,49,36,6,Made,1,2,0,2,h,Smith 6' Jump Shot (2 PTS) (Gray 1 AST),Made Shot,Jump Shot,1,2,5
+1022600085,11,PT09M16.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,66,135,15,Made,1,2,2,4,v,Johnson 15' Step Back Jump Shot (2 PTS) (Hiedeman 1 AST),Made Shot,Step Back Jump shot,1,2,6
+1022600085,13,PT08M48.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-21,259,26,Missed,1,,,0,h,MISS Wilson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,7
+1022600085,14,PT08M48.00S,1,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,0,0,8
+1022600085,15,PT08M48.00S,1,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,9
+1022600085,16,PT08M37.00S,1,1611661328,SEA,1643443,Fam,A. Fam,11,156,16,Made,1,2,4,6,v,Fam 16' Jump Shot (2 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,2,10
+1022600085,18,PT08M25.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,11
+1022600085,18,PT08M25.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga STEAL (1 STL),,,1,0,12
+1022600085,20,PT08M20.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,-48,18,5,Made,1,2,6,8,v,Malonga 5' Running Finger Roll Layup (2 PTS) (Horston 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,13
+1022600085,22,PT08M08.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P1.T1),Foul,Personal,1,0,14
+1022600085,24,PT08M04.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,15
+1022600085,24,PT08M04.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman STEAL (1 STL),,,1,0,16
+1022600085,26,PT07M59.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,144,6,14,Missed,1,,,0,v,MISS Johnson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,17
+1022600085,27,PT07M55.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,18
+1022600085,28,PT07M55.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,-42,23,5,Made,1,2,8,10,v,Malonga 5' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,1,2,19
+1022600085,29,PT07M42.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-93,117,15,Made,1,4,8,12,h,Wilson 15' Jump Shot (2 PTS) (Talbot 1 AST),Made Shot,Jump Shot,1,2,20
+1022600085,31,PT07M28.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-137,237,27,Missed,1,,,0,v,MISS Hiedeman 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,21
+1022600085,32,PT07M26.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+1022600085,33,PT07M19.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-41,32,5,Made,1,6,8,14,h,Wilson 5' Cutting Layup Shot (4 PTS) (Gray 2 AST),Made Shot,Cutting Layup Shot,1,2,23
+1022600085,35,PT07M00.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,34,11,4,Missed,1,,,0,v,MISS Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,24
+1022600085,35,PT07M00.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson BLOCK (1 BLK),,,1,2,25
+1022600085,37,PT07M00.00S,1,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,1,0,26
+1022600085,39,PT06M57.00S,1,1611661328,SEA,1641651,Horston,J. Horston,-127,260,29,Missed,1,,,0,v,MISS Horston 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+1022600085,40,PT06M54.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,28
+1022600085,41,PT06M48.00S,1,1611661319,LVA,1629498,Young,J. Young,235,39,24,Missed,1,,,0,h,MISS Young 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,29
+1022600085,42,PT06M43.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+1022600085,43,PT06M38.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,-66,35,7,Made,1,6,10,16,v,Malonga 7' Jump Shot (6 PTS) (Hiedeman 2 AST),Made Shot,Jump Shot,1,2,31
+1022600085,45,PT06M28.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P2.T2),Foul,Personal,1,0,32
+1022600085,47,PT06M28.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,SUB: Loyd FOR Talbot,Substitution,,0,0,33
+1022600085,49,PT06M28.00S,1,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,SUB: Cooke FOR Johnson,Substitution,,0,0,34
+1022600085,51,PT06M22.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-15,246,25,Missed,1,,,0,h,MISS Wilson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+1022600085,52,PT06M19.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,36
+1022600085,53,PT06M02.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-102,29,11,Made,1,6,12,18,v,Hiedeman 11' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,37
+1022600085,54,PT05M50.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga P.FOUL (P1.T3),Foul,Personal,1,0,38
+1022600085,56,PT05M50.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,SUB: Dolson FOR Malonga,Substitution,,0,0,39
+1022600085,57,PT05M50.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,SUB: Samuelson FOR Horston,Substitution,,0,0,40
+1022600085,60,PT05M39.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-46,31,6,Missed,1,,,0,h,MISS Wilson 6' Layup,Missed Shot,Layup Shot,1,2,41
+1022600085,61,PT05M38.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,42
+1022600085,62,PT05M38.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,Cooke S.FOUL (P1.T4),Foul,Shooting,1,0,43
+1022600085,64,PT05M38.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,7,12,19,h,Wilson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,44
+1022600085,65,PT05M38.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,SUB: Melbourne FOR Hiedeman,Substitution,,0,0,45
+1022600085,67,PT05M38.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,8,12,20,h,Wilson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,46
+1022600085,68,PT05M20.00S,1,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,Fam Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,47
+1022600085,68,PT05M20.00S,1,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd STEAL (1 STL),,,1,0,48
+1022600085,70,PT05M15.00S,1,1611661319,LVA,1629498,Young,J. Young,49,58,8,Made,1,10,12,22,h,Young 8' Running Jump Shot (2 PTS),Made Shot,Running Jump Shot,1,2,49
+1022600085,71,PT05M14.00S,1,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,50
+1022600085,72,PT04M58.00S,1,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray S.FOUL (P1.T1),Foul,Shooting,1,0,51
+1022600085,74,PT04M58.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,10,13,23,v,Melbourne Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,52
+1022600085,75,PT04M58.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,10,14,24,v,Melbourne Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,53
+1022600085,76,PT04M43.00S,1,1611661319,LVA,1629498,Young,J. Young,94,238,26,Missed,1,,,0,h,MISS Young 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+1022600085,77,PT04M38.00S,1,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,Fam REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+1022600085,78,PT04M33.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,-50,24,6,Missed,1,,,0,v,MISS Cooke 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,56
+1022600085,78,PT04M33.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson BLOCK (2 BLK),,,1,2,57
+1022600085,80,PT04M33.00S,1,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,0,0,58
+1022600085,82,PT04M27.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,56,44,7,Missed,1,,,0,v,MISS Cooke 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,59
+1022600085,83,PT04M24.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,60
+1022600085,84,PT04M16.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,71,79,11,Made,1,12,14,26,h,Wilson 11' Jump Bank Shot (8 PTS),Made Shot,Jump Bank Shot,1,2,61
+1022600085,85,PT04M16.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson S.FOUL (P1.PN),Foul,Shooting,1,0,62
+1022600085,87,PT04M16.00S,1,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,SUB: Parker-Tyus FOR Smith,Substitution,,0,0,63
+1022600085,89,PT04M16.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,13,14,27,h,Wilson Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,64
+1022600085,90,PT03M59.00S,1,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,Fam Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,65
+1022600085,91,PT03M45.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,54,13,6,Made,1,15,14,29,h,Wilson 6' Layup (11 PTS) (Gray 3 AST),Made Shot,Layup Shot,1,2,66
+1022600085,93,PT03M35.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,71,234,24,Missed,1,,,0,v,MISS Dolson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+1022600085,99,PT03M33.00S,1,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,0,0,68
+1022600085,96,PT03M33.00S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Jump Ball Parker-Tyus vs. Fam: Tip to Dolson,Jump Ball,,1,0,69
+1022600085,94,PT03M33.00S,1,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,SUB: Bell FOR Gray,Substitution,,0,0,70
+1022600085,100,PT03M30.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,-72,29,8,Missed,1,,,0,v,MISS Dolson 8' Layup,Missed Shot,Layup Shot,1,2,71
+1022600085,101,PT03M30.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,72
+1022600085,102,PT03M30.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,Cooke P.FOUL (P2.PN),Foul,Personal,1,0,73
+1022600085,104,PT03M30.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,MISS Wilson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,74
+1022600085,105,PT03M30.00S,1,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Normal Rebound,1,0,75
+1022600085,106,PT03M30.00S,1,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,SUB: Holmes FOR Fam,Substitution,,0,0,76
+1022600085,108,PT03M30.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,16,14,30,h,Wilson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,77
+1022600085,109,PT03M10.00S,1,1611661328,SEA,1629478,Samuelson,K. Samuelson,-88,269,28,Missed,1,,,0,v,MISS Samuelson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+1022600085,110,PT03M07.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,79
+1022600085,111,PT03M00.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes S.FOUL (P1.PN),Foul,Shooting,1,0,80
+1022600085,113,PT03M00.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,17,14,31,h,Wilson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,81
+1022600085,114,PT03M00.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,18,14,32,h,Wilson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,82
+1022600085,115,PT02M38.00S,1,1611661328,SEA,1642307,Holmes,M. Holmes,-240,-9,24,Made,1,18,17,35,v,Holmes 24' 3PT Jump Shot (3 PTS) (Cooke 1 AST),Made Shot,Jump Shot,1,3,83
+1022600085,117,PT02M26.00S,1,1611661319,LVA,1631006,Bell,K. Bell,0,0,0,,0,,,0,h,Bell Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,84
+1022600085,117,PT02M26.00S,1,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson STEAL (1 STL),,,1,0,85
+1022600085,119,PT02M22.00S,1,1611661328,SEA,1629478,Samuelson,K. Samuelson,24,23,3,Made,1,18,19,37,v,Samuelson 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,86
+1022600085,120,PT02M04.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne S.FOUL (P1.PN),Foul,Shooting,1,0,87
+1022600085,122,PT02M04.00S,1,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,19,19,38,h,Young Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,88
+1022600085,123,PT02M04.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,SUB: Hiedeman FOR Cooke,Substitution,,0,0,89
+1022600085,124,PT02M04.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,SUB: Malonga FOR Dolson,Substitution,,0,0,90
+1022600085,125,PT02M04.00S,1,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,SUB: Horston FOR Samuelson,Substitution,,0,0,91
+1022600085,129,PT02M04.00S,1,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,20,19,39,h,Young Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,92
+1022600085,130,PT01M48.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,47,49,7,Missed,1,,,0,v,MISS Malonga 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,93
+1022600085,131,PT01M44.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,94
+1022600085,132,PT01M44.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,-6,1,Missed,1,,,0,v,MISS Horston 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,95
+1022600085,133,PT01M44.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,96
+1022600085,134,PT01M41.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,58,62,8,Made,1,20,21,41,v,Malonga 8' Jump Shot (8 PTS),Made Shot,Jump Shot,1,2,97
+1022600085,135,PT01M30.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,27,151,15,Missed,1,,,0,h,MISS Wilson 15' Jump Shot,Missed Shot,Jump Shot,1,2,98
+1022600085,136,PT01M28.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,99
+1022600085,137,PT01M15.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,43,27,5,Made,1,20,23,43,v,Malonga 5' Driving Floating Bank Jump Shot (10 PTS) (Melbourne 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,100
+1022600085,139,PT01M06.00S,1,1611661319,LVA,204319,Loyd,J. Loyd,18,93,9,Missed,1,,,0,h,MISS Loyd 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,101
+1022600085,140,PT01M04.00S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,102
+1022600085,141,PT01M03.00S,1,1611661319,LVA,1629498,Young,J. Young,-132,221,26,Made,1,23,23,46,h,Young 26' 3PT Jump Shot (7 PTS) (Parker-Tyus 1 AST),Made Shot,Jump Shot,1,3,103
+1022600085,143,PT00M43.10S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-39,97,10,Missed,1,,,0,v,MISS Hiedeman 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,104
+1022600085,144,PT00M40.90S,1,1611661319,LVA,1631006,Bell,K. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+1022600085,145,PT00M34.70S,1,1611661319,LVA,1629498,Young,J. Young,190,189,27,Missed,1,,,0,h,MISS Young 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,106
+1022600085,146,PT00M33.20S,1,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,0,0,107
+1022600085,148,PT00M33.20S,1,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,SUB: Gray FOR Young,Substitution,,0,0,108
+1022600085,150,PT00M23.60S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.T2),Foul,Shooting,1,0,109
+1022600085,152,PT00M23.60S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,23,24,47,v,Malonga Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,110
+1022600085,153,PT00M23.60S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,23,25,48,v,Malonga Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,111
+1022600085,154,PT00M04.70S,1,1611661319,LVA,203833,Gray,C. Gray,84,99,13,Missed,1,,,0,h,MISS Gray 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,112
+1022600085,155,PT00M02.90S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,113
+1022600085,156,PT00M00.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,-150,289,33,Missed,1,,,0,v,MISS Melbourne 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,114
+1022600085,157,PT00M00.00S,1,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,0,0,115
+1022600085,158,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,25,48,,End of 1st Period (10:30 PM EST),period,end,1,0,116
+1022600085,169,PT10M00.00S,2,0,,0,,,0,0,0,,0,23,25,48,,Start of 2nd Period (10:34 PM EST),period,start,1,0,117
+1022600085,170,PT09M38.00S,2,1611661319,LVA,203833,Gray,C. Gray,216,139,26,Missed,1,,,0,h,MISS Gray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+1022600085,171,PT09M34.00S,2,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,119
+1022600085,172,PT09M30.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,63,10,6,Made,1,25,25,50,h,Loyd 6' Driving Finger Roll Layup (2 PTS) (Talbot 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,120
+1022600085,174,PT09M12.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,-18,269,27,Missed,1,,,0,v,MISS Cooke 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+1022600085,175,PT09M10.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,122
+1022600085,176,PT09M03.00S,2,1611661319,LVA,203855,Talbot,S. Talbot,60,40,7,Missed,1,,,0,h,MISS Talbot 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,123
+1022600085,176,PT09M03.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson BLOCK (1 BLK),,,1,2,124
+1022600085,178,PT09M02.00S,2,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,125
+1022600085,179,PT08M56.00S,2,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,177,182,25,Missed,1,,,0,h,MISS Parker-Tyus 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,126
+1022600085,180,PT08M52.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,127
+1022600085,181,PT08M46.00S,2,1611661328,SEA,1641651,Horston,J. Horston,-127,226,26,Missed,1,,,0,v,MISS Horston 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+1022600085,182,PT08M43.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,129
+1022600085,183,PT08M35.00S,2,1611661319,LVA,203833,Gray,C. Gray,62,199,21,Made,1,27,25,52,h,Gray 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,130
+1022600085,184,PT08M17.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,112,232,26,Missed,1,,,0,v,MISS Hiedeman 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+1022600085,185,PT08M14.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,132
+1022600085,186,PT08M02.00S,2,1611661319,LVA,203833,Gray,C. Gray,-77,79,11,Missed,1,,,0,h,MISS Gray 11' Jump Shot,Missed Shot,Jump Shot,1,2,133
+1022600085,187,PT08M00.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,134
+1022600085,188,PT07M51.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,-100,278,30,Made,1,27,28,55,v,Cooke 30' 3PT Pullup Jump Shot (3 PTS) (Hiedeman 3 AST),Made Shot,Pullup Jump shot,1,3,135
+1022600085,189,PT07M36.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman P.FOUL (P1.T1),Foul,Personal,1,0,136
+1022600085,191,PT07M36.00S,2,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,SUB: Wilson FOR Parker-Tyus,Substitution,,0,0,137
+1022600085,192,PT07M36.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,SUB: Samuelson FOR Horston,Substitution,,0,0,138
+1022600085,217,PT07M36.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,SUB: Young FOR Loyd,Substitution,,0,0,139
+1022600085,195,PT07M29.00S,2,1611661319,LVA,1631019,Smith,N. Smith,39,31,5,Made,1,29,28,57,h,Smith 5' Reverse Layup (4 PTS) (Gray 4 AST),Made Shot,Reverse Layup Shot,1,2,140
+1022600085,197,PT07M29.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson S.FOUL (P2.T2),Foul,Shooting,1,0,141
+1022600085,199,PT07M29.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,30,28,58,h,Smith Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,142
+1022600085,200,PT07M12.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,65,246,25,Made,1,30,31,61,v,Cooke 25' 3PT Jump Shot (6 PTS) (Dolson 1 AST),Made Shot,Jump Shot,1,3,143
+1022600085,202,PT07M03.00S,2,1611661319,LVA,1631019,Smith,N. Smith,54,15,6,Made,1,32,31,63,h,Smith 6' Layup (7 PTS) (Talbot 3 AST),Made Shot,Layup Shot,1,2,144
+1022600085,204,PT07M03.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson S.FOUL (P3.T3),Foul,Shooting,1,0,145
+1022600085,206,PT07M03.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,33,31,64,h,Smith Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,146
+1022600085,207,PT06M52.00S,2,1611661328,SEA,1643443,Fam,A. Fam,-72,248,26,Missed,1,,,0,v,MISS Fam 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+1022600085,208,PT06M46.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+1022600085,209,PT06M45.00S,2,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,Fam P.FOUL (P1.T4),Foul,Personal,1,0,149
+1022600085,211,PT06M45.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,SUB: Holmes FOR Dolson,Substitution,,0,0,150
+1022600085,213,PT06M36.00S,2,1611661319,LVA,1631019,Smith,N. Smith,-45,18,5,Made,1,35,31,66,h,Smith 5' Driving Layup (10 PTS) (Gray 5 AST),Made Shot,Driving Layup Shot,1,2,151
+1022600085,215,PT06M28.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray P.FOUL (P2.T1),Foul,Personal,1,0,152
+1022600085,219,PT06M23.00S,2,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,Fam OFF.Foul (P2),Foul,Offensive,1,0,153
+1022600085,221,PT06M23.00S,2,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,Fam Offensive Foul Turnover (P3.T4),Turnover,Offensive Foul Turnover,1,0,154
+1022600085,222,PT06M11.00S,2,1611661319,LVA,203833,Gray,C. Gray,-51,13,5,Made,1,37,31,68,h,Gray 5' Turnaround Bank Shot (4 PTS) (Wilson 1 AST),Made Shot,Turnaround Bank shot,1,2,155
+1022600085,224,PT06M10.00S,2,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,156
+1022600085,226,PT06M10.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,SUB: Johnson FOR Hiedeman,Substitution,,0,0,157
+1022600085,227,PT06M10.00S,2,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,SUB: Melbourne FOR Cooke,Substitution,,0,0,158
+1022600085,228,PT06M10.00S,2,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,SUB: Malonga FOR Fam,Substitution,,0,0,159
+1022600085,229,PT06M10.00S,2,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,SUB: Horston FOR Holmes,Substitution,,0,0,160
+1022600085,234,PT05M56.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,-77,60,10,Missed,1,,,0,v,MISS Malonga 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,161
+1022600085,235,PT05M53.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,162
+1022600085,236,PT05M34.00S,2,1611661319,LVA,1631019,Smith,N. Smith,-33,39,5,Made,1,39,31,70,h,Smith 5' Layup (12 PTS) (Wilson 2 AST),Made Shot,Layup Shot,1,2,163
+1022600085,238,PT05M34.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga S.FOUL (P2.PN),Foul,Shooting,1,0,164
+1022600085,240,PT05M34.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,40,31,71,h,Smith Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,165
+1022600085,241,PT05M23.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,35,11,4,Missed,1,,,0,v,MISS Malonga 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,166
+1022600085,242,PT05M21.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,167
+1022600085,243,PT05M14.00S,2,1611661319,LVA,203855,Talbot,S. Talbot,-228,77,24,Missed,1,,,0,h,MISS Talbot 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+1022600085,244,PT05M11.00S,2,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,169
+1022600085,245,PT05M04.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,2,66,7,Missed,1,,,0,v,MISS Malonga 7' Jump Shot,Missed Shot,Jump Shot,1,2,170
+1022600085,245,PT05M04.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson BLOCK (3 BLK),,,1,2,171
+1022600085,247,PT05M04.00S,2,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,1,0,172
+1022600085,249,PT04M52.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga P.FOUL (P3.PN),Foul,Personal,1,0,173
+1022600085,251,PT04M52.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,41,31,72,h,Wilson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,174
+1022600085,252,PT04M52.00S,2,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,SUB: Loyd FOR Talbot,Substitution,,0,0,175
+1022600085,253,PT04M52.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,SUB: Fam FOR Malonga,Substitution,,0,0,176
+1022600085,256,PT04M52.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,42,31,73,h,Wilson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,177
+1022600085,257,PT04M43.00S,2,1611661328,SEA,1629478,Samuelson,K. Samuelson,-174,175,25,Made,1,42,34,76,v,Samuelson 25' 3PT Jump Shot (5 PTS) (Melbourne 2 AST),Made Shot,Jump Shot,1,3,178
+1022600085,259,PT04M21.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,1,249,25,Missed,1,,,0,h,MISS Loyd 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+1022600085,260,PT04M17.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,180
+1022600085,261,PT04M13.00S,2,1611661328,SEA,1629478,Samuelson,K. Samuelson,174,157,0,Missed,1,,,0,v,MISS Samuelson 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,181
+1022600085,262,PT04M10.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,182
+1022600085,263,PT04M03.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,183
+1022600085,263,PT04M03.00S,2,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson STEAL (2 STL),,,1,0,184
+1022600085,265,PT03M47.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,185
+1022600085,265,PT03M47.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson STEAL (1 STL),,,1,0,186
+1022600085,267,PT03M38.00S,2,1611661319,LVA,1629498,Young,J. Young,-46,216,22,Missed,1,,,0,h,MISS Young 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,187
+1022600085,268,PT03M36.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,188
+1022600085,269,PT03M36.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston S.FOUL (P1.PN),Foul,Shooting,1,0,189
+1022600085,271,PT03M36.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,43,34,77,h,Wilson Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,190
+1022600085,272,PT03M36.00S,2,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,SUB: Parker-Tyus FOR Smith,Substitution,,0,0,191
+1022600085,274,PT03M36.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,44,34,78,h,Wilson Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,192
+1022600085,275,PT03M22.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,-50,30,6,Missed,1,,,0,v,MISS Melbourne 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,193
+1022600085,275,PT03M22.00S,2,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus BLOCK (1 BLK),,,1,2,194
+1022600085,277,PT03M19.00S,2,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,Fam REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,195
+1022600085,278,PT03M18.00S,2,1611661328,SEA,1643443,Fam,A. Fam,-48,22,5,Made,1,44,36,80,v,Fam 5' Layup (4 PTS),Made Shot,Layup Shot,1,2,196
+1022600085,279,PT03M05.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,6,49,5,Made,1,46,36,82,h,Wilson 5' Turnaround Bank Shot (20 PTS) (Young 1 AST),Made Shot,Turnaround Bank shot,1,2,197
+1022600085,281,PT02M55.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd P.FOUL (P1.T2),Foul,Personal,1,0,198
+1022600085,283,PT02M55.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,199
+1022600085,284,PT02M55.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,SUB: Hiedeman FOR Melbourne,Substitution,,0,0,200
+1022600085,286,PT02M45.00S,2,1611661328,SEA,1643443,Fam,A. Fam,66,240,25,Made,1,46,39,85,v,Fam 25' 3PT Jump Shot (7 PTS) (Johnson 2 AST),Made Shot,Jump Shot,1,3,201
+1022600085,288,PT02M18.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,202
+1022600085,288,PT02M18.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston STEAL (1 STL),,,1,0,203
+1022600085,290,PT02M05.00S,2,1611661328,SEA,1643443,Fam,A. Fam,-40,25,5,Made,1,46,41,87,v,Fam 5' Cutting Layup Shot (9 PTS) (Johnson 3 AST),Made Shot,Cutting Layup Shot,1,2,204
+1022600085,292,PT02M04.00S,2,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,205
+1022600085,293,PT02M04.00S,2,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,SUB: Talbot FOR Parker-Tyus,Substitution,,0,0,206
+1022600085,295,PT01M46.00S,2,1611661319,LVA,203833,Gray,C. Gray,44,256,26,Made,1,49,41,90,h,Gray 26' 3PT Jump Shot (7 PTS) (Wilson 3 AST),Made Shot,Jump Shot,1,3,207
+1022600085,297,PT01M19.00S,2,1611661328,SEA,1643428,Johnson,F. Johnson,-28,81,9,Missed,1,,,0,v,MISS Johnson 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,208
+1022600085,298,PT01M16.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,209
+1022600085,299,PT01M04.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,34,32,5,Missed,1,,,0,h,MISS Wilson 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,210
+1022600085,300,PT01M02.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,211
+1022600085,301,PT00M59.90S,2,1611661328,SEA,1643428,Johnson,F. Johnson,-46,22,5,Made,1,49,43,92,v,Johnson 5' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,212
+1022600085,302,PT00M39.80S,2,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,Fam P.FOUL (P3.PN),Foul,Personal,1,0,213
+1022600085,304,PT00M39.80S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,MISS Wilson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,214
+1022600085,305,PT00M39.80S,2,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Normal Rebound,1,0,215
+1022600085,306,PT00M39.80S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,50,43,93,h,Wilson Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,216
+1022600085,307,PT00M32.20S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-38,30,5,Missed,1,,,0,v,MISS Hiedeman 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,217
+1022600085,308,PT00M30.90S,2,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,218
+1022600085,311,PT00M22.50S,2,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Jump Ball Loyd vs. Horston: Tip to Samuelson,Jump Ball,,1,0,219
+1022600085,309,PT00M22.50S,2,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,SUB: Holmes FOR Fam,Substitution,,0,0,220
+1022600085,314,PT00M22.50S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,221
+1022600085,314,PT00M22.50S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston STEAL (2 STL),,,1,0,222
+1022600085,316,PT00M04.10S,2,1611661328,SEA,1641651,Horston,J. Horston,116,11,12,Missed,1,,,0,v,MISS Horston 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,223
+1022600085,317,PT00M03.30S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,224
+1022600085,318,PT00M00.00S,2,0,,0,,,0,0,0,,0,50,43,93,,End of 2nd Period (11:00 PM EST),period,end,1,0,225
+1022600085,325,PT10M00.00S,3,0,,0,,,0,0,0,,0,50,43,93,,Start of 3rd Period (11:16 PM EST),period,start,1,0,226
+1022600085,326,PT09M50.00S,3,1611661319,LVA,1629498,Young,J. Young,135,39,14,Made,1,52,43,95,h,Young 14' Pullup Jump Shot (9 PTS) (Wilson 4 AST),Made Shot,Pullup Jump shot,1,2,227
+1022600085,328,PT09M34.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson Violation:Kicked Ball,Violation,Kicked Ball,0,0,228
+1022600085,329,PT09M23.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot P.FOUL (P1.T1),Foul,Personal,1,0,229
+1022600085,331,PT09M10.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,48,86,10,Missed,1,,,0,v,MISS Hiedeman 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,230
+1022600085,332,PT09M08.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,231
+1022600085,333,PT09M04.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,232
+1022600085,333,PT09M04.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman STEAL (2 STL),,,1,0,233
+1022600085,336,PT08M40.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,239,29,24,Missed,1,,,0,v,MISS Malonga 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+1022600085,337,PT08M40.00S,3,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,1,0,235
+1022600085,339,PT08M20.00S,3,1611661319,LVA,203833,Gray,C. Gray,-7,60,6,Made,1,54,43,97,h,Gray 6' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,1,2,236
+1022600085,342,PT08M07.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga OFF.Foul (P4),Foul,Offensive,1,0,237
+1022600085,344,PT08M07.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,238
+1022600085,345,PT08M07.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,SUB: Dolson FOR Malonga,Substitution,,0,0,239
+1022600085,347,PT07M48.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,-205,137,25,Missed,1,,,0,h,MISS Talbot 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,240
+1022600085,348,PT07M46.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,241
+1022600085,349,PT07M33.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot S.FOUL (P2.T2),Foul,Shooting,1,0,242
+1022600085,351,PT07M33.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,54,44,98,v,Johnson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,243
+1022600085,352,PT07M33.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,54,45,99,v,Johnson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,244
+1022600085,353,PT07M28.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,245
+1022600085,353,PT07M28.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman STEAL (3 STL),,,1,0,246
+1022600085,355,PT07M25.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,55,37,7,Made,1,54,47,101,v,Hiedeman 7' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,247
+1022600085,357,PT07M20.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,248
+1022600085,357,PT07M20.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston STEAL (3 STL),,,1,0,249
+1022600085,359,PT07M16.00S,3,1611661328,SEA,1641651,Horston,J. Horston,33,36,5,Missed,1,,,0,v,MISS Horston 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,250
+1022600085,360,PT07M14.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,251
+1022600085,361,PT07M04.00S,3,1611661319,LVA,1629498,Young,J. Young,5,206,21,Made,1,56,47,103,h,Young 21' Pullup Jump Shot (11 PTS) (Wilson 5 AST),Made Shot,Pullup Jump shot,1,2,252
+1022600085,363,PT06M50.00S,3,1611661328,SEA,1641651,Horston,J. Horston,54,31,6,Missed,1,,,0,v,MISS Horston 6' Layup,Missed Shot,Layup Shot,1,2,253
+1022600085,364,PT06M48.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,Horston REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,254
+1022600085,365,PT06M47.00S,3,1611661328,SEA,1641651,Horston,J. Horston,54,28,6,Missed,1,,,0,v,MISS Horston 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,255
+1022600085,366,PT06M47.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,256
+1022600085,367,PT06M41.00S,3,1611661319,LVA,1629498,Young,J. Young,27,-4,3,Made,1,58,47,105,h,Young 3' Running Layup (13 PTS) (Gray 6 AST),Made Shot,Running Layup Shot,1,2,257
+1022600085,369,PT06M41.00S,3,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,258
+1022600085,370,PT06M41.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,SUB: Loyd FOR Talbot,Substitution,,0,0,259
+1022600085,371,PT06M41.00S,3,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,SUB: Samuelson FOR Johnson,Substitution,,0,0,260
+1022600085,372,PT06M41.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,v,SUB: Melbourne FOR Horston,Substitution,,0,0,261
+1022600085,376,PT06M22.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-135,222,26,Made,1,58,50,108,v,Hiedeman 26' 3PT Jump Shot (7 PTS) (Dolson 2 AST),Made Shot,Jump Shot,1,3,262
+1022600085,378,PT06M07.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,-88,51,10,Missed,1,,,0,h,MISS Wilson 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,263
+1022600085,379,PT06M03.00S,3,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,264
+1022600085,380,PT05M46.00S,3,1611661328,SEA,1629478,Samuelson,K. Samuelson,-35,13,4,Made,1,58,52,110,v,Samuelson 4' Turnaround Jump Shot (7 PTS) (Fam 1 AST),Made Shot,Turnaround Jump Shot,1,2,265
+1022600085,381,PT05M26.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,-49,13,5,Made,1,60,52,112,h,Wilson 5' Layup (23 PTS) (Young 2 AST),Made Shot,Layup Shot,1,2,266
+1022600085,383,PT05M08.00S,3,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd P.FOUL (P2.T3),Foul,Personal,1,0,267
+1022600085,385,PT05M04.00S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,1,50,5,Missed,1,,,0,v,MISS Melbourne 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,268
+1022600085,386,PT05M02.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,269
+1022600085,387,PT04M58.00S,3,1611661319,LVA,204319,Loyd,J. Loyd,-239,20,24,Missed,1,,,0,h,MISS Loyd 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,270
+1022600085,388,PT04M58.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,271
+1022600085,389,PT04M46.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,272
+1022600085,390,PT04M44.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,273
+1022600085,391,PT04M29.00S,3,1611661328,SEA,1643443,Fam,A. Fam,77,114,14,Made,1,60,54,114,v,Fam 14' Jump Shot (11 PTS) (Hiedeman 4 AST),Made Shot,Jump Shot,1,2,274
+1022600085,393,PT04M09.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,235,14,24,Made,1,63,54,117,h,Wilson 24' 3PT Jump Shot (26 PTS) (Gray 7 AST),Made Shot,Jump Shot,1,3,275
+1022600085,395,PT03M51.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-82,226,24,Made,1,63,57,120,v,Hiedeman 24' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,276
+1022600085,396,PT03M51.00S,3,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,277
+1022600085,398,PT03M35.00S,3,1611661319,LVA,1629498,Young,J. Young,-61,124,14,Made,1,65,57,122,h,Young 14' Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,2,278
+1022600085,399,PT03M17.00S,3,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson OFF.Foul (P4),Foul,Offensive,1,0,279
+1022600085,401,PT03M17.00S,3,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,Dolson Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,280
+1022600085,402,PT03M17.00S,3,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,SUB: Holmes FOR Dolson,Substitution,,0,0,281
+1022600085,404,PT03M06.00S,3,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Storm T.Foul (Def. 3 Sec Holmes ),Foul,Defense 3 Second,1,0,282
+1022600085,405,PT03M06.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,66,57,123,h,Gray Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,1,0,283
+1022600085,406,PT03M01.00S,3,1611661319,LVA,1629498,Young,J. Young,94,100,14,Missed,1,,,0,h,MISS Young 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,284
+1022600085,407,PT02M58.00S,3,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,Fam REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,285
+1022600085,408,PT02M38.00S,3,1611661328,SEA,1629478,Samuelson,K. Samuelson,-228,5,0,Missed,1,,,0,v,MISS Samuelson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,286
+1022600085,408,PT02M38.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young BLOCK (1 BLK),,,1,3,287
+1022600085,410,PT02M35.00S,3,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,288
+1022600085,411,PT02M28.00S,3,1611661319,LVA,1629498,Young,J. Young,-228,73,24,Missed,1,,,0,h,MISS Young 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,289
+1022600085,412,PT02M25.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,290
+1022600085,413,PT02M24.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,55,6,Missed,1,,,0,h,MISS Wilson 6' Jump Shot,Missed Shot,Jump Shot,1,2,291
+1022600085,414,PT02M24.00S,3,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,292
+1022600085,415,PT02M07.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-68,150,16,Missed,1,,,0,v,MISS Hiedeman 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,293
+1022600085,416,PT02M05.00S,3,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,1,0,294
+1022600085,418,PT02M05.00S,3,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,SUB: Bell FOR Smith,Substitution,,0,0,295
+1022600085,419,PT02M05.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,SUB: Turner FOR Gray,Substitution,,0,0,296
+1022600085,422,PT01M49.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,-229,57,24,Made,1,69,57,126,h,Wilson 24' 3PT Jump Shot (29 PTS) (Young 3 AST),Made Shot,Jump Shot,1,3,297
+1022600085,424,PT01M34.00S,3,1611661328,SEA,1643443,Fam,A. Fam,115,147,19,Missed,1,,,0,v,MISS Fam 19' Jump Shot,Missed Shot,Jump Shot,1,2,298
+1022600085,425,PT01M30.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,299
+1022600085,426,PT01M15.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,150,45,16,Missed,1,,,0,h,MISS Wilson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,300
+1022600085,427,PT01M12.00S,3,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,301
+1022600085,428,PT00M58.40S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young S.FOUL (P1.T4),Foul,Shooting,1,0,302
+1022600085,430,PT00M58.40S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,69,58,127,v,Melbourne Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,303
+1022600085,431,PT00M58.40S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,SUB: Cooke FOR Hiedeman,Substitution,,0,0,304
+1022600085,432,PT00M58.40S,3,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,SUB: Johnson FOR Samuelson,Substitution,,0,0,305
+1022600085,435,PT00M58.40S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,69,59,128,v,Melbourne Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,306
+1022600085,436,PT00M39.30S,3,1611661319,LVA,1629498,Young,J. Young,-113,56,13,Missed,1,,,0,h,MISS Young 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,307
+1022600085,437,PT00M36.50S,3,1611661319,LVA,1631006,Bell,K. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,308
+1022600085,438,PT00M29.10S,3,1611661319,LVA,1628932,Wilson,A. Wilson,-134,29,14,Missed,1,,,0,h,MISS Wilson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,309
+1022600085,439,PT00M25.40S,3,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,310
+1022600085,442,PT00M18.00S,3,1611661319,LVA,204319,Loyd,J. Loyd,-235,11,24,Made,1,72,59,131,h,Loyd 24' 3PT Jump Shot (5 PTS) (Young 4 AST),Made Shot,Jump Shot,1,3,311
+1022600085,444,PT00M04.40S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,145,241,28,Missed,1,,,0,v,MISS Melbourne 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,312
+1022600085,445,PT00M01.50S,3,1611661319,LVA,1631006,Bell,K. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,313
+1022600085,446,PT00M00.30S,3,1611661319,LVA,1631006,Bell,K. Bell,113,586,60,Missed,1,,,0,h,MISS Bell 60' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,314
+1022600085,447,PT00M00.10S,3,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,1,0,315
+1022600085,448,PT00M00.00S,3,0,,0,,,0,0,0,,0,72,59,131,,End of 3rd Period (11:37 PM EST),period,end,1,0,316
+1022600085,455,PT10M00.00S,4,0,,0,,,0,0,0,,0,72,59,131,,Start of 4th Period (11:40 PM EST),period,start,1,0,317
+1022600085,456,PT09M51.00S,4,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus P.FOUL (P1.T1),Foul,Personal,1,0,318
+1022600085,458,PT09M44.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,-58,241,25,Made,1,72,62,134,v,Malonga 25' 3PT Jump Shot (15 PTS) (Melbourne 3 AST),Made Shot,Jump Shot,1,3,319
+1022600085,460,PT09M21.00S,4,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,Cooke P.FOUL (P3.T1),Foul,Personal,1,0,320
+1022600085,462,PT09M13.00S,4,1611661319,LVA,203833,Gray,C. Gray,-43,110,12,Made,1,74,62,136,h,Gray 12' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,2,321
+1022600085,463,PT08M57.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,322
+1022600085,463,PT08M57.00S,4,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,Turner STEAL (1 STL),,,1,0,323
+1022600085,465,PT08M52.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,324
+1022600085,465,PT08M52.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,Melbourne STEAL (1 STL),,,0,0,325
+1022600085,467,PT08M46.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,-46,0,5,Made,1,74,64,138,v,Melbourne 5' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,0,2,326
+1022600085,468,PT08M24.00S,4,1611661319,LVA,203833,Gray,C. Gray,-206,188,28,Missed,1,,,0,h,MISS Gray 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,327
+1022600085,469,PT08M21.00S,4,1611661319,LVA,1631006,Bell,K. Bell,0,0,0,,0,,,0,h,Bell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,328
+1022600085,470,PT08M20.00S,4,1611661319,LVA,1631006,Bell,K. Bell,56,57,8,Made,1,76,64,140,h,Bell 8' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,329
+1022600085,471,PT08M02.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,43,26,5,Made,1,76,66,142,v,Johnson 5' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,330
+1022600085,472,PT08M02.00S,4,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,331
+1022600085,473,PT08M02.00S,4,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,SUB: Wilson FOR Parker-Tyus,Substitution,,0,0,332
+1022600085,475,PT07M48.00S,4,1611661319,LVA,1629488,Turner,B. Turner,-49,11,5,Missed,1,,,0,h,MISS Turner 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,333
+1022600085,476,PT07M46.00S,4,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,Holmes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,334
+1022600085,477,PT07M33.00S,4,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,Turner S.FOUL (P1.T2),Foul,Shooting,1,0,335
+1022600085,479,PT07M33.00S,4,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,MISS Cooke Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,336
+1022600085,480,PT07M33.00S,4,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Normal Rebound,0,0,337
+1022600085,481,PT07M33.00S,4,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,76,67,143,v,Cooke Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,338
+1022600085,482,PT07M21.00S,4,1611661319,LVA,1629488,Turner,B. Turner,-62,149,16,Missed,1,,,0,h,MISS Turner 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,339
+1022600085,483,PT07M21.00S,4,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Unknown,1,0,340
+1022600085,485,PT07M21.00S,4,1611661319,LVA,1631006,Bell,K. Bell,0,0,0,,0,,,0,h,SUB: Young FOR Bell,Substitution,,0,0,341
+1022600085,487,PT07M07.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,218,125,25,Made,1,76,70,146,v,Johnson 25' 3PT Jump Shot (11 PTS) (Melbourne 4 AST),Made Shot,Jump Shot,1,3,342
+1022600085,489,PT06M50.00S,4,1611661319,LVA,1629498,Young,J. Young,8,253,25,Made,1,79,70,149,h,Young 25' 3PT Pullup Jump Shot (18 PTS) (Wilson 6 AST),Made Shot,Pullup Jump shot,1,3,343
+1022600085,492,PT06M31.00S,4,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,SUB: Talbot FOR Turner,Substitution,,0,0,344
+1022600085,494,PT06M27.00S,4,1611661328,SEA,1641660,Cooke,Z. Cooke,38,147,15,Missed,1,,,0,v,MISS Cooke 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,345
+1022600085,495,PT06M25.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,346
+1022600085,497,PT06M25.00S,4,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young S.FOUL (P2.T3),Foul,Shooting,1,0,347
+1022600085,499,PT06M25.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,79,71,150,v,Malonga Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,348
+1022600085,500,PT06M25.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,79,72,151,v,Malonga Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,349
+1022600085,501,PT06M05.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,Malonga P.FOUL (P5.T2),Foul,Personal,1,0,350
+1022600085,503,PT06M05.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,SUB: Smith FOR Loyd,Substitution,,0,0,351
+1022600085,504,PT06M05.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,v,SUB: Fam FOR Melbourne,Substitution,,0,0,352
+1022600085,505,PT06M05.00S,4,1611661328,SEA,1642307,Holmes,M. Holmes,0,0,0,,0,,,0,v,SUB: Hiedeman FOR Holmes,Substitution,,0,0,353
+1022600085,509,PT06M05.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,v,SUB: Samuelson FOR Malonga,Substitution,,0,0,354
+1022600085,511,PT05M58.00S,4,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,Cooke S.FOUL (P4.T3),Foul,Shooting,1,0,355
+1022600085,513,PT05M58.00S,4,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,80,72,152,h,Young Free Throw 1 of 3 (19 PTS),Free Throw,Free Throw 1 of 3,1,0,356
+1022600085,514,PT05M58.00S,4,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,81,72,153,h,Young Free Throw 2 of 3 (20 PTS),Free Throw,Free Throw 2 of 3,1,0,357
+1022600085,515,PT05M58.00S,4,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,82,72,154,h,Young Free Throw 3 of 3 (21 PTS),Free Throw,Free Throw 3 of 3,1,0,358
+1022600085,516,PT05M44.00S,4,1611661328,SEA,1643443,Fam,A. Fam,51,33,6,Made,1,82,74,156,v,Fam 6' Layup (13 PTS) (Johnson 4 AST),Made Shot,Layup Shot,1,2,359
+1022600085,518,PT05M44.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray S.FOUL (P3.T4),Foul,Shooting,1,0,360
+1022600085,520,PT05M44.00S,4,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,v,SUB: Dolson FOR Cooke,Substitution,,0,0,361
+1022600085,522,PT05M44.00S,4,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,82,75,157,v,Fam Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,362
+1022600085,523,PT05M20.00S,4,1611661319,LVA,1629498,Young,J. Young,-48,38,6,Made,1,84,75,159,h,Young 6' Driving Floating Bank Jump Shot (23 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,363
+1022600085,524,PT05M06.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,160,9,16,Missed,1,,,0,v,MISS Johnson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,364
+1022600085,525,PT05M03.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,365
+1022600085,526,PT04M56.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,-59,172,18,Made,1,86,75,161,h,Wilson 18' Pullup Jump Shot (31 PTS) (Gray 8 AST),Made Shot,Pullup Jump shot,1,2,366
+1022600085,528,PT04M43.00S,4,1611661328,SEA,203828,Dolson,S. Dolson,-230,-3,0,Made,1,86,78,164,v,Dolson 3PT Jump Shot (3 PTS) (Johnson 5 AST),Made Shot,Jump Shot,1,3,367
+1022600085,530,PT04M21.00S,4,1611661319,LVA,203855,Talbot,S. Talbot,229,38,0,Made,1,89,78,167,h,Talbot 3PT Jump Shot (3 PTS) (Young 5 AST),Made Shot,Jump Shot,1,3,368
+1022600085,532,PT04M09.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,220,124,25,Made,1,89,81,170,v,Hiedeman 25' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,3,369
+1022600085,533,PT03M49.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,123,227,26,Made,1,92,81,173,h,Wilson 26' 3PT Jump Shot (34 PTS) (Young 6 AST),Made Shot,Jump Shot,1,3,370
+1022600085,535,PT03M30.00S,4,1611661328,SEA,1643443,Fam,A. Fam,-147,205,25,Missed,1,,,0,v,MISS Fam 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+1022600085,536,PT03M27.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,372
+1022600085,537,PT03M10.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P3.T4),Foul,Shooting,1,0,373
+1022600085,539,PT03M10.00S,4,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,93,81,174,h,Smith Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,374
+1022600085,540,PT03M10.00S,4,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,SUB: Loyd FOR Talbot,Substitution,,0,0,375
+1022600085,541,PT03M10.00S,4,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,v,SUB: Melbourne FOR Fam,Substitution,,0,0,376
+1022600085,542,PT03M10.00S,4,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,SUB: Malonga FOR Samuelson,Substitution,,0,0,377
+1022600085,546,PT03M10.00S,4,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,MISS Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,378
+1022600085,547,PT03M08.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,379
+1022600085,548,PT03M01.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd S.FOUL (P3.PN),Foul,Shooting,1,0,380
+1022600085,550,PT03M01.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,MISS Hiedeman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,381
+1022600085,551,PT03M01.00S,4,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Rebound,Rebound,Normal Rebound,0,0,382
+1022600085,552,PT03M01.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,93,82,175,v,Hiedeman Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+1022600085,553,PT02M50.00S,4,1611661319,LVA,1631019,Smith,N. Smith,39,23,5,Made,1,95,82,177,h,Smith 5' Layup (16 PTS) (Wilson 7 AST),Made Shot,Layup Shot,1,2,384
+1022600085,555,PT02M32.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,-30,32,4,Missed,1,,,0,v,MISS Melbourne 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,385
+1022600085,556,PT02M30.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,386
+1022600085,557,PT02M08.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,-233,-10,0,Missed,1,,,0,h,MISS Loyd 3PT Jump Shot,Missed Shot,Jump Shot,1,3,387
+1022600085,558,PT02M06.00S,4,1611661328,SEA,1643428,Johnson,F. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,388
+1022600085,559,PT01M59.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,-88,45,10,Made,1,95,84,179,v,Malonga 10' Turnaround Fadeaway (19 PTS) (Johnson 6 AST),Made Shot,Turnaround Fadeaway shot,1,2,389
+1022600085,561,PT01M39.00S,4,1611661319,LVA,1629498,Young,J. Young,122,227,26,Made,1,98,84,182,h,Young 26' 3PT Jump Shot (26 PTS) (Wilson 8 AST),Made Shot,Jump Shot,1,3,390
+1022600085,563,PT01M39.00S,4,0,,1611661328,,,0,0,0,,0,,,0,v,Storm Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,391
+1022600085,565,PT01M39.00S,4,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,v,SUB: Fam FOR Dolson,Substitution,,0,0,392
+1022600085,567,PT01M33.00S,4,1611661328,SEA,1643443,Fam,A. Fam,-36,28,5,Made,1,98,86,184,v,Fam 5' Cutting Layup Shot (16 PTS) (Melbourne 5 AST),Made Shot,Cutting Layup Shot,1,2,393
+1022600085,569,PT01M16.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,-182,178,25,Missed,1,,,0,h,MISS Loyd 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+1022600085,570,PT01M12.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,395
+1022600085,571,PT01M05.00S,4,1611661319,LVA,1629498,Young,J. Young,188,149,24,Made,1,101,86,187,h,Young 24' 3PT Jump Shot (29 PTS) (Wilson 9 AST),Made Shot,Jump Shot,1,3,396
+1022600085,573,PT00M55.90S,4,1611661328,SEA,1643443,Fam,A. Fam,66,31,7,Missed,1,,,0,v,MISS Fam 7' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,397
+1022600085,574,PT00M53.50S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,398
+1022600085,575,PT00M43.80S,4,1611661319,LVA,1629498,Young,J. Young,95,228,25,Missed,1,,,0,h,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,399
+1022600085,576,PT00M40.40S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,400
+1022600085,577,PT00M38.70S,4,1611661319,LVA,203833,Gray,C. Gray,93,249,27,Missed,1,,,0,h,MISS Gray 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,401
+1022600085,578,PT00M38.70S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,402
+1022600085,579,PT00M32.20S,4,1611661328,SEA,1643428,Johnson,F. Johnson,45,31,5,Made,1,101,88,189,v,Johnson 5' Running Finger Roll Layup (13 PTS) (Hiedeman 5 AST),Made Shot,Running Finger Roll Layup Shot,1,2,403
+1022600085,581,PT00M22.20S,4,1611661319,LVA,1629498,Young,J. Young,23,184,19,Missed,1,,,0,h,MISS Young 19' Jump Shot,Missed Shot,Jump Shot,1,2,404
+1022600085,582,PT00M18.90S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,v,Hiedeman REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,405
+1022600085,583,PT00M15.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,-214,120,25,Missed,1,,,0,v,MISS Melbourne 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+1022600085,584,PT00M12.00S,4,1611661319,LVA,1631019,Smith,N. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,407
+1022600085,585,PT00M07.30S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,408
+1022600085,586,PT00M00.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,66,296,30,Made,1,101,91,192,v,Hiedeman 30' 3PT Jump Shot (17 PTS) (Johnson 7 AST),Made Shot,Jump Shot,1,3,409
+1022600085,588,PT00M00.00S,4,0,,0,,,0,0,0,,0,101,91,192,,End of 4th Period (12:04 AM EST),period,end,1,0,410
+1022600085,590,PT00M00.00S,4,0,,586,,,0,0,0,,0,101,91,192,,Instant Replay4th Period (12:05 AM EST),Instant Replay,Support Ruling,0,0,411

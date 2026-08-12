@@ -1,0 +1,355 @@
+{
+ "generated": "2026-08-12T19:34:29.123246Z",
+ "date": "2026-08-12",
+ "league": "wnba",
+ "games": [
+  {
+   "id": "1022600248",
+   "league": "wnba",
+   "tipEt": "8:00 pm ET",
+   "home": {
+    "tri": "DAL",
+    "name": "Dallas Wings",
+    "teamId": 1611661321
+   },
+   "away": {
+    "tri": "TOR",
+    "name": "Toronto Tempo",
+    "teamId": 1611661332
+   },
+   "tip": {
+    "homePlayer": "Kuier",
+    "awayPlayer": "Sabally",
+    "homeWinPct": 38
+   },
+   "topPick": {
+    "playerId": 1629576,
+    "name": "Conde",
+    "side": "away",
+    "bookOdds": null,
+    "fairOdds": "+659",
+    "rank": 1,
+    "share": 20,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1642784,
+      "name": "Bueckers",
+      "share": 20,
+      "fg": 67,
+      "hot": false
+     },
+     {
+      "playerId": 1629491,
+      "name": "Shepard",
+      "share": 10,
+      "fg": 50,
+      "hot": false
+     },
+     {
+      "playerId": 1629481,
+      "name": "Ogunbowale",
+      "share": 0,
+      "fg": 50,
+      "hot": false
+     },
+     {
+      "playerId": 1643425,
+      "name": "Fudd",
+      "share": 0,
+      "fg": 100,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1629576,
+      "name": "Conde",
+      "share": 20,
+      "fg": 100,
+      "hot": true
+     },
+     {
+      "playerId": 1643420,
+      "name": "Juskaite",
+      "share": 10,
+      "fg": 25,
+      "hot": false
+     },
+     {
+      "playerId": 1629497,
+      "name": "Mabrey",
+      "share": 10,
+      "fg": 50,
+      "hot": false
+     },
+     {
+      "playerId": 204330,
+      "name": "Harrison",
+      "share": 10,
+      "fg": 0,
+      "hot": false
+     },
+     {
+      "playerId": 1631055,
+      "name": "Sabally",
+      "share": 0,
+      "fg": 0,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "M. Conde takes 20% of TOR first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "DAL wins parsed opening tips at 32%, TOR at 52%"
+    }
+   ],
+   "badges": [],
+   "shots": null
+  },
+  {
+   "id": "1022600249",
+   "league": "wnba",
+   "tipEt": "10:00 pm ET",
+   "home": {
+    "tri": "GSV",
+    "name": "Golden State Valkyries",
+    "teamId": 1611661331
+   },
+   "away": {
+    "tri": "CHI",
+    "name": "Chicago Sky",
+    "teamId": 1611661329
+   },
+   "tip": {
+    "homePlayer": "Stokes",
+    "awayPlayer": "Cardoso",
+    "homeWinPct": 44
+   },
+   "topPick": {
+    "playerId": 1628508,
+    "name": "Zandalasini",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+262",
+    "rank": 1,
+    "share": 60,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1628508,
+      "name": "Zandalasini",
+      "share": 60,
+      "fg": 83,
+      "hot": true
+     },
+     {
+      "playerId": 203866,
+      "name": "Thornton",
+      "share": 0,
+      "fg": 25,
+      "hot": false
+     },
+     {
+      "playerId": 1628931,
+      "name": "Williams",
+      "share": 0,
+      "fg": 67,
+      "hot": false
+     },
+     {
+      "playerId": 1631007,
+      "name": "Burton",
+      "share": 0,
+      "fg": 33,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1642289,
+      "name": "Cardoso",
+      "share": 50,
+      "fg": 22,
+      "hot": false
+     },
+     {
+      "playerId": 1628922,
+      "name": "Stevens",
+      "share": 20,
+      "fg": 40,
+      "hot": false
+     },
+     {
+      "playerId": 202664,
+      "name": "Vandersloot",
+      "share": 10,
+      "fg": 100,
+      "hot": false
+     },
+     {
+      "playerId": 203400,
+      "name": "Diggins",
+      "share": 0,
+      "fg": 50,
+      "hot": false
+     },
+     {
+      "playerId": 1642292,
+      "name": "Sheldon",
+      "share": 0,
+      "fg": 0,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "C. Zandalasini takes 60% of GSV first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "GSV wins parsed opening tips at 50%, CHI at 64%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "C. Zandalasini has 3 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [],
+   "shots": null
+  },
+  {
+   "id": "1022600250",
+   "league": "wnba",
+   "tipEt": "10:00 pm ET",
+   "home": {
+    "tri": "PDX",
+    "name": "Portland Fire",
+    "teamId": 1611661327
+   },
+   "away": {
+    "tri": "MIN",
+    "name": "Minnesota Lynx",
+    "teamId": 1611661324
+   },
+   "tip": {
+    "homePlayer": "Gustafson",
+    "awayPlayer": "Howard",
+    "homeWinPct": 69
+   },
+   "topPick": {
+    "playerId": 203827,
+    "name": "Howard",
+    "side": "away",
+    "bookOdds": null,
+    "fairOdds": "+1135",
+    "rank": 1,
+    "share": 10,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1629524,
+      "name": "Carleton",
+      "share": 10,
+      "fg": 33,
+      "hot": false
+     },
+     {
+      "playerId": 1642296,
+      "name": "Puoch",
+      "share": 10,
+      "fg": 67,
+      "hot": false
+     },
+     {
+      "playerId": 1642782,
+      "name": "Barker",
+      "share": 10,
+      "fg": 50,
+      "hot": false
+     },
+     {
+      "playerId": 1642304,
+      "name": "Leite",
+      "share": 0,
+      "fg": 33,
+      "hot": false
+     },
+     {
+      "playerId": 1629484,
+      "name": "Gustafson",
+      "share": 0,
+      "fg": 50,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1643426,
+      "name": "Miles",
+      "share": 20,
+      "fg": 20,
+      "hot": false
+     },
+     {
+      "playerId": 203827,
+      "name": "Howard",
+      "share": 10,
+      "fg": 100,
+      "hot": true
+     },
+     {
+      "playerId": 1627675,
+      "name": "Williams",
+      "share": 10,
+      "fg": 100,
+      "hot": false
+     },
+     {
+      "playerId": 1628269,
+      "name": "Coffey",
+      "share": 0,
+      "fg": 50,
+      "hot": false
+     },
+     {
+      "playerId": 203825,
+      "name": "McBride",
+      "share": 0,
+      "fg": 0,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "N. Howard takes 10% of MIN first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "PDX wins parsed opening tips at 37%, MIN at 17%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "N. Howard has 3 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [],
+   "shots": null
+  }
+ ]
+}

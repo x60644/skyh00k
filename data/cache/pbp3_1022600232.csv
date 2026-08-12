@@ -1,0 +1,455 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600232,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:03 PM EST),period,start,1,0,1
+1022600232,4,PT10M00.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,Jump Ball DiLeo vs. Sabally: Tip to Allemand,Jump Ball,,1,0,2
+1022600232,7,PT09M41.00S,1,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+1022600232,7,PT09M41.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton STEAL (1 STL),,,1,0,4
+1022600232,9,PT09M34.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,-4,42,4,Missed,1,,,0,h,MISS Puoch 4' Running Layup,Missed Shot,Running Layup Shot,1,2,5
+1022600232,10,PT09M33.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,6
+1022600232,11,PT09M32.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,-6,1,Made,1,2,0,2,h,Engstler 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,7
+1022600232,12,PT09M14.00S,1,1611661332,TOR,1629576,Conde,M. Conde,135,217,26,Missed,1,,,0,v,MISS Conde 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+1022600232,13,PT09M09.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+1022600232,14,PT09M07.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,-156,178,24,Missed,1,,,0,h,MISS Carleton 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,10
+1022600232,15,PT09M04.00S,1,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+1022600232,16,PT08M54.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,12
+1022600232,16,PT08M54.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler STEAL (1 STL),,,1,0,13
+1022600232,18,PT08M50.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,15,15,2,Missed,1,,,0,h,MISS Puoch 2' Running Layup,Missed Shot,Running Layup Shot,1,2,14
+1022600232,19,PT08M46.00S,1,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,15
+1022600232,20,PT08M39.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,174,173,25,Made,1,2,3,5,v,Mabrey 25' 3PT Jump Shot (3 PTS) (Allemand 1 AST),Made Shot,Jump Shot,1,3,16
+1022600232,22,PT08M20.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,37,102,11,Missed,1,,,0,h,MISS Engstler 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,17
+1022600232,23,PT08M17.00S,1,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+1022600232,24,PT08M02.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0,19
+1022600232,25,PT07M52.00S,1,1611661327,PDX,1642304,Leite,C. Leite,-34,15,4,Made,1,4,3,7,h,Leite 4' Driving Finger Roll Layup (2 PTS) (Puoch 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,20
+1022600232,27,PT07M33.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,-172,189,26,Missed,1,,,0,v,MISS Juskaite 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,21
+1022600232,28,PT07M30.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+1022600232,29,PT07M21.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,151,43,16,Made,1,6,3,9,h,DiLeo 16' Jump Shot (2 PTS) (Engstler 1 AST),Made Shot,Jump Shot,1,2,23
+1022600232,31,PT07M04.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,-227,86,24,Made,1,6,6,12,v,Mabrey 24' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,24
+1022600232,32,PT06M50.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,10,256,26,Missed,1,,,0,h,MISS DiLeo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+1022600232,33,PT06M46.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+1022600232,34,PT06M42.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,40,282,28,Missed,1,,,0,v,MISS Mabrey 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,27
+1022600232,35,PT06M39.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,28
+1022600232,36,PT06M35.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,-39,13,4,Made,1,8,6,14,h,DiLeo 4' Running Layup (4 PTS) (Leite 1 AST),Made Shot,Running Layup Shot,1,2,29
+1022600232,38,PT06M16.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,33,13,4,Missed,1,,,0,v,MISS Juskaite 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,30
+1022600232,38,PT06M16.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo BLOCK (1 BLK),,,1,2,31
+1022600232,39,PT06M16.00S,1,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,32
+1022600232,42,PT06M14.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,-31,20,4,Made,1,8,8,16,v,Juskaite 4' Cutting Layup Shot (2 PTS) (Allemand 2 AST),Made Shot,Cutting Layup Shot,1,2,33
+1022600232,44,PT06M02.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,-55,43,7,Made,1,10,8,18,h,DiLeo 7' Driving Floating Bank Jump Shot (6 PTS) (Leite 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,34
+1022600232,45,PT05M51.00S,1,1611661332,TOR,1631055,Sabally,N. Sabally,34,18,4,Missed,1,,,0,v,MISS Sabally 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,35
+1022600232,46,PT05M48.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,36
+1022600232,47,PT05M43.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,3,50,5,Missed,1,,,0,h,MISS Engstler 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,37
+1022600232,48,PT05M40.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+1022600232,49,PT05M32.00S,1,1611661332,TOR,1629576,Conde,M. Conde,17,70,7,Made,1,10,10,20,v,Conde 7' Turnaround Fadeaway (2 PTS) (Allemand 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,39
+1022600232,51,PT05M12.00S,1,1611661327,PDX,1642304,Leite,C. Leite,-85,230,25,Made,1,13,10,23,h,Leite 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,40
+1022600232,52,PT05M04.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,-28,25,4,Made,1,13,12,25,v,Juskaite 4' Driving Layup (4 PTS) (Allemand 4 AST),Made Shot,Driving Layup Shot,1,2,41
+1022600232,54,PT05M04.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler S.FOUL (P1.T1),Foul,Shooting,1,0,42
+1022600232,56,PT05M04.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,SUB: Williams FOR Puoch,Substitution,,0,0,43
+1022600232,57,PT05M04.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,SUB: Winterburn FOR Engstler,Substitution,,0,0,44
+1022600232,58,PT05M04.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,SUB: Buhner FOR DiLeo,Substitution,,0,0,45
+1022600232,59,PT05M04.00S,1,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Rice FOR Conde,Substitution,,0,0,46
+1022600232,60,PT05M04.00S,1,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,SUB: Harrison FOR Sabally,Substitution,,0,0,47
+1022600232,66,PT05M04.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,13,13,26,v,Juskaite Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,48
+1022600232,67,PT04M56.00S,1,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,49
+1022600232,68,PT04M56.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,50
+1022600232,69,PT04M56.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Morrow FOR Juskaite,Substitution,,0,0,51
+1022600232,71,PT04M38.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,-39,55,7,Missed,1,,,0,v,MISS Morrow 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,52
+1022600232,72,PT04M37.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,53
+1022600232,73,PT04M36.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,0,-6,1,Made,1,13,15,28,v,Morrow 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,54
+1022600232,74,PT04M19.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,-34,22,4,Made,1,15,15,30,h,Winterburn 4' Driving Layup (2 PTS) (Leite 3 AST),Made Shot,Driving Layup Shot,1,2,55
+1022600232,77,PT04M08.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,-150,201,25,Missed,1,,,0,v,MISS Harrison 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+1022600232,78,PT04M05.00S,1,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,57
+1022600232,79,PT04M05.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,-55,281,29,Missed,1,,,0,v,MISS Mabrey 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+1022600232,80,PT04M01.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+1022600232,81,PT03M54.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,222,66,0,Missed,1,,,0,h,MISS Buhner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+1022600232,82,PT03M51.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,61
+1022600232,83,PT03M50.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,71,-1,7,Made,1,17,15,32,h,Buhner 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,62
+1022600232,84,PT03M24.00S,1,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,63
+1022600232,85,PT03M24.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,SUB: Harrison FOR Leite,Substitution,,0,0,64
+1022600232,86,PT03M24.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,SUB: Samuelson FOR Carleton,Substitution,,0,0,65
+1022600232,87,PT03M24.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Nurse FOR Mabrey,Substitution,,0,0,66
+1022600232,91,PT03M09.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,-143,225,27,Missed,1,,,0,h,MISS Winterburn 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+1022600232,92,PT03M05.00S,1,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,68
+1022600232,93,PT03M00.00S,1,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,Harrison P.FOUL (P1.T2),Foul,Personal,1,0,69
+1022600232,95,PT03M00.00S,1,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,SUB: Conde FOR Allemand,Substitution,,0,0,70
+1022600232,97,PT02M45.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,-59,24,6,Missed,1,,,0,v,MISS Harrison 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,71
+1022600232,98,PT02M42.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,72
+1022600232,99,PT02M39.00S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,73
+1022600232,100,PT02M21.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,-15,40,4,Made,1,17,17,34,v,Harrison 4' Turnaround Hook Shot (2 PTS) (Nurse 1 AST),Made Shot,Turnaround Hook Shot,1,2,74
+1022600232,102,PT02M21.00S,1,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P1.T3),Foul,Shooting,1,0,75
+1022600232,104,PT02M21.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,17,18,35,v,Harrison Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,76
+1022600232,105,PT02M01.00S,1,1611661327,PDX,1643436,Williams,S. Williams,9,97,10,Missed,1,,,0,h,MISS Williams 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,77
+1022600232,106,PT01M58.00S,1,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+1022600232,107,PT01M51.00S,1,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P2.T4),Foul,Shooting,1,0,79
+1022600232,109,PT01M51.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,17,19,36,v,Harrison Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,80
+1022600232,110,PT01M51.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,SUB: Engstler FOR Buhner,Substitution,,0,0,81
+1022600232,111,PT01M51.00S,1,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: DiLeo FOR Williams,Substitution,,0,0,82
+1022600232,114,PT01M51.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,17,20,37,v,Harrison Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,83
+1022600232,115,PT01M37.00S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,205,129,24,Made,1,20,20,40,h,Samuelson 24' 3PT Jump Shot (3 PTS) (Winterburn 1 AST),Made Shot,Jump Shot,1,3,84
+1022600232,117,PT01M23.00S,1,1611661332,TOR,1628915,Nurse,K. Nurse,-232,-8,0,Made,1,20,23,43,v,Nurse 3PT Jump Shot (3 PTS) (Morrow 1 AST),Made Shot,Jump Shot,1,3,85
+1022600232,119,PT01M04.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler Offensive Charge Foul (P2),Foul,Offensive Charge,1,0,86
+1022600232,121,PT01M04.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,87
+1022600232,122,PT00M53.10S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,1,0,88
+1022600232,123,PT00M53.10S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,SUB: Leite FOR Winterburn,Substitution,,0,0,89
+1022600232,125,PT00M41.60S,1,1611661327,PDX,1643527,Harrison,J. Harrison,110,225,25,Made,1,23,23,46,h,Harrison 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,90
+1022600232,126,PT00M31.90S,1,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,v,Harrison Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,91
+1022600232,127,PT00M31.90S,1,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,SUB: Carleton FOR Harrison,Substitution,,0,0,92
+1022600232,128,PT00M31.90S,1,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,SUB: Allemand FOR Nurse,Substitution,,0,0,93
+1022600232,131,PT00M20.80S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,5,44,4,Made,1,25,23,48,h,DiLeo 4' Cutting Finger Roll Layup Shot (8 PTS) (Leite 4 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,94
+1022600232,133,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,23,48,,End of 1st Period (10:21 PM EST),period,end,1,0,95
+1022600232,140,PT10M00.00S,2,0,,0,,,0,0,0,,0,25,23,48,,Start of 2nd Period (10:25 PM EST),period,start,0,0,96
+1022600232,141,PT09M38.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,43,103,11,Missed,1,,,0,h,MISS Carleton 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,97
+1022600232,142,PT09M36.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,98
+1022600232,143,PT09M35.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,-6,1,Made,1,27,23,50,h,Engstler 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,99
+1022600232,144,PT09M10.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,223,83,24,Missed,1,,,0,v,MISS Juskaite 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,100
+1022600232,145,PT09M05.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,101
+1022600232,146,PT09M00.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,-32,15,4,Made,1,29,23,52,h,Carleton 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,102
+1022600232,147,PT08M47.00S,2,1611661332,TOR,1627700,Allemand,J. Allemand,44,18,5,Made,1,29,25,54,v,Allemand 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,103
+1022600232,148,PT08M31.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,223,68,0,Made,1,32,25,57,h,Engstler 3PT Jump Shot (7 PTS) (Leite 5 AST),Made Shot,Jump Shot,1,3,104
+1022600232,150,PT08M13.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,35,9,4,Made,1,32,27,59,v,Juskaite 4' Driving Layup (7 PTS) (Sabally 1 AST),Made Shot,Driving Layup Shot,1,2,105
+1022600232,151,PT08M06.00S,2,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand S.FOUL (P1.T1),Foul,Shooting,1,0,106
+1022600232,153,PT08M06.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,33,27,60,h,Leite Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,107
+1022600232,154,PT08M06.00S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,SUB: Winterburn FOR Samuelson,Substitution,,0,0,108
+1022600232,155,PT08M06.00S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Fagbenle FOR Conde,Substitution,,0,0,109
+1022600232,158,PT08M06.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,34,27,61,h,Leite Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,110
+1022600232,159,PT07M57.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey OFF.Foul (P1),Foul,Offensive,1,0,111
+1022600232,161,PT07M57.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,112
+1022600232,162,PT07M57.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,SUB: Buhner FOR Engstler,Substitution,,0,0,113
+1022600232,165,PT07M42.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,-224,20,0,Missed,1,,,0,h,MISS DiLeo 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+1022600232,166,PT07M38.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+1022600232,167,PT07M35.00S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,Winterburn P.FOUL (P1.T1),Foul,Personal,1,0,116
+1022600232,169,PT07M25.00S,2,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,-37,25,4,Missed,1,,,0,v,MISS Fagbenle 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,117
+1022600232,170,PT07M24.00S,2,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,118
+1022600232,172,PT07M21.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite P.FOUL (P1.T2),Foul,Personal,1,0,119
+1022600232,174,PT07M11.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,-233,-4,0,Missed,1,,,0,v,MISS Sabally 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+1022600232,175,PT07M10.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,121
+1022600232,176,PT07M09.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,-7,30,3,Missed,1,,,0,v,MISS Juskaite 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,122
+1022600232,177,PT07M06.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,123
+1022600232,178,PT06M59.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,20,13,2,Missed,1,,,0,h,MISS Carleton 2' Running Layup,Missed Shot,Running Layup Shot,1,2,124
+1022600232,179,PT06M59.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,125
+1022600232,180,PT06M49.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,32,15,4,Missed,1,,,0,v,MISS Mabrey 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,126
+1022600232,181,PT06M45.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,127
+1022600232,182,PT06M37.00S,2,1611661327,PDX,1642304,Leite,C. Leite,-32,122,13,Missed,1,,,0,h,MISS Leite 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,128
+1022600232,183,PT06M34.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,129
+1022600232,184,PT06M23.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,-28,58,6,Made,1,34,29,63,v,Sabally 6' Floating Jump Shot (2 PTS) (Allemand 5 AST),Made Shot,Floating Jump shot,1,2,130
+1022600232,186,PT06M07.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,148,197,25,Missed,1,,,0,h,MISS Buhner 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+1022600232,187,PT06M06.00S,2,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,1,0,132
+1022600232,188,PT06M06.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo L.B.FOUL (P1.T3),Foul,Loose Ball,1,0,133
+1022600232,190,PT06M06.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,SUB: Puoch FOR Leite,Substitution,,0,0,134
+1022600232,191,PT06M06.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,SUB: Harrison FOR Carleton,Substitution,,0,0,135
+1022600232,192,PT06M06.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,SUB: Williams FOR DiLeo,Substitution,,0,0,136
+1022600232,196,PT05M55.00S,2,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P3.T4),Foul,Shooting,1,0,137
+1022600232,198,PT05M55.00S,2,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,138
+1022600232,199,PT05M55.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,34,30,64,v,Sabally Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,139
+1022600232,200,PT05M55.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,34,31,65,v,Sabally Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,140
+1022600232,201,PT05M39.00S,2,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand S.FOUL (P2.T2),Foul,Shooting,1,0,141
+1022600232,203,PT05M39.00S,2,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,35,31,66,h,Harrison Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,142
+1022600232,204,PT05M39.00S,2,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,MISS Harrison Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,143
+1022600232,205,PT05M36.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,144
+1022600232,206,PT05M22.00S,2,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,27,14,3,Missed,1,,,0,v,MISS Fagbenle 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,145
+1022600232,207,PT05M19.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,146
+1022600232,208,PT05M01.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,92,221,24,Made,1,38,31,69,h,Buhner 24' 3PT Jump Shot (5 PTS) (Harrison 1 AST),Made Shot,Jump Shot,1,3,147
+1022600232,210,PT04M58.00S,2,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,148
+1022600232,211,PT04M58.00S,2,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,SUB: Morrow FOR Sabally,Substitution,,0,0,149
+1022600232,212,PT04M58.00S,2,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,v,SUB: Harrison FOR Fagbenle,Substitution,,0,0,150
+1022600232,215,PT04M45.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,151
+1022600232,215,PT04M45.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch STEAL (1 STL),,,1,0,152
+1022600232,217,PT04M40.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,-27,9,3,Made,1,40,31,71,h,Puoch 3' Running Layup (2 PTS) (Harrison 2 AST),Made Shot,Running Layup Shot,1,2,153
+1022600232,219,PT04M25.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,4,46,5,Made,1,40,33,73,v,Harrison 5' Cutting Layup Shot (7 PTS) (Allemand 6 AST),Made Shot,Cutting Layup Shot,1,2,154
+1022600232,221,PT04M07.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,-36,21,4,Made,1,42,33,75,h,Buhner 4' Turnaround Hook Shot (7 PTS) (Harrison 3 AST),Made Shot,Turnaround Hook Shot,1,2,155
+1022600232,223,PT03M59.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler T.FOUL (P2.T4),Foul,Technical,1,0,156
+1022600232,224,PT03M59.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,MISS Mabrey Free Throw Technical,Free Throw,Free Throw Technical,1,0,157
+1022600232,225,PT03M59.00S,2,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Normal Rebound,1,0,158
+1022600232,226,PT03M59.00S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,SUB: Leite FOR Winterburn,Substitution,,0,0,159
+1022600232,227,PT03M59.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Conde FOR Mabrey,Substitution,,0,0,160
+1022600232,228,PT03M59.00S,2,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,SUB: Rice FOR Allemand,Substitution,,0,0,161
+1022600232,232,PT03M47.00S,2,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h, ,Jump Ball,,0,0,162
+1022600232,236,PT03M42.00S,2,1611661332,TOR,1629576,Conde,M. Conde,156,9,16,Made,1,42,35,77,v,Conde 16' Jump Shot (4 PTS) (Rice 1 AST),Made Shot,Jump Shot,1,2,163
+1022600232,238,PT03M29.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,155,193,25,Made,1,45,35,80,h,Buhner 25' 3PT Jump Shot (10 PTS) (Harrison 4 AST),Made Shot,Jump Shot,1,3,164
+1022600232,240,PT03M16.00S,2,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,Harrison S.FOUL (P2.PN),Foul,Shooting,1,0,165
+1022600232,245,PT03M16.00S,2,0,,240,Thompson,B. Thompson,0,0,0,,0,45,35,80,,Instant Replay2nd Period (10:45 PM EST),Instant Replay,Ruling Stands,0,0,166
+1022600232,246,PT03M16.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,v,MISS Harrison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,167
+1022600232,247,PT03M16.00S,2,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Normal Rebound,1,0,168
+1022600232,248,PT03M16.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,SUB: Carleton FOR Puoch,Substitution,,0,0,169
+1022600232,249,PT03M16.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Nurse FOR Juskaite,Substitution,,0,0,170
+1022600232,259,PT03M16.00S,2,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: DiLeo FOR Williams,Substitution,,0,0,171
+1022600232,252,PT03M16.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,45,36,81,v,Harrison Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,172
+1022600232,253,PT03M06.00S,2,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,Harrison Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,173
+1022600232,253,PT03M06.00S,2,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow STEAL (1 STL),,,1,0,174
+1022600232,255,PT03M03.00S,2,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,175
+1022600232,255,PT03M03.00S,2,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,Harrison STEAL (1 STL),,,1,0,176
+1022600232,257,PT02M52.00S,2,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,Nurse S.FOUL (P1.T3),Foul,Shooting,1,0,177
+1022600232,261,PT02M52.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,MISS Leite Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,178
+1022600232,262,PT02M52.00S,2,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Normal Rebound,0,0,179
+1022600232,263,PT02M52.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,46,36,82,h,Leite Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,1,0,180
+1022600232,264,PT02M52.00S,2,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,SUB: Samuelson FOR Harrison,Substitution,,0,0,181
+1022600232,265,PT02M52.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,SUB: Engstler FOR Buhner,Substitution,,0,0,182
+1022600232,266,PT02M52.00S,2,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,SUB: Allemand FOR Nurse,Substitution,,0,0,183
+1022600232,270,PT02M52.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,47,36,83,h,Leite Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,1,0,184
+1022600232,271,PT02M28.00S,2,1611661332,TOR,1629576,Conde,M. Conde,-12,83,8,Missed,1,,,0,v,MISS Conde 8' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,185
+1022600232,272,PT02M24.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,186
+1022600232,273,PT02M19.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite OFF.Foul (P2),Foul,Offensive,1,0,187
+1022600232,275,PT02M19.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,188
+1022600232,276,PT02M15.00S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde OFF.Foul (P1),Foul,Offensive,0,0,189
+1022600232,278,PT02M15.00S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,190
+1022600232,279,PT02M05.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,-91,233,25,Missed,1,,,0,h,MISS Carleton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,191
+1022600232,280,PT02M02.00S,2,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,192
+1022600232,281,PT01M53.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,-20,44,5,Missed,1,,,0,v,MISS Harrison 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,193
+1022600232,282,PT01M51.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,194
+1022600232,283,PT01M45.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,-40,4,4,Made,1,49,36,85,h,DiLeo 4' Cutting Layup Shot (10 PTS) (Engstler 2 AST),Made Shot,Cutting Layup Shot,1,2,195
+1022600232,285,PT01M25.00S,2,1611661332,TOR,1629576,Conde,M. Conde,-232,68,24,Missed,1,,,0,v,MISS Conde 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,196
+1022600232,286,PT01M21.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,v,Harrison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,197
+1022600232,287,PT01M20.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,-40,36,5,Missed,1,,,0,v,MISS Harrison 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,198
+1022600232,288,PT01M20.00S,2,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Unknown,1,0,199
+1022600232,289,PT01M20.00S,2,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow L.B.FOUL (P1.T4),Foul,Loose Ball,1,0,200
+1022600232,291,PT01M03.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,201
+1022600232,291,PT01M03.00S,2,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand STEAL (1 STL),,,1,0,202
+1022600232,293,PT00M49.80S,2,1611661332,TOR,1627700,Allemand,J. Allemand,-117,228,26,Missed,1,,,0,v,MISS Allemand 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+1022600232,294,PT00M47.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,204
+1022600232,295,PT00M43.00S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,-195,163,25,Missed,1,,,0,h,MISS Samuelson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,205
+1022600232,296,PT00M39.60S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,206
+1022600232,298,PT00M29.30S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,207
+1022600232,299,PT00M12.80S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite S.FOUL (P3.PN),Foul,Shooting,1,0,208
+1022600232,301,PT00M12.80S,2,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,MISS Morrow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,209
+1022600232,302,PT00M12.80S,2,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Normal Rebound,0,0,210
+1022600232,303,PT00M12.80S,2,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,49,37,86,v,Morrow Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,211
+1022600232,304,PT00M01.70S,2,1611661327,PDX,1642304,Leite,C. Leite,39,194,20,Made,1,51,37,88,h,Leite 20' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,2,212
+1022600232,305,PT00M00.00S,2,0,,0,,,0,0,0,,0,51,37,88,,End of 2nd Period (10:53 PM EST),period,end,1,0,213
+1022600232,314,PT10M00.00S,3,0,,0,,,0,0,0,,0,51,37,88,,Start of 3rd Period (11:09 PM EST),period,start,0,0,214
+1022600232,315,PT09M38.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,-117,224,25,Made,1,54,37,91,h,Carleton 25' 3PT Turnaround Jump Shot (5 PTS) (Leite 6 AST),Made Shot,Turnaround Jump Shot,1,3,215
+1022600232,317,PT09M25.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,-38,11,4,Missed,1,,,0,v,MISS Juskaite 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,216
+1022600232,318,PT09M21.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,217
+1022600232,319,PT09M18.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,32,15,4,Made,1,56,37,93,h,Puoch 4' Running Layup (4 PTS) (Leite 7 AST),Made Shot,Running Layup Shot,1,2,218
+1022600232,321,PT09M04.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,18,20,3,Missed,1,,,0,v,MISS Sabally 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,219
+1022600232,322,PT09M03.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,220
+1022600232,323,PT09M00.00S,3,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand S.FOUL (P3.T1),Foul,Shooting,1,0,221
+1022600232,325,PT09M00.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,57,37,94,h,Leite Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,222
+1022600232,326,PT09M00.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,58,37,95,h,Leite Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,223
+1022600232,327,PT08M48.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,-230,5,0,Missed,1,,,0,v,MISS Juskaite 3PT Jump Shot,Missed Shot,Jump Shot,1,3,224
+1022600232,328,PT08M45.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,225
+1022600232,329,PT08M38.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,225,66,0,Missed,1,,,0,h,MISS Puoch 3PT Jump Shot,Missed Shot,Jump Shot,1,3,226
+1022600232,330,PT08M35.00S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,227
+1022600232,331,PT08M22.00S,3,1611661332,TOR,1627700,Allemand,J. Allemand,228,59,24,Made,1,58,40,98,v,Allemand 24' 3PT Jump Shot (5 PTS) (Juskaite 1 AST),Made Shot,Jump Shot,1,3,228
+1022600232,333,PT08M09.00S,3,1611661327,PDX,1642304,Leite,C. Leite,50,8,5,Missed,1,,,0,h,MISS Leite 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,229
+1022600232,333,PT08M09.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite BLOCK (1 BLK),,,1,2,230
+1022600232,335,PT08M09.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,231
+1022600232,337,PT07M58.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,-28,43,5,Missed,1,,,0,v,MISS Sabally 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,232
+1022600232,338,PT07M57.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,233
+1022600232,340,PT07M51.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-235,54,24,Missed,1,,,0,v,MISS Mabrey 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+1022600232,340,PT07M51.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch BLOCK (1 BLK),,,1,3,235
+1022600232,342,PT07M51.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,236
+1022600232,344,PT07M41.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,-100,6,10,Missed,1,,,0,v,MISS Sabally 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,237
+1022600232,345,PT07M39.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,238
+1022600232,346,PT07M39.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton S.FOUL (P1.T1),Foul,Shooting,1,0,239
+1022600232,348,PT07M39.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,58,41,99,v,Sabally Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,240
+1022600232,349,PT07M39.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,58,42,100,v,Sabally Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,241
+1022600232,350,PT07M21.00S,3,1611661327,PDX,1642304,Leite,C. Leite,33,8,3,Made,1,60,42,102,h,Leite 3' Driving Finger Roll Layup (15 PTS) (DiLeo 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,242
+1022600232,352,PT07M12.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-167,192,25,Missed,1,,,0,v,MISS Mabrey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+1022600232,353,PT07M08.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,244
+1022600232,354,PT07M06.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-228,9,0,Made,1,60,45,105,v,Mabrey 3PT Jump Shot (9 PTS) (Juskaite 2 AST),Made Shot,Jump Shot,1,3,245
+1022600232,356,PT06M47.00S,3,1611661327,PDX,1642304,Leite,C. Leite,117,228,26,Made,1,63,45,108,h,Leite 26' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3,246
+1022600232,357,PT06M34.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,-38,9,4,Made,1,63,47,110,v,Sabally 4' Cutting Layup Shot (8 PTS) (Juskaite 3 AST),Made Shot,Cutting Layup Shot,1,2,247
+1022600232,359,PT06M21.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,-44,243,25,Missed,1,,,0,h,MISS Carleton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+1022600232,360,PT06M17.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,249
+1022600232,361,PT06M14.00S,3,1611661332,TOR,1629576,Conde,M. Conde,13,16,2,Missed,1,,,0,v,MISS Conde 2' Running Layup,Missed Shot,Running Layup Shot,1,2,250
+1022600232,361,PT06M14.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton BLOCK (1 BLK),,,1,2,251
+1022600232,363,PT06M11.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,252
+1022600232,364,PT06M08.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite S.FOUL (P1.T2),Foul,Shooting,1,0,253
+1022600232,366,PT06M08.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,64,47,111,h,DiLeo Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,254
+1022600232,367,PT06M08.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,SUB: Buhner FOR Engstler,Substitution,,0,0,255
+1022600232,369,PT06M08.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,MISS DiLeo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,256
+1022600232,370,PT06M06.00S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,257
+1022600232,371,PT06M00.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,-36,7,4,Missed,1,,,0,v,MISS Juskaite 4' Running Layup,Missed Shot,Running Layup Shot,1,2,258
+1022600232,372,PT05M57.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,259
+1022600232,373,PT05M47.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,11,23,3,Made,1,66,47,113,h,DiLeo 3' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,260
+1022600232,374,PT05M47.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,261
+1022600232,375,PT05M47.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,SUB: Harrison FOR Leite,Substitution,,0,0,262
+1022600232,376,PT05M47.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,SUB: Williams FOR DiLeo,Substitution,,0,0,263
+1022600232,377,PT05M47.00S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,SUB: Rice FOR Conde,Substitution,,0,0,264
+1022600232,381,PT05M26.00S,3,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P4.T2),Foul,Shooting,1,0,265
+1022600232,383,PT05M26.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,MISS Juskaite Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,266
+1022600232,384,PT05M26.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Normal Rebound,0,0,267
+1022600232,385,PT05M26.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,66,48,114,v,Juskaite Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,268
+1022600232,386,PT05M04.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite S.FOUL (P2.T3),Foul,Shooting,1,0,269
+1022600232,388,PT05M04.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,67,48,115,h,Carleton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,270
+1022600232,389,PT05M04.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,SUB: Winterburn FOR Puoch,Substitution,,0,0,271
+1022600232,391,PT05M04.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,68,48,116,h,Carleton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,272
+1022600232,392,PT04M59.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite OFF.Foul (P3),Foul,Offensive,1,0,273
+1022600232,394,PT04M59.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,274
+1022600232,395,PT04M59.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,SUB: Samuelson FOR Carleton,Substitution,,0,0,275
+1022600232,397,PT04M35.00S,3,1611661327,PDX,1643436,Williams,S. Williams,28,11,3,Made,1,70,48,118,h,Williams 3' Layup (2 PTS) (Winterburn 2 AST),Made Shot,Layup Shot,1,2,276
+1022600232,399,PT04M23.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner S.FOUL (P1.T3),Foul,Shooting,1,0,277
+1022600232,401,PT04M23.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,70,49,119,v,Sabally Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,278
+1022600232,402,PT04M23.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,MISS Sabally Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,279
+1022600232,403,PT04M20.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,280
+1022600232,404,PT04M00.00S,3,1611661327,PDX,1643527,Harrison,J. Harrison,161,203,26,Made,1,73,49,122,h,Harrison 26' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,3,281
+1022600232,405,PT03M46.00S,3,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,282
+1022600232,405,PT03M46.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,Winterburn STEAL (1 STL),,,1,0,283
+1022600232,407,PT03M42.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,Winterburn Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,284
+1022600232,408,PT03M42.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,SUB: Nurse FOR Juskaite,Substitution,,0,0,285
+1022600232,409,PT03M42.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Conde FOR Mabrey,Substitution,,0,0,286
+1022600232,410,PT03M42.00S,3,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,SUB: Morrow FOR Sabally,Substitution,,0,0,287
+1022600232,411,PT03M42.00S,3,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,SUB: Harrison FOR Allemand,Substitution,,0,0,288
+1022600232,416,PT03M28.00S,3,1611661332,TOR,1629576,Conde,M. Conde,-41,10,4,Made,1,73,51,124,v,Conde 4' Reverse Layup (6 PTS) (Harrison 1 AST),Made Shot,Reverse Layup Shot,1,2,289
+1022600232,418,PT03M16.00S,3,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,Harrison Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,290
+1022600232,418,PT03M16.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow STEAL (2 STL),,,1,0,291
+1022600232,420,PT03M00.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,v,Harrison Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,292
+1022600232,420,PT03M00.00S,3,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,Harrison STEAL (2 STL),,,1,0,293
+1022600232,422,PT03M00.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,v,Harrison Transition Take Foul (P1.T4),Foul,Transition Take,1,0,294
+1022600232,424,PT03M00.00S,3,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,74,51,125,h,Harrison Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,295
+1022600232,425,PT03M00.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,SUB: Engstler FOR Buhner,Substitution,,0,0,296
+1022600232,427,PT02M47.00S,3,1611661327,PDX,1643527,Harrison,J. Harrison,222,-3,0,Missed,1,,,0,h,MISS Harrison 3PT Jump Shot,Missed Shot,Jump Shot,1,3,297
+1022600232,428,PT02M44.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,v,Harrison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,298
+1022600232,429,PT02M44.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,v,Harrison Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,299
+1022600232,430,PT02M42.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,30,9,3,Made,1,76,51,127,h,Winterburn 3' Cutting Layup Shot (4 PTS) (Samuelson 1 AST),Made Shot,Cutting Layup Shot,1,2,300
+1022600232,432,PT02M30.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,301
+1022600232,433,PT02M30.00S,3,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,SUB: Carleton FOR Harrison,Substitution,,0,0,302
+1022600232,436,PT02M19.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,-197,174,26,Missed,1,,,0,v,MISS Nurse 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,303
+1022600232,437,PT02M19.00S,3,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Unknown,0,0,304
+1022600232,439,PT02M01.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,-29,111,11,Missed,1,,,0,h,MISS Carleton 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,305
+1022600232,440,PT01M58.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,306
+1022600232,441,PT01M46.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,227,0,0,Missed,1,,,0,v,MISS Nurse 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+1022600232,442,PT01M45.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,Nurse REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,308
+1022600232,443,PT01M45.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler S.FOUL (P3.T4),Foul,Shooting,1,0,309
+1022600232,445,PT01M45.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,v,MISS Nurse Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,310
+1022600232,446,PT01M45.00S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Normal Rebound,0,0,311
+1022600232,447,PT01M45.00S,3,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: Leite FOR Williams,Substitution,,0,0,312
+1022600232,448,PT01M45.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,SUB: DiLeo FOR Winterburn,Substitution,,0,0,313
+1022600232,451,PT01M45.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,76,52,128,v,Nurse Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,314
+1022600232,452,PT01M26.00S,3,1611661327,PDX,1628317,Samuelson,K. Samuelson,-218,152,27,Made,1,79,52,131,h,Samuelson 27' 3PT Jump Shot (6 PTS) (Leite 8 AST),Made Shot,Jump Shot,1,3,315
+1022600232,454,PT01M19.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,24,17,3,Made,1,79,54,133,v,Morrow 3' Cutting Layup Shot (5 PTS) (Conde 1 AST),Made Shot,Cutting Layup Shot,1,2,316
+1022600232,456,PT01M02.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,317
+1022600232,456,PT01M02.00S,3,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde STEAL (1 STL),,,1,0,318
+1022600232,458,PT00M58.10S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite S.FOUL (P4.PN),Foul,Shooting,1,0,319
+1022600232,460,PT00M58.10S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,79,55,134,v,Rice Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,320
+1022600232,461,PT00M58.10S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,79,56,135,v,Rice Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,321
+1022600232,462,PT00M50.10S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice P.FOUL (P1.PN),Foul,Personal,1,0,322
+1022600232,464,PT00M50.10S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,80,56,136,h,Leite Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,323
+1022600232,465,PT00M50.10S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,81,56,137,h,Leite Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,324
+1022600232,466,PT00M40.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,Rice Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,325
+1022600232,467,PT00M25.90S,3,1611661327,PDX,1642304,Leite,C. Leite,47,15,5,Missed,1,,,0,h,MISS Leite 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,326
+1022600232,468,PT00M23.70S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,327
+1022600232,469,PT00M19.60S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler S.FOUL (P4.PN),Foul,Shooting,1,0,328
+1022600232,471,PT00M19.60S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,MISS Morrow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,329
+1022600232,472,PT00M19.60S,3,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Normal Rebound,0,0,330
+1022600232,473,PT00M19.60S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,MISS Morrow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,331
+1022600232,474,PT00M17.60S,3,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,v,Harrison REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,332
+1022600232,475,PT00M06.00S,3,1611661332,TOR,1643445,Rice,K. Rice,-130,252,28,Made,1,81,59,140,v,Rice 28' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,333
+1022600232,476,PT00M01.10S,3,1611661327,PDX,1642304,Leite,C. Leite,-13,459,46,Missed,1,,,0,h,MISS Leite 46' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,334
+1022600232,477,PT00M01.10S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,Engstler REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,335
+1022600232,516,PT00M00.00S,3,0,,0,,,0,0,0,,0,81,59,140,,Instant Replay3rd Period (11:34 PM EST),Instant Replay,Ruling Stands,0,0,336
+1022600232,478,PT00M00.00S,3,0,,0,,,0,0,0,,0,81,59,140,,End of 3rd Period (11:34 PM EST),period,end,1,0,337
+1022600232,483,PT10M00.00S,4,0,,0,,,0,0,0,,0,81,59,140,,Start of 4th Period (11:37 PM EST),period,start,0,0,338
+1022600232,484,PT09M49.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow OFF.Foul (P2),Foul,Offensive,1,0,339
+1022600232,486,PT09M49.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,340
+1022600232,487,PT09M36.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,185,162,25,Made,1,84,59,143,h,Carleton 25' 3PT Jump Shot (10 PTS) (Leite 9 AST),Made Shot,Jump Shot,1,3,341
+1022600232,489,PT09M18.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,-193,168,26,Missed,1,,,0,v,MISS Mabrey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,342
+1022600232,490,PT09M17.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Unknown,0,0,343
+1022600232,492,PT08M58.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,38,14,4,Missed,1,,,0,h,MISS DiLeo 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,344
+1022600232,492,PT08M58.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow BLOCK (1 BLK),,,1,2,345
+1022600232,494,PT08M55.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,346
+1022600232,495,PT08M53.00S,4,1611661332,TOR,1627700,Allemand,J. Allemand,-188,179,26,Made,1,84,62,146,v,Allemand 26' 3PT Running Jump Shot (8 PTS) (Mabrey 1 AST),Made Shot,Running Jump Shot,1,3,347
+1022600232,497,PT08M42.00S,4,1611661327,PDX,1642304,Leite,C. Leite,-126,226,26,Missed,1,,,0,h,MISS Leite 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,348
+1022600232,498,PT08M39.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,349
+1022600232,500,PT08M39.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,v,SUB: Sabally FOR Harrison,Substitution,,0,0,350
+1022600232,502,PT08M25.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,-229,13,0,Missed,1,,,0,v,MISS Morrow 3PT Jump Shot,Missed Shot,Jump Shot,1,3,351
+1022600232,503,PT08M20.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,352
+1022600232,504,PT08M11.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey S.FOUL (P2.T1),Foul,Shooting,1,0,353
+1022600232,506,PT08M11.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,85,62,147,h,Leite Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,354
+1022600232,507,PT08M11.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,v,SUB: Juskaite FOR Rice,Substitution,,0,0,355
+1022600232,509,PT08M11.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,MISS Leite Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,356
+1022600232,510,PT08M08.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,357
+1022600232,511,PT07M59.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,112,138,18,Made,1,85,64,149,v,Morrow 18' Jump Shot (7 PTS) (Allemand 7 AST),Made Shot,Jump Shot,1,2,358
+1022600232,513,PT07M48.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,Mabrey S.FOUL (P3.T2),Foul,Shooting,1,0,359
+1022600232,515,PT07M48.00S,4,0,,513,,,0,0,0,,0,85,64,149,,Instant Replay4th Period (11:42 PM EST),Instant Replay,Ruling Stands,0,0,360
+1022600232,517,PT07M48.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,h,SUB: Buhner FOR Engstler,Substitution,,0,0,361
+1022600232,518,PT07M48.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,SUB: Puoch FOR Samuelson,Substitution,,0,0,362
+1022600232,521,PT07M48.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,86,64,150,h,Leite Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+1022600232,522,PT07M48.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,87,64,151,h,Leite Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,364
+1022600232,523,PT07M35.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,-28,9,3,Made,1,87,66,153,v,Sabally 3' Cutting Layup Shot (11 PTS) (Allemand 8 AST),Made Shot,Cutting Layup Shot,1,2,365
+1022600232,525,PT07M22.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,29,13,3,Made,1,89,66,155,h,Puoch 3' Cutting Layup Shot (6 PTS) (DiLeo 2 AST),Made Shot,Cutting Layup Shot,1,2,366
+1022600232,527,PT07M07.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,v,Juskaite Bad Pass Turnover (P3.T17),Turnover,Bad Pass,1,0,367
+1022600232,527,PT07M07.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,Puoch STEAL (2 STL),,,1,0,368
+1022600232,529,PT07M02.00S,4,1611661327,PDX,1642304,Leite,C. Leite,-167,184,25,Missed,1,,,0,h,MISS Leite 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,369
+1022600232,530,PT06M58.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,370
+1022600232,531,PT06M58.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,-6,1,Missed,1,,,0,h,MISS DiLeo 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,371
+1022600232,533,PT06M58.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Rebound,Rebound,Unknown,0,0,372
+1022600232,534,PT06M58.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo L.B.FOUL (P2.T1),Foul,Loose Ball,1,0,373
+1022600232,536,PT06M58.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,SUB: Winterburn FOR Carleton,Substitution,,0,0,374
+1022600232,537,PT06M58.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,SUB: Williams FOR DiLeo,Substitution,,0,0,375
+1022600232,538,PT06M58.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,v,SUB: Conde FOR Mabrey,Substitution,,0,0,376
+1022600232,542,PT06M48.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,-93,228,25,Made,1,89,69,158,v,Sabally 25' 3PT Jump Shot (14 PTS) (Allemand 9 AST),Made Shot,Jump Shot,1,3,377
+1022600232,544,PT06M31.00S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,Winterburn Traveling Turnover (P2.T11),Turnover,Traveling,1,0,378
+1022600232,545,PT06M20.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,20,25,3,Made,1,89,71,160,v,Sabally 3' Cutting Layup Shot (16 PTS) (Allemand 10 AST),Made Shot,Cutting Layup Shot,1,2,379
+1022600232,547,PT06M20.00S,4,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,Buhner S.FOUL (P2.T2),Foul,Shooting,1,0,380
+1022600232,549,PT06M20.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,SUB: Harrison FOR Leite,Substitution,,0,0,381
+1022600232,551,PT06M20.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,89,72,161,v,Sabally Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,382
+1022600232,552,PT06M03.00S,4,1611661327,PDX,1643436,Williams,S. Williams,45,14,5,Missed,1,,,0,h,MISS Williams 5' Layup,Missed Shot,Layup Shot,1,2,383
+1022600232,552,PT06M03.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally BLOCK (1 BLK),,,1,2,384
+1022600232,554,PT06M02.00S,4,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,385
+1022600232,556,PT05M58.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,386
+1022600232,557,PT05M53.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,-139,200,24,Missed,1,,,0,v,MISS Sabally 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,387
+1022600232,558,PT05M48.00S,4,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,388
+1022600232,559,PT05M47.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,-179,189,26,Missed,1,,,0,v,MISS Juskaite 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,389
+1022600232,560,PT05M43.00S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,Winterburn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,390
+1022600232,561,PT05M33.00S,4,1611661327,PDX,1643436,Williams,S. Williams,-16,25,3,Missed,1,,,0,h,MISS Williams 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,391
+1022600232,562,PT05M30.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,392
+1022600232,563,PT05M27.00S,4,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,Harrison P.FOUL (P3.T3),Foul,Personal,1,0,393
+1022600232,565,PT05M21.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,-93,237,25,Missed,1,,,0,v,MISS Sabally 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+1022600232,566,PT05M17.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,395
+1022600232,567,PT05M07.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,22,81,8,Made,1,89,74,163,v,Juskaite 8' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,1,2,396
+1022600232,568,PT04M53.00S,4,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,Harrison Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,397
+1022600232,568,PT04M53.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally STEAL (1 STL),,,1,0,398
+1022600232,572,PT04M47.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,28,37,5,Made,1,89,76,165,v,Morrow 5' Cutting Layup Shot (9 PTS) (Allemand 11 AST),Made Shot,Cutting Layup Shot,1,2,399
+1022600232,574,PT04M47.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,400
+1022600232,575,PT04M47.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,h,SUB: Leite FOR Williams,Substitution,,0,0,401
+1022600232,576,PT04M47.00S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,h,SUB: DiLeo FOR Winterburn,Substitution,,0,0,402
+1022600232,577,PT04M47.00S,4,1611661327,PDX,1643527,Harrison,J. Harrison,0,0,0,,0,,,0,h,SUB: Carleton FOR Harrison,Substitution,,0,0,403
+1022600232,581,PT04M33.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,0,404
+1022600232,581,PT04M33.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,Sabally STEAL (2 STL),,,1,0,405
+1022600232,583,PT04M23.00S,4,1611661332,TOR,1631055,Sabally,N. Sabally,-117,7,12,Missed,1,,,0,v,MISS Sabally 12' Jump Shot,Missed Shot,Jump Shot,1,2,406
+1022600232,584,PT04M20.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,407
+1022600232,585,PT04M04.00S,4,1611661327,PDX,1643494,Buhner,F. Buhner,-227,60,0,Missed,1,,,0,h,MISS Buhner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,408
+1022600232,586,PT03M59.00S,4,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,Allemand REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,409
+1022600232,587,PT03M52.00S,4,1611661332,TOR,1627700,Allemand,J. Allemand,-141,226,27,Made,1,89,79,168,v,Allemand 27' 3PT Jump Shot (11 PTS) (Conde 2 AST),Made Shot,Jump Shot,1,3,410
+1022600232,589,PT03M35.00S,4,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde S.FOUL (P2.T3),Foul,Shooting,1,0,411
+1022600232,591,PT03M35.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,90,79,169,h,Leite Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,412
+1022600232,592,PT03M35.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,h,SUB: Engstler FOR Puoch,Substitution,,0,0,413
+1022600232,593,PT03M35.00S,4,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,h,SUB: Samuelson FOR Buhner,Substitution,,0,0,414
+1022600232,596,PT03M35.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,91,79,170,h,Leite Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,415
+1022600232,597,PT03M25.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,23,33,4,Made,1,91,81,172,v,Juskaite 4' Driving Layup (12 PTS) (Allemand 12 AST),Made Shot,Driving Layup Shot,1,2,416
+1022600232,598,PT03M24.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson Inbound Turnover (P2.T14),Turnover,Inbound Turnover,1,0,417
+1022600232,599,PT03M11.00S,4,1611661332,TOR,1629576,Conde,M. Conde,-78,232,24,Missed,1,,,0,v,MISS Conde 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,418
+1022600232,600,PT03M08.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,419
+1022600232,601,PT03M08.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,-6,1,Made,1,91,83,174,v,Morrow 1' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,420
+1022600232,602,PT03M08.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,421
+1022600232,603,PT02M43.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,7,46,5,Made,1,93,83,176,h,DiLeo 5' Turnaround Hook Shot (15 PTS) (Leite 10 AST),Made Shot,Turnaround Hook Shot,1,2,422
+1022600232,605,PT02M26.00S,4,1611661332,TOR,1629576,Conde,M. Conde,196,150,25,Missed,1,,,0,v,MISS Conde 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+1022600232,606,PT02M22.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,424
+1022600232,607,PT02M21.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,425
+1022600232,607,PT02M21.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow STEAL (3 STL),,,1,0,426
+1022600232,616,PT02M20.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,67,37,8,Missed,1,,,0,v,MISS Morrow 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,427
+1022600232,616,PT02M20.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,h,DiLeo BLOCK (2 BLK),,,1,2,428
+1022600232,618,PT02M20.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Unknown,1,0,429
+1022600232,613,PT02M20.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Timeout: Coach Challenge (Full 3 Short 0),Timeout,Coach Challenge,0,0,430
+1022600232,615,PT02M20.00S,4,0,,611,,,0,0,0,,0,93,83,176,,Instant Replay4th Period (12:03 AM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,431
+1022600232,619,PT02M00.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,-232,-4,0,Missed,1,,,0,h,MISS Samuelson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,432
+1022600232,620,PT01M56.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,h,Leite REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,433
+1022600232,621,PT01M44.00S,4,1611661327,PDX,1642304,Leite,C. Leite,29,201,20,Missed,1,,,0,h,MISS Leite 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,434
+1022600232,622,PT01M40.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,435
+1022600232,623,PT01M38.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,-23,20,3,Made,1,95,83,178,h,DiLeo 3' Cutting Layup Shot (17 PTS) (Leite 11 AST),Made Shot,Cutting Layup Shot,1,2,436
+1022600232,625,PT01M38.00S,4,0,,1611661332,,,0,0,0,,0,,,0,v,Tempo Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,437
+1022600232,627,PT01M36.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,-119,228,26,Missed,1,,,0,v,MISS Juskaite 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+1022600232,628,PT01M33.00S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Rebound,Rebound,Unknown,1,0,439
+1022600232,629,PT01M33.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow L.B.FOUL (P3.T4),Foul,Loose Ball,1,0,440
+1022600232,631,PT01M25.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,-31,24,4,Missed,1,,,0,h,MISS Engstler 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,441
+1022600232,632,PT01M25.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,v,Morrow REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,442
+1022600232,633,PT01M20.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson P.FOUL (P1.T4),Foul,Personal,1,0,443
+1022600232,635,PT01M13.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,-12,70,7,Missed,1,,,0,v,MISS Morrow 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,444
+1022600232,636,PT01M09.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,445
+1022600232,637,PT00M58.30S,4,1611661332,TOR,1629576,Conde,M. Conde,0,0,0,,0,,,0,v,Conde P.FOUL (P3.PN),Foul,Personal,1,0,446
+1022600232,639,PT00M58.30S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,96,83,179,h,Leite Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,447
+1022600232,640,PT00M58.30S,4,1611661332,TOR,1631055,Sabally,N. Sabally,0,0,0,,0,,,0,v,SUB: Rice FOR Sabally,Substitution,,0,0,448
+1022600232,641,PT00M58.30S,4,1611661332,TOR,1627700,Allemand,J. Allemand,0,0,0,,0,,,0,v,SUB: Key FOR Allemand,Substitution,,0,0,449
+1022600232,644,PT00M58.30S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,97,83,180,h,Leite Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,450
+1022600232,645,PT00M36.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,21,15,3,Missed,1,,,0,v,MISS Morrow 3' Layup,Missed Shot,Layup Shot,1,2,451
+1022600232,646,PT00M33.60S,4,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,h,Carleton REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,452
+1022600232,647,PT00M11.40S,4,0,,1611661327,,,0,0,0,,0,,,0,h,FIRE Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,453
+1022600232,648,PT00M00.00S,4,0,,0,,,0,0,0,,0,97,83,180,,End of 4th Period (12:11 AM EST),period,end,1,0,454

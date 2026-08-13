@@ -1,20 +1,40 @@
 import { useEffect, useState } from 'react'
 import GameCard from './components/GameCard.jsx'
+import SummaryBar from './components/SummaryBar.jsx'
 import { demoSlate } from './data/demoSlate.js'
 import { APP_VERSION, DEFAULT_LEAGUE, LEAGUES } from './config.js'
+import { supa } from './lib/supa.js'
 
 export default function App() {
   const [league, setLeague] = useState(DEFAULT_LEAGUE)
   const [live, setLive] = useState(null)
+  const [lines, setLines] = useState([])
 
   useEffect(() => {
     fetch('/slate.json')
       .then((r) => (r.ok ? r.json() : null))
-      .then((data) => { if (data && Array.isArray(data.games)) setLive(data) })
+      .then(async (data) => {
+        if (data && Array.isArray(data.games)) {
+          setLive(data)
+          if (supa) {
+            const { data: rows } = await supa.from('lines').select('*')
+              .eq('slate_date', data.date).order('created_at')
+            if (rows) setLines(rows)
+          }
+        }
+      })
       .catch(() => {})
   }, [])
 
-  const liveGames = live && live.games.filter((g) => g.league === league)
+  const merge = (g) => {
+    const mine = lines.filter((l) => String(l.game_id) === String(g.id) &&
+      Number(l.player_id) === Number(g.topPick.playerId))
+    if (!mine.length || g.topPick.bookOdds) return g
+    const latest = mine[mine.length - 1]
+    return { ...g, topPick: { ...g.topPick, bookOdds: latest.odds } }
+  }
+
+  const liveGames = live && live.games.filter((g) => g.league === league).map(merge)
   const isLive = !!(liveGames && liveGames.length > 0)
   const games = isLive ? liveGames : demoSlate.filter((g) => g.league === league)
 
@@ -38,11 +58,14 @@ export default function App() {
             : <em className="demo">DEMO</em>}
         </div>
       </header>
+      {isLive && <SummaryBar games={games} />}
       <main className="slate">
         {games.length === 0 ? (
           <div className="empty">No games on the {LEAGUES[league].label} board.</div>
         ) : (
-          games.map((g) => <GameCard key={g.id} game={g} />)
+          games.map((g) => (
+            <GameCard key={g.id} game={g} slateDate={isLive ? live.date : null} />
+          ))
         )}
       </main>
       <footer className="appfoot">

@@ -123,10 +123,47 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 .lgswitch .lg.on{background:var(--flame); color:#210A02;}
 .empty{text-align:center; color:var(--dim); padding:40px 0; letter-spacing:1px;}
 
-
 /* --- v0.3: live slate --- */
 .livechip{font-style:normal; color:#4FE0A6; border:1px solid #1E5C46; border-radius:4px;
   padding:0 6px; margin-left:6px; font-size:11px;}
 .modelchip{font-size:11px; color:var(--dim); border:1px solid var(--line);
   border-radius:4px; padding:1px 6px; letter-spacing:.5px; text-transform:uppercase;}
 
+/* --- v0.4: thin-sample muting --- */
+.stats.thin{opacity:.55; font-style:italic;}
+
+/* --- v0.5: summary bar, positions, line entry --- */
+.sumbar{display:flex; gap:8px; overflow-x:auto; padding:2px 2px 4px; position:sticky;
+  top:0; z-index:10; background:var(--court); scrollbar-width:none;}
+.sumbar::-webkit-scrollbar{display:none;}
+.sumchip{display:flex; align-items:center; gap:6px; flex:none; text-decoration:none;
+  background:var(--panel); border:1px solid var(--line); border-radius:99px;
+  padding:5px 12px 5px 8px; color:var(--chalk); font-size:13px; font-weight:600;}
+.sumchip:hover{border-color:var(--amber);}
+.sumteams{display:flex; align-items:center;}
+.sumteams img{width:18px; height:18px; object-fit:contain;
+  filter:grayscale(1) brightness(1.35);}
+.sumteams img + img{margin-left:-5px;}
+.sumname{letter-spacing:.5px;}
+.sumodds{color:var(--amber); font-family:'Bungee'; font-size:11px;}
+
+.pos{font-style:normal; font-size:10px; color:var(--dim); border:1px solid var(--line);
+  border-radius:3px; padding:0 4px; margin-left:6px; vertical-align:1px; letter-spacing:.5px;}
+.pos.big{font-size:11px; vertical-align:3px;}
+
+.lineentry{display:flex; gap:6px; margin-top:8px;}
+.lineentry input{flex:1; background:var(--panel2); border:1px solid var(--line);
+  border-radius:6px; color:var(--chalk); font-family:'Barlow Condensed'; font-size:15px;
+  padding:6px 10px; min-width:0;}
+.lineentry input:focus{outline:none; border-color:var(--amber);}
+.lineentry button{background:var(--flame); color:#210A02; border:none; border-radius:6px;
+  font-family:'Barlow Condensed'; font-weight:700; font-size:14px; letter-spacing:1px;
+  text-transform:uppercase; padding:6px 14px; cursor:pointer;}
+.lineentry button.ghost{background:transparent; color:var(--dim); border:1px solid var(--line);}
+.linebtn{margin-top:8px; background:transparent; border:1px dashed var(--line);
+  border-radius:6px; color:var(--dim); font-family:'Barlow Condensed'; font-size:13px;
+  font-weight:600; letter-spacing:1px; text-transform:uppercase; padding:5px 12px; cursor:pointer;}
+.linebtn:hover{border-color:var(--amber); color:var(--amber);}
+.linemsg{margin-top:5px; font-size:12px; color:var(--dim);}
+.linemsg.ok{color:#4FE0A6;}
+.verdict.bet{background:#3A1610; color:#FF8A5C;}

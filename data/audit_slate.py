@@ -35,6 +35,21 @@ except ImportError:
 CACHE_DIR = "cache"
 LOG_PATH = "audit_log.csv"
 SLEEP_SECONDS = 0.8
+TIMEOUT = 75
+RETRIES = 3
+
+
+def with_retry(label, fn):
+    for attempt in range(1, RETRIES + 1):
+        try:
+            return fn()
+        except Exception as e:
+            if attempt == RETRIES:
+                raise
+            wait = 20 * attempt
+            print(f"  ! {label} attempt {attempt} failed ({e.__class__.__name__}); "
+                  f"retrying in {wait}s...")
+            time.sleep(wait)
 
 
 def get_pbp(game_id):
@@ -42,7 +57,8 @@ def get_pbp(game_id):
     if os.path.exists(cache_path):
         return pd.read_csv(cache_path)
     try:
-        pbp = playbyplayv3.PlayByPlayV3(game_id=game_id).get_data_frames()[0]
+        pbp = with_retry(f"pbp {game_id}", lambda: playbyplayv3.PlayByPlayV3(
+            game_id=game_id, timeout=TIMEOUT).get_data_frames()[0])
     except Exception as e:
         print(f"  ! pbp fetch failed for {game_id}: {e}")
         return None

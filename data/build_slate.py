@@ -42,18 +42,33 @@ SLEEP_SECONDS = 0.8
 LEAGUE_IDS = {"nba": "00", "wnba": "10"}
 DEFAULT_SEASONS = {"nba": "2025-26", "wnba": "2026"}
 TIP_TO_FIRST_SHOT = 0.85
+TIMEOUT = 75          # stats.nba.com throttles cloud IPs; default 30s is too tight
+RETRIES = 3
 L10 = 10
 FG_PRIOR, FG_PRIOR_N = 0.47, 5
 VERDICT_BET, VERDICT_VALUE = 0.03, 0.01
 
 
+def with_retry(label, fn):
+    """Call fn() up to RETRIES times with backoff; raise on final failure."""
+    for attempt in range(1, RETRIES + 1):
+        try:
+            return fn()
+        except Exception as e:
+            if attempt == RETRIES:
+                raise
+            wait = 20 * attempt
+            print(f"  ! {label} attempt {attempt} failed ({e.__class__.__name__}); "
+                  f"retrying in {wait}s...")
+            time.sleep(wait)
+
+
 # ---------------- fetch / cache ----------------
 
 def refresh_games(season, league):
-    finder = leaguegamefinder.LeagueGameFinder(
+    df = with_retry("game list", lambda: leaguegamefinder.LeagueGameFinder(
         season_nullable=season, season_type_nullable="Regular Season",
-        league_id_nullable=LEAGUE_IDS[league])
-    df = finder.get_data_frames()[0]
+        league_id_nullable=LEAGUE_IDS[league], timeout=TIMEOUT).get_data_frames()[0])
     df.to_csv(os.path.join(CACHE_DIR, f"games_{league}_{season}.csv"), index=False)
     return df
 
@@ -63,7 +78,8 @@ def get_pbp(game_id):
     if os.path.exists(cache_path):
         return pd.read_csv(cache_path)
     try:
-        pbp = playbyplayv3.PlayByPlayV3(game_id=game_id).get_data_frames()[0]
+        pbp = with_retry(f"pbp {game_id}", lambda: playbyplayv3.PlayByPlayV3(
+            game_id=game_id, timeout=TIMEOUT).get_data_frames()[0])
     except Exception as e:
         print(f"  ! pbp fetch failed for {game_id}: {e}")
         return None
@@ -81,9 +97,9 @@ def get_roster_positions(team_id, season, league):
         df = pd.read_csv(cache_path)
     else:
         try:
-            df = commonteamroster.CommonTeamRoster(
-                team_id=team_id, season=season,
-                league_id_nullable=LEAGUE_IDS[league]).get_data_frames()[0]
+            df = with_retry(f"roster {team_id}", lambda: commonteamroster.CommonTeamRoster(
+                team_id=team_id, season=season, timeout=TIMEOUT,
+                league_id_nullable=LEAGUE_IDS[league]).get_data_frames()[0])
         except Exception as e:
             print(f"  ! roster fetch failed for team {team_id}: {e}")
             return {}
@@ -326,7 +342,8 @@ def verdict_for(fair_str, book_str):
 # ---------------- slate assembly ----------------
 
 def today_games(league, date_str):
-    sb = scoreboardv2.ScoreboardV2(game_date=date_str, league_id=LEAGUE_IDS[league])
+    sb = with_retry("schedule", lambda: scoreboardv2.ScoreboardV2(
+        game_date=date_str, league_id=LEAGUE_IDS[league], timeout=TIMEOUT))
     hdr = sb.game_header.get_data_frame()
     lines = sb.line_score.get_data_frame()
     games = []

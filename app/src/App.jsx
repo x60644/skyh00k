@@ -58,7 +58,7 @@ export default function App() {
         <div className="tagline">
           First basket board{' '}
           {isLive
-            ? <em className="livechip">{live.date}</em>
+            ? <em className={'livechip' + (live.date !== new Date(Date.now() - 4*3600e3).toISOString().slice(0,10) ? ' stale' : '')}>{live.date}</em>
             : <em className="demo">DEMO</em>}
         </div>
       </header>

@@ -171,3 +171,4 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 /* --- brand: red coin badge in header --- */
 .logohead{display:flex; align-items:center; gap:9px;}
 .applogo{width:38px; height:38px; object-fit:contain;}
+.applogo{filter:hue-rotate(28deg) saturate(1.2) brightness(1.08);}

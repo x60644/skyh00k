@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-16T23:00:28Z",
+ "generated": "2026-08-17T01:30:24Z",
  "date": "2026-08-16",
  "league": "wnba",
  "games": [
   {
    "id": "1022600259",
    "league": "wnba",
-   "tipEt": "4th Qtr             ",
+   "tipEt": "Final",
    "home": {
     "tri": "SEA",
     "name": "Seattle Storm",
@@ -20,21 +20,31 @@
    "tip": {
     "homePlayer": "Malonga",
     "awayPlayer": "Cardoso",
-    "homeWinPct": 46
+    "homeWinPct": 47
    },
    "topPick": {
-    "playerId": 1642289,
-    "name": "Cardoso",
+    "playerId": 1642798,
+    "name": "Malonga",
     "pos": "C",
-    "side": "away",
+    "side": "home",
     "bookOdds": null,
-    "fairOdds": "+690",
+    "fairOdds": "+630",
     "rank": 1,
-    "share": 50,
+    "share": 30,
     "verdict": null
    },
    "rosters": {
     "home": [
+     {
+      "playerId": 1642798,
+      "name": "Malonga",
+      "pos": "C",
+      "share": 30,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": true
+     },
      {
       "playerId": 1631141,
       "name": "Melbourne",
@@ -42,16 +52,6 @@
       "share": 20,
       "fg": 37,
       "att": 4,
-      "thin": false,
-      "hot": false
-     },
-     {
-      "playerId": 1642798,
-      "name": "Malonga",
-      "pos": "C",
-      "share": 20,
-      "fg": 54,
-      "att": 3,
       "thin": false,
       "hot": false
      },
@@ -91,11 +91,11 @@
       "playerId": 1642289,
       "name": "Cardoso",
       "pos": "C",
-      "share": 50,
+      "share": 40,
       "fg": 31,
       "att": 9,
       "thin": false,
-      "hot": true
+      "hot": false
      },
      {
       "playerId": 1628922,
@@ -142,11 +142,11 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "K. Cardoso takes 50% of CHI first shots over the last 10 games"
+     "text": "D. Malonga takes 30% of SEA first shots over the last 10 games"
     },
     {
      "tag": "IN",
-     "text": "SEA wins parsed opening tips at 54%, CHI at 65%"
+     "text": "SEA wins parsed opening tips at 56%, CHI at 63%"
     },
     {
      "tag": "IN",
@@ -154,7 +154,7 @@
     },
     {
      "tag": "IN",
-     "text": "CHI concedes first baskets to opposing centers at 1.4× league rate (n=16)"
+     "text": "CHI concedes first baskets to opposing centers at 1.3× league rate (n=17)"
     },
     {
      "tag": "WATCH",
@@ -168,7 +168,7 @@
       {
        "icon": "🎯",
        "label": "First Look",
-       "note": "50% first-shot share",
+       "note": "40% first-shot share",
        "tier": "gold"
       },
       {
@@ -221,160 +221,132 @@
     }
    ],
    "shots": {
-    "playerLabel": "Cardoso L10",
+    "playerLabel": "Malonga L10",
     "player": {
      "makes": [
       [
-       250,
-       422
+       240,
+       274
       ],
       [
-       263,
-       401
-      ],
-      [
-       246,
-       409
+       445,
+       394
       ]
      ],
      "misses": [
       [
-       254,
+       177,
        410
       ],
       [
-       229,
-       407
-      ],
-      [
-       255,
-       414
-      ],
-      [
-       294,
-       404
-      ],
-      [
-       251,
-       401
-      ],
-      [
-       262,
-       395
-      ],
-      [
-       240,
-       400
+       207,
+       351
       ]
      ]
     },
     "team": {
      "makes": [
       [
-       360,
-       397
+       259,
+       416
       ],
       [
-       255,
-       382
+       257,
+       326
       ],
       [
-       150,
-       328
+       218,
+       406
       ],
       [
-       250,
-       422
+       240,
+       274
       ],
       [
-       263,
+       16,
+       399
+      ],
+      [
+       262,
        401
       ],
       [
-       255,
-       175
+       315,
+       164
       ],
       [
-       246,
-       409
+       445,
+       394
       ],
       [
-       221,
-       363
+       437,
+       258
       ],
       [
-       265,
-       412
-      ],
-      [
-       228,
-       399
+       276,
+       397
       ]
      ],
      "misses": [
       [
-       254,
+       177,
        410
       ],
       [
-       110,
-       209
+       65,
+       248
       ],
       [
-       446,
-       285
+       293,
+       388
       ],
       [
-       434,
-       233
+       471,
+       371
       ],
       [
-       229,
-       407
+       477,
+       422
       ],
       [
-       255,
-       414
-      ],
-      [
-       270,
-       416
-      ],
-      [
-       294,
-       404
+       370,
+       180
       ],
       [
        251,
-       401
+       399
       ],
       [
-       349,
-       204
+       16,
+       376
       ],
       [
-       262,
+       298,
        395
       ],
       [
-       268,
-       396
+       190,
+       406
       ],
       [
-       240,
-       400
+       427,
+       231
       ],
       [
-       244,
-       405
+       388,
+       196
       ],
       [
-       240,
-       378
+       207,
+       351
       ],
       [
-       156,
-       181
+       279,
+       399
+      ],
+      [
+       250,
+       310
       ]
      ]
     }
@@ -383,7 +355,7 @@
   {
    "id": "1022600261",
    "league": "wnba",
-   "tipEt": "4th Qtr             ",
+   "tipEt": "Final",
    "home": {
     "tri": "ATL",
     "name": "Atlanta Dream",
@@ -397,7 +369,7 @@
    "tip": {
     "homePlayer": "Reese",
     "awayPlayer": "Boston",
-    "homeWinPct": 48
+    "homeWinPct": 47
    },
    "topPick": {
     "playerId": 1628277,
@@ -405,7 +377,7 @@
     "pos": "G",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+1170",
+    "fairOdds": "+1198",
     "rank": 1,
     "share": 30,
     "verdict": null
@@ -423,22 +395,22 @@
       "hot": true
      },
      {
-      "playerId": 1631009,
-      "name": "Howard",
-      "pos": "G",
-      "share": 10,
-      "fg": 53,
-      "att": 7,
-      "thin": false,
-      "hot": false
-     },
-     {
       "playerId": 1628886,
       "name": "Canada",
       "pos": "G",
       "share": 10,
       "fg": 54,
       "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631009,
+      "name": "Howard",
+      "pos": "G",
+      "share": 0,
+      "fg": 53,
+      "att": 7,
       "thin": false,
       "hot": false
      },
@@ -465,22 +437,32 @@
     ],
     "away": [
      {
-      "playerId": 1628909,
-      "name": "Mitchell",
-      "pos": "G",
-      "share": 20,
-      "fg": 52,
-      "att": 9,
-      "thin": false,
-      "hot": false
-     },
-     {
       "playerId": 1642286,
       "name": "Clark",
       "pos": "G",
       "share": 20,
       "fg": 48,
       "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1642815,
+      "name": "Timpson",
+      "pos": "F-C",
+      "share": 20,
+      "fg": 48,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1628909,
+      "name": "Mitchell",
+      "pos": "G",
+      "share": 10,
+      "fg": 52,
+      "att": 9,
       "thin": false,
       "hot": false
      },
@@ -503,16 +485,6 @@
       "att": 1,
       "thin": true,
       "hot": false
-     },
-     {
-      "playerId": 1642815,
-      "name": "Timpson",
-      "pos": "F-C",
-      "share": 10,
-      "fg": 39,
-      "att": 1,
-      "thin": true,
-      "hot": false
      }
     ]
    },
@@ -523,11 +495,11 @@
     },
     {
      "tag": "IN",
-     "text": "ATL wins parsed opening tips at 55%, IND at 59%"
+     "text": "ATL wins parsed opening tips at 53%, IND at 61%"
     },
     {
      "tag": "WATCH",
-     "text": "ATL concedes first baskets to opposing centers at 1.6× league rate (n=19)"
+     "text": "ATL concedes first baskets to opposing centers at 1.5× league rate (n=20)"
     },
     {
      "tag": "WATCH",
@@ -587,6 +559,10 @@
       [
        235,
        407
+      ],
+      [
+       417,
+       235
       ]
      ],
      "misses": [
@@ -598,10 +574,6 @@
     },
     "team": {
      "makes": [
-      [
-       272,
-       405
-      ],
       [
        12,
        420
@@ -637,6 +609,10 @@
       [
        249,
        369
+      ],
+      [
+       417,
+       235
       ]
      ],
      "misses": [
@@ -695,6 +671,10 @@
       [
        263,
        393
+      ],
+      [
+       254,
+       170
       ]
      ]
     }
@@ -703,7 +683,7 @@
   {
    "id": "1022600260",
    "league": "wnba",
-   "tipEt": "7:00 pm ET",
+   "tipEt": "4th Qtr             ",
    "home": {
     "tri": "PHX",
     "name": "Phoenix Mercury",
@@ -851,7 +831,7 @@
     },
     {
      "tag": "WATCH",
-     "text": "PDX concedes first baskets to opposing centers at 1.4× league rate (n=18)"
+     "text": "PDX concedes first baskets to opposing centers at 1.5× league rate (n=18)"
     },
     {
      "tag": "IN",

@@ -1,0 +1,457 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600264,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:04 PM EST),period,start,1,0,1
+1022600264,4,PT10M00.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Jump Ball Harrison vs. Timpson: Tip to Mitchell,Jump Ball,,1,0,2
+1022600264,7,PT09M51.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice P.FOUL (P1.T1),Foul,Personal,1,0,3
+1022600264,9,PT09M46.00S,1,1611661325,IND,1642286,Clark,C. Clark,18,238,24,Missed,1,,,0,v,MISS Clark 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+1022600264,10,PT09M43.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Juskaite REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+1022600264,11,PT09M27.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,-39,60,7,Missed,1,,,0,h,MISS Sykes 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,6
+1022600264,12,PT09M21.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,h,Sykes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,7
+1022600264,13,PT09M21.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,-6,1,Missed,1,,,0,h,MISS Sykes 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,8
+1022600264,14,PT09M20.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,9
+1022600264,15,PT09M20.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,0,-6,1,Missed,1,,,0,h,MISS Harrison 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,10
+1022600264,16,PT09M19.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+1022600264,17,PT09M16.00S,1,1611661325,IND,1642286,Clark,C. Clark,-121,79,14,Missed,1,,,0,v,MISS Clark 14' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,12
+1022600264,18,PT09M13.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Juskaite REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,13
+1022600264,19,PT09M07.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,-9,249,25,Missed,1,,,0,h,MISS Mabrey 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,14
+1022600264,20,PT09M07.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+1022600264,21,PT08M53.00S,1,1611661325,IND,1631086,Hull,L. Hull,53,26,6,Made,1,0,2,2,v,Hull 6' Layup (2 PTS) (Mitchell 1 AST),Made Shot,Layup Shot,1,2,16
+1022600264,23,PT08M42.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,17
+1022600264,24,PT08M29.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,5,4,1,Made,1,0,4,4,v,Mitchell 1' Cutting Layup Shot (2 PTS) (Boston 1 AST),Made Shot,Cutting Layup Shot,1,2,18
+1022600264,26,PT08M14.00S,1,1611661332,TOR,1643445,Rice,K. Rice,-233,9,0,Missed,1,,,0,h,MISS Rice 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+1022600264,27,PT08M10.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,20
+1022600264,28,PT08M08.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,-143,215,26,Missed,1,,,0,h,MISS Mabrey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,21
+1022600264,29,PT08M07.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Juskaite REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,22
+1022600264,30,PT08M07.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston P.FOUL (P1.T1),Foul,Personal,1,0,23
+1022600264,32,PT07M57.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,222,46,0,Missed,1,,,0,h,MISS Harrison 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+1022600264,33,PT07M55.00S,1,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Unknown,0,0,25
+1022600264,35,PT07M49.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull S.FOUL (P1.T2),Foul,Shooting,1,0,26
+1022600264,37,PT07M49.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,1,4,5,h,Sykes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,27
+1022600264,38,PT07M49.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,2,4,6,h,Sykes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,28
+1022600264,39,PT07M37.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-38,10,4,Missed,1,,,0,v,MISS Mitchell 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,29
+1022600264,40,PT07M33.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,30
+1022600264,41,PT07M33.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,-6,1,Made,1,2,6,8,v,Timpson 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,31
+1022600264,42,PT07M28.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,Mabrey Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,32
+1022600264,42,PT07M28.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (1 STL),,,1,0,33
+1022600264,44,PT07M22.00S,1,1611661325,IND,1642286,Clark,C. Clark,-101,247,27,Missed,1,,,0,v,MISS Clark 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,34
+1022600264,45,PT07M20.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,35
+1022600264,46,PT07M20.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,36
+1022600264,47,PT07M20.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,h,SUB: Morrow FOR Sykes,Substitution,,0,0,37
+1022600264,49,PT07M12.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull Violation:Kicked Ball,Violation,Kicked Ball,0,0,38
+1022600264,50,PT07M06.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,-5,14,1,Made,1,4,6,10,h,Harrison 1' Cutting Layup Shot (2 PTS) (Mabrey 1 AST),Made Shot,Cutting Layup Shot,1,2,39
+1022600264,52,PT06M59.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-12,4,1,Made,1,4,8,12,v,Mitchell 1' Running Layup (4 PTS) (Clark 1 AST),Made Shot,Running Layup Shot,1,2,40
+1022600264,54,PT06M47.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,-17,12,2,Missed,1,,,0,h,MISS Juskaite 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,41
+1022600264,55,PT06M47.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,42
+1022600264,57,PT06M40.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-118,209,24,Missed,1,,,0,v,MISS Mitchell 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,43
+1022600264,58,PT06M38.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,44
+1022600264,59,PT06M38.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow L.B.FOUL (P1.T2),Foul,Loose Ball,1,0,45
+1022600264,61,PT06M29.00S,1,1611661325,IND,1642286,Clark,C. Clark,22,102,10,Made,1,4,10,14,v,Clark 10' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,46
+1022600264,62,PT06M12.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,7,74,7,Missed,1,,,0,h,MISS Harrison 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,47
+1022600264,63,PT06M10.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+1022600264,64,PT06M07.00S,1,1611661325,IND,1631086,Hull,L. Hull,-190,54,20,Made,1,4,12,16,v,Hull 20' Running Jump Shot (4 PTS) (Clark 2 AST),Made Shot,Running Jump Shot,1,2,49
+1022600264,66,PT06M02.00S,1,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,50
+1022600264,67,PT05M37.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,93,22,10,Missed,1,,,0,h,MISS Harrison 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,51
+1022600264,68,PT05M37.00S,1,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Unknown,0,0,52
+1022600264,69,PT05M37.00S,1,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,53
+1022600264,70,PT05M23.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison S.FOUL (P1.T3),Foul,Shooting,1,0,54
+1022600264,72,PT05M23.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,4,13,17,v,Clark Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,55
+1022600264,73,PT05M23.00S,1,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,SUB: Fagbenle FOR Harrison,Substitution,,0,0,56
+1022600264,75,PT05M23.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,MISS Clark Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,57
+1022600264,76,PT05M21.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,58
+1022600264,78,PT05M15.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-63,220,0,Made,1,4,16,20,v,Mitchell 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,3,59
+1022600264,79,PT04M59.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,188,160,25,Made,1,7,16,23,h,Mabrey 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,60
+1022600264,80,PT04M44.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,13,4,1,Made,1,7,18,25,v,Mitchell 1' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,1,2,61
+1022600264,81,PT04M34.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark P.FOUL (P1.T3),Foul,Personal,1,0,62
+1022600264,83,PT04M34.00S,1,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,SUB: Nurse FOR Rice,Substitution,,0,0,63
+1022600264,84,PT04M34.00S,1,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,SUB: Sykes FOR Juskaite,Substitution,,0,0,64
+1022600264,87,PT04M34.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,65
+1022600264,88,PT04M34.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Cunningham FOR Hull,Substitution,,0,0,66
+1022600264,91,PT04M29.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,99,244,26,Missed,1,,,0,h,MISS Mabrey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+1022600264,92,PT04M25.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,68
+1022600264,93,PT04M24.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,0,12,1,Made,1,9,18,27,h,Morrow 1' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,1,2,69
+1022600264,94,PT04M14.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,70
+1022600264,94,PT04M14.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,Mabrey STEAL (1 STL),,,1,0,71
+1022600264,96,PT04M08.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,-6,19,2,Made,1,11,18,29,h,Sykes 2' Running Layup (4 PTS) (Mabrey 2 AST),Made Shot,Running Layup Shot,1,2,72
+1022600264,98,PT03M54.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,-38,68,8,Made,1,11,20,31,v,Timpson 8' Jump Shot (4 PTS),Made Shot,Jump Shot,1,2,73
+1022600264,99,PT03M36.00S,1,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,11,1,Made,1,13,20,33,h,Fagbenle 1' Driving Reverse Layup (2 PTS) (Morrow 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,74
+1022600264,101,PT03M26.00S,1,1611661325,IND,1642286,Clark,C. Clark,15,13,2,Missed,1,,,0,v,MISS Clark 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,75
+1022600264,101,PT03M26.00S,1,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,h,Fagbenle BLOCK (1 BLK),,,1,2,76
+1022600264,103,PT03M20.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,77
+1022600264,104,PT03M20.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,-6,1,Made,1,13,22,35,v,Billings 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,78
+1022600264,105,PT03M19.00S,1,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,21,13,2,Made,1,15,22,37,h,Fagbenle 2' Running Layup (4 PTS) (Nurse 1 AST),Made Shot,Running Layup Shot,1,2,79
+1022600264,107,PT03M00.00S,1,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,h,Fagbenle S.FOUL (P1.T4),Foul,Shooting,1,0,80
+1022600264,109,PT03M00.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,15,23,38,v,Mitchell Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,81
+1022600264,110,PT03M00.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Harris FOR Clark,Substitution,,0,0,82
+1022600264,112,PT03M00.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,15,24,39,v,Mitchell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,83
+1022600264,113,PT02M46.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,-148,213,26,Missed,1,,,0,h,MISS Morrow 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,84
+1022600264,114,PT02M42.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+1022600264,115,PT02M39.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,86
+1022600264,115,PT02M39.00S,1,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,h,Nurse STEAL (1 STL),,,1,0,87
+1022600264,117,PT02M36.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,-154,207,26,Missed,1,,,0,h,MISS Sykes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+1022600264,118,PT02M36.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,89
+1022600264,120,PT02M36.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Hines-Allen FOR Timpson,Substitution,,0,0,90
+1022600264,122,PT02M24.00S,1,1611661325,IND,1630112,Harris,T. Harris,156,190,25,Missed,1,,,0,v,MISS Harris 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,91
+1022600264,123,PT02M20.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,92
+1022600264,124,PT02M13.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,Mabrey Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,93
+1022600264,124,PT02M13.00S,1,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris STEAL (1 STL),,,1,0,94
+1022600264,126,PT02M08.00S,1,1611661325,IND,1628881,Billings,M. Billings,11,18,2,Missed,1,,,0,v,MISS Billings 2' Running Layup,Missed Shot,Running Layup Shot,1,2,95
+1022600264,128,PT02M05.00S,1,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,h,Fagbenle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+1022600264,129,PT02M02.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,2,15,2,Made,1,17,24,41,h,Morrow 2' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,97
+1022600264,130,PT02M02.00S,1,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris S.FOUL (P1.T4),Foul,Shooting,1,0,98
+1022600264,132,PT02M02.00S,1,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,SUB: Rice FOR Mabrey,Substitution,,0,0,99
+1022600264,134,PT02M02.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,18,24,42,h,Morrow Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,100
+1022600264,135,PT01M48.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-121,204,24,Made,1,18,27,45,v,Mitchell 24' 3PT Step Back Jump Shot (14 PTS) (Hines-Allen 1 AST),Made Shot,Step Back Jump shot,1,3,101
+1022600264,137,PT01M34.00S,1,1611661332,TOR,1643445,Rice,K. Rice,-99,188,21,Missed,1,,,0,h,MISS Rice 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,102
+1022600264,138,PT01M33.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,103
+1022600264,140,PT01M24.00S,1,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,h,Nurse P.FOUL (P1.PN),Foul,Personal,1,0,104
+1022600264,142,PT01M24.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,18,28,46,v,Cunningham Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,105
+1022600264,143,PT01M24.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,MISS Cunningham Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,106
+1022600264,144,PT01M22.00S,1,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,h,Sykes REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,107
+1022600264,145,PT01M11.00S,1,1611661332,TOR,1642800,Morrow,A. Morrow,-28,249,25,Missed,1,,,0,h,MISS Morrow 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+1022600264,146,PT01M07.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+1022600264,147,PT01M02.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,-128,205,24,Made,1,18,31,49,v,Cunningham 24' 3PT Running Jump Shot (4 PTS) (Harris 1 AST),Made Shot,Running Jump Shot,1,3,110
+1022600264,149,PT00M49.30S,1,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,111
+1022600264,149,PT00M49.30S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings STEAL (1 STL),,,1,0,112
+1022600264,151,PT00M41.50S,1,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen OFF.Foul (P1),Foul,Offensive,1,0,113
+1022600264,153,PT00M41.50S,1,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,114
+1022600264,154,PT00M28.40S,1,1611661332,TOR,1628279,Sykes,B. Sykes,-3,13,1,Missed,1,,,0,h,MISS Sykes 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,115
+1022600264,155,PT00M27.00S,1,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Unknown,1,0,116
+1022600264,157,PT00M25.30S,1,1611661332,TOR,1628915,Nurse,K. Nurse,206,111,0,Made,1,21,31,52,h,Nurse 3PT Jump Shot (3 PTS) (Rice 1 AST),Made Shot,Jump Shot,1,3,117
+1022600264,159,PT00M06.50S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,1,31,3,Made,1,21,33,54,v,Mitchell 3' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,118
+1022600264,160,PT00M00.00S,1,1611661332,TOR,1643445,Rice,K. Rice,-33,25,4,Made,1,23,33,56,h,Rice 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,119
+1022600264,161,PT00M00.00S,1,0,,160,Breaux,T. Breaux,0,0,0,,0,23,33,56,,Instant Replay1st Period (7:26 PM EST),Instant Replay,Support Ruling,0,0,120
+1022600264,162,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,33,56,,End of 1st Period (7:27 PM EST),period,end,1,0,121
+1022600264,173,PT10M00.00S,2,0,,0,,,0,0,0,,0,23,33,56,,Start of 2nd Period (7:30 PM EST),period,start,1,0,122
+1022600264,174,PT09M43.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-145,41,15,Made,1,25,33,58,h,Mabrey 15' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,1,2,123
+1022600264,175,PT09M34.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,Mabrey P.FOUL (P1.T1),Foul,Personal,1,0,124
+1022600264,177,PT09M25.00S,2,1611661325,IND,1641648,Boston,A. Boston,27,86,9,Made,1,25,35,60,v,Boston 9' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,125
+1022600264,178,PT09M04.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-133,271,30,Missed,1,,,0,h,MISS Mabrey 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,126
+1022600264,179,PT09M01.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,127
+1022600264,181,PT08M46.00S,2,1611661325,IND,1641648,Boston,A. Boston,-32,7,3,Missed,1,,,0,v,MISS Boston 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,128
+1022600264,181,PT08M46.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,Mabrey BLOCK (1 BLK),,,1,2,129
+1022600264,183,PT08M46.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,130
+1022600264,185,PT08M43.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,131
+1022600264,185,PT08M43.00S,2,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,h,Nurse STEAL (2 STL),,,1,0,132
+1022600264,187,PT08M38.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-3,19,2,Made,1,27,35,62,h,Mabrey 2' Running Layup (7 PTS) (Rice 2 AST),Made Shot,Running Layup Shot,1,2,133
+1022600264,189,PT08M22.00S,2,1611661325,IND,1641648,Boston,A. Boston,182,-12,18,Missed,1,,,0,v,MISS Boston 18' Jump Shot,Missed Shot,Jump Shot,1,2,134
+1022600264,190,PT08M17.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Juskaite REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,135
+1022600264,191,PT08M14.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen S.FOUL (P2.T1),Foul,Shooting,1,0,136
+1022600264,193,PT08M14.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,28,35,63,h,Juskaite Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,137
+1022600264,194,PT08M14.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,SUB: Timpson FOR Hines-Allen,Substitution,,0,0,138
+1022600264,196,PT08M14.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,MISS Juskaite Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,139
+1022600264,197,PT08M10.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+1022600264,198,PT08M01.00S,2,1611661325,IND,1642286,Clark,C. Clark,73,257,27,Made,1,28,38,66,v,Clark 27' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,3,141
+1022600264,199,PT07M40.00S,2,1611661332,TOR,1643445,Rice,K. Rice,-1,23,2,Made,1,30,38,68,h,Rice 2' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,1,2,142
+1022600264,200,PT07M27.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison P.FOUL (P2.T2),Foul,Personal,1,0,143
+1022600264,202,PT07M27.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Mitchell FOR Harris,Substitution,,0,0,144
+1022600264,204,PT07M19.00S,2,1611661325,IND,1641648,Boston,A. Boston,50,56,8,Missed,1,,,0,v,MISS Boston 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,145
+1022600264,205,PT07M16.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,146
+1022600264,206,PT07M10.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston S.FOUL (P2.T2),Foul,Shooting,1,0,147
+1022600264,208,PT07M10.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,31,38,69,h,Mabrey Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,148
+1022600264,209,PT07M10.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,32,38,70,h,Mabrey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,149
+1022600264,210,PT06M59.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-21,4,2,Missed,1,,,0,v,MISS Mitchell 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,150
+1022600264,211,PT06M57.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,Mabrey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,151
+1022600264,212,PT06M54.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,-154,261,30,Missed,1,,,0,h,MISS Mabrey 30' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,152
+1022600264,213,PT06M51.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,153
+1022600264,214,PT06M48.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,-173,201,27,Missed,1,,,0,h,MISS Juskaite 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+1022600264,215,PT06M44.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,155
+1022600264,216,PT06M32.00S,2,1611661332,TOR,1643445,Rice,K. Rice,-33,25,4,Missed,1,,,0,h,MISS Rice 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,156
+1022600264,216,PT06M32.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston BLOCK (1 BLK),,,1,2,157
+1022600264,218,PT06M29.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+1022600264,219,PT06M24.00S,2,1611661325,IND,1641648,Boston,A. Boston,5,10,1,Made,1,32,40,72,v,Boston 1' Running Layup (4 PTS) (Clark 3 AST),Made Shot,Running Layup Shot,1,2,159
+1022600264,221,PT06M14.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,160
+1022600264,222,PT06M06.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice P.FOUL (P2.T3),Foul,Personal,1,0,161
+1022600264,224,PT06M06.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,SUB: Bankole FOR Rice,Substitution,,0,0,162
+1022600264,226,PT05M58.00S,2,1611661325,IND,1641648,Boston,A. Boston,46,22,5,Made,1,32,42,74,v,Boston 5' Driving Bank Hook Shot (6 PTS),Made Shot,Driving Bank Hook Shot,1,2,163
+1022600264,227,PT05M47.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,-15,19,2,Missed,1,,,0,h,MISS Harrison 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,164
+1022600264,227,PT05M47.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston BLOCK (2 BLK),,,1,2,165
+1022600264,229,PT05M41.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,166
+1022600264,230,PT05M41.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,-6,1,Missed,1,,,0,h,MISS Harrison 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,167
+1022600264,231,PT05M41.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,168
+1022600264,232,PT05M40.00S,2,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,h,Nurse P.FOUL (P2.T4),Foul,Personal,1,0,169
+1022600264,234,PT05M40.00S,2,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,170
+1022600264,235,PT05M40.00S,2,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,h,SUB: Sykes FOR Nurse,Substitution,,0,0,171
+1022600264,236,PT05M40.00S,2,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,SUB: Fagbenle FOR Harrison,Substitution,,0,0,172
+1022600264,237,PT05M40.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,SUB: Hull FOR Cunningham,Substitution,,0,0,173
+1022600264,241,PT05M35.00S,2,1611661325,IND,1641648,Boston,A. Boston,56,117,13,Made,1,32,44,76,v,Boston 13' Pullup Jump Shot (8 PTS) (Mitchell 2 AST),Made Shot,Pullup Jump shot,1,2,174
+1022600264,243,PT05M15.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,h,Sykes Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,175
+1022600264,243,PT05M15.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (1 STL),,,1,0,176
+1022600264,245,PT05M11.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,7,1,1,Made,1,32,46,78,v,Mitchell 1' Running Layup (18 PTS),Made Shot,Running Layup Shot,1,2,177
+1022600264,246,PT04M54.00S,2,1611661332,TOR,1643706,Bankole,O. Bankole,227,8,0,Missed,1,,,0,h,MISS Bankole 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+1022600264,247,PT04M50.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,179
+1022600264,248,PT04M40.00S,2,1611661325,IND,1642286,Clark,C. Clark,11,91,9,Made,1,32,48,80,v,Clark 9' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,180
+1022600264,249,PT04M40.00S,2,1611661332,TOR,1643706,Bankole,O. Bankole,0,0,0,,0,,,0,h,Bankole S.FOUL (P1.PN),Foul,Shooting,1,0,181
+1022600264,251,PT04M40.00S,2,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,SUB: Rice FOR Juskaite,Substitution,,0,0,182
+1022600264,252,PT04M40.00S,2,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,SUB: Morrow FOR Mabrey,Substitution,,0,0,183
+1022600264,253,PT04M40.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,184
+1022600264,257,PT04M40.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,32,49,81,v,Clark Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,185
+1022600264,258,PT04M27.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,14,1,Made,1,34,49,83,h,Sykes 1' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,186
+1022600264,259,PT04M16.00S,2,1611661325,IND,1642286,Clark,C. Clark,53,4,5,Missed,1,,,0,v,MISS Clark 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,187
+1022600264,260,PT04M14.00S,2,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,188
+1022600264,261,PT04M04.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull S.FOUL (P2.T3),Foul,Shooting,1,0,189
+1022600264,263,PT04M04.00S,2,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,h,MISS Fagbenle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,190
+1022600264,264,PT04M04.00S,2,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Normal Rebound,0,0,191
+1022600264,265,PT04M04.00S,2,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,h,MISS Fagbenle Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,192
+1022600264,266,PT04M00.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,193
+1022600264,267,PT03M51.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,h,Sykes P.FOUL (P1.PN),Foul,Personal,1,0,194
+1022600264,269,PT03M51.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,34,50,84,v,Billings Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,195
+1022600264,270,PT03M51.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,MISS Billings Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,196
+1022600264,271,PT03M49.00S,2,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,197
+1022600264,272,PT03M30.00S,2,1611661332,TOR,1642800,Morrow,A. Morrow,229,7,0,Missed,1,,,0,h,MISS Morrow 3PT Jump Shot,Missed Shot,Jump Shot,1,3,198
+1022600264,273,PT03M27.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,199
+1022600264,274,PT03M23.00S,2,1611661325,IND,1628881,Billings,M. Billings,13,6,1,Missed,1,,,0,v,MISS Billings 1' Running Layup,Missed Shot,Running Layup Shot,1,2,200
+1022600264,274,PT03M23.00S,2,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice BLOCK (1 BLK),,,1,2,201
+1022600264,276,PT03M20.00S,2,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,h,Fagbenle REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,202
+1022600264,277,PT03M16.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,-24,174,18,Made,1,36,50,86,h,Sykes 18' Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,203
+1022600264,278,PT02M56.00S,2,1611661325,IND,1631086,Hull,L. Hull,-4,1,0,Missed,1,,,0,v,MISS Hull Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,204
+1022600264,279,PT02M53.00S,2,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,h,Fagbenle REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,205
+1022600264,280,PT02M42.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,8,12,1,Missed,1,,,0,h,MISS Sykes 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,206
+1022600264,281,PT02M41.00S,2,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Unknown,0,0,207
+1022600264,283,PT02M41.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,208
+1022600264,284,PT02M41.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,SUB: Cunningham FOR Mitchell,Substitution,,0,0,209
+1022600264,285,PT02M41.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Hines-Allen FOR Hull,Substitution,,0,0,210
+1022600264,286,PT02M41.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Johnson FOR Billings,Substitution,,0,0,211
+1022600264,290,PT02M38.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,-196,40,20,Made,1,38,50,88,h,Sykes 20' Jump Shot (10 PTS) (Rice 3 AST),Made Shot,Jump Shot,1,2,212
+1022600264,292,PT02M20.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,213
+1022600264,292,PT02M20.00S,2,1611661332,TOR,1643706,Bankole,O. Bankole,0,0,0,,0,,,0,h,Bankole STEAL (1 STL),,,1,0,214
+1022600264,294,PT02M05.00S,2,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,-167,181,25,Made,1,41,50,91,h,Fagbenle 25' 3PT Jump Shot (7 PTS) (Rice 4 AST),Made Shot,Jump Shot,1,3,215
+1022600264,296,PT01M50.00S,2,1611661325,IND,1642286,Clark,C. Clark,-219,48,0,Made,1,41,53,94,v,Clark 3PT Step Back Jump Shot (12 PTS) (Hines-Allen 2 AST),Made Shot,Step Back Jump shot,1,3,216
+1022600264,298,PT01M32.00S,2,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,-230,7,0,Made,1,44,53,97,h,Fagbenle 3PT Step Back Jump Shot (10 PTS) (Sykes 1 AST),Made Shot,Step Back Jump shot,1,3,217
+1022600264,300,PT01M19.00S,2,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,12,7,1,Made,1,44,55,99,v,Hines-Allen 1' Cutting Layup Shot (2 PTS) (Clark 4 AST),Made Shot,Cutting Layup Shot,1,2,218
+1022600264,302,PT01M04.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,-182,52,19,Made,1,46,55,101,h,Sykes 19' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,219
+1022600264,303,PT00M51.90S,2,1611661325,IND,1642815,Timpson,M. Timpson,16,-1,2,Made,1,46,57,103,v,Timpson 2' Cutting Layup Shot (6 PTS) (Clark 5 AST),Made Shot,Cutting Layup Shot,1,2,220
+1022600264,305,PT00M41.30S,2,1611661332,TOR,1642800,Morrow,A. Morrow,15,246,25,Made,1,49,57,106,h,Morrow 25' 3PT Jump Shot (8 PTS) (Sykes 2 AST),Made Shot,Jump Shot,1,3,221
+1022600264,307,PT00M26.30S,2,1611661325,IND,1643433,Johnson,R. Johnson,-227,-11,0,Missed,1,,,0,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+1022600264,308,PT00M23.30S,2,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,223
+1022600264,309,PT00M00.00S,2,1611661332,TOR,1628279,Sykes,B. Sykes,-94,245,26,Missed,1,,,0,h,MISS Sykes 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,224
+1022600264,310,PT00M00.00S,2,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Unknown,1,0,225
+1022600264,311,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,57,106,,End of 2nd Period (7:53 PM EST),period,end,1,0,226
+1022600264,324,PT10M00.00S,3,0,,0,,,0,0,0,,0,49,57,106,,Start of 3rd Period (8:10 PM EST),period,start,0,0,227
+1022600264,325,PT09M45.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,173,178,25,Made,1,52,57,109,h,Mabrey 25' 3PT Jump Shot (12 PTS) (Harrison 1 AST),Made Shot,Jump Shot,1,3,228
+1022600264,327,PT09M26.00S,3,1611661325,IND,1641648,Boston,A. Boston,-16,14,2,Made,1,52,59,111,v,Boston 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,229
+1022600264,328,PT09M16.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,162,231,28,Made,1,55,59,114,h,Mabrey 28' 3PT Jump Shot (15 PTS) (Harrison 2 AST),Made Shot,Jump Shot,1,3,230
+1022600264,330,PT09M02.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,,"Double Technical - Mitchell, Mabrey",Foul,Double Technical,1,0,231
+1022600264,332,PT08M58.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-27,12,3,Missed,1,,,0,v,MISS Mitchell 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,232
+1022600264,332,PT08M58.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison BLOCK (1 BLK),,,1,2,233
+1022600264,334,PT08M54.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,234
+1022600264,335,PT08M47.00S,3,1611661325,IND,1631086,Hull,L. Hull,-201,154,25,Missed,1,,,0,v,MISS Hull 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+1022600264,336,PT08M44.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Juskaite REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,236
+1022600264,337,PT08M39.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,215,198,29,Missed,1,,,0,h,MISS Mabrey 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,237
+1022600264,338,PT08M35.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,238
+1022600264,339,PT08M29.00S,3,1611661325,IND,1642286,Clark,C. Clark,-129,224,26,Made,1,55,62,117,v,Clark 26' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,239
+1022600264,340,PT08M12.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P1.T1),Foul,Personal,1,0,240
+1022600264,342,PT08M09.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Juskaite OFF.Foul (P1),Foul,Offensive,1,0,241
+1022600264,344,PT08M09.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Juskaite Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,242
+1022600264,345,PT08M02.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell OFF.Foul (P2),Foul,Offensive,1,0,243
+1022600264,347,PT08M02.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,244
+1022600264,348,PT07M47.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,29,5,3,Missed,1,,,0,h,MISS Harrison 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,245
+1022600264,348,PT07M47.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston BLOCK (3 BLK),,,1,2,246
+1022600264,350,PT07M46.00S,3,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Unknown,0,0,247
+1022600264,352,PT07M39.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,166,210,27,Missed,1,,,0,h,MISS Juskaite 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+1022600264,353,PT07M37.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,249
+1022600264,354,PT07M33.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,250
+1022600264,354,PT07M33.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison STEAL (1 STL),,,1,0,251
+1022600264,356,PT07M23.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,1,0,Made,1,57,62,119,h,Rice Driving Layup (6 PTS) (Sykes 3 AST),Made Shot,Driving Layup Shot,1,2,252
+1022600264,358,PT07M11.00S,3,1611661325,IND,1642286,Clark,C. Clark,206,111,0,Made,1,57,65,122,v,Clark 3PT Jump Shot (18 PTS) (Boston 2 AST),Made Shot,Jump Shot,1,3,253
+1022600264,360,PT06M53.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,h,SUB: Nurse FOR Sykes,Substitution,,0,0,254
+1022600264,362,PT06M50.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Jump Ball Juskaite vs. Timpson: Tip to Boston,Jump Ball,,1,0,255
+1022600264,365,PT06M50.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Juskaite Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,256
+1022600264,365,PT06M50.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson STEAL (1 STL),,,1,0,257
+1022600264,367,PT06M40.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0,258
+1022600264,367,PT06M40.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison STEAL (2 STL),,,1,0,259
+1022600264,369,PT06M39.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,-6,1,1,Missed,1,,,0,h,MISS Harrison 1' Running Layup,Missed Shot,Running Layup Shot,1,2,260
+1022600264,370,PT06M39.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,261
+1022600264,372,PT06M39.00S,3,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,SUB: Fagbenle FOR Juskaite,Substitution,,0,0,262
+1022600264,386,PT06M39.00S,3,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,SUB: Morrow FOR Harrison,Substitution,,0,0,263
+1022600264,374,PT06M39.00S,3,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Violation: Delay of game Violation,Violation,Delay Of Game,0,0,264
+1022600264,375,PT06M31.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice P.FOUL (P3.T1),Foul,Personal,1,0,265
+1022600264,377,PT06M22.00S,3,1611661325,IND,1631086,Hull,L. Hull,208,101,0,Missed,1,,,0,v,MISS Hull 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+1022600264,378,PT06M17.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,267
+1022600264,379,PT06M11.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,11,17,2,Missed,1,,,0,h,MISS Mabrey 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,268
+1022600264,380,PT06M05.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,269
+1022600264,381,PT06M05.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,-6,1,Missed,1,,,0,h,MISS Morrow 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,270
+1022600264,382,PT06M04.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,271
+1022600264,383,PT06M03.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,4,12,1,Made,1,57,67,124,v,Mitchell 1' Running Layup (20 PTS) (Clark 6 AST),Made Shot,Running Layup Shot,1,2,272
+1022600264,385,PT05M59.00S,3,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,273
+1022600264,388,PT05M59.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Hines-Allen FOR Hull,Substitution,,0,0,274
+1022600264,389,PT05M59.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Cunningham FOR Timpson,Substitution,,0,0,275
+1022600264,392,PT05M44.00S,3,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,h,Fagbenle Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,276
+1022600264,392,PT05M44.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (2 STL),,,1,0,277
+1022600264,394,PT05M40.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Out of Bounds - Bad Pass Turnover Turnover (P5.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,278
+1022600264,395,PT05M24.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,160,64,17,Missed,1,,,0,h,MISS Mabrey 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,279
+1022600264,396,PT05M20.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,280
+1022600264,397,PT05M15.00S,3,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen P.FOUL (P3.T2),Foul,Personal,1,0,281
+1022600264,399,PT05M09.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,48,101,11,Missed,1,,,0,h,MISS Mabrey 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,282
+1022600264,400,PT05M07.00S,3,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,283
+1022600264,401,PT05M02.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Out of Bounds Lost Ball Turnover (P6.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,284
+1022600264,402,PT04M36.00S,3,1611661332,TOR,1643445,Rice,K. Rice,-179,6,18,Missed,1,,,0,h,MISS Rice 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,285
+1022600264,403,PT04M33.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,286
+1022600264,404,PT04M32.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,152,203,25,Made,1,60,67,127,h,Nurse 25' 3PT Jump Shot (6 PTS) (Morrow 2 AST),Made Shot,Jump Shot,1,3,287
+1022600264,406,PT04M24.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Out of Bounds Lost Ball Turnover (P7.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,288
+1022600264,407,PT04M11.00S,3,1611661332,TOR,1643445,Rice,K. Rice,-7,5,1,Missed,1,,,0,h,MISS Rice 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,289
+1022600264,408,PT04M08.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,290
+1022600264,409,PT04M07.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,4,-1,0,Made,1,62,67,129,h,Morrow Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,291
+1022600264,410,PT04M07.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,292
+1022600264,411,PT04M07.00S,3,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,SUB: Bankole FOR Rice,Substitution,,0,0,293
+1022600264,412,PT04M07.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Harris FOR Clark,Substitution,,0,0,294
+1022600264,415,PT03M47.00S,3,1611661325,IND,1641648,Boston,A. Boston,-4,33,3,Made,1,62,69,131,v,Boston 3' Driving Hook Shot (12 PTS) (Cunningham 1 AST),Made Shot,Driving Hook Shot,1,2,295
+1022600264,417,PT03M31.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,-203,124,24,Missed,1,,,0,h,MISS Mabrey 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,296
+1022600264,418,PT03M27.00S,3,1611661332,TOR,1643706,Bankole,O. Bankole,0,0,0,,0,,,0,h,Bankole REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,297
+1022600264,419,PT03M27.00S,3,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,17,16,2,Missed,1,,,0,h,MISS Fagbenle 2' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,298
+1022600264,420,PT03M27.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,299
+1022600264,422,PT03M18.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,116,217,25,Made,1,62,72,134,v,Cunningham 25' 3PT Pullup Jump Shot (7 PTS) (Hines-Allen 3 AST),Made Shot,Pullup Jump shot,1,3,300
+1022600264,424,PT03M06.00S,3,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,Hines-Allen P.FOUL (P4.T3),Foul,Personal,1,0,301
+1022600264,426,PT03M06.00S,3,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,SUB: Sykes FOR Mabrey,Substitution,,0,0,302
+1022600264,428,PT02M59.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,106,72,13,Missed,1,,,0,h,MISS Sykes 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,303
+1022600264,429,PT02M57.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,304
+1022600264,430,PT02M49.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-220,89,24,Missed,1,,,0,v,MISS Mitchell 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,305
+1022600264,431,PT02M45.00S,3,1611661332,TOR,1643706,Bankole,O. Bankole,0,0,0,,0,,,0,h,Bankole REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,306
+1022600264,432,PT02M39.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston P.FOUL (P3.T4),Foul,Personal,1,0,307
+1022600264,434,PT02M34.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham S.FOUL (P1.PN),Foul,Shooting,0,0,308
+1022600264,436,PT02M34.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,63,72,135,h,Nurse Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,309
+1022600264,437,PT02M34.00S,3,1611661325,IND,1628899,Hines-Allen,M. Hines-Allen,0,0,0,,0,,,0,v,SUB: Billings FOR Hines-Allen,Substitution,,0,0,310
+1022600264,438,PT02M34.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Timpson FOR Boston,Substitution,,0,0,311
+1022600264,441,PT02M34.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,64,72,136,h,Nurse Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+1022600264,442,PT02M18.00S,3,1611661325,IND,1630112,Harris,T. Harris,5,72,7,Missed,1,,,0,v,MISS Harris 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,313
+1022600264,443,PT02M16.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,314
+1022600264,445,PT02M03.00S,3,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,-218,44,0,Made,1,67,72,139,h,Fagbenle 3PT Jump Shot (13 PTS) (Sykes 4 AST),Made Shot,Jump Shot,1,3,315
+1022600264,447,PT01M44.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-29,66,7,Made,1,67,74,141,v,Mitchell 7' Driving Hook Shot (22 PTS),Made Shot,Driving Hook Shot,1,2,316
+1022600264,448,PT01M44.00S,3,1611661332,TOR,1643706,Bankole,O. Bankole,0,0,0,,0,,,0,h,Bankole S.FOUL (P2.T2),Foul,Shooting,1,0,317
+1022600264,450,PT01M44.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,67,75,142,v,Mitchell Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,1,0,318
+1022600264,451,PT01M32.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,-93,235,25,Missed,1,,,0,h,MISS Nurse 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+1022600264,452,PT01M29.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,320
+1022600264,454,PT01M19.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-11,293,29,Made,1,67,78,145,v,Mitchell 29' 3PT Jump Shot (26 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,3,321
+1022600264,456,PT01M07.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,6,-10,1,Missed,1,,,0,h,MISS Sykes 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,322
+1022600264,457,PT01M05.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,323
+1022600264,458,PT00M54.70S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-224,94,24,Made,1,67,81,148,v,Mitchell 24' 3PT Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,1,3,324
+1022600264,459,PT00M40.20S,3,1611661332,TOR,1642800,Morrow,A. Morrow,-173,-6,17,Made,1,69,81,150,h,Morrow 17' Turnaround Jump Shot (12 PTS) (Sykes 5 AST),Made Shot,Turnaround Jump Shot,1,2,325
+1022600264,461,PT00M24.00S,3,1611661325,IND,1628881,Billings,M. Billings,24,18,3,Missed,1,,,0,v,MISS Billings 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,326
+1022600264,461,PT00M24.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,h,Sykes BLOCK (1 BLK),,,1,2,327
+1022600264,463,PT00M24.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,328
+1022600264,465,PT00M24.00S,3,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,h,SUB: Mabrey FOR Nurse,Substitution,,0,0,329
+1022600264,466,PT00M24.00S,3,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,h,SUB: Rice FOR Sykes,Substitution,,0,0,330
+1022600264,467,PT00M24.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,SUB: Clark FOR Mitchell,Substitution,,0,0,331
+1022600264,471,PT00M21.70S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,332
+1022600264,472,PT00M01.00S,3,1611661332,TOR,1643445,Rice,K. Rice,13,66,7,Missed,1,,,0,h,MISS Rice 7' Layup,Missed Shot,Layup Shot,1,2,333
+1022600264,473,PT00M01.00S,3,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,334
+1022600264,474,PT00M00.00S,3,0,,0,,,0,0,0,,0,69,81,150,,End of 3rd Period (8:32 PM EST),period,end,1,0,335
+1022600264,477,PT10M00.00S,4,0,,0,,,0,0,0,,0,69,81,150,,Start of 4th Period (8:36 PM EST),period,start,0,0,336
+1022600264,478,PT09M46.00S,4,1611661325,IND,1642286,Clark,C. Clark,-23,256,26,Missed,1,,,0,v,MISS Clark 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,337
+1022600264,479,PT09M42.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:6 Def:7),Rebound,Unknown,1,0,338
+1022600264,480,PT09M33.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,-24,54,6,Missed,1,,,0,h,MISS Mabrey 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,339
+1022600264,481,PT09M33.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,340
+1022600264,483,PT09M13.00S,4,1611661325,IND,1641648,Boston,A. Boston,-21,77,8,Made,1,69,83,152,v,Boston 8' Driving Hook Shot (14 PTS) (Harris 3 AST),Made Shot,Driving Hook Shot,1,2,341
+1022600264,485,PT08M53.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,218,96,24,Missed,1,,,0,h,MISS Morrow 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+1022600264,486,PT08M51.00S,4,1611661332,TOR,1643706,Bankole,O. Bankole,0,0,0,,0,,,0,h,Bankole REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,343
+1022600264,487,PT08M45.00S,4,1611661332,TOR,1643445,Rice,K. Rice,-96,156,18,Made,1,71,83,154,h,Rice 18' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,344
+1022600264,488,PT08M33.00S,4,1611661325,IND,1642286,Clark,C. Clark,29,100,10,Made,1,71,85,156,v,Clark 10' Fadeaway Jumper (20 PTS),Made Shot,Fadeaway Jump Shot,1,2,345
+1022600264,489,PT08M21.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,4,-12,1,Made,1,73,85,158,h,Morrow 1' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,346
+1022600264,490,PT08M12.00S,4,1611661332,TOR,1643706,Bankole,O. Bankole,0,0,0,,0,,,0,h,Bankole P.FOUL (P3.T1),Foul,Personal,1,0,347
+1022600264,492,PT08M12.00S,4,1611661332,TOR,1627701,Fagbenle,T. Fagbenle,0,0,0,,0,,,0,h,SUB: Harrison FOR Fagbenle,Substitution,,0,0,348
+1022600264,494,PT08M02.00S,4,1611661325,IND,1641648,Boston,A. Boston,-31,265,27,Missed,1,,,0,v,MISS Boston 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,349
+1022600264,495,PT08M00.00S,4,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Unknown,0,0,350
+1022600264,496,PT08M00.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson L.B.FOUL (P1.T1),Foul,Loose Ball,1,0,351
+1022600264,498,PT07M41.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,34,34,5,Missed,1,,,0,h,MISS Harrison 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,352
+1022600264,499,PT07M40.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:7 Def:7),Rebound,Unknown,1,0,353
+1022600264,500,PT07M36.00S,4,1611661332,TOR,1643706,Bankole,O. Bankole,234,28,24,Made,1,76,85,161,h,Bankole 24' 3PT Jump Shot (3 PTS) (Rice 5 AST),Made Shot,Jump Shot,1,3,354
+1022600264,502,PT07M23.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston OFF.Foul (P4),Foul,Offensive,1,0,355
+1022600264,504,PT07M23.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,356
+1022600264,505,PT07M14.00S,4,1611661332,TOR,1643445,Rice,K. Rice,-99,28,10,Missed,1,,,0,h,MISS Rice 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,357
+1022600264,506,PT07M12.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,358
+1022600264,507,PT07M06.00S,4,1611661332,TOR,1643706,Bankole,O. Bankole,0,0,0,,0,,,0,h,Bankole S.FOUL (P4.T2),Foul,Shooting,1,0,359
+1022600264,509,PT07M06.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,76,86,162,v,Clark Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,360
+1022600264,510,PT07M06.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,76,87,163,v,Clark Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,361
+1022600264,511,PT06M55.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,-54,240,25,Missed,1,,,0,h,MISS Mabrey 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,362
+1022600264,512,PT06M53.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,363
+1022600264,513,PT06M45.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,Mabrey S.FOUL (P2.T3),Foul,Shooting,1,0,364
+1022600264,515,PT06M45.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,76,88,164,v,Cunningham Free Throw 1 of 3 (8 PTS),Free Throw,Free Throw 1 of 3,1,0,365
+1022600264,516,PT06M45.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,76,89,165,v,Cunningham Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,1,0,366
+1022600264,517,PT06M45.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,76,90,166,v,Cunningham Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,0,367
+1022600264,518,PT06M22.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,31,0,3,Missed,1,,,0,h,MISS Mabrey 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,368
+1022600264,519,PT06M19.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,369
+1022600264,520,PT06M08.00S,4,1611661325,IND,1630112,Harris,T. Harris,-234,15,0,Missed,1,,,0,v,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+1022600264,521,PT06M06.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,371
+1022600264,522,PT05M57.00S,4,1611661325,IND,1642286,Clark,C. Clark,117,221,25,Missed,1,,,0,v,MISS Clark 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,372
+1022600264,523,PT05M55.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,373
+1022600264,524,PT05M54.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,34,20,4,Missed,1,,,0,v,MISS Cunningham 4' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,374
+1022600264,525,PT05M53.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,375
+1022600264,526,PT05M53.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,376
+1022600264,527,PT05M53.00S,4,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,377
+1022600264,528,PT05M53.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,SUB: Nurse FOR Mabrey,Substitution,,0,0,378
+1022600264,529,PT05M53.00S,4,1611661332,TOR,1643706,Bankole,O. Bankole,0,0,0,,0,,,0,h,SUB: Sykes FOR Bankole,Substitution,,0,0,379
+1022600264,530,PT05M53.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Hull FOR Boston,Substitution,,0,0,380
+1022600264,531,PT05M53.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Billings FOR Harris,Substitution,,0,0,381
+1022600264,536,PT05M39.00S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P3.T2),Foul,Personal,1,0,382
+1022600264,538,PT05M35.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson S.FOUL (P2.T3),Foul,Shooting,1,0,383
+1022600264,540,PT05M35.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,77,90,167,h,Harrison Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,384
+1022600264,541,PT05M35.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,SUB: Juskaite FOR Rice,Substitution,,0,0,385
+1022600264,543,PT05M35.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,78,90,168,h,Harrison Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,386
+1022600264,544,PT05M14.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings 3 Second Violation Turnover (P2.T16),Turnover,3 Second Violation,1,0,387
+1022600264,545,PT04M58.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,-218,66,0,Missed,1,,,0,h,MISS Nurse 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+1022600264,546,PT04M54.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,389
+1022600264,547,PT04M50.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison P.FOUL (P3.T4),Foul,Personal,1,0,390
+1022600264,549,PT04M37.00S,4,1611661325,IND,1631086,Hull,L. Hull,-12,24,3,Missed,1,,,0,v,MISS Hull 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,391
+1022600264,550,PT04M34.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,392
+1022600264,551,PT04M31.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,3,4,1,Made,1,80,90,170,h,Sykes 1' Running Layup (14 PTS),Made Shot,Running Layup Shot,1,2,393
+1022600264,552,PT04M31.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P2.T4),Foul,Shooting,1,0,394
+1022600264,554,PT04M31.00S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Boston FOR Hull,Substitution,,0,0,395
+1022600264,555,PT04M31.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Harris FOR Billings,Substitution,,0,0,396
+1022600264,558,PT04M31.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,81,90,171,h,Sykes Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,397
+1022600264,560,PT04M14.00S,4,1611661325,IND,1642286,Clark,C. Clark,-24,267,27,Missed,1,,,0,v,MISS Clark 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,398
+1022600264,561,PT04M10.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:7 Def:8),Rebound,Unknown,1,0,399
+1022600264,562,PT04M03.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,42,244,25,Missed,1,,,0,h,MISS Sykes 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,400
+1022600264,563,PT04M01.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,401
+1022600264,564,PT04M01.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,402
+1022600264,565,PT03M49.00S,4,1611661325,IND,1641648,Boston,A. Boston,-37,24,4,Missed,1,,,0,v,MISS Boston 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,403
+1022600264,565,PT03M49.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison BLOCK (2 BLK),,,1,2,404
+1022600264,567,PT03M49.00S,4,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Unknown,0,0,405
+1022600264,569,PT03M49.00S,4,1611661332,TOR,1628915,Nurse,K. Nurse,0,0,0,,0,,,0,h,SUB: Mabrey FOR Nurse,Substitution,,0,0,406
+1022600264,573,PT03M30.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,10,42,4,Made,1,83,90,173,h,Harrison 4' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,407
+1022600264,574,PT03M11.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,5,24,2,Made,1,83,92,175,v,Timpson 2' Layup (8 PTS) (Cunningham 2 AST),Made Shot,Layup Shot,1,2,408
+1022600264,576,PT03M08.00S,4,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,409
+1022600264,577,PT03M08.00S,4,1611661332,TOR,1628279,Sykes,B. Sykes,0,0,0,,0,,,0,h,SUB: Rice FOR Sykes,Substitution,,0,0,410
+1022600264,579,PT02M55.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,-11,7,1,Made,1,85,92,177,h,Harrison 1' Driving Bank Hook Shot (8 PTS) (Mabrey 3 AST),Made Shot,Driving Bank Hook Shot,1,2,411
+1022600264,581,PT02M26.00S,4,1611661325,IND,1630112,Harris,T. Harris,10,22,2,Made,1,85,94,179,v,Harris 2' Driving Finger Roll Layup (2 PTS) (Boston 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,412
+1022600264,582,PT02M15.00S,4,1611661332,TOR,1643445,Rice,K. Rice,-190,136,0,Missed,1,,,0,h,MISS Rice 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+1022600264,583,PT02M15.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,Juskaite REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,414
+1022600264,585,PT02M11.00S,4,0,,581,,,0,0,0,,0,85,94,179,,Instant Replay4th Period (8:58 PM EST),Instant Replay,Support Ruling,0,0,415
+1022600264,586,PT02M08.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P3.PN),Foul,Shooting,1,0,416
+1022600264,588,PT02M08.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,,,0,h,MISS Juskaite Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,417
+1022600264,589,PT02M08.00S,4,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Rebound,Rebound,Normal Rebound,0,0,418
+1022600264,590,PT02M08.00S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,0,0,0,,0,86,94,180,h,Juskaite Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,419
+1022600264,591,PT01M58.00S,4,1611661325,IND,1641648,Boston,A. Boston,-22,260,26,Missed,1,,,0,v,MISS Boston 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+1022600264,592,PT01M54.00S,4,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,421
+1022600264,593,PT01M49.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham P.FOUL (P2.PN),Foul,Personal,1,0,422
+1022600264,595,PT01M49.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,87,94,181,h,Mabrey Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,423
+1022600264,596,PT01M49.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,MISS Mabrey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,424
+1022600264,597,PT01M47.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,425
+1022600264,599,PT01M40.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Turnover: 8 Second Violation (T#17),Turnover,8 Second Violation,1,0,426
+1022600264,600,PT01M32.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,427
+1022600264,600,PT01M32.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson STEAL (2 STL),,,1,0,428
+1022600264,602,PT01M25.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,223,-2,0,Made,1,87,97,184,v,Cunningham 3PT Jump Shot (13 PTS) (Clark 7 AST),Made Shot,Jump Shot,1,3,429
+1022600264,604,PT01M25.00S,4,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,430
+1022600264,605,PT01M23.00S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,-89,244,26,Made,1,90,97,187,h,Mabrey 26' 3PT Turnaround Jump Shot (19 PTS) (Rice 6 AST),Made Shot,Turnaround Jump Shot,1,3,431
+1022600264,607,PT01M06.00S,4,1611661325,IND,1642286,Clark,C. Clark,-54,131,14,Missed,1,,,0,v,MISS Clark 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,432
+1022600264,608,PT01M04.00S,4,1611661332,TOR,1642800,Morrow,A. Morrow,0,0,0,,0,,,0,h,Morrow REBOUND (Off:7 Def:9),Rebound,Unknown,1,0,433
+1022600264,609,PT00M59.30S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,35,300,30,Made,1,93,97,190,h,Mabrey 30' 3PT Running Pull-Up Jump Shot (22 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,434
+1022600264,610,PT00M59.20S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,435
+1022600264,611,PT00M52.60S,4,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison P.FOUL (P4.PN),Foul,Personal,1,0,436
+1022600264,613,PT00M52.60S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,93,98,191,v,Boston Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,437
+1022600264,614,PT00M52.60S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,93,99,192,v,Boston Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,438
+1022600264,615,PT00M52.60S,4,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Timeout: Reset (Full 4 Short 0),Timeout,Reset,0,0,439
+1022600264,616,PT00M50.80S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,-86,307,32,Missed,1,,,0,h,MISS Mabrey 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+1022600264,617,PT00M47.60S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,441
+1022600264,618,PT00M46.60S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,Harris P.FOUL (P2.PN),Foul,Personal,1,0,442
+1022600264,620,PT00M46.60S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,94,99,193,h,Rice Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,443
+1022600264,621,PT00M46.60S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,95,99,194,h,Rice Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,444
+1022600264,622,PT00M46.60S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Reset (Reg.4 Short 0),Timeout,Reset,0,0,445
+1022600264,623,PT00M22.10S,4,1611661325,IND,1641648,Boston,A. Boston,32,101,11,Missed,1,,,0,v,MISS Boston 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,446
+1022600264,624,PT00M20.50S,4,1611661332,TOR,204330,Harrison,I. Harrison,0,0,0,,0,,,0,h,Harrison REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,447
+1022600264,625,PT00M20.50S,4,0,,1611661332,,,0,0,0,,0,,,0,h,TEMPO Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,448
+1022600264,626,PT00M20.50S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Hull FOR Harris,Substitution,,0,0,449
+1022600264,628,PT00M12.10S,4,1611661332,TOR,1629497,Mabrey,M. Mabrey,0,0,0,,0,,,0,h,Mabrey Palming Turnover (P3.T12),Turnover,Palming Turnover,1,0,450
+1022600264,630,PT00M11.00S,4,1611661332,TOR,1643445,Rice,K. Rice,0,0,0,,0,,,0,h,Rice P.FOUL (P4.PN),Foul,Personal,1,0,451
+1022600264,632,PT00M11.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,95,100,195,v,Clark Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,452
+1022600264,633,PT00M11.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,95,101,196,v,Clark Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,453
+1022600264,634,PT00M03.80S,4,1611661332,TOR,1643420,Juskaite,L. Juskaite,-79,240,25,Missed,1,,,0,h,MISS Juskaite 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,454
+1022600264,635,PT00M00.30S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,455
+1022600264,636,PT00M00.00S,4,0,,0,,,0,0,0,,0,95,101,196,,End of 4th Period (9:11 PM EST),period,end,1,0,456

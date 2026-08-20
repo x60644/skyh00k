@@ -1,0 +1,468 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600255,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:06 PM EST),period,start,1,0,1
+1022600255,4,PT10M00.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Jump Ball Malonga vs. DiLeo: Tip to Leite,Jump Ball,,1,0,2
+1022600255,7,PT09M44.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,-139,219,26,Made,1,0,3,3,v,DiLeo 26' 3PT Jump Shot (3 PTS) (Leite 1 AST),Made Shot,Jump Shot,1,3,3
+1022600255,9,PT09M26.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,187,158,24,Made,1,3,3,6,h,Melbourne 24' 3PT Jump Shot (3 PTS) (Malonga 1 AST),Made Shot,Jump Shot,1,3,4
+1022600255,11,PT09M07.00S,1,1611661327,PDX,1642304,Leite,C. Leite,-74,101,13,Made,1,3,5,8,v,Leite 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,5
+1022600255,12,PT08M46.00S,1,1611661328,SEA,1629496,Magbegor,E. Magbegor,59,65,9,Missed,1,,,0,h,MISS Magbegor 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,6
+1022600255,13,PT08M43.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,Puoch REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+1022600255,14,PT08M23.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,-44,71,8,Missed,1,,,0,v,MISS Puoch 8' Layup,Missed Shot,Layup Shot,1,2,8
+1022600255,14,PT08M23.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga BLOCK (1 BLK),,,1,2,9
+1022600255,16,PT08M21.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+1022600255,17,PT08M20.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,11
+1022600255,17,PT08M20.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite STEAL (1 STL),,,1,0,12
+1022600255,19,PT08M10.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,227,8,0,Missed,1,,,0,v,MISS Engstler 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+1022600255,20,PT08M07.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+1022600255,21,PT08M04.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,-26,5,3,Missed,1,,,0,h,MISS Malonga 3' Running Layup,Missed Shot,Running Layup Shot,1,2,15
+1022600255,22,PT08M00.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,16
+1022600255,23,PT08M00.00S,1,1611661328,SEA,1641651,Horston,J. Horston,-21,18,3,Missed,1,,,0,h,MISS Horston 3' Layup,Missed Shot,Layup Shot,1,2,17
+1022600255,24,PT08M00.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,18
+1022600255,25,PT07M58.00S,1,1611661328,SEA,1641651,Horston,J. Horston,5,53,5,Made,1,5,5,10,h,Horston 5' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,19
+1022600255,26,PT07M33.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,43,46,6,Missed,1,,,0,v,MISS Engstler 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,20
+1022600255,27,PT07M31.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,21
+1022600255,28,PT07M30.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,-49,78,9,Missed,1,,,0,v,MISS DiLeo 9' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,22
+1022600255,29,PT07M26.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,Puoch REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,23
+1022600255,30,PT07M19.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,11,61,6,Missed,1,,,0,v,MISS Engstler 6' Jump Shot,Missed Shot,Jump Shot,1,2,24
+1022600255,31,PT07M16.00S,1,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+1022600255,32,PT07M13.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,-30,9,3,Missed,1,,,0,h,MISS Melbourne 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,26
+1022600255,33,PT07M11.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,Engstler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+1022600255,34,PT07M00.00S,1,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor S.FOUL (P1.T1),Foul,Shooting,1,0,28
+1022600255,36,PT07M00.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,5,6,11,v,DiLeo Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,29
+1022600255,37,PT07M00.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,5,7,12,v,DiLeo Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,30
+1022600255,38,PT06M47.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,Puoch P.FOUL (P1.T1),Foul,Personal,1,0,31
+1022600255,40,PT06M43.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,15,10,2,Made,1,7,7,14,h,Malonga 2' Driving Layup (2 PTS) (Horston 1 AST),Made Shot,Driving Layup Shot,1,2,32
+1022600255,41,PT06M36.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,-27,7,3,Made,1,7,9,16,v,Engstler 3' Layup (2 PTS) (Leite 2 AST),Made Shot,Layup Shot,1,2,33
+1022600255,43,PT06M23.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,-151,178,0,Missed,1,,,0,h,MISS Malonga 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+1022600255,44,PT06M23.00S,1,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Rebound,Rebound,Unknown,0,0,35
+1022600255,45,PT06M12.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne S.FOUL (P1.T2),Foul,Shooting,1,0,36
+1022600255,47,PT06M12.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,MISS DiLeo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,37
+1022600255,48,PT06M12.00S,1,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Rebound,Rebound,Normal Rebound,0,0,38
+1022600255,49,PT06M12.00S,1,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,SUB: Cooke FOR Magbegor,Substitution,,0,0,39
+1022600255,50,PT06M12.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,SUB: Fam FOR Melbourne,Substitution,,0,0,40
+1022600255,53,PT06M12.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,7,10,17,v,DiLeo Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,41
+1022600255,54,PT06M01.00S,1,1611661328,SEA,1641651,Horston,J. Horston,154,195,25,Missed,1,,,0,h,MISS Horston 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+1022600255,55,PT05M57.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+1022600255,56,PT05M51.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,-32,18,4,Missed,1,,,0,v,MISS Engstler 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,44
+1022600255,56,PT05M51.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga BLOCK (2 BLK),,,1,2,45
+1022600255,58,PT05M48.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,46
+1022600255,59,PT05M44.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,33,5,3,Made,1,9,10,19,h,Cooke 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,47
+1022600255,60,PT05M25.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,-121,258,28,Missed,1,,,0,v,MISS Carleton 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,48
+1022600255,61,PT05M25.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,49
+1022600255,62,PT05M14.00S,1,1611661328,SEA,1643443,Fam,A. Fam,23,6,2,Missed,1,,,0,h,MISS Fam 2' Layup,Missed Shot,Layup Shot,1,2,50
+1022600255,64,PT05M14.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,51
+1022600255,65,PT05M10.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,52
+1022600255,66,PT05M10.00S,1,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,SUB: Winterburn FOR Puoch,Substitution,,0,0,53
+1022600255,67,PT05M10.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,SUB: Buhner FOR DiLeo,Substitution,,0,0,54
+1022600255,68,PT05M10.00S,1,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,SUB: Williams FOR Engstler,Substitution,,0,0,55
+1022600255,72,PT05M07.00S,1,1611661328,SEA,1641651,Horston,J. Horston,-235,10,24,Missed,1,,,0,h,MISS Horston 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+1022600255,73,PT05M05.00S,1,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,57
+1022600255,74,PT05M05.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton P.FOUL (P1.T2),Foul,Personal,1,0,58
+1022600255,76,PT05M01.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-67,26,7,Missed,1,,,0,h,MISS Hiedeman 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,59
+1022600255,76,PT05M01.00S,1,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,Williams BLOCK (1 BLK),,,1,2,60
+1022600255,78,PT05M01.00S,1,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Rebound,Rebound,Unknown,0,0,61
+1022600255,79,PT04M53.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,210,83,0,Missed,1,,,0,h,MISS Malonga 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+1022600255,80,PT04M52.00S,1,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Rebound,Rebound,Unknown,0,0,63
+1022600255,81,PT04M52.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,64
+1022600255,83,PT04M52.00S,1,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,SUB: Samuelson FOR Horston,Substitution,,0,0,65
+1022600255,84,PT04M52.00S,1,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,SUB: Samuelson FOR Carleton,Substitution,,0,0,66
+1022600255,88,PT04M37.00S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,224,70,0,Missed,1,,,0,v,MISS Samuelson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+1022600255,89,PT04M36.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,v,Buhner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,68
+1022600255,90,PT04M23.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,47,71,9,Missed,1,,,0,v,MISS Buhner 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,69
+1022600255,91,PT04M21.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,70
+1022600255,92,PT04M12.00S,1,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,71
+1022600255,92,PT04M12.00S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson STEAL (1 STL),,,1,0,72
+1022600255,94,PT04M07.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,-62,98,12,Made,1,9,12,21,v,Winterburn 12' Jump Shot (2 PTS) (Leite 3 AST),Made Shot,Jump Shot,1,2,73
+1022600255,97,PT03M55.00S,1,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Turnover: 8 Second Violation (T#3),Turnover,8 Second Violation,1,0,74
+1022600255,98,PT03M55.00S,1,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,SUB: Oblak FOR Leite,Substitution,,0,0,75
+1022600255,100,PT03M45.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,-26,13,3,Made,1,9,14,23,v,Winterburn 3' Driving Layup (4 PTS) (Oblak 1 AST),Made Shot,Driving Layup Shot,1,2,76
+1022600255,101,PT03M40.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,Hiedeman Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,77
+1022600255,101,PT03M40.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn STEAL (1 STL),,,1,0,78
+1022600255,103,PT03M36.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,-16,11,2,Made,1,9,16,25,v,Winterburn 2' Turnaround Bank Shot (6 PTS),Made Shot,Turnaround Bank shot,1,2,79
+1022600255,104,PT03M36.00S,1,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,80
+1022600255,106,PT03M36.00S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,SUB: Melbourne FOR Hiedeman,Substitution,,0,0,81
+1022600255,108,PT03M27.00S,1,1611661328,SEA,1643443,Fam,A. Fam,7,5,1,Made,1,11,16,27,h,Fam 1' Layup (2 PTS) (Malonga 2 AST),Made Shot,Layup Shot,1,2,82
+1022600255,110,PT03M11.00S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,146,199,25,Missed,1,,,0,v,MISS Samuelson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,83
+1022600255,116,PT03M07.00S,1,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Rebound,Rebound,Unknown,0,0,84
+1022600255,111,PT03M07.00S,1,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,SUB: Dolson FOR Malonga,Substitution,,0,0,85
+1022600255,113,PT03M01.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,h,Jump Ball Cooke vs. Williams: Tip to Samuelson,Jump Ball,,1,0,86
+1022600255,117,PT02M59.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,227,33,0,Missed,1,,,0,v,MISS Buhner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+1022600255,118,PT02M55.00S,1,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,88
+1022600255,119,PT02M52.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,h,Dolson OFF.Foul (P1),Foul,Offensive,1,0,89
+1022600255,121,PT02M52.00S,1,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,h,Dolson Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,90
+1022600255,122,PT02M42.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,91
+1022600255,123,PT02M32.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn S.FOUL (P1.T3),Foul,Shooting,1,0,92
+1022600255,125,PT02M32.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,12,16,28,h,Cooke Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,93
+1022600255,126,PT02M32.00S,1,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,v,SUB: DiLeo FOR Buhner,Substitution,,0,0,94
+1022600255,127,PT02M32.00S,1,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,SUB: Engstler FOR Williams,Substitution,,0,0,95
+1022600255,130,PT02M32.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,13,16,29,h,Cooke Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,96
+1022600255,131,PT02M20.00S,1,1611661327,PDX,1643506,Oblak,T. Oblak,35,93,10,Missed,1,,,0,v,MISS Oblak 10' Jump Shot,Missed Shot,Jump Shot,1,2,97
+1022600255,131,PT02M20.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne BLOCK (1 BLK),,,1,2,98
+1022600255,133,PT02M17.00S,1,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,99
+1022600255,134,PT02M07.00S,1,1611661328,SEA,1629478,Samuelson,K. Samuelson,223,26,0,Missed,1,,,0,h,MISS Samuelson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+1022600255,135,PT02M02.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+1022600255,136,PT01M48.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,149,215,26,Made,1,13,19,32,v,Winterburn 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,102
+1022600255,137,PT01M31.00S,1,1611661328,SEA,1643443,Fam,A. Fam,-85,225,24,Missed,1,,,0,h,MISS Fam 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+1022600255,138,PT01M28.00S,1,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,104
+1022600255,139,PT01M21.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,-27,24,4,Made,1,13,21,34,v,Winterburn 4' Cutting Layup Shot (11 PTS) (Oblak 2 AST),Made Shot,Cutting Layup Shot,1,2,105
+1022600255,141,PT01M21.00S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne S.FOUL (P2.T3),Foul,Shooting,1,0,106
+1022600255,143,PT01M21.00S,1,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,h,SUB: Thierry FOR Cooke,Substitution,,0,0,107
+1022600255,144,PT01M21.00S,1,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,SUB: Magbegor FOR Fam,Substitution,,0,0,108
+1022600255,147,PT01M21.00S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,13,22,35,v,Winterburn Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,109
+1022600255,148,PT01M01.00S,1,1611661328,SEA,1642814,Thierry,T. Thierry,0,0,0,,0,,,0,h,Thierry Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,110
+1022600255,148,PT01M01.00S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson STEAL (2 STL),,,1,0,111
+1022600255,150,PT00M55.50S,1,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson S.FOUL (P1.PN),Foul,Shooting,1,0,112
+1022600255,152,PT00M55.50S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,13,23,36,v,Winterburn Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,113
+1022600255,153,PT00M55.50S,1,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,SUB: Hiedeman FOR Samuelson,Substitution,,0,0,114
+1022600255,154,PT00M55.50S,1,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,v,SUB: Leite FOR Oblak,Substitution,,0,0,115
+1022600255,155,PT00M55.50S,1,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,SUB: Carleton FOR Samuelson,Substitution,,0,0,116
+1022600255,159,PT00M55.50S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,13,24,37,v,Winterburn Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,117
+1022600255,160,PT00M37.30S,1,1611661328,SEA,1631141,Melbourne,J. Melbourne,-138,205,25,Made,1,16,24,40,h,Melbourne 25' 3PT Pullup Jump Shot (6 PTS) (Hiedeman 1 AST),Made Shot,Pullup Jump shot,1,3,118
+1022600255,162,PT00M23.30S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,50,119,13,Made,1,16,26,42,v,Winterburn 13' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,1,2,119
+1022600255,163,PT00M11.50S,1,1611661328,SEA,203828,Dolson,S. Dolson,23,242,24,Missed,1,,,0,h,MISS Dolson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+1022600255,164,PT00M07.80S,1,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,Hiedeman REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,121
+1022600255,165,PT00M03.90S,1,1611661328,SEA,1642814,Thierry,T. Thierry,215,98,24,Missed,1,,,0,h,MISS Thierry 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+1022600255,166,PT00M03.90S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,123
+1022600255,167,PT00M00.30S,1,1611661327,PDX,1641683,Winterburn,H. Winterburn,-62,642,64,Missed,1,,,0,v,MISS Winterburn 64' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+1022600255,168,PT00M00.10S,1,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Rebound,Rebound,Unknown,0,0,125
+1022600255,169,PT00M00.00S,1,0,,0,,,0,0,0,,0,16,26,42,,End of 1st Period (10:29 PM EST),period,end,1,0,126
+1022600255,170,PT10M00.00S,2,0,,0,,,0,0,0,,0,16,26,42,,Start of 2nd Period (10:32 PM EST),period,start,0,0,127
+1022600255,171,PT09M48.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-58,-6,6,Made,1,18,26,44,h,Hiedeman 6' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,128
+1022600255,172,PT09M48.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite S.FOUL (P1.T1),Foul,Shooting,1,0,129
+1022600255,174,PT09M48.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,19,26,45,h,Hiedeman Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,130
+1022600255,175,PT09M28.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,-60,122,14,Made,1,19,28,47,v,Carleton 14' Pullup Jump Shot (2 PTS) (DiLeo 1 AST),Made Shot,Pullup Jump shot,1,2,131
+1022600255,178,PT09M07.00S,2,1611661328,SEA,1629496,Magbegor,E. Magbegor,-4,54,5,Missed,1,,,0,h,MISS Magbegor 5' Jump Shot,Missed Shot,Jump Shot,1,2,132
+1022600255,178,PT09M07.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,Engstler BLOCK (1 BLK),,,1,2,133
+1022600255,180,PT09M07.00S,2,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Rebound,Rebound,Unknown,0,0,134
+1022600255,182,PT09M04.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo S.FOUL (P1.T2),Foul,Shooting,1,0,135
+1022600255,184,PT09M04.00S,2,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,20,28,48,h,Magbegor Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,136
+1022600255,185,PT09M04.00S,2,1611661328,SEA,1642814,Thierry,T. Thierry,0,0,0,,0,,,0,h,SUB: Horston FOR Thierry,Substitution,,0,0,137
+1022600255,187,PT09M04.00S,2,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,21,28,49,h,Magbegor Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,138
+1022600255,188,PT08M51.00S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,-21,68,7,Missed,1,,,0,v,MISS Winterburn 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,139
+1022600255,189,PT08M50.00S,2,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+1022600255,190,PT08M40.00S,2,1611661328,SEA,1641651,Horston,J. Horston,221,2,0,Made,1,24,28,52,h,Horston 3PT Jump Shot (5 PTS) (Melbourne 1 AST),Made Shot,Jump Shot,1,3,141
+1022600255,192,PT08M27.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,142
+1022600255,192,PT08M27.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,Hiedeman STEAL (1 STL),,,1,0,143
+1022600255,194,PT08M20.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,227,1,0,Missed,1,,,0,h,MISS Melbourne 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+1022600255,195,PT08M14.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,Engstler REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,145
+1022600255,196,PT08M03.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,-220,100,24,Made,1,24,31,55,v,Carleton 24' 3PT Jump Shot (5 PTS) (Engstler 1 AST),Made Shot,Jump Shot,1,3,146
+1022600255,198,PT07M48.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-143,203,25,Missed,1,,,0,h,MISS Hiedeman 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+1022600255,199,PT07M46.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+1022600255,200,PT07M38.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,19,246,25,Missed,1,,,0,v,MISS Engstler 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,149
+1022600255,201,PT07M32.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,150
+1022600255,202,PT07M32.00S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,-143,217,26,Missed,1,,,0,v,MISS Winterburn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+1022600255,203,PT07M30.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,152
+1022600255,204,PT07M21.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,-93,242,26,Missed,1,,,0,v,MISS DiLeo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+1022600255,205,PT07M17.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,154
+1022600255,206,PT07M11.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,28,7,3,Missed,1,,,0,h,MISS Melbourne 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,155
+1022600255,207,PT07M10.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,156
+1022600255,208,PT07M06.00S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,157
+1022600255,209,PT07M06.00S,2,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,h,SUB: Malonga FOR Dolson,Substitution,,0,0,158
+1022600255,210,PT07M06.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,SUB: Oblak FOR Leite,Substitution,,0,0,159
+1022600255,211,PT07M06.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,SUB: Samuelson FOR DiLeo,Substitution,,0,0,160
+1022600255,212,PT07M06.00S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,SUB: Buhner FOR Engstler,Substitution,,0,0,161
+1022600255,213,PT07M06.00S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,SUB: Williams FOR Winterburn,Substitution,,0,0,162
+1022600255,219,PT06M53.00S,2,1611661328,SEA,1641651,Horston,J. Horston,205,133,24,Made,1,27,31,58,h,Horston 24' 3PT Jump Shot (8 PTS) (Hiedeman 2 AST),Made Shot,Jump Shot,1,3,163
+1022600255,221,PT06M31.00S,2,1611661327,PDX,1643436,Williams,S. Williams,23,9,2,Missed,1,,,0,v,MISS Williams 2' Layup,Missed Shot,Layup Shot,1,2,164
+1022600255,222,PT06M27.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,165
+1022600255,223,PT06M17.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,-7,76,8,Missed,1,,,0,h,MISS Malonga 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,166
+1022600255,224,PT06M15.00S,2,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,v,Oblak REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,167
+1022600255,225,PT05M58.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,38,245,25,Made,1,27,34,61,v,Buhner 25' 3PT Jump Shot (3 PTS) (Carleton 1 AST),Made Shot,Jump Shot,1,3,168
+1022600255,227,PT05M40.00S,2,1611661328,SEA,1629496,Magbegor,E. Magbegor,-28,64,7,Missed,1,,,0,h,MISS Magbegor 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,169
+1022600255,228,PT05M37.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,v,Buhner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,170
+1022600255,229,PT05M31.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,-230,57,24,Missed,1,,,0,v,MISS Carleton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+1022600255,230,PT05M26.00S,2,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,172
+1022600255,231,PT05M22.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,173
+1022600255,232,PT05M22.00S,2,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,174
+1022600255,233,PT05M22.00S,2,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,SUB: Fam FOR Magbegor,Substitution,,0,0,175
+1022600255,234,PT05M22.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,SUB: Puoch FOR Carleton,Substitution,,0,0,176
+1022600255,238,PT05M20.00S,2,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,v,Oblak Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,177
+1022600255,239,PT05M15.00S,2,1611661328,SEA,1643443,Fam,A. Fam,17,11,2,Made,1,29,34,63,h,Fam 2' Layup (4 PTS) (Hiedeman 3 AST),Made Shot,Layup Shot,1,2,178
+1022600255,242,PT04M55.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,-232,28,0,Missed,1,,,0,v,MISS Puoch 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+1022600255,243,PT04M51.00S,2,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,180
+1022600255,244,PT04M46.00S,2,1611661328,SEA,1643443,Fam,A. Fam,-145,184,0,Missed,1,,,0,h,MISS Fam 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+1022600255,245,PT04M44.00S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,182
+1022600255,246,PT04M30.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,-21,47,5,Made,1,29,36,65,v,Puoch 5' Cutting Layup Shot (2 PTS) (Williams 1 AST),Made Shot,Cutting Layup Shot,1,2,183
+1022600255,249,PT04M12.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,Puoch S.FOUL (P2.T3),Foul,Shooting,1,0,184
+1022600255,251,PT04M12.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,MISS Hiedeman Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,185
+1022600255,252,PT04M12.00S,2,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Rebound,Rebound,Normal Rebound,0,0,186
+1022600255,253,PT04M12.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,30,36,66,h,Hiedeman Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,187
+1022600255,256,PT03M48.00S,2,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,188
+1022600255,257,PT03M32.00S,2,1611661328,SEA,1641651,Horston,J. Horston,170,192,26,Missed,1,,,0,h,MISS Horston 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+1022600255,258,PT03M28.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,190
+1022600255,259,PT03M28.00S,2,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P1.T4),Foul,Shooting,1,0,191
+1022600255,261,PT03M28.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,31,36,67,h,Malonga Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,192
+1022600255,262,PT03M28.00S,2,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,v,SUB: Leite FOR Oblak,Substitution,,0,0,193
+1022600255,263,PT03M28.00S,2,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,v,SUB: Engstler FOR Buhner,Substitution,,0,0,194
+1022600255,266,PT03M28.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,32,36,68,h,Malonga Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,195
+1022600255,267,PT03M12.00S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,196
+1022600255,267,PT03M12.00S,2,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam STEAL (1 STL),,,1,0,197
+1022600255,270,PT03M08.00S,2,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,SUB: Carleton FOR Williams,Substitution,,0,0,198
+1022600255,271,PT03M08.00S,2,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,SUB: DiLeo FOR Samuelson,Substitution,,0,0,199
+1022600255,274,PT03M03.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,29,6,3,Made,1,34,36,70,h,Malonga 3' Driving Floating Jump Shot (6 PTS) (Horston 2 AST),Made Shot,Driving Floating Jump Shot,1,2,200
+1022600255,275,PT02M50.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,Hiedeman P.FOUL (P1.T1),Foul,Personal,1,0,201
+1022600255,277,PT02M50.00S,2,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,202
+1022600255,279,PT02M50.00S,2,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,SUB: Winterburn FOR Puoch,Substitution,,0,0,203
+1022600255,281,PT02M42.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,-132,226,26,Missed,1,,,0,v,MISS DiLeo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+1022600255,282,PT02M38.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,205
+1022600255,283,PT02M28.00S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,-238,-14,24,Missed,1,,,0,h,MISS Melbourne 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+1022600255,284,PT02M27.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,207
+1022600255,285,PT02M16.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,168,205,27,Made,1,34,39,73,v,Carleton 27' 3PT Jump Shot (8 PTS) (Winterburn 1 AST),Made Shot,Jump Shot,1,3,208
+1022600255,287,PT02M00.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,-43,233,24,Missed,1,,,0,h,MISS Malonga 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,209
+1022600255,288,PT01M59.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,210
+1022600255,289,PT01M53.00S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,21,22,3,Missed,1,,,0,v,MISS Winterburn 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,211
+1022600255,290,PT01M52.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,212
+1022600255,291,PT01M51.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,-23,27,4,Made,1,34,41,75,v,DiLeo 4' Jump Shot (8 PTS),Made Shot,Jump Shot,1,2,213
+1022600255,292,PT01M26.00S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-96,122,16,Made,1,36,41,77,h,Hiedeman 16' Jump Shot (6 PTS),Made Shot,Jump Shot,1,2,214
+1022600255,293,PT01M04.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,-26,4,3,Made,1,36,43,79,v,DiLeo 3' Cutting Layup Shot (10 PTS) (Winterburn 2 AST),Made Shot,Cutting Layup Shot,1,2,215
+1022600255,295,PT01M04.00S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga S.FOUL (P1.T2),Foul,Shooting,1,0,216
+1022600255,297,PT01M04.00S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,MISS DiLeo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,217
+1022600255,298,PT01M00.00S,2,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,218
+1022600255,299,PT00M59.10S,2,1611661327,PDX,1629524,Carleton,B. Carleton,52,259,26,Made,1,36,46,82,v,Carleton 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,219
+1022600255,300,PT00M47.10S,2,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,70,7,Missed,1,,,0,h,MISS Hiedeman 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,220
+1022600255,300,PT00M47.10S,2,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite BLOCK (1 BLK),,,1,2,221
+1022600255,302,PT00M46.50S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,Engstler REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,222
+1022600255,303,PT00M39.50S,2,1611661327,PDX,1642304,Leite,C. Leite,-226,54,0,Missed,1,,,0,v,MISS Leite 3PT Jump Shot,Missed Shot,Jump Shot,1,3,223
+1022600255,304,PT00M37.30S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,224
+1022600255,305,PT00M29.00S,2,1611661327,PDX,1642304,Leite,C. Leite,-24,7,3,Missed,1,,,0,v,MISS Leite 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,225
+1022600255,306,PT00M27.50S,2,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,226
+1022600255,307,PT00M23.10S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,227
+1022600255,307,PT00M23.10S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn STEAL (2 STL),,,1,0,228
+1022600255,309,PT00M19.40S,2,1611661327,PDX,1641683,Winterburn,H. Winterburn,-26,19,3,Made,1,36,48,84,v,Winterburn 3' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,229
+1022600255,310,PT00M02.50S,2,1611661328,SEA,1631141,Melbourne,J. Melbourne,-16,33,4,Missed,1,,,0,h,MISS Melbourne 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,230
+1022600255,311,PT00M01.90S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,231
+1022600255,312,PT00M01.90S,2,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,232
+1022600255,313,PT00M00.80S,2,1611661328,SEA,1642798,Malonga,D. Malonga,-47,108,12,Missed,1,,,0,h,MISS Malonga 12' Jump Shot,Missed Shot,Jump Shot,1,2,233
+1022600255,314,PT00M00.80S,2,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,Engstler REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,234
+1022600255,315,PT00M00.00S,2,0,,0,,,0,0,0,,0,36,48,84,,End of 2nd Period (10:55 PM EST),period,end,1,0,235
+1022600255,320,PT10M00.00S,3,0,,0,,,0,0,0,,0,36,48,84,,Start of 3rd Period (11:10 PM EST),period,start,0,0,236
+1022600255,321,PT09M41.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,6,45,5,Missed,1,,,0,h,MISS Malonga 5' Layup,Missed Shot,Layup Shot,1,2,237
+1022600255,322,PT09M40.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,238
+1022600255,323,PT09M37.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,-24,12,3,Missed,1,,,0,h,MISS Malonga 3' Layup,Missed Shot,Layup Shot,1,2,239
+1022600255,324,PT09M35.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,240
+1022600255,325,PT09M28.00S,3,1611661327,PDX,1642304,Leite,C. Leite,-36,17,4,Made,1,36,50,86,v,Leite 4' Driving Finger Roll Layup (4 PTS) (Engstler 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,241
+1022600255,327,PT09M17.00S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,242
+1022600255,327,PT09M17.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,Puoch STEAL (1 STL),,,1,0,243
+1022600255,329,PT09M17.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor P.FOUL (P2.T1),Foul,Personal,1,0,244
+1022600255,331,PT09M07.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,-163,176,24,Missed,1,,,0,v,MISS Carleton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,245
+1022600255,332,PT09M06.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,246
+1022600255,333,PT08M56.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,-23,12,3,Missed,1,,,0,h,MISS Malonga 3' Layup,Missed Shot,Layup Shot,1,2,247
+1022600255,334,PT08M55.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,248
+1022600255,335,PT08M53.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,-23,18,3,Missed,1,,,0,h,MISS Malonga 3' Layup,Missed Shot,Layup Shot,1,2,249
+1022600255,336,PT08M52.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,250
+1022600255,337,PT08M45.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,24,6,2,Missed,1,,,0,v,MISS Engstler 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,251
+1022600255,338,PT08M44.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,252
+1022600255,339,PT08M29.00S,3,1611661328,SEA,1641651,Horston,J. Horston,94,43,10,Missed,1,,,0,h,MISS Horston 10' Jump Shot,Missed Shot,Jump Shot,1,2,253
+1022600255,340,PT08M27.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,254
+1022600255,341,PT08M27.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,Puoch S.FOUL (P3.T1),Foul,Shooting,1,0,255
+1022600255,343,PT08M27.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,37,50,87,h,Horston Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,256
+1022600255,344,PT08M27.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,MISS Horston Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,257
+1022600255,345,PT08M25.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,258
+1022600255,346,PT08M24.00S,3,1611661328,SEA,1641651,Horston,J. Horston,30,24,4,Missed,1,,,0,h,MISS Horston 4' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,259
+1022600255,347,PT08M23.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,260
+1022600255,348,PT08M08.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,-222,93,24,Missed,1,,,0,v,MISS Puoch 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+1022600255,349,PT08M06.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,262
+1022600255,350,PT07M50.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,46,94,10,Missed,1,,,0,h,MISS Magbegor 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,263
+1022600255,351,PT07M47.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,Puoch REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,264
+1022600255,352,PT07M34.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,-138,26,14,Missed,1,,,0,v,MISS Carleton 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,265
+1022600255,353,PT07M33.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,266
+1022600255,354,PT07M17.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,10,244,24,Made,1,40,50,90,h,Magbegor 24' 3PT Jump Shot (5 PTS) (Malonga 3 AST),Made Shot,Jump Shot,1,3,267
+1022600255,356,PT06M53.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,-136,194,24,Missed,1,,,0,v,MISS Engstler 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+1022600255,357,PT06M51.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,269
+1022600255,358,PT06M40.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,-199,148,25,Missed,1,,,0,h,MISS Magbegor 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+1022600255,359,PT06M38.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,271
+1022600255,360,PT06M31.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite Out of Bounds - Bad Pass Turnover Turnover (P4.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,272
+1022600255,361,PT06M31.00S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,SUB: Buhner FOR Engstler,Substitution,,0,0,273
+1022600255,362,PT06M31.00S,3,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,SUB: Samuelson FOR Puoch,Substitution,,0,0,274
+1022600255,365,PT06M11.00S,3,1611661328,SEA,1641651,Horston,J. Horston,-184,172,25,Made,1,43,50,93,h,Horston 25' 3PT Jump Shot (12 PTS) (Magbegor 1 AST),Made Shot,Jump Shot,1,3,275
+1022600255,367,PT05M58.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,276
+1022600255,367,PT05M58.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston STEAL (1 STL),,,1,0,277
+1022600255,369,PT05M47.00S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,-93,229,25,Made,1,46,50,96,h,Melbourne 25' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,278
+1022600255,370,PT05M46.00S,3,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,279
+1022600255,371,PT05M46.00S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,SUB: Cooke FOR Melbourne,Substitution,,0,0,280
+1022600255,372,PT05M46.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,SUB: Fam FOR Malonga,Substitution,,0,0,281
+1022600255,373,PT05M46.00S,3,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,SUB: Oblak FOR Leite,Substitution,,0,0,282
+1022600255,374,PT05M46.00S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,SUB: Williams FOR DiLeo,Substitution,,0,0,283
+1022600255,379,PT05M28.00S,3,1611661327,PDX,1643506,Oblak,T. Oblak,-175,173,25,Missed,1,,,0,v,MISS Oblak 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,284
+1022600255,380,PT05M25.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,285
+1022600255,381,PT05M25.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,v,Buhner P.FOUL (P1.T2),Foul,Personal,1,0,286
+1022600255,383,PT05M02.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,-68,82,11,Missed,1,,,0,h,MISS Magbegor 11' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,287
+1022600255,384,PT05M00.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,288
+1022600255,390,PT04M52.00S,3,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,SUB: Winterburn FOR Carleton,Substitution,,0,0,289
+1022600255,386,PT04M44.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,227,26,0,Missed,1,,,0,v,MISS Winterburn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,290
+1022600255,387,PT04M42.00S,3,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Rebound,Rebound,Unknown,0,0,291
+1022600255,388,PT04M42.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor L.B.FOUL (P3.T2),Foul,Loose Ball,1,0,292
+1022600255,392,PT04M34.00S,3,1611661327,PDX,1643506,Oblak,T. Oblak,-172,170,24,Missed,1,,,0,v,MISS Oblak 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,293
+1022600255,393,PT04M33.00S,3,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,294
+1022600255,394,PT04M24.00S,3,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson P.FOUL (P1.T3),Foul,Personal,1,0,295
+1022600255,396,PT04M18.00S,3,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,h,Cooke Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,296
+1022600255,396,PT04M18.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn STEAL (3 STL),,,1,0,297
+1022600255,398,PT04M14.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,9,1,1,Made,1,46,52,98,v,Buhner 1' Running Layup (5 PTS) (Winterburn 3 AST),Made Shot,Running Layup Shot,1,2,298
+1022600255,400,PT03M50.00S,3,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,299
+1022600255,401,PT03M28.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,-62,29,7,Missed,1,,,0,v,MISS Buhner 7' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,300
+1022600255,402,PT03M26.00S,3,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,301
+1022600255,403,PT03M16.00S,3,1611661328,SEA,1641651,Horston,J. Horston,-233,28,0,Missed,1,,,0,h,MISS Horston 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+1022600255,404,PT03M15.00S,3,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,303
+1022600255,405,PT03M01.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,-173,167,24,Made,1,46,55,101,v,Buhner 24' 3PT Jump Shot (8 PTS) (Winterburn 4 AST),Made Shot,Jump Shot,1,3,304
+1022600255,407,PT02M38.00S,3,1611661328,SEA,1643443,Fam,A. Fam,190,146,24,Made,1,49,55,104,h,Fam 24' 3PT Jump Shot (7 PTS) (Hiedeman 4 AST),Made Shot,Jump Shot,1,3,305
+1022600255,409,PT02M26.00S,3,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,v,Oblak Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,306
+1022600255,409,PT02M26.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor STEAL (1 STL),,,1,0,307
+1022600255,411,PT02M21.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,24,12,3,Made,1,51,55,106,h,Magbegor 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,308
+1022600255,412,PT02M21.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn S.FOUL (P2.T4),Foul,Shooting,1,0,309
+1022600255,414,PT02M21.00S,3,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,SUB: Samuelson FOR Hiedeman,Substitution,,0,0,310
+1022600255,415,PT02M21.00S,3,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,SUB: Malonga FOR Horston,Substitution,,0,0,311
+1022600255,416,PT02M21.00S,3,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,SUB: Melbourne FOR Fam,Substitution,,0,0,312
+1022600255,417,PT02M21.00S,3,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,v,SUB: Engstler FOR Buhner,Substitution,,0,0,313
+1022600255,418,PT02M21.00S,3,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,v,SUB: DiLeo FOR Oblak,Substitution,,0,0,314
+1022600255,419,PT02M21.00S,3,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,SUB: Leite FOR Williams,Substitution,,0,0,315
+1022600255,426,PT02M21.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,52,55,107,h,Magbegor Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,316
+1022600255,427,PT02M07.00S,3,1611661327,PDX,1642304,Leite,C. Leite,-106,217,24,Made,1,52,58,110,v,Leite 24' 3PT Jump Shot (7 PTS) (Samuelson 1 AST),Made Shot,Jump Shot,1,3,317
+1022600255,429,PT01M42.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,24,115,12,Missed,1,,,0,h,MISS Malonga 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,318
+1022600255,430,PT01M40.00S,3,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Rebound,Rebound,Unknown,0,0,319
+1022600255,431,PT01M40.00S,3,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,SUB: Dolson FOR Magbegor,Substitution,,0,0,320
+1022600255,432,PT01M40.00S,3,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,SUB: Carleton FOR Samuelson,Substitution,,0,0,321
+1022600255,435,PT01M28.00S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,-39,2,4,Made,1,52,60,112,v,Winterburn 4' Driving Layup (20 PTS) (Leite 4 AST),Made Shot,Driving Layup Shot,1,2,322
+1022600255,437,PT01M12.00S,3,1611661328,SEA,1642798,Malonga,D. Malonga,-24,28,4,Made,1,54,60,114,h,Malonga 4' Driving Floating Bank Jump Shot (8 PTS) (Dolson 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,323
+1022600255,439,PT00M59.80S,3,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,h,Dolson P.FOUL (P2.T3),Foul,Personal,1,0,324
+1022600255,441,PT00M52.70S,3,1611661327,PDX,1629484,DiLeo,M. DiLeo,-125,214,25,Missed,1,,,0,v,MISS DiLeo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+1022600255,442,PT00M51.70S,3,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,326
+1022600255,443,PT00M48.70S,3,1611661327,PDX,1631083,Engstler,E. Engstler,33,6,3,Made,1,54,62,116,v,Engstler 3' Jump Bank Shot (4 PTS) (Winterburn 5 AST),Made Shot,Jump Bank Shot,1,2,327
+1022600255,444,PT00M33.10S,3,1611661328,SEA,1641660,Cooke,Z. Cooke,235,57,24,Missed,1,,,0,h,MISS Cooke 24' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,328
+1022600255,445,PT00M32.20S,3,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,Samuelson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,329
+1022600255,446,PT00M27.60S,3,1611661328,SEA,1631141,Melbourne,J. Melbourne,-44,83,9,Missed,1,,,0,h,MISS Melbourne 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,330
+1022600255,447,PT00M24.20S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,331
+1022600255,448,PT00M23.60S,3,1611661328,SEA,1642798,Malonga,D. Malonga,-11,84,8,Missed,1,,,0,h,MISS Malonga 8' Jump Shot,Missed Shot,Jump Shot,1,2,332
+1022600255,449,PT00M23.60S,3,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,Engstler REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,333
+1022600255,450,PT00M04.20S,3,1611661327,PDX,1629524,Carleton,B. Carleton,-147,195,24,Missed,1,,,0,v,MISS Carleton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+1022600255,451,PT00M03.80S,3,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,335
+1022600255,452,PT00M00.30S,3,1611661328,SEA,1641660,Cooke,Z. Cooke,-12,629,63,Missed,1,,,0,h,MISS Cooke 63' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,336
+1022600255,453,PT00M00.10S,3,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Rebound,Rebound,Unknown,0,0,337
+1022600255,454,PT00M00.00S,3,0,,0,,,0,0,0,,0,54,62,116,,End of 3rd Period (11:29 PM EST),period,end,1,0,338
+1022600255,455,PT10M00.00S,4,0,,0,,,0,0,0,,0,54,62,116,,Start of 4th Period (11:32 PM EST),period,start,0,0,339
+1022600255,456,PT09M50.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,-143,195,24,Made,1,54,65,119,v,DiLeo 24' 3PT Jump Shot (13 PTS) (Leite 5 AST),Made Shot,Jump Shot,1,3,340
+1022600255,458,PT09M30.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton P.FOUL (P2.T1),Foul,Personal,1,0,341
+1022600255,460,PT09M21.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite S.FOUL (P2.T2),Foul,Shooting,1,0,342
+1022600255,462,PT09M21.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,MISS Malonga Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,343
+1022600255,463,PT09M21.00S,4,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Rebound,Rebound,Normal Rebound,0,0,344
+1022600255,464,PT09M21.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,55,65,120,h,Malonga Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,345
+1022600255,465,PT09M04.00S,4,1611661327,PDX,1642304,Leite,C. Leite,18,267,27,Made,1,55,68,123,v,Leite 27' 3PT Jump Shot (10 PTS) (Carleton 2 AST),Made Shot,Jump Shot,0,3,346
+1022600255,467,PT08M51.00S,4,1611661328,SEA,1629478,Samuelson,K. Samuelson,-135,231,27,Missed,1,,,0,h,MISS Samuelson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,347
+1022600255,468,PT08M46.00S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,348
+1022600255,469,PT08M34.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,-30,2,3,Made,1,55,70,125,v,Engstler 3' Turnaround Bank Shot (6 PTS),Made Shot,Turnaround Bank shot,1,2,349
+1022600255,470,PT08M34.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga S.FOUL (P2.T1),Foul,Shooting,1,0,350
+1022600255,472,PT08M34.00S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,SUB: Magbegor FOR Malonga,Substitution,,0,0,351
+1022600255,473,PT08M34.00S,4,1611661328,SEA,203828,Dolson,S. Dolson,0,0,0,,0,,,0,h,SUB: Fam FOR Dolson,Substitution,,0,0,352
+1022600255,474,PT08M34.00S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,SUB: Puoch FOR Winterburn,Substitution,,0,0,353
+1022600255,478,PT08M34.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,55,71,126,v,Engstler Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,354
+1022600255,479,PT08M22.00S,4,1611661328,SEA,1643443,Fam,A. Fam,-138,216,26,Made,1,58,71,129,h,Fam 26' 3PT Jump Shot (10 PTS) (Magbegor 2 AST),Made Shot,Jump Shot,1,3,355
+1022600255,481,PT08M05.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,-11,59,6,Missed,1,,,0,v,MISS Carleton 6' Jump Shot,Missed Shot,Jump Shot,1,2,356
+1022600255,481,PT08M05.00S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor BLOCK (1 BLK),,,1,2,357
+1022600255,483,PT08M04.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,358
+1022600255,484,PT07M55.00S,4,1611661327,PDX,1642304,Leite,C. Leite,-33,22,4,Made,1,58,73,131,v,Leite 4' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,359
+1022600255,485,PT07M47.00S,4,1611661328,SEA,1629478,Samuelson,K. Samuelson,190,140,24,Made,1,61,73,134,h,Samuelson 24' 3PT Pullup Jump Shot (3 PTS) (Magbegor 3 AST),Made Shot,Pullup Jump shot,1,3,360
+1022600255,487,PT07M23.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,-169,170,24,Made,1,61,76,137,v,Carleton 24' 3PT Step Back Jump Shot (14 PTS) (Puoch 1 AST),Made Shot,Step Back Jump shot,1,3,361
+1022600255,489,PT07M07.00S,4,1611661328,SEA,1643443,Fam,A. Fam,-100,235,26,Made,1,64,76,140,h,Fam 26' 3PT Jump Shot (13 PTS) (Melbourne 2 AST),Made Shot,Jump Shot,1,3,362
+1022600255,492,PT06M57.00S,4,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,363
+1022600255,493,PT06M57.00S,4,1611661328,SEA,1641660,Cooke,Z. Cooke,0,0,0,,0,,,0,h,SUB: Hiedeman FOR Cooke,Substitution,,0,0,364
+1022600255,494,PT06M57.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,SUB: Williams FOR Leite,Substitution,,0,0,365
+1022600255,495,PT06M57.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,SUB: Oblak FOR Carleton,Substitution,,0,0,366
+1022600255,496,PT06M57.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,SUB: Samuelson FOR DiLeo,Substitution,,0,0,367
+1022600255,497,PT06M57.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,0,0,0,,0,,,0,v,SUB: Buhner FOR Engstler,Substitution,,0,0,368
+1022600255,505,PT06M41.00S,4,1611661327,PDX,1643506,Oblak,T. Oblak,15,11,2,Missed,1,,,0,v,MISS Oblak 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,369
+1022600255,506,PT06M40.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,Hiedeman REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,370
+1022600255,507,PT06M24.00S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,8,92,9,Missed,1,,,0,h,MISS Magbegor 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,371
+1022600255,508,PT06M23.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,372
+1022600255,509,PT06M10.00S,4,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam S.FOUL (P1.T2),Foul,Shooting,1,0,373
+1022600255,511,PT06M10.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,374
+1022600255,512,PT06M10.00S,4,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Rebound,Rebound,Normal Rebound,0,0,375
+1022600255,513,PT06M10.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,376
+1022600255,514,PT06M09.00S,4,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,377
+1022600255,515,PT05M54.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,Puoch P.FOUL (P4.T3),Foul,Personal,1,0,378
+1022600255,517,PT05M47.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,154,196,25,Missed,1,,,0,h,MISS Hiedeman 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+1022600255,518,PT05M42.00S,4,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,380
+1022600255,519,PT05M34.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,-50,19,5,Missed,1,,,0,h,MISS Melbourne 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,381
+1022600255,519,PT05M34.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,Williams BLOCK (2 BLK),,,1,2,382
+1022600255,520,PT05M33.00S,4,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,383
+1022600255,521,PT05M32.00S,4,1611661328,SEA,1643443,Fam,A. Fam,17,2,2,Made,1,66,76,142,h,Fam 2' Layup (15 PTS),Made Shot,Layup Shot,1,2,384
+1022600255,522,PT05M29.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne P.FOUL (P3.T3),Foul,Personal,1,0,385
+1022600255,524,PT05M20.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,51,243,25,Made,1,66,79,145,v,Samuelson 25' 3PT Jump Shot (3 PTS) (Oblak 3 AST),Made Shot,Jump Shot,1,3,386
+1022600255,526,PT05M12.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,Hiedeman Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,387
+1022600255,526,PT05M12.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,Puoch STEAL (2 STL),,,1,0,388
+1022600255,528,PT05M09.00S,4,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,v,Buhner Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,389
+1022600255,528,PT05M09.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne STEAL (1 STL),,,1,0,390
+1022600255,532,PT05M05.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,Samuelson Transition Take Foul (P2.T4),Foul,Transition Take,1,0,391
+1022600255,534,PT05M05.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,67,79,146,h,Melbourne Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,392
+1022600255,535,PT04M57.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,55,36,7,Missed,1,,,0,h,MISS Melbourne 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,393
+1022600255,536,PT04M54.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,394
+1022600255,537,PT04M49.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,0,0,0,,0,,,0,h,Melbourne P.FOUL (P4.T4),Foul,Personal,1,0,395
+1022600255,539,PT04M49.00S,4,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,SUB: Horston FOR Samuelson,Substitution,,0,0,396
+1022600255,540,PT04M49.00S,4,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,SUB: Carleton FOR Puoch,Substitution,,0,0,397
+1022600255,541,PT04M49.00S,4,1611661327,PDX,1643436,Williams,S. Williams,0,0,0,,0,,,0,v,SUB: DiLeo FOR Williams,Substitution,,0,0,398
+1022600255,542,PT04M49.00S,4,1611661327,PDX,1643494,Buhner,F. Buhner,0,0,0,,0,,,0,v,SUB: Engstler FOR Buhner,Substitution,,0,0,399
+1022600255,547,PT04M45.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo OFF.Foul (P2),Foul,Offensive,1,0,400
+1022600255,549,PT04M45.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,1,0,401
+1022600255,550,PT04M33.00S,4,1611661328,SEA,1643443,Fam,A. Fam,29,239,24,Made,1,70,79,149,h,Fam 24' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3,402
+1022600255,552,PT04M23.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo OFF.Foul (P3),Foul,Offensive,1,0,403
+1022600255,554,PT04M23.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,DiLeo Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,1,0,404
+1022600255,555,PT04M23.00S,4,1611661327,PDX,1643506,Oblak,T. Oblak,0,0,0,,0,,,0,v,SUB: Leite FOR Oblak,Substitution,,0,0,405
+1022600255,556,PT04M23.00S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,SUB: Winterburn FOR Samuelson,Substitution,,0,0,406
+1022600255,559,PT04M12.00S,4,1611661328,SEA,1631141,Melbourne,J. Melbourne,23,18,3,Made,1,72,79,151,h,Melbourne 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,407
+1022600255,560,PT03M53.00S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor S.FOUL (P4.PN),Foul,Shooting,1,0,408
+1022600255,562,PT03M53.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,72,80,152,v,DiLeo Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,409
+1022600255,563,PT03M53.00S,4,1611661327,PDX,1629484,DiLeo,M. DiLeo,0,0,0,,0,,,0,v,MISS DiLeo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,410
+1022600255,564,PT03M52.00S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,411
+1022600255,565,PT03M36.00S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,134,211,25,Made,1,75,80,155,h,Magbegor 25' 3PT Jump Shot (11 PTS) (Hiedeman 5 AST),Made Shot,Jump Shot,1,3,412
+1022600255,567,PT03M13.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,223,28,0,Missed,1,,,0,v,MISS Engstler 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+1022600255,568,PT03M12.00S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,414
+1022600255,569,PT03M12.00S,4,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,415
+1022600255,571,PT02M56.00S,4,1611661328,SEA,1641651,Horston,J. Horston,223,70,0,Missed,1,,,0,h,MISS Horston 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+1022600255,572,PT02M53.00S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,417
+1022600255,573,PT02M37.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,200,161,26,Missed,1,,,0,v,MISS Carleton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+1022600255,574,PT02M35.00S,4,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,419
+1022600255,575,PT02M21.00S,4,1611661328,SEA,1641651,Horston,J. Horston,-228,35,0,Missed,1,,,0,h,MISS Horston 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+1022600255,576,PT02M19.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,421
+1022600255,577,PT02M07.00S,4,1611661327,PDX,1631083,Engstler,E. Engstler,-33,2,3,Made,1,75,82,157,v,Engstler 3' Cutting Layup Shot (9 PTS) (Leite 6 AST),Made Shot,Cutting Layup Shot,1,2,422
+1022600255,580,PT01M55.00S,4,1611661328,SEA,1643443,Fam,A. Fam,-101,231,25,Missed,1,,,0,h,MISS Fam 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+1022600255,581,PT01M53.00S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,424
+1022600255,582,PT01M43.00S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,Leite Out of Bounds Lost Ball Turnover (P5.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,425
+1022600255,583,PT01M32.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-3,130,13,Missed,1,,,0,h,MISS Hiedeman 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,426
+1022600255,584,PT01M31.00S,4,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Rebound,Rebound,Unknown,0,0,427
+1022600255,585,PT01M25.00S,4,1611661327,PDX,1629524,Carleton,B. Carleton,0,0,0,,0,,,0,v,Carleton P.FOUL (P3.PN),Foul,Personal,1,0,428
+1022600255,588,PT01M25.00S,4,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,429
+1022600255,589,PT01M25.00S,4,0,,585,,,0,0,0,,0,75,82,157,,Instant Replay4th Period (11:55 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,430
+1022600255,592,PT01M25.00S,4,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,SUB: Malonga FOR Horston,Substitution,,0,0,431
+1022600255,594,PT01M25.00S,4,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,76,82,158,h,Fam Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,432
+1022600255,595,PT01M25.00S,4,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,77,82,159,h,Fam Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,433
+1022600255,596,PT01M03.00S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,32,241,24,Missed,1,,,0,v,MISS Winterburn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+1022600255,597,PT00M59.90S,4,1611661328,SEA,1643443,Fam,A. Fam,0,0,0,,0,,,0,h,Fam REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,435
+1022600255,598,PT00M45.00S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,62,237,24,Missed,1,,,0,h,MISS Magbegor 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,436
+1022600255,602,PT00M41.50S,4,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Rebound,Rebound,Unknown,1,0,437
+1022600255,599,PT00M40.50S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Jump Ball Malonga vs. Engstler: Tip to Magbegor,Jump Ball,,1,0,438
+1022600255,603,PT00M38.10S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,22,22,3,Made,1,79,82,161,h,Magbegor 3' Turnaround Bank Shot (13 PTS) (Malonga 4 AST),Made Shot,Turnaround Bank shot,1,2,439
+1022600255,605,PT00M38.10S,4,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Timeout: Reset (Reg.4 Short 0),Timeout,Reset,0,0,440
+1022600255,606,PT00M19.80S,4,1611661327,PDX,1629524,Carleton,B. Carleton,-178,163,24,Missed,1,,,0,v,MISS Carleton 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,441
+1022600255,607,PT00M18.10S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,Winterburn REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,442
+1022600255,608,PT00M12.70S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,Magbegor P.FOUL (P5.PN),Foul,Personal,1,0,443
+1022600255,610,PT00M12.70S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,79,83,162,v,Leite Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,444
+1022600255,611,PT00M12.70S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,MISS Leite Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,445
+1022600255,612,PT00M12.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,Hiedeman REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,446
+1022600255,613,PT00M12.00S,4,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,447
+1022600255,614,PT00M12.00S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,SUB: Samuelson FOR Magbegor,Substitution,,0,0,448
+1022600255,615,PT00M12.00S,4,1611661327,PDX,1641683,Winterburn,H. Winterburn,0,0,0,,0,,,0,v,SUB: Puoch FOR Winterburn,Substitution,,0,0,449
+1022600255,618,PT00M10.30S,4,1611661328,SEA,1643443,Fam,A. Fam,167,170,24,Missed,1,,,0,h,MISS Fam 24' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,450
+1022600255,619,PT00M10.30S,4,1611661328,SEA,1642798,Malonga,D. Malonga,0,0,0,,0,,,0,h,Malonga REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,451
+1022600255,620,PT00M06.60S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-201,145,25,Made,1,82,83,165,h,Hiedeman 25' 3PT Jump Shot (9 PTS) (Malonga 5 AST),Made Shot,Jump Shot,1,3,452
+1022600255,622,PT00M06.20S,4,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,453
+1022600255,623,PT00M06.20S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,0,0,0,,0,,,0,h,SUB: Horston FOR Hiedeman,Substitution,,0,0,454
+1022600255,624,PT00M06.20S,4,1611661328,SEA,1629478,Samuelson,K. Samuelson,0,0,0,,0,,,0,h,SUB: Magbegor FOR Samuelson,Substitution,,0,0,455
+1022600255,625,PT00M06.20S,4,1611661327,PDX,1642296,Puoch,N. Puoch,0,0,0,,0,,,0,v,SUB: Samuelson FOR Puoch,Substitution,,0,0,456
+1022600255,629,PT00M05.10S,4,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,Horston P.FOUL (P1.PN),Foul,Personal,1,0,457
+1022600255,631,PT00M05.10S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,,,0,v,MISS Leite Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,458
+1022600255,632,PT00M05.10S,4,0,,1611661327,,,0,0,0,,0,,,0,v,Fire Rebound,Rebound,Normal Rebound,0,0,459
+1022600255,633,PT00M05.10S,4,1611661327,PDX,1642304,Leite,C. Leite,0,0,0,,0,82,84,166,v,Leite Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+1022600255,634,PT00M05.10S,4,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,461
+1022600255,635,PT00M05.10S,4,1611661328,SEA,1641651,Horston,J. Horston,0,0,0,,0,,,0,h,SUB: Hiedeman FOR Horston,Substitution,,0,0,462
+1022600255,636,PT00M05.10S,4,1611661328,SEA,1629496,Magbegor,E. Magbegor,0,0,0,,0,,,0,h,SUB: Samuelson FOR Magbegor,Substitution,,0,0,463
+1022600255,637,PT00M05.10S,4,1611661327,PDX,1628317,Samuelson,K. Samuelson,0,0,0,,0,,,0,v,SUB: Puoch FOR Samuelson,Substitution,,0,0,464
+1022600255,641,PT00M01.00S,4,1611661328,SEA,1629567,Hiedeman,N. Hiedeman,-183,83,20,Missed,1,,,0,h,MISS Hiedeman 20' Jump Shot,Missed Shot,Jump Shot,1,2,465
+1022600255,642,PT00M01.00S,4,0,,1611661328,,,0,0,0,,0,,,0,h,STORM Rebound,Rebound,Unknown,0,0,466
+1022600255,643,PT00M00.00S,4,0,,0,,,0,0,0,,0,82,84,166,,End of 4th Period (12:07 AM EST),period,end,1,0,467

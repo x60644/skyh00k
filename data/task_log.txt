@@ -103,3 +103,397 @@ Archived -> slates\slate_wnba_2026-08-13.json
 To https://github.com/x60644/skyh00k.git
    6e7ee58..1ec15d8  main -> main
 run complete: Thu 08/13/2026 21:30:12.90 
+================================================== 
+skyh00k daily run: Fri 08/14/2026 19:00:01.49 
+Already up to date.
+Auditing WNBA 2026-08-13 — 3 game(s)
+
+  ATL @ CON: pick Gray (fair +967) | actual B. Griner (CON) -> miss (actual was board rank 4)
+  LAS @ NYL: pick Ionescu (fair +677) | actual J. Jones (NYL) -> miss (actual was board rank 3)
+  WAS @ LVA: pick Austin (fair +822) | actual J. Young (LVA) -> miss (actual was board rank 8)
+
+Appended 3 row(s) -> audit_log.csv
+
+====================================================
+RUNNING AUDIT — 6 graded picks
+  Top-pick hit rate:        0/6  (0.0%)
+  Actual scorer on board:   4/6  (66.7%)
+  Model's own expectation:  13.7% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-14...
+
+Wrote 2 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-14.json
+  DAL @ IND: top pick Clark (G) fair +1040, share 30%
+  PDX @ SEA: top pick Malonga (C) fair +654, share 20%
+[main 46d5bae] auto: slate + audit Fri 08/14/2026 19:00:33.55
+ 3 files changed, 894 insertions(+), 600 deletions(-)
+ create mode 100644 data/slates/slate_wnba_2026-08-14.json
+To https://github.com/x60644/skyh00k.git
+   5fef6bc..46d5bae  main -> main
+run complete: Fri 08/14/2026 19:00:38.70 
+================================================== 
+skyh00k daily run: Fri 08/14/2026 21:30:01.38 
+Already up to date.
+Auditing WNBA 2026-08-13 — 3 game(s)
+
+  ATL @ CON: already graded, skipping
+  LAS @ NYL: already graded, skipping
+  WAS @ LVA: already graded, skipping
+
+====================================================
+RUNNING AUDIT — 6 graded picks
+  Top-pick hit rate:        0/6  (0.0%)
+  Actual scorer on board:   4/6  (66.7%)
+  Model's own expectation:  13.7% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-14...
+
+Wrote 2 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-14.json
+  DAL @ IND: top pick Clark (G) fair +1040, share 30%
+  PDX @ SEA: top pick Malonga (C) fair +654, share 20%
+[main 7f24bd2] auto: slate + audit Fri 08/14/2026 21:30:08.33
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+To https://github.com/x60644/skyh00k.git
+   781b16d..7f24bd2  main -> main
+run complete: Fri 08/14/2026 21:30:10.54 
+================================================== 
+skyh00k daily run: Sat 08/15/2026 19:00:01.49 
+Already up to date.
+Auditing WNBA 2026-08-14 — 2 game(s)
+
+  DAL @ IND: pick Clark (fair +1040) | actual A. Boston (IND) -> miss (actual was board rank 4)
+  PDX @ SEA: pick Malonga (fair +654) | actual M. DiLeo (PDX) -> miss (actual was board rank 10)
+
+Appended 2 row(s) -> audit_log.csv
+
+====================================================
+RUNNING AUDIT — 8 graded picks
+  Top-pick hit rate:        0/8  (0.0%)
+  Actual scorer on board:   6/8  (75.0%)
+  Model's own expectation:  13.0% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 1 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-15...
+
+Wrote 3 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-15.json
+  NYL @ CON: top pick Ionescu (G) fair +726, share 40%
+  LAS @ WAS: top pick Austin (C) fair +835, share 10%
+  MIN @ LVA: top pick Gray (G) fair +842, share 20%
+[main acbfc3b] auto: slate + audit Sat 08/15/2026 19:00:25.83
+ 3 files changed, 1468 insertions(+), 276 deletions(-)
+ create mode 100644 data/slates/slate_wnba_2026-08-15.json
+To https://github.com/x60644/skyh00k.git
+   7f24bd2..acbfc3b  main -> main
+run complete: Sat 08/15/2026 19:00:30.12 
+================================================== 
+skyh00k daily run: Sat 08/15/2026 21:30:01.48 
+Already up to date.
+Auditing WNBA 2026-08-14 — 2 game(s)
+
+  DAL @ IND: already graded, skipping
+  PDX @ SEA: already graded, skipping
+
+====================================================
+RUNNING AUDIT — 8 graded picks
+  Top-pick hit rate:        0/8  (0.0%)
+  Actual scorer on board:   6/8  (75.0%)
+  Model's own expectation:  13.0% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-15...
+
+Wrote 3 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-15.json
+  NYL @ CON: top pick Ionescu (G) fair +726, share 40%
+  LAS @ WAS: top pick Austin (C) fair +835, share 10%
+  MIN @ LVA: top pick Gray (G) fair +842, share 20%
+[main f5bdaf5] auto: slate + audit Sat 08/15/2026 21:30:25.73
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+To https://github.com/x60644/skyh00k.git
+   acbfc3b..f5bdaf5  main -> main
+run complete: Sat 08/15/2026 21:30:30.48 
+================================================== 
+skyh00k daily run: Sun 08/16/2026 19:00:01.43 
+Already up to date.
+Auditing WNBA 2026-08-15 — 3 game(s)
+
+  NYL @ CON: pick Ionescu (fair +726) | actual J. Jones (NYL) -> miss (actual was board rank 8)
+  LAS @ WAS: pick Austin (fair +835) | actual N. Ogwumike (LAS) -> miss (actual was board rank 7)
+  MIN @ LVA: pick Gray (fair +842) | actual A. Wilson (LVA) -> miss (actual was board rank 3)
+
+Appended 3 row(s) -> audit_log.csv
+
+====================================================
+RUNNING AUDIT — 11 graded picks
+  Top-pick hit rate:        0/11  (0.0%)
+  Actual scorer on board:   9/11  (81.8%)
+  Model's own expectation:  12.5% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-16...
+
+Wrote 3 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-16.json
+  CHI @ SEA: top pick Cardoso (C) fair +690, share 50%
+  IND @ ATL: top pick Gray (G) fair +1170, share 30%
+  PDX @ PHX: top pick Bonner (F-G) fair +1645, share 10%
+[main 3c912fc] auto: slate + audit Sun 08/16/2026 19:00:29.25
+ 3 files changed, 1503 insertions(+), 432 deletions(-)
+ create mode 100644 data/slates/slate_wnba_2026-08-16.json
+To https://github.com/x60644/skyh00k.git
+   f5bdaf5..3c912fc  main -> main
+run complete: Sun 08/16/2026 19:00:33.00 
+================================================== 
+skyh00k daily run: Sun 08/16/2026 21:30:01.43 
+Already up to date.
+Auditing WNBA 2026-08-15 — 3 game(s)
+
+  NYL @ CON: already graded, skipping
+  LAS @ WAS: already graded, skipping
+  MIN @ LVA: already graded, skipping
+
+====================================================
+RUNNING AUDIT — 11 graded picks
+  Top-pick hit rate:        0/11  (0.0%)
+  Actual scorer on board:   9/11  (81.8%)
+  Model's own expectation:  12.5% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 3 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-16...
+
+Wrote 3 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-16.json
+  CHI @ SEA: top pick Malonga (C) fair +630, share 30%
+  IND @ ATL: top pick Gray (G) fair +1198, share 30%
+  PDX @ PHX: top pick Bonner (F-G) fair +1645, share 10%
+[main 7eea57a] auto: slate + audit Sun 08/16/2026 21:30:25.05
+ 2 files changed, 254 insertions(+), 294 deletions(-)
+To https://github.com/x60644/skyh00k.git
+   3c912fc..7eea57a  main -> main
+run complete: Sun 08/16/2026 21:30:28.42 
+================================================== 
+skyh00k daily run: Mon 08/17/2026 19:00:01.63 
+Already up to date.
+Auditing WNBA 2026-08-16 — 3 game(s)
+
+  CHI @ SEA: pick Malonga (fair +630) | actual J. Horston (SEA) -> miss (actual not on board)
+  IND @ ATL: pick Gray (fair +1198) | actual M. Timpson (IND) -> miss (actual was board rank 3)
+  PDX @ PHX: pick Bonner (fair +1645) | actual M. DiLeo (PDX) -> miss (actual was board rank 8)
+
+Appended 3 row(s) -> audit_log.csv
+
+====================================================
+RUNNING AUDIT — 14 graded picks
+  Top-pick hit rate:        0/14  (0.0%)
+  Actual scorer on board:   11/14  (78.6%)
+  Model's own expectation:  11.8% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-17...
+
+Wrote 1 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-17.json
+  DAL @ GSV: top pick Zandalasini (F) fair +259, share 60%
+[main 75f2496] auto: slate + audit Mon 08/17/2026 19:00:23.09
+ 3 files changed, 473 insertions(+), 755 deletions(-)
+ create mode 100644 data/slates/slate_wnba_2026-08-17.json
+To https://github.com/x60644/skyh00k.git
+   7eea57a..75f2496  main -> main
+run complete: Mon 08/17/2026 19:00:26.42 
+================================================== 
+skyh00k daily run: Mon 08/17/2026 21:30:01.61 
+Already up to date.
+Auditing WNBA 2026-08-16 — 3 game(s)
+
+  CHI @ SEA: already graded, skipping
+  IND @ ATL: already graded, skipping
+  PDX @ PHX: already graded, skipping
+
+====================================================
+RUNNING AUDIT — 14 graded picks
+  Top-pick hit rate:        0/14  (0.0%)
+  Actual scorer on board:   11/14  (78.6%)
+  Model's own expectation:  11.8% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-17...
+
+Wrote 1 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-17.json
+  DAL @ GSV: top pick Zandalasini (F) fair +259, share 60%
+[main b7f63db] auto: slate + audit Mon 08/17/2026 21:30:26.35
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+To https://github.com/x60644/skyh00k.git
+   75f2496..b7f63db  main -> main
+run complete: Mon 08/17/2026 21:30:30.79 
+================================================== 
+skyh00k daily run: Tue 08/18/2026 19:00:01.61 
+Already up to date.
+Auditing WNBA 2026-08-17 — 1 game(s)
+
+  DAL @ GSV: pick Zandalasini (fair +259) | actual A. Smith (DAL) -> miss (actual not on board)
+
+Appended 1 row(s) -> audit_log.csv
+
+====================================================
+RUNNING AUDIT — 15 graded picks
+  Top-pick hit rate:        0/15  (0.0%)
+  Actual scorer on board:   11/15  (73.3%)
+  Model's own expectation:  12.8% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-18...
+
+Wrote 4 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-18.json
+  LAS @ CON: top pick Ogwumike (F) fair +1260, share 0%
+  IND @ TOR: top pick Boston (C-F) fair +1215, share 10%
+  NYL @ CHI: top pick Ionescu (G) fair +669, share 40%
+  ATL @ LVA: top pick Wilson (C) fair +805, share 20%
+[main 8922682] auto: slate + audit Tue 08/18/2026 19:00:29.38
+ 3 files changed, 2200 insertions(+), 150 deletions(-)
+ create mode 100644 data/slates/slate_wnba_2026-08-18.json
+To https://github.com/x60644/skyh00k.git
+   b7f63db..8922682  main -> main
+run complete: Tue 08/18/2026 19:00:33.32 
+================================================== 
+skyh00k daily run: Tue 08/18/2026 21:30:01.60 
+Already up to date.
+Auditing WNBA 2026-08-17 — 1 game(s)
+
+  DAL @ GSV: already graded, skipping
+
+====================================================
+RUNNING AUDIT — 15 graded picks
+  Top-pick hit rate:        0/15  (0.0%)
+  Actual scorer on board:   11/15  (73.3%)
+  Model's own expectation:  12.8% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-18...
+
+Wrote 4 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-18.json
+  LAS @ CON: top pick Ogwumike (F) fair +1260, share 0%
+  IND @ TOR: top pick Boston (C-F) fair +1215, share 10%
+  NYL @ CHI: top pick Ionescu (G) fair +669, share 40%
+  ATL @ LVA: top pick Wilson (C) fair +805, share 20%
+[main 93e9529] auto: slate + audit Tue 08/18/2026 21:30:23.41
+ 2 files changed, 10 insertions(+), 10 deletions(-)
+To https://github.com/x60644/skyh00k.git
+   8922682..93e9529  main -> main
+run complete: Tue 08/18/2026 21:30:27.06 
+================================================== 
+skyh00k daily run: Wed 08/19/2026 19:00:02.03 
+Already up to date.
+Auditing WNBA 2026-08-18 — 4 game(s)
+
+  LAS @ CON: pick Ogwumike (fair +1260) | actual L. Lacan (CON) -> miss (actual not on board)
+  IND @ TOR: pick Boston (fair +1215) | actual L. Hull (IND) -> miss (actual not on board)
+  NYL @ CHI: pick Ionescu (fair +669) | actual P. Astier (NYL) -> miss (actual not on board)
+  ATL @ LVA: pick Wilson (fair +805) | actual A. Gray (ATL) -> miss (actual was board rank 1)
+
+Appended 4 row(s) -> audit_log.csv
+
+====================================================
+RUNNING AUDIT — 19 graded picks
+  Top-pick hit rate:        0/19  (0.0%)
+  Actual scorer on board:   12/19  (63.2%)
+  Model's own expectation:  12.2% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-19...
+
+Wrote 2 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-19.json
+  TOR @ WAS: top pick Austin (C) fair +689, share 20%
+  MIN @ GSV: top pick Zandalasini (F) fair +218, share 60%
+[main 80e7200] auto: slate + audit Wed 08/19/2026 19:00:41.88
+ 3 files changed, 973 insertions(+), 848 deletions(-)
+ create mode 100644 data/slates/slate_wnba_2026-08-19.json
+To https://github.com/x60644/skyh00k.git
+   93e9529..80e7200  main -> main
+run complete: Wed 08/19/2026 19:00:47.37 
+================================================== 
+skyh00k daily run: Thu 08/20/2026  7:52:47.96 
+Already up to date.
+Auditing WNBA 2026-08-19 — 2 game(s)
+
+  TOR @ WAS: pick Austin (fair +689) | actual L. Juskaite (TOR) -> miss (actual was board rank 6)
+  MIN @ GSV: pick Zandalasini (fair +218) | actual C. Williams (MIN) -> miss (actual was board rank 5)
+
+Appended 2 row(s) -> audit_log.csv
+
+====================================================
+RUNNING AUDIT — 21 graded picks
+  Top-pick hit rate:        0/21  (0.0%)
+  Actual scorer on board:   14/21  (66.7%)
+  Model's own expectation:  13.1% per pick
+====================================================
+Judge nothing before ~50 picks — variance owns small samples.
+Refreshing WNBA game list...
+Fetching 0 new completed games into cache...
+Fetching rosters for positions...
+Computing factors from cache...
+Pulling schedule for 2026-08-20...
+
+Wrote 3 game cards -> ..\app\public\slate.json
+Archived -> slates\slate_wnba_2026-08-20.json
+  IND @ DAL: top pick Boston (C-F) fair +1144, share 10%
+  CON @ LVA: top pick Wilson (C) fair +1193, share 10%
+  ATL @ LAS: top pick Gray (G) fair +698, share 40%
+[main b9f79d4] auto: slate + audit Thu 08/20/2026  7:53:43.16
+ 3 files changed, 1445 insertions(+), 295 deletions(-)
+ create mode 100644 data/slates/slate_wnba_2026-08-20.json
+To https://github.com/x60644/skyh00k.git
+   80e7200..b9f79d4  main -> main
+run complete: Thu 08/20/2026  7:53:48.30 

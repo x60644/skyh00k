@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import GameCard from './components/GameCard.jsx'
 import SummaryBar from './components/SummaryBar.jsx'
 import LogTab from './components/LogTab.jsx'
+import ModelTab from './components/ModelTab.jsx'
 import { demoSlate } from './data/demoSlate.js'
 import { APP_VERSION, DEFAULT_LEAGUE, LEAGUES } from './config.js'
 import { supa } from './lib/supa.js'
@@ -9,6 +10,7 @@ import { supa } from './lib/supa.js'
 export default function App() {
   const [league, setLeague] = useState(DEFAULT_LEAGUE)
   const [tab, setTab] = useState('slate')
+  const [wordmarkOk, setWordmarkOk] = useState(true)
   const [live, setLive] = useState(null)
   const [lines, setLines] = useState([])
 
@@ -46,7 +48,10 @@ export default function App() {
         <div className="logohead">
           <img className="applogo" src="/brand/badge.png" alt=""
             onError={(e) => e.currentTarget.remove()} />
-          <div className="logo">skyh<span>00</span>k</div>
+          {wordmarkOk
+            ? <img className="wordmark" src="/brand/wordmark-white.png" alt="skyh00k"
+                onError={() => setWordmarkOk(false)} />
+            : <div className="logo">skyh<span>00</span>k</div>}
         </div>
         <div className="lgswitch" role="tablist" aria-label="League">
           {Object.entries(LEAGUES).map(([key, lg]) => (
@@ -65,7 +70,7 @@ export default function App() {
         </div>
       </header>
       <nav className="tabs" role="tablist" aria-label="View">
-        {[['slate', 'SLATE'], ['log', 'LOG']].map(([key, label]) => (
+        {[['slate', 'SLATE'], ['log', 'LOG'], ['model', 'MODEL']].map(([key, label]) => (
           <button key={key} role="tab" aria-selected={tab === key}
             className={'tab' + (tab === key ? ' on' : '')}
             onClick={() => setTab(key)}>
@@ -74,7 +79,7 @@ export default function App() {
         ))}
       </nav>
 
-      {tab === 'slate' ? (
+      {tab === 'slate' && (
         <>
           {isLive && <SummaryBar games={games} />}
           <main className="slate">
@@ -87,9 +92,9 @@ export default function App() {
             )}
           </main>
         </>
-      ) : (
-        <LogTab league={league} />
       )}
+      {tab === 'log' && <LogTab league={league} />}
+      {tab === 'model' && <ModelTab league={league} />}
       <footer className="appfoot">
         {APP_VERSION}{isLive ? ` · live slate generated ${live.generated.slice(0, 16)}Z` : ' · demo data'}
       </footer>

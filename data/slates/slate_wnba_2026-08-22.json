@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-22T23:44:24Z",
+ "generated": "2026-08-23T01:30:23Z",
  "date": "2026-08-22",
  "league": "wnba",
  "games": [
   {
    "id": "1022600275",
    "league": "wnba",
-   "tipEt": "2nd Qtr             ",
+   "tipEt": "Final",
    "home": {
     "tri": "NYL",
     "name": "New York Liberty",
@@ -20,7 +20,7 @@
    "tip": {
     "homePlayer": "Jones",
     "awayPlayer": "Boston",
-    "homeWinPct": 50
+    "homeWinPct": 51
    },
    "topPick": {
     "playerId": 1629477,
@@ -28,9 +28,9 @@
     "pos": "G",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+655",
+    "fairOdds": "+755",
     "rank": 1,
-    "share": 40,
+    "share": 30,
     "verdict": null
    },
    "rosters": {
@@ -39,7 +39,7 @@
       "playerId": 1629477,
       "name": "Ionescu",
       "pos": "G",
-      "share": 40,
+      "share": 30,
       "fg": 59,
       "att": 4,
       "thin": false,
@@ -56,6 +56,16 @@
       "hot": false
      },
      {
+      "playerId": 1627673,
+      "name": "Jones",
+      "pos": "C",
+      "share": 10,
+      "fg": 34,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     },
+     {
       "playerId": 1631136,
       "name": "Astier",
       "pos": "G",
@@ -63,16 +73,6 @@
       "fg": 62,
       "att": 2,
       "thin": true,
-      "hot": false
-     },
-     {
-      "playerId": 1627673,
-      "name": "Jones",
-      "pos": "C",
-      "share": 0,
-      "fg": 37,
-      "att": 4,
-      "thin": false,
       "hot": false
      },
      {
@@ -91,7 +91,7 @@
       "playerId": 1642286,
       "name": "Clark",
       "pos": "G",
-      "share": 30,
+      "share": 20,
       "fg": 43,
       "att": 5,
       "thin": false,
@@ -142,11 +142,11 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "S. Ionescu takes 40% of NYL first shots over the last 10 games"
+     "text": "S. Ionescu takes 30% of NYL first shots over the last 10 games"
     },
     {
      "tag": "IN",
-     "text": "NYL wins parsed opening tips at 60%, IND at 60%"
+     "text": "NYL wins parsed opening tips at 61%, IND at 58%"
     },
     {
      "tag": "IN",
@@ -209,10 +209,6 @@
     "player": {
      "makes": [
       [
-       274,
-       399
-      ],
-      [
        245,
        401
       ],
@@ -223,6 +219,10 @@
       [
        346,
        183
+      ],
+      [
+       222,
+       387
       ]
      ],
      "misses": [
@@ -238,10 +238,6 @@
     },
     "team": {
      "makes": [
-      [
-       274,
-       399
-      ],
       [
        224,
        404
@@ -277,6 +273,10 @@
       [
        252,
        414
+      ],
+      [
+       222,
+       387
       ]
      ],
      "misses": [
@@ -307,6 +307,10 @@
       [
        250,
        371
+      ],
+      [
+       158,
+       349
       ]
      ]
     }
@@ -315,7 +319,7 @@
   {
    "id": "1022600276",
    "league": "wnba",
-   "tipEt": "9:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "LAS",
     "name": "Los Angeles Sparks",

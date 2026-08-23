@@ -96,6 +96,38 @@ def load_slate(league, date_str):
     return None
 
 
+def publish_audit_json(log):
+    """Publish a compact settled-history file the app's LOG tab reads (mirrors
+    how build_slate.py publishes slate.json). Keyed by game_id so ANY logged
+    line can be settled against the actual first scorer, not just the model's
+    top pick. Generated locally on a residential IP — same as slate.json."""
+    out_path = os.path.join("..", "app", "public", "audit.json")
+    games = {}
+    for _, r in log.iterrows():
+        rank = r.get("actual_board_rank")
+        has_rank = pd.notna(rank) and str(rank).strip() != ""
+        games[str(r["game_id"])] = {
+            "date": str(r["date"]),
+            "league": str(r["league"]),
+            "matchup": str(r["matchup"]),
+            "actualPlayerId": int(r["actual_player_id"]),
+            "actualName": str(r["actual_name"]),
+            "actualTeam": str(r["actual_team"]),
+            "pickPlayerId": int(r["pick_player_id"]),
+            "pickName": str(r["pick_name"]),
+            "pickHit": int(r["hit"]),
+            "actualBoardRank": int(rank) if has_rank else None,
+        }
+    payload = {
+        "generated": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "games": games,
+    }
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=1)
+    print(f"Published {len(games)} game(s) -> {out_path}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--league", default="wnba", choices=["nba", "wnba"])
@@ -179,6 +211,7 @@ def main():
             print(f"  Model's own expectation:  {implied.mean():.1%} per pick")
         print("=" * 52)
         print("Judge nothing before ~50 picks — variance owns small samples.")
+        publish_audit_json(log)
 
 
 if __name__ == "__main__":

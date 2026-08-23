@@ -1,6 +1,6 @@
 // skyh00k config — edit from phone via GitHub web UI, Vercel auto-deploys.
 
-export const APP_VERSION = 'v0.5.0'
+export const APP_VERSION = 'v0.6.0'
 export const DEMO_MODE = true
 
 // League registry — WNBA is the live beta track; NBA tips late October.

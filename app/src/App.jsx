@@ -1,12 +1,14 @@
 import { useEffect, useState } from 'react'
 import GameCard from './components/GameCard.jsx'
 import SummaryBar from './components/SummaryBar.jsx'
+import LogTab from './components/LogTab.jsx'
 import { demoSlate } from './data/demoSlate.js'
 import { APP_VERSION, DEFAULT_LEAGUE, LEAGUES } from './config.js'
 import { supa } from './lib/supa.js'
 
 export default function App() {
   const [league, setLeague] = useState(DEFAULT_LEAGUE)
+  const [tab, setTab] = useState('slate')
   const [live, setLive] = useState(null)
   const [lines, setLines] = useState([])
 
@@ -62,16 +64,32 @@ export default function App() {
             : <em className="demo">DEMO</em>}
         </div>
       </header>
-      {isLive && <SummaryBar games={games} />}
-      <main className="slate">
-        {games.length === 0 ? (
-          <div className="empty">No games on the {LEAGUES[league].label} board.</div>
-        ) : (
-          games.map((g) => (
-            <GameCard key={g.id} game={g} slateDate={isLive ? live.date : null} />
-          ))
-        )}
-      </main>
+      <nav className="tabs" role="tablist" aria-label="View">
+        {[['slate', 'SLATE'], ['log', 'LOG']].map(([key, label]) => (
+          <button key={key} role="tab" aria-selected={tab === key}
+            className={'tab' + (tab === key ? ' on' : '')}
+            onClick={() => setTab(key)}>
+            {label}
+          </button>
+        ))}
+      </nav>
+
+      {tab === 'slate' ? (
+        <>
+          {isLive && <SummaryBar games={games} />}
+          <main className="slate">
+            {games.length === 0 ? (
+              <div className="empty">No games on the {LEAGUES[league].label} board.</div>
+            ) : (
+              games.map((g) => (
+                <GameCard key={g.id} game={g} slateDate={isLive ? live.date : null} />
+              ))
+            )}
+          </main>
+        </>
+      ) : (
+        <LogTab league={league} />
+      )}
       <footer className="appfoot">
         {APP_VERSION}{isLive ? ` · live slate generated ${live.generated.slice(0, 16)}Z` : ' · demo data'}
       </footer>

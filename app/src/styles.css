@@ -175,3 +175,42 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 .livechip.stale{color:
 #E0BB4F; border-color:
 #5C4A12;}
+
+/* --- v0.6: tab nav + LOG (Line Book in-app) --- */
+.tabs{display:flex; gap:2px; border-bottom:1px solid var(--line); padding:0 4px;}
+.tab{font-family:'Bungee'; font-size:12px; letter-spacing:1px; color:var(--dim);
+  background:transparent; border:none; border-bottom:2px solid transparent;
+  padding:9px 16px 10px; cursor:pointer; text-transform:uppercase;}
+.tab.on{color:var(--amber); border-bottom-color:var(--flame);}
+
+.logtab{display:flex; flex-direction:column; gap:12px;}
+.logstats{display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px;}
+.lstat{background:var(--panel); border:1px solid var(--line); border-radius:12px;
+  padding:12px 8px; text-align:center;}
+.lstat .k{font-size:11px; letter-spacing:1.5px; text-transform:uppercase; color:var(--dim);}
+.lstat .v{font-family:'Bungee'; font-size:20px; margin-top:6px;}
+.lstat .v.pos{color:#4FE0A6;} .lstat .v.neg{color:var(--flame);}
+.lstat .sub{font-size:12px; color:var(--dim); margin-top:2px; font-variant-numeric:tabular-nums;}
+.logsub{text-align:center; font-size:12px; color:var(--dim); letter-spacing:1px;}
+.logsub b{color:var(--chalk); font-variant-numeric:tabular-nums;}
+.logsub .pos{color:#4FE0A6;} .logsub .neg{color:var(--flame);}
+
+.logfilters{display:flex; gap:6px; flex-wrap:wrap; margin-top:2px;}
+.daygroup{display:flex; flex-direction:column;}
+.dayhead{font-family:'Bungee'; font-size:11px; letter-spacing:1px; color:var(--dim);
+  margin:6px 0 8px;}
+.betrow{display:flex; align-items:center; gap:10px; background:var(--panel);
+  border:1px solid var(--line); border-radius:12px; padding:8px 12px; margin-bottom:8px;}
+.betrow.hit{border-color:#1E5C46; box-shadow:0 0 10px -2px rgba(79,224,166,.35);}
+.betbody{flex:1; min-width:0;}
+.betname{font-weight:600; font-size:15px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+.betmeta{font-size:12px; color:var(--dim); letter-spacing:.5px; margin-top:2px;}
+.betright{text-align:right; display:flex; flex-direction:column; align-items:flex-end; gap:4px; flex:none;}
+.betodds{font-family:'Bungee'; font-size:13px; color:var(--amber);}
+.rslt{font-size:11px; font-weight:700; letter-spacing:1px; padding:2px 8px; border-radius:4px;
+  font-variant-numeric:tabular-nums;}
+.rslt.hit{background:#123326; color:#4FE0A6;}
+.rslt.miss{background:#3A1610; color:#FF8A5C;}
+.rslt.pend{background:#23232E; color:var(--dim);}
+.logfoot{text-align:center; font-size:11px; color:var(--dim); letter-spacing:.5px;
+  padding:6px 0 2px;}

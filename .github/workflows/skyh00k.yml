@@ -1,9 +1,7 @@
 name: skyh00k daily
 
 on:
-  schedule:
-    - cron: '37 13 * * *'   # 9:37 AM ET (13:37 UTC) — audit yesterday, build today
-    - cron: '41 21 * * *'   # 5:41 PM ET — slate refresh (picks up late lines/rosters)
+
   workflow_dispatch: {}
 
 permissions:

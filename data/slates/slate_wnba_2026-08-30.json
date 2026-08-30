@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-30T13:57:39Z",
+ "generated": "2026-08-30T23:00:24Z",
  "date": "2026-08-30",
  "league": "wnba",
  "games": [
   {
    "id": "1022600297",
    "league": "wnba",
-   "tipEt": "3:00 pm ET",
+   "tipEt": "Final",
    "home": {
     "tri": "ATL",
     "name": "Atlanta Dream",
@@ -28,9 +28,9 @@
     "pos": "G",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+612",
+    "fairOdds": "+824",
     "rank": 1,
-    "share": 40,
+    "share": 30,
     "verdict": null
    },
    "rosters": {
@@ -39,7 +39,7 @@
       "playerId": 1628277,
       "name": "Gray",
       "pos": "G",
-      "share": 40,
+      "share": 30,
       "fg": 45,
       "att": 7,
       "thin": false,
@@ -88,9 +88,9 @@
     ],
     "away": [
      {
-      "playerId": 1627675,
-      "name": "Williams",
-      "pos": "G",
+      "playerId": 203827,
+      "name": "Howard",
+      "pos": "F",
       "share": 20,
       "fg": 62,
       "att": 2,
@@ -98,12 +98,12 @@
       "hot": false
      },
      {
-      "playerId": 203827,
-      "name": "Howard",
-      "pos": "F",
-      "share": 10,
-      "fg": 56,
-      "att": 1,
+      "playerId": 1627675,
+      "name": "Williams",
+      "pos": "G",
+      "share": 20,
+      "fg": 62,
+      "att": 2,
       "thin": true,
       "hot": false
      },
@@ -142,7 +142,7 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "A. Gray takes 40% of ATL first shots over the last 10 games"
+     "text": "A. Gray takes 30% of ATL first shots over the last 10 games"
     },
     {
      "tag": "IN",
@@ -150,11 +150,7 @@
     },
     {
      "tag": "WATCH",
-     "text": "ATL concedes first baskets to opposing centers at 1.5× league rate (n=21)"
-    },
-    {
-     "tag": "WATCH",
-     "text": "MIN concedes first baskets to opposing forwards at 1.3× league rate (n=25)"
+     "text": "ATL concedes first baskets to opposing centers at 1.5× league rate (n=22)"
     },
     {
      "tag": "WATCH",
@@ -163,13 +159,19 @@
    ],
    "badges": [
     {
-     "player": "Gray",
+     "player": "Howard",
      "items": [
       {
-       "icon": "🎯",
-       "label": "First Look",
-       "note": "40% first-shot share",
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "6 first baskets",
        "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
       }
      ]
     },
@@ -183,27 +185,12 @@
        "tier": "gold"
       }
      ]
-    },
-    {
-     "player": "Howard",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "4 putback first baskets",
-       "tier": ""
-      }
-     ]
     }
    ],
    "shots": {
     "playerLabel": "Gray L10",
     "player": {
      "makes": [
-      [
-       176,
-       299
-      ],
       [
        235,
        407
@@ -219,6 +206,10 @@
       [
        396,
        195
+      ],
+      [
+       232,
+       401
       ]
      ],
      "misses": [
@@ -230,10 +221,6 @@
     },
     "team": {
      "makes": [
-      [
-       176,
-       299
-      ],
       [
        271,
        409
@@ -269,6 +256,10 @@
       [
        396,
        195
+      ],
+      [
+       232,
+       401
       ]
      ],
      "misses": [
@@ -299,7 +290,7 @@
   {
    "id": "1022600298",
    "league": "wnba",
-   "tipEt": "5:00 pm ET",
+   "tipEt": "4th Qtr             ",
    "home": {
     "tri": "SEA",
     "name": "Seattle Storm",
@@ -1136,7 +1127,7 @@
     },
     {
      "tag": "WATCH",
-     "text": "CON concedes first baskets to opposing centers at 1.4× league rate (n=19)"
+     "text": "CON concedes first baskets to opposing centers at 1.5× league rate (n=19)"
     },
     {
      "tag": "WATCH",

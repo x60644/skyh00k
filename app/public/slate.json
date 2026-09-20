@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T23:00:34Z",
+ "generated": "2026-09-20T01:30:24Z",
  "date": "2026-09-19",
  "league": "wnba",
  "games": [
@@ -154,7 +154,7 @@
     },
     {
      "tag": "IN",
-     "text": "PHX concedes first baskets to opposing guards at 1.4× league rate (n=26)"
+     "text": "PHX concedes first baskets to opposing guards at 1.3× league rate (n=26)"
     },
     {
      "tag": "WATCH",
@@ -329,7 +329,7 @@
   {
    "id": "1022600310",
    "league": "wnba",
-   "tipEt": "7:00 pm ET",
+   "tipEt": "Final",
    "home": {
     "tri": "ATL",
     "name": "Atlanta Dream",
@@ -343,7 +343,7 @@
    "tip": {
     "homePlayer": "Reese",
     "awayPlayer": "Cardoso",
-    "homeWinPct": 48
+    "homeWinPct": 49
    },
    "topPick": {
     "playerId": 1628277,
@@ -351,23 +351,13 @@
     "pos": "G",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+1197",
+    "fairOdds": "+1690",
     "rank": 1,
-    "share": 30,
+    "share": 20,
     "verdict": null
    },
    "rosters": {
     "home": [
-     {
-      "playerId": 1628277,
-      "name": "Gray",
-      "pos": "G",
-      "share": 30,
-      "fg": 45,
-      "att": 7,
-      "thin": false,
-      "hot": true
-     },
      {
       "playerId": 1631009,
       "name": "Howard",
@@ -377,6 +367,16 @@
       "att": 9,
       "thin": false,
       "hot": false
+     },
+     {
+      "playerId": 1628277,
+      "name": "Gray",
+      "pos": "G",
+      "share": 20,
+      "fg": 45,
+      "att": 7,
+      "thin": false,
+      "hot": true
      },
      {
       "playerId": 1628886,
@@ -411,16 +411,6 @@
     ],
     "away": [
      {
-      "playerId": 1642289,
-      "name": "Cardoso",
-      "pos": "C",
-      "share": 20,
-      "fg": 36,
-      "att": 10,
-      "thin": false,
-      "hot": false
-     },
-     {
       "playerId": 1628922,
       "name": "Stevens",
       "pos": "F-C",
@@ -441,21 +431,31 @@
       "hot": false
      },
      {
-      "playerId": 203400,
-      "name": "Diggins",
+      "playerId": 1642289,
+      "name": "Cardoso",
+      "pos": "C",
+      "share": 10,
+      "fg": 36,
+      "att": 10,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1643447,
+      "name": "Jaquez",
       "pos": "G",
-      "share": 0,
+      "share": 10,
       "fg": 48,
       "att": 2,
       "thin": true,
       "hot": false
      },
      {
-      "playerId": 202664,
-      "name": "Vandersloot",
+      "playerId": 203400,
+      "name": "Diggins",
       "pos": "G",
       "share": 0,
-      "fg": 62,
+      "fg": 48,
       "att": 2,
       "thin": true,
       "hot": false
@@ -465,15 +465,15 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "A. Gray takes 30% of ATL first shots over the last 10 games"
+     "text": "A. Gray takes 20% of ATL first shots over the last 10 games"
     },
     {
      "tag": "IN",
-     "text": "ATL wins parsed opening tips at 58%, CHI at 63%"
+     "text": "ATL wins parsed opening tips at 59%, CHI at 62%"
     },
     {
-     "tag": "IN",
-     "text": "ATL concedes first baskets to opposing centers at 1.5× league rate (n=22)"
+     "tag": "WATCH",
+     "text": "ATL concedes first baskets to opposing centers at 1.5× league rate (n=23)"
     },
     {
      "tag": "WATCH",
@@ -510,10 +510,6 @@
     "player": {
      "makes": [
       [
-       235,
-       407
-      ],
-      [
        417,
        235
       ],
@@ -543,10 +539,6 @@
     },
     "team": {
      "makes": [
-      [
-       235,
-       407
-      ],
       [
        249,
        369
@@ -582,6 +574,10 @@
       [
        266,
        395
+      ],
+      [
+       283,
+       181
       ]
      ],
      "misses": [
@@ -620,7 +616,7 @@
   {
    "id": "1022600311",
    "league": "wnba",
-   "tipEt": "9:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "GSV",
     "name": "Golden State Valkyries",

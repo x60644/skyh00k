@@ -7,9 +7,9 @@ chart, merges any book lines entered via the app (Supabase), and emits
 slate.json + a dated archive.
 
 Run from the data folder:
-    python build_slate.py                  # today's WNBA slate
-    python build_slate.py --league nba
-    python build_slate.py --date 2026-08-13
+    python build_slate.py                  # today's NBA slate
+    python build_slate.py --league wnba
+    python build_slate.py --date 2026-10-21
 
 Supabase (optional): set env vars SUPABASE_URL and SUPABASE_KEY to bake
 entered lines + verdicts into the slate. Without them, lines stay
@@ -40,7 +40,12 @@ CACHE_DIR = "cache"
 OUT_PATH = os.path.join("..", "app", "public", "slate.json")
 SLEEP_SECONDS = 0.8
 LEAGUE_IDS = {"nba": "00", "wnba": "10"}
-DEFAULT_SEASONS = {"nba": "2025-26", "wnba": "2026"}
+DEFAULT_SEASONS = {"nba": "2026-27", "wnba": "2026"}
+# Prior season seeds factors at the start of a new season; the L10 windows
+# roll forward naturally as new games land (game IDs sort chronologically
+# across seasons: 00225... < 00226...). Traded players start thin on their
+# new team because factors key on (playerName, teamTricode).
+PRIOR_SEASONS = {"nba": "2025-26", "wnba": None}
 TIP_TO_FIRST_SHOT = 0.85
 TIMEOUT = 75          # stats.nba.com throttles cloud IPs; default 30s is too tight
 RETRIES = 3
@@ -73,6 +78,25 @@ def refresh_games(season, league):
     return df
 
 
+def load_prior_games(league):
+    """Prior-season game list, from cache when possible (one fetch otherwise)."""
+    prior = PRIOR_SEASONS.get(league)
+    if not prior:
+        return None
+    cache_path = os.path.join(CACHE_DIR, f"games_{league}_{prior}.csv")
+    if os.path.exists(cache_path):
+        return pd.read_csv(cache_path, dtype={"GAME_ID": str})
+    print(f"Prior season {prior} game list not cached — fetching once...")
+    return refresh_games(prior, league)
+
+
+def finals_of(df):
+    """Completed game IDs from a game-list frame; safe on empty/new seasons."""
+    if df is None or df.empty or "WL" not in df.columns:
+        return []
+    return df[df["WL"].notna()]["GAME_ID"].astype(str).unique().tolist()
+
+
 def get_pbp(game_id):
     cache_path = os.path.join(CACHE_DIR, f"pbp3_{game_id}.csv")
     if os.path.exists(cache_path):
@@ -91,8 +115,9 @@ def get_pbp(game_id):
 
 
 def get_roster_positions(team_id, season, league):
-    """personId -> position ('G','F','C','G-F',...) for one team, cached."""
-    cache_path = os.path.join(CACHE_DIR, f"roster_{league}_{team_id}.csv")
+    """personId -> position ('G','F','C','G-F',...) for one team, cached.
+    Cache is season-keyed so a new season forces a one-time refetch (trades)."""
+    cache_path = os.path.join(CACHE_DIR, f"roster_{league}_{season}_{team_id}.csv")
     if os.path.exists(cache_path):
         df = pd.read_csv(cache_path)
     else:
@@ -495,7 +520,7 @@ def build_game_card(g, players, team_games, team_tips, league,
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--league", default="wnba", choices=["nba", "wnba"])
+    ap.add_argument("--league", default="nba", choices=["nba", "wnba"])
     ap.add_argument("--date", default=None, help="YYYY-MM-DD (default: today ET)")
     args = ap.parse_args()
 
@@ -504,10 +529,14 @@ def main():
     et_today = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=4)).date()
     date_str = args.date or et_today.isoformat()
 
-    print(f"Refreshing {league.upper()} game list...")
+    print(f"Refreshing {league.upper()} {season} game list...")
     games_df = refresh_games(season, league)
-    finals = games_df[games_df["WL"].notna()]["GAME_ID"].unique()
-    new = [g for g in sorted(finals)
+    prior_df = load_prior_games(league)
+    finals = sorted(set(finals_of(prior_df) + finals_of(games_df)))
+    n_cur = len(finals_of(games_df))
+    print(f"Factor base: {len(finals)} completed games "
+          f"({n_cur} from {season}, {len(finals) - n_cur} prior-season seed)")
+    new = [g for g in finals
            if not os.path.exists(os.path.join(CACHE_DIR, f"pbp3_{g}.csv"))]
     print(f"Fetching {len(new)} new completed games into cache...")
     for gid in new:
@@ -515,12 +544,13 @@ def main():
 
     print("Fetching rosters for positions...")
     pos_map = {}
-    tri_team = games_df.drop_duplicates("TEAM_ID")[["TEAM_ID", "TEAM_ABBREVIATION"]]
+    team_src = pd.concat([d for d in (prior_df, games_df) if d is not None and not d.empty])
+    tri_team = team_src.drop_duplicates("TEAM_ID")[["TEAM_ID", "TEAM_ABBREVIATION"]]
     for _, t in tri_team.iterrows():
         pos_map.update(get_roster_positions(int(t["TEAM_ID"]), season, league))
 
     print("Computing factors from cache...")
-    players, team_games, team_tips, game_rows = compute_factors(sorted(set(finals)))
+    players, team_games, team_tips, game_rows = compute_factors(finals)
     conc_team, conc_league, conc_total = positional_concessions(game_rows, pos_map)
 
     print(f"Pulling schedule for {date_str}...")

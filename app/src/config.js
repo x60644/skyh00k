@@ -1,9 +1,10 @@
 // skyh00k config — edit from phone via GitHub web UI, Vercel auto-deploys.
 
-export const APP_VERSION = 'v0.6.1'
+export const APP_VERSION = 'v0.7.0'
 export const DEMO_MODE = true
 
-// League registry — WNBA is the live beta track; NBA tips late October.
+// League registry — NBA is the live lead (2026-27 tipped off Oct 20);
+// WNBA was the beta track and stays audited until its last slates grade.
 export const LEAGUES = {
   nba: {
     label: 'NBA',
@@ -16,15 +17,19 @@ export const LEAGUES = {
     logo: (teamId) => `https://cdn.wnba.com/logos/wnba/${teamId}/primary/L/logo.svg`,
   },
 }
-export const DEFAULT_LEAGUE = 'wnba' // in-season league leads
+export const DEFAULT_LEAGUE = 'nba' // in-season league leads
 
 export const headshotUrl = (league, playerId) => LEAGUES[league].headshot(playerId)
 export const teamLogoUrl = (league, teamId) => LEAGUES[league].logo(teamId)
 
-// Duotone tint per team tricode
+// Duotone tint per team tricode (teams without an entry fall back to
+// DEFAULT_TINTS purple/teal — add more here anytime from the phone)
 export const TEAM_TINTS = {
   // NBA
   LAL: '#8B7FF0', LAC: '#38C99C', BOS: '#4FC97F', NYK: '#F08A4B',
+  PHI: '#4D6FE8', GSW: '#4FA3F0', MIL: '#3FA87A', DEN: '#FFC24F',
+  CHI: '#E04B4B', MIA: '#F05A7E', DAL: '#4D8FE8', HOU: '#F0655E',
+  OKC: '#5BB4F0', CLE: '#B04A68', SAS: '#C9C9D4', MEM: '#5D9BD3',
   // WNBA
   LVA: '#E03A3E', NYL: '#5FD4B8', IND: '#F5C242', MIN: '#7FB8E8',
 }

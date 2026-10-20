@@ -57,6 +57,16 @@ activates late October 2026.
 - Python: stdlib + pandas + nba_api only. 0.8s sleeps between NBA fetches.
   Everything cached and resumable.
 
+## Season rollover (active since 2026-10-20)
+- NBA is the live league: DEFAULT_SEASONS nba = 2026-27, with 2025-26 as
+  PRIOR_SEASONS seed — factors combine both; L10 windows roll forward as
+  2026-27 games land (game IDs sort chronologically across seasons).
+- Roster caches are season-keyed (roster_{league}_{season}_{team}.csv) so
+  each new season refetches once and picks up trades.
+- slate.json holds ONE league; run_daily.bat builds NBA nightly. WNBA audit
+  lines in the bat are no-ops once its last archived slates grade; build a
+  WNBA playoff slate manually with --league wnba if wanted.
+
 ## Commands
 - Build today's slate:  cd data && python build_slate.py   (--league nba|wnba, --date YYYY-MM-DD)
 - Grade yesterday:      cd data && python audit_slate.py

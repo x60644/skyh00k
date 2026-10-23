@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T01:30:03Z",
+ "generated": "2026-10-23T00:51:29Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -768,6 +768,138 @@
    "pickName": "Williams",
    "pickHit": 0,
    "actualBoardRank": 10
+  },
+  "22600085": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "ATL@ORL",
+   "actualPlayerId": 1630552,
+   "actualName": "J. Johnson",
+   "actualTeam": "ATL",
+   "pickPlayerId": 1630591,
+   "pickName": "Suggs",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600086": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "MIL@WAS",
+   "actualPlayerId": 1631170,
+   "actualName": "J. Jaquez Jr.",
+   "actualTeam": "MIL",
+   "pickPlayerId": 1642267,
+   "pickName": "Carrington",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600004": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "MIN@MIA",
+   "actualPlayerId": 203507,
+   "actualName": "G. Antetokounmpo",
+   "actualTeam": "MIA",
+   "pickPlayerId": 1628978,
+   "pickName": "DiVincenzo",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600087": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "CHA@BKN",
+   "actualPlayerId": 203944,
+   "actualName": "J. Randle",
+   "actualTeam": "BKN",
+   "pickPlayerId": 1641706,
+   "pickName": "Miller",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600088": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "CHI@TOR",
+   "actualPlayerId": 1629628,
+   "actualName": "R. Barrett",
+   "actualTeam": "TOR",
+   "pickPlayerId": 1627742,
+   "pickName": "Ingram",
+   "pickHit": 0,
+   "actualBoardRank": 8
+  },
+  "22600089": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "UTA@MEM",
+   "actualPlayerId": 1629660,
+   "actualName": "T. Jerome",
+   "actualTeam": "MEM",
+   "pickPlayerId": 1642846,
+   "pickName": "Bailey",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600090": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "IND@NOP",
+   "actualPlayerId": 1642274,
+   "actualName": "Y. Missi",
+   "actualTeam": "NOP",
+   "pickPlayerId": 1627783,
+   "pickName": "Siakam",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600091": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "DAL@HOU",
+   "actualPlayerId": 1629023,
+   "actualName": "P. Washington",
+   "actualTeam": "DAL",
+   "pickPlayerId": 1630578,
+   "pickName": "Sengun",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "22600005": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "GSW@LAL",
+   "actualPlayerId": 1631117,
+   "actualName": "W. Kessler",
+   "actualTeam": "LAL",
+   "pickPlayerId": 2544,
+   "pickName": "James",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600092": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "PHX@POR",
+   "actualPlayerId": 1642270,
+   "actualName": "D. Clingan",
+   "actualTeam": "POR",
+   "pickPlayerId": 203924,
+   "pickName": "Grant",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600093": {
+   "date": "2026-10-21",
+   "league": "nba",
+   "matchup": "SAC@LAC",
+   "actualPlayerId": 1629636,
+   "actualName": "D. Garland",
+   "actualTeam": "LAC",
+   "pickPlayerId": 1642875,
+   "pickName": "Raynaud",
+   "pickHit": 0,
+   "actualBoardRank": null
   }
  }
 }

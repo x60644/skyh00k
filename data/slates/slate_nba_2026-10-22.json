@@ -1,0 +1,641 @@
+{
+ "generated": "2026-10-23T00:52:32Z",
+ "date": "2026-10-22",
+ "league": "nba",
+ "games": [
+  {
+   "id": "0022600006",
+   "league": "nba",
+   "tipEt": "7:00 pm ET",
+   "home": {
+    "tri": "PHI",
+    "name": "Philadelphia 76ers",
+    "teamId": 1610612755
+   },
+   "away": {
+    "tri": "CLE",
+    "name": "Cleveland Cavaliers",
+    "teamId": 1610612739
+   },
+   "tip": {
+    "homePlayer": "Embiid",
+    "awayPlayer": "Allen",
+    "homeWinPct": 43
+   },
+   "topPick": {
+    "playerId": 1630596,
+    "name": "Mobley",
+    "pos": "C",
+    "side": "away",
+    "bookOdds": null,
+    "fairOdds": "+546",
+    "rank": 1,
+    "share": 40,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1630178,
+      "name": "Maxey",
+      "pos": "G",
+      "share": 20,
+      "fg": 49,
+      "att": 14,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1642845,
+      "name": "Edgecombe",
+      "pos": "G",
+      "share": 20,
+      "fg": 40,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1626162,
+      "name": "Oubre Jr.",
+      "pos": "F-G",
+      "share": 10,
+      "fg": 78,
+      "att": 7,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 202331,
+      "name": "George",
+      "pos": "F",
+      "share": 10,
+      "fg": 40,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 203954,
+      "name": "Embiid",
+      "pos": "C-F",
+      "share": 0,
+      "fg": 67,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1630596,
+      "name": "Mobley",
+      "pos": "C",
+      "share": 40,
+      "fg": 60,
+      "att": 14,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1628386,
+      "name": "Allen",
+      "pos": "C",
+      "share": 10,
+      "fg": 57,
+      "att": 8,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1628378,
+      "name": "Mitchell",
+      "pos": "G",
+      "share": 10,
+      "fg": 41,
+      "att": 8,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1628418,
+      "name": "Bryant",
+      "pos": "C-F",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1630241,
+      "name": "Merrill",
+      "pos": "G",
+      "share": 0,
+      "fg": 40,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "E. Mobley takes 40% of CLE first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "PHI wins parsed opening tips at 51%, CLE at 66%"
+    },
+    {
+     "tag": "IN",
+     "text": "CLE concedes first baskets to opposing guards at 1.4× league rate (n=30)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "J. Allen has 6 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Mobley",
+     "items": [
+      {
+       "icon": "🎯",
+       "label": "First Look",
+       "note": "40% first-shot share",
+       "tier": "gold"
+      },
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "13 first baskets",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Maxey",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "George",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Mobley L10",
+    "player": {
+     "makes": [
+      [
+       225,
+       348
+      ],
+      [
+       254,
+       417
+      ],
+      [
+       259,
+       351
+      ]
+     ],
+     "misses": [
+      [
+       12,
+       427
+      ],
+      [
+       234,
+       349
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       315,
+       324
+      ],
+      [
+       244,
+       358
+      ],
+      [
+       225,
+       348
+      ],
+      [
+       257,
+       374
+      ],
+      [
+       254,
+       417
+      ],
+      [
+       17,
+       328
+      ],
+      [
+       259,
+       351
+      ],
+      [
+       243,
+       425
+      ],
+      [
+       275,
+       414
+      ],
+      [
+       103,
+       212
+      ]
+     ],
+     "misses": [
+      [
+       324,
+       383
+      ],
+      [
+       252,
+       386
+      ],
+      [
+       27,
+       394
+      ],
+      [
+       12,
+       427
+      ],
+      [
+       241,
+       292
+      ],
+      [
+       433,
+       233
+      ],
+      [
+       29,
+       289
+      ],
+      [
+       288,
+       351
+      ],
+      [
+       255,
+       403
+      ],
+      [
+       234,
+       349
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600007",
+   "league": "nba",
+   "tipEt": "9:30 pm ET",
+   "home": {
+    "tri": "OKC",
+    "name": "Oklahoma City Thunder",
+    "teamId": 1610612760
+   },
+   "away": {
+    "tri": "DEN",
+    "name": "Denver Nuggets",
+    "teamId": 1610612743
+   },
+   "tip": {
+    "homePlayer": "Holmgren",
+    "awayPlayer": "Holmes II",
+    "homeWinPct": 46
+   },
+   "topPick": {
+    "playerId": 1631096,
+    "name": "Holmgren",
+    "pos": "C-F",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+1219",
+    "rank": 1,
+    "share": 20,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1641717,
+      "name": "Wallace",
+      "pos": "G",
+      "share": 20,
+      "fg": 46,
+      "att": 13,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631096,
+      "name": "Holmgren",
+      "pos": "C-F",
+      "share": 20,
+      "fg": 36,
+      "att": 10,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1629652,
+      "name": "Dort",
+      "pos": "G",
+      "share": 10,
+      "fg": 53,
+      "att": 7,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631119,
+      "name": "Williams",
+      "pos": "F",
+      "share": 0,
+      "fg": 58,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630598,
+      "name": "Wiggins",
+      "pos": "G",
+      "share": 0,
+      "fg": 29,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1627750,
+      "name": "Murray",
+      "pos": "G",
+      "share": 10,
+      "fg": 71,
+      "att": 11,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 203932,
+      "name": "Gordon",
+      "pos": "F",
+      "share": 10,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631128,
+      "name": "Braun",
+      "pos": "G",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 203501,
+      "name": "Hardaway Jr.",
+      "pos": "G",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 203999,
+      "name": "Jokić",
+      "pos": "C",
+      "share": 0,
+      "fg": 64,
+      "att": 8,
+      "thin": false,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "C. Holmgren takes 20% of OKC first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "OKC wins parsed opening tips at 48%, DEN at 56%"
+    },
+    {
+     "tag": "IN",
+     "text": "OKC concedes first baskets to opposing guards at 1.3× league rate (n=37)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "C. Holmgren has 7 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Holmgren",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "7 putback first baskets",
+       "tier": ""
+      },
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on first attempts",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
+     "player": "Murray",
+     "items": [
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "15 first baskets",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "6 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Wallace",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Holmgren L10",
+    "player": {
+     "makes": [
+      [
+       438,
+       258
+      ],
+      [
+       127,
+       203
+      ]
+     ],
+     "misses": [
+      [
+       81,
+       233
+      ],
+      [
+       88,
+       222
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       218,
+       416
+      ],
+      [
+       250,
+       427
+      ],
+      [
+       438,
+       258
+      ],
+      [
+       348,
+       290
+      ],
+      [
+       44,
+       221
+      ],
+      [
+       407,
+       204
+      ],
+      [
+       478,
+       324
+      ],
+      [
+       262,
+       413
+      ],
+      [
+       127,
+       203
+      ],
+      [
+       243,
+       406
+      ]
+     ],
+     "misses": [
+      [
+       316,
+       322
+      ],
+      [
+       256,
+       404
+      ],
+      [
+       81,
+       233
+      ],
+      [
+       174,
+       371
+      ],
+      [
+       88,
+       222
+      ],
+      [
+       51,
+       242
+      ],
+      [
+       216,
+       158
+      ],
+      [
+       479,
+       403
+      ],
+      [
+       103,
+       221
+      ],
+      [
+       318,
+       395
+      ],
+      [
+       177,
+       384
+      ]
+     ]
+    }
+   }
+  }
+ ]
+}

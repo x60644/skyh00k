@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:30:14Z",
+ "generated": "2026-10-23T23:00:20Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -900,6 +900,30 @@
    "pickName": "Raynaud",
    "pickHit": 0,
    "actualBoardRank": null
+  },
+  "22600006": {
+   "date": "2026-10-22",
+   "league": "nba",
+   "matchup": "CLE@PHI",
+   "actualPlayerId": 1628386,
+   "actualName": "J. Allen",
+   "actualTeam": "CLE",
+   "pickPlayerId": 1630596,
+   "pickName": "Mobley",
+   "pickHit": 0,
+   "actualBoardRank": 6
+  },
+  "22600007": {
+   "date": "2026-10-22",
+   "league": "nba",
+   "matchup": "DEN@OKC",
+   "actualPlayerId": 1641717,
+   "actualName": "C. Wallace",
+   "actualTeam": "OKC",
+   "pickPlayerId": 1631096,
+   "pickName": "Holmgren",
+   "pickHit": 0,
+   "actualBoardRank": 1
   }
  }
 }

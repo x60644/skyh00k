@@ -1,0 +1,3754 @@
+{
+ "generated": "2026-10-23T23:01:08Z",
+ "date": "2026-10-23",
+ "league": "nba",
+ "games": [
+  {
+   "id": "0022600099",
+   "league": "nba",
+   "tipEt": "4:00 pm ET",
+   "home": {
+    "tri": "MIL",
+    "name": "Milwaukee Bucks",
+    "teamId": 1610612749
+   },
+   "away": {
+    "tri": "CHI",
+    "name": "Chicago Bulls",
+    "teamId": 1610612741
+   },
+   "tip": {
+    "homePlayer": "Turner",
+    "awayPlayer": "Buzelis",
+    "homeWinPct": 40
+   },
+   "topPick": {
+    "playerId": 1631157,
+    "name": "Rollins",
+    "pos": "G",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+2355",
+    "rank": 1,
+    "share": 10,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1631157,
+      "name": "Rollins",
+      "pos": "G",
+      "share": 10,
+      "fg": 40,
+      "att": 6,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1628398,
+      "name": "Kuzma",
+      "pos": "F",
+      "share": 10,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1626167,
+      "name": "Turner",
+      "pos": "C-F",
+      "share": 10,
+      "fg": 54,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631250,
+      "name": "Nance",
+      "pos": "F",
+      "share": 10,
+      "fg": 48,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1631170,
+      "name": "Jaquez Jr.",
+      "pos": "G",
+      "share": 10,
+      "fg": 56,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1630171,
+      "name": "Okoro",
+      "pos": "F-G",
+      "share": 10,
+      "fg": 43,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 202696,
+      "name": "Vučević",
+      "pos": "C",
+      "share": 10,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630200,
+      "name": "Jones",
+      "pos": "G",
+      "share": 10,
+      "fg": 59,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630188,
+      "name": "Smith",
+      "pos": "F-C",
+      "share": 10,
+      "fg": 54,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631159,
+      "name": "Miller",
+      "pos": "F",
+      "share": 10,
+      "fg": 48,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "R. Rollins takes 10% of MIL first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "MIL wins parsed opening tips at 26%, CHI at 39%"
+    },
+    {
+     "tag": "IN",
+     "text": "CHI concedes first baskets to opposing forwards at 1.3× league rate (n=55)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "R. Rollins has 4 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Rollins",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Rollins L10",
+    "player": {
+     "makes": [],
+     "misses": [
+      [
+       94,
+       379
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       125,
+       206
+      ],
+      [
+       241,
+       401
+      ],
+      [
+       23,
+       432
+      ],
+      [
+       107,
+       205
+      ],
+      [
+       56,
+       265
+      ],
+      [
+       243,
+       411
+      ],
+      [
+       254,
+       420
+      ],
+      [
+       251,
+       418
+      ],
+      [
+       254,
+       416
+      ],
+      [
+       238,
+       405
+      ]
+     ],
+     "misses": [
+      [
+       15,
+       432
+      ],
+      [
+       254,
+       387
+      ],
+      [
+       94,
+       379
+      ],
+      [
+       164,
+       292
+      ],
+      [
+       478,
+       402
+      ],
+      [
+       475,
+       338
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600008",
+   "league": "nba",
+   "tipEt": "7:00 pm ET",
+   "home": {
+    "tri": "BOS",
+    "name": "Boston Celtics",
+    "teamId": 1610612738
+   },
+   "away": {
+    "tri": "NYK",
+    "name": "New York Knicks",
+    "teamId": 1610612752
+   },
+   "tip": {
+    "homePlayer": "Queta",
+    "awayPlayer": "Towns",
+    "homeWinPct": 48
+   },
+   "topPick": {
+    "playerId": 1629674,
+    "name": "Queta",
+    "pos": "C",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+1064",
+    "rank": 1,
+    "share": 10,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1627759,
+      "name": "Brown",
+      "pos": "G-F",
+      "share": 30,
+      "fg": 46,
+      "att": 13,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629674,
+      "name": "Queta",
+      "pos": "C",
+      "share": 10,
+      "fg": 78,
+      "att": 7,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1630568,
+      "name": "Garza",
+      "pos": "C",
+      "share": 10,
+      "fg": 56,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1641775,
+      "name": "Walsh",
+      "pos": "G",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1628401,
+      "name": "White",
+      "pos": "G",
+      "share": 0,
+      "fg": 58,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1628969,
+      "name": "Bridges",
+      "pos": "G-F",
+      "share": 20,
+      "fg": 49,
+      "att": 8,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1628973,
+      "name": "Brunson",
+      "pos": "G",
+      "share": 10,
+      "fg": 57,
+      "att": 15,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1628384,
+      "name": "Anunoby",
+      "pos": "F-G",
+      "share": 10,
+      "fg": 58,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630574,
+      "name": "Hukporti",
+      "pos": "C",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1626157,
+      "name": "Towns",
+      "pos": "C-F",
+      "share": 0,
+      "fg": 43,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "N. Queta takes 10% of BOS first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "BOS wins parsed opening tips at 44%, NYK at 49%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "NYK concedes first baskets to opposing forwards at 1.3× league rate (n=35)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "N. Queta has 8 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Queta",
+     "items": [
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "15 first baskets",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "8 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Brunson",
+     "items": [
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "14 first baskets",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Brown",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Queta L10",
+    "player": {
+     "makes": [
+      [
+       252,
+       406
+      ]
+     ],
+     "misses": []
+    },
+    "team": {
+     "makes": [
+      [
+       303,
+       341
+      ],
+      [
+       252,
+       406
+      ],
+      [
+       235,
+       410
+      ],
+      [
+       252,
+       411
+      ],
+      [
+       259,
+       405
+      ],
+      [
+       170,
+       148
+      ],
+      [
+       374,
+       190
+      ],
+      [
+       477,
+       426
+      ],
+      [
+       104,
+       343
+      ],
+      [
+       213,
+       412
+      ]
+     ],
+     "misses": [
+      [
+       474,
+       381
+      ],
+      [
+       163,
+       180
+      ],
+      [
+       96,
+       424
+      ],
+      [
+       368,
+       194
+      ],
+      [
+       16,
+       402
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600094",
+   "league": "nba",
+   "tipEt": "7:00 pm ET",
+   "home": {
+    "tri": "CHA",
+    "name": "Charlotte Hornets",
+    "teamId": 1610612766
+   },
+   "away": {
+    "tri": "ATL",
+    "name": "Atlanta Hawks",
+    "teamId": 1610612737
+   },
+   "tip": {
+    "homePlayer": "Kalkbrenner",
+    "awayPlayer": "Okongwu",
+    "homeWinPct": 47
+   },
+   "topPick": {
+    "playerId": 1641706,
+    "name": "Miller",
+    "pos": "F",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+1029",
+    "rank": 1,
+    "share": 30,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1641706,
+      "name": "Miller",
+      "pos": "F",
+      "share": 30,
+      "fg": 49,
+      "att": 18,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1642851,
+      "name": "Knueppel",
+      "pos": "G-F",
+      "share": 10,
+      "fg": 52,
+      "att": 9,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630163,
+      "name": "Ball",
+      "pos": "G",
+      "share": 0,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1628970,
+      "name": "Bridges",
+      "pos": "F",
+      "share": 0,
+      "fg": 29,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1641750,
+      "name": "Kalkbrenner",
+      "pos": "C",
+      "share": 0,
+      "fg": 62,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1629638,
+      "name": "Alexander-Walker",
+      "pos": "G",
+      "share": 20,
+      "fg": 42,
+      "att": 10,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630168,
+      "name": "Okongwu",
+      "pos": "F-C",
+      "share": 10,
+      "fg": 49,
+      "att": 8,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630552,
+      "name": "Johnson",
+      "pos": "F",
+      "share": 10,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 203468,
+      "name": "McCollum",
+      "pos": "G",
+      "share": 10,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1642258,
+      "name": "Risacher",
+      "pos": "F",
+      "share": 0,
+      "fg": 58,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "B. Miller takes 30% of CHA first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "CHA wins parsed opening tips at 45%, ATL at 51%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "ATL concedes first baskets to opposing centers at 1.3× league rate (n=42)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "L. Ball has 6 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Miller",
+     "items": [
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "13 first baskets",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Knueppel",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Ball",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "6 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Miller L10",
+    "player": {
+     "makes": [
+      [
+       352,
+       158
+      ],
+      [
+       483,
+       427
+      ],
+      [
+       248,
+       396
+      ],
+      [
+       250,
+       411
+      ]
+     ],
+     "misses": [
+      [
+       197,
+       408
+      ],
+      [
+       324,
+       172
+      ],
+      [
+       414,
+       219
+      ],
+      [
+       320,
+       426
+      ],
+      [
+       331,
+       175
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       352,
+       158
+      ],
+      [
+       422,
+       211
+      ],
+      [
+       483,
+       427
+      ],
+      [
+       473,
+       386
+      ],
+      [
+       158,
+       125
+      ],
+      [
+       248,
+       396
+      ],
+      [
+       232,
+       415
+      ],
+      [
+       249,
+       328
+      ],
+      [
+       250,
+       411
+      ],
+      [
+       267,
+       411
+      ]
+     ],
+     "misses": [
+      [
+       197,
+       408
+      ],
+      [
+       263,
+       338
+      ],
+      [
+       324,
+       172
+      ],
+      [
+       211,
+       156
+      ],
+      [
+       324,
+       160
+      ],
+      [
+       350,
+       172
+      ],
+      [
+       462,
+       264
+      ],
+      [
+       414,
+       219
+      ],
+      [
+       380,
+       207
+      ],
+      [
+       320,
+       426
+      ],
+      [
+       371,
+       188
+      ],
+      [
+       283,
+       400
+      ],
+      [
+       289,
+       319
+      ],
+      [
+       249,
+       172
+      ],
+      [
+       216,
+       366
+      ],
+      [
+       331,
+       175
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600095",
+   "league": "nba",
+   "tipEt": "7:00 pm ET",
+   "home": {
+    "tri": "IND",
+    "name": "Indiana Pacers",
+    "teamId": 1610612754
+   },
+   "away": {
+    "tri": "DAL",
+    "name": "Dallas Mavericks",
+    "teamId": 1610612742
+   },
+   "tip": {
+    "homePlayer": "Huff",
+    "awayPlayer": "Gafford",
+    "homeWinPct": 55
+   },
+   "topPick": {
+    "playerId": 1627783,
+    "name": "Siakam",
+    "pos": "F",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+1042",
+    "rank": 1,
+    "share": 20,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1629614,
+      "name": "Nembhard",
+      "pos": "G-F",
+      "share": 20,
+      "fg": 33,
+      "att": 11,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1627783,
+      "name": "Siakam",
+      "pos": "F",
+      "share": 20,
+      "fg": 53,
+      "att": 5,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1627826,
+      "name": "Zubac",
+      "pos": "C",
+      "share": 10,
+      "fg": 34,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1641771,
+      "name": "Slawson",
+      "pos": "F",
+      "share": 10,
+      "fg": 56,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1630174,
+      "name": "Nesmith",
+      "pos": "G-F",
+      "share": 0,
+      "fg": 30,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1642843,
+      "name": "Flagg",
+      "pos": "F",
+      "share": 10,
+      "fg": 45,
+      "att": 7,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629023,
+      "name": "Washington",
+      "pos": "F",
+      "share": 10,
+      "fg": 30,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629655,
+      "name": "Gafford",
+      "pos": "F-C",
+      "share": 10,
+      "fg": 71,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631108,
+      "name": "Christie",
+      "pos": "G",
+      "share": 0,
+      "fg": 53,
+      "att": 7,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 203076,
+      "name": "Davis",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "P. Siakam takes 20% of IND first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "IND wins parsed opening tips at 50%, DAL at 41%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "IND concedes first baskets to opposing centers at 1.3× league rate (n=46)"
+    },
+    {
+     "tag": "IN",
+     "text": "IND concedes first baskets to opposing forwards at 1.4× league rate (n=46)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "DAL concedes first baskets to opposing centers at 1.3× league rate (n=48)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "P. Siakam has 5 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Nembhard",
+     "items": [
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on first attempts",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
+     "player": "Siakam",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Washington",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Siakam L10",
+    "player": {
+     "makes": [
+      [
+       241,
+       408
+      ],
+      [
+       252,
+       409
+      ],
+      [
+       273,
+       391
+      ]
+     ],
+     "misses": [
+      [
+       279,
+       222
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       241,
+       408
+      ],
+      [
+       252,
+       409
+      ],
+      [
+       467,
+       277
+      ],
+      [
+       278,
+       139
+      ],
+      [
+       254,
+       416
+      ],
+      [
+       397,
+       163
+      ],
+      [
+       273,
+       393
+      ],
+      [
+       475,
+       413
+      ],
+      [
+       273,
+       391
+      ],
+      [
+       352,
+       361
+      ]
+     ],
+     "misses": [
+      [
+       483,
+       422
+      ],
+      [
+       137,
+       408
+      ],
+      [
+       328,
+       394
+      ],
+      [
+       159,
+       386
+      ],
+      [
+       279,
+       222
+      ],
+      [
+       211,
+       157
+      ],
+      [
+       76,
+       165
+      ],
+      [
+       181,
+       375
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600096",
+   "league": "nba",
+   "tipEt": "7:00 pm ET",
+   "home": {
+    "tri": "ORL",
+    "name": "Orlando Magic",
+    "teamId": 1610612753
+   },
+   "away": {
+    "tri": "MIN",
+    "name": "Minnesota Timberwolves",
+    "teamId": 1610612750
+   },
+   "tip": {
+    "homePlayer": "Carter Jr.",
+    "awayPlayer": "Gobert",
+    "homeWinPct": 59
+   },
+   "topPick": {
+    "playerId": 1628976,
+    "name": "Carter Jr.",
+    "pos": "C-F",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+1178",
+    "rank": 1,
+    "share": 20,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1628976,
+      "name": "Carter Jr.",
+      "pos": "C-F",
+      "share": 20,
+      "fg": 59,
+      "att": 16,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1630591,
+      "name": "Suggs",
+      "pos": "G",
+      "share": 20,
+      "fg": 41,
+      "att": 8,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630532,
+      "name": "Wagner",
+      "pos": "F",
+      "share": 10,
+      "fg": 54,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630217,
+      "name": "Bane",
+      "pos": "G",
+      "share": 0,
+      "fg": 58,
+      "att": 11,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631094,
+      "name": "Banchero",
+      "pos": "F",
+      "share": 0,
+      "fg": 64,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1628978,
+      "name": "DiVincenzo",
+      "pos": "G",
+      "share": 10,
+      "fg": 36,
+      "att": 10,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630183,
+      "name": "McDaniels",
+      "pos": "F",
+      "share": 10,
+      "fg": 42,
+      "att": 10,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629675,
+      "name": "Reid",
+      "pos": "C-F",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1630245,
+      "name": "Dosunmu",
+      "pos": "G",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 203944,
+      "name": "Randle",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 54,
+      "att": 14,
+      "thin": false,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "W. Carter Jr. takes 20% of ORL first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "ORL wins parsed opening tips at 75%, MIN at 52%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "J. Suggs has 5 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Carter Jr.",
+     "items": [
+      {
+       "icon": "🪝",
+       "label": "Tip Titan",
+       "note": "71% jump wins",
+       "tier": "gold"
+      },
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "13 first baskets",
+       "tier": "gold"
+      }
+     ]
+    },
+    {
+     "player": "DiVincenzo",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 putback first baskets",
+       "tier": ""
+      },
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on first attempts",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
+     "player": "Suggs",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Carter Jr. L10",
+    "player": {
+     "makes": [
+      [
+       233,
+       418
+      ],
+      [
+       251,
+       414
+      ]
+     ],
+     "misses": [
+      [
+       66,
+       237
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       151,
+       378
+      ],
+      [
+       233,
+       418
+      ],
+      [
+       270,
+       411
+      ],
+      [
+       249,
+       411
+      ],
+      [
+       246,
+       366
+      ],
+      [
+       251,
+       414
+      ],
+      [
+       379,
+       170
+      ],
+      [
+       228,
+       392
+      ],
+      [
+       305,
+       325
+      ],
+      [
+       258,
+       409
+      ]
+     ],
+     "misses": [
+      [
+       203,
+       369
+      ],
+      [
+       208,
+       381
+      ],
+      [
+       248,
+       163
+      ],
+      [
+       66,
+       237
+      ],
+      [
+       282,
+       338
+      ],
+      [
+       294,
+       280
+      ],
+      [
+       230,
+       392
+      ],
+      [
+       381,
+       247
+      ],
+      [
+       279,
+       320
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600097",
+   "league": "nba",
+   "tipEt": "7:00 pm ET",
+   "home": {
+    "tri": "WAS",
+    "name": "Washington Wizards",
+    "teamId": 1610612764
+   },
+   "away": {
+    "tri": "TOR",
+    "name": "Toronto Raptors",
+    "teamId": 1610612761
+   },
+   "tip": {
+    "homePlayer": "Sarr",
+    "awayPlayer": "Poeltl",
+    "homeWinPct": 42
+   },
+   "topPick": {
+    "playerId": 1627742,
+    "name": "Ingram",
+    "pos": "F",
+    "side": "away",
+    "bookOdds": null,
+    "fairOdds": "+913",
+    "rank": 1,
+    "share": 20,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1642267,
+      "name": "Carrington",
+      "pos": "G",
+      "share": 20,
+      "fg": 43,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1641731,
+      "name": "Coulibaly",
+      "pos": "G",
+      "share": 10,
+      "fg": 53,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1642860,
+      "name": "Riley",
+      "pos": "F",
+      "share": 10,
+      "fg": 54,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1642259,
+      "name": "Sarr",
+      "pos": "C",
+      "share": 0,
+      "fg": 21,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 203114,
+      "name": "Middleton",
+      "pos": "F",
+      "share": 0,
+      "fg": 34,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1627742,
+      "name": "Ingram",
+      "pos": "F",
+      "share": 20,
+      "fg": 67,
+      "att": 12,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1629628,
+      "name": "Barrett",
+      "pos": "F-G",
+      "share": 10,
+      "fg": 45,
+      "att": 9,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630567,
+      "name": "Barnes",
+      "pos": "F-G",
+      "share": 10,
+      "fg": 67,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1627751,
+      "name": "Poeltl",
+      "pos": "C",
+      "share": 10,
+      "fg": 37,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630193,
+      "name": "Quickley",
+      "pos": "G",
+      "share": 0,
+      "fg": 54,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "B. Ingram takes 20% of TOR first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "WAS wins parsed opening tips at 33%, TOR at 47%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "WAS concedes first baskets to opposing centers at 1.7× league rate (n=53)"
+    },
+    {
+     "tag": "IN",
+     "text": "TOR concedes first baskets to opposing guards at 1.3× league rate (n=33)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "B. Ingram has 4 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Ingram",
+     "items": [
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "14 first baskets",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Sarr",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Quickley",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Ingram L10",
+    "player": {
+     "makes": [
+      [
+       219,
+       382
+      ],
+      [
+       306,
+       306
+      ],
+      [
+       148,
+       302
+      ]
+     ],
+     "misses": [
+      [
+       409,
+       354
+      ],
+      [
+       265,
+       409
+      ],
+      [
+       214,
+       219
+      ],
+      [
+       328,
+       279
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       249,
+       400
+      ],
+      [
+       267,
+       408
+      ],
+      [
+       255,
+       372
+      ],
+      [
+       219,
+       382
+      ],
+      [
+       250,
+       416
+      ],
+      [
+       17,
+       410
+      ],
+      [
+       306,
+       306
+      ],
+      [
+       250,
+       417
+      ],
+      [
+       148,
+       302
+      ],
+      [
+       243,
+       434
+      ]
+     ],
+     "misses": [
+      [
+       224,
+       400
+      ],
+      [
+       409,
+       354
+      ],
+      [
+       282,
+       405
+      ],
+      [
+       452,
+       259
+      ],
+      [
+       234,
+       349
+      ],
+      [
+       265,
+       409
+      ],
+      [
+       234,
+       310
+      ],
+      [
+       214,
+       219
+      ],
+      [
+       328,
+       279
+      ],
+      [
+       150,
+       179
+      ],
+      [
+       450,
+       254
+      ],
+      [
+       262,
+       159
+      ],
+      [
+       438,
+       220
+      ],
+      [
+       487,
+       427
+      ],
+      [
+       488,
+       407
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600098",
+   "league": "nba",
+   "tipEt": "8:00 pm ET",
+   "home": {
+    "tri": "MIA",
+    "name": "Miami Heat",
+    "teamId": 1610612748
+   },
+   "away": {
+    "tri": "DET",
+    "name": "Detroit Pistons",
+    "teamId": 1610612765
+   },
+   "tip": {
+    "homePlayer": "Adebayo",
+    "awayPlayer": "Duren",
+    "homeWinPct": 59
+   },
+   "topPick": {
+    "playerId": 1631105,
+    "name": "Duren",
+    "pos": "C",
+    "side": "away",
+    "bookOdds": null,
+    "fairOdds": "+1527",
+    "rank": 1,
+    "share": 10,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1628389,
+      "name": "Adebayo",
+      "pos": "C-F",
+      "share": 10,
+      "fg": 39,
+      "att": 19,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1626181,
+      "name": "Powell",
+      "pos": "G",
+      "share": 10,
+      "fg": 49,
+      "att": 10,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 203952,
+      "name": "Wiggins",
+      "pos": "F",
+      "share": 10,
+      "fg": 49,
+      "att": 8,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1641796,
+      "name": "Larsson",
+      "pos": "G",
+      "share": 10,
+      "fg": 54,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629639,
+      "name": "Herro",
+      "pos": "G",
+      "share": 10,
+      "fg": 56,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1630595,
+      "name": "Cunningham",
+      "pos": "G",
+      "share": 10,
+      "fg": 67,
+      "att": 9,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631105,
+      "name": "Duren",
+      "pos": "C",
+      "share": 10,
+      "fg": 58,
+      "att": 6,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1629130,
+      "name": "Robinson",
+      "pos": "F",
+      "share": 10,
+      "fg": 58,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1641709,
+      "name": "Thompson",
+      "pos": "G-F",
+      "share": 10,
+      "fg": 59,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1642450,
+      "name": "Jenkins",
+      "pos": "G",
+      "share": 10,
+      "fg": 48,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "J. Duren takes 10% of DET first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "MIA wins parsed opening tips at 63%, DET at 44%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "DET concedes first baskets to opposing forwards at 1.3× league rate (n=38)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "J. Duren has 6 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Adebayo",
+     "items": [
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "14 first baskets",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "6 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Wiggins",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Duren",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "6 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Duren L10",
+    "player": {
+     "makes": [
+      [
+       235,
+       395
+      ]
+     ],
+     "misses": [
+      [
+       267,
+       398
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       235,
+       395
+      ],
+      [
+       227,
+       399
+      ],
+      [
+       246,
+       401
+      ],
+      [
+       267,
+       408
+      ],
+      [
+       257,
+       414
+      ],
+      [
+       273,
+       406
+      ],
+      [
+       261,
+       403
+      ],
+      [
+       163,
+       330
+      ],
+      [
+       333,
+       361
+      ],
+      [
+       222,
+       421
+      ]
+     ],
+     "misses": [
+      [
+       267,
+       398
+      ],
+      [
+       108,
+       194
+      ],
+      [
+       81,
+       207
+      ],
+      [
+       408,
+       221
+      ],
+      [
+       178,
+       172
+      ],
+      [
+       238,
+       401
+      ],
+      [
+       176,
+       389
+      ],
+      [
+       246,
+       343
+      ],
+      [
+       232,
+       418
+      ],
+      [
+       496,
+       401
+      ],
+      [
+       350,
+       174
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600009",
+   "league": "nba",
+   "tipEt": "9:30 pm ET",
+   "home": {
+    "tri": "SAS",
+    "name": "San Antonio Spurs",
+    "teamId": 1610612759
+   },
+   "away": {
+    "tri": "HOU",
+    "name": "Houston Rockets",
+    "teamId": 1610612745
+   },
+   "tip": {
+    "homePlayer": "Wembanyama",
+    "awayPlayer": "Sengun",
+    "homeWinPct": 67
+   },
+   "topPick": {
+    "playerId": 1641705,
+    "name": "Wembanyama",
+    "pos": "F-C",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+764",
+    "rank": 1,
+    "share": 30,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1641705,
+      "name": "Wembanyama",
+      "pos": "F-C",
+      "share": 30,
+      "fg": 49,
+      "att": 14,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1628368,
+      "name": "Fox",
+      "pos": "G",
+      "share": 20,
+      "fg": 52,
+      "att": 11,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630170,
+      "name": "Vassell",
+      "pos": "G-F",
+      "share": 10,
+      "fg": 62,
+      "att": 10,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630577,
+      "name": "Champagnie",
+      "pos": "F",
+      "share": 10,
+      "fg": 40,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1628436,
+      "name": "Kornet",
+      "pos": "C-F",
+      "share": 10,
+      "fg": 48,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1629006,
+      "name": "Okogie",
+      "pos": "G",
+      "share": 20,
+      "fg": 42,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630578,
+      "name": "Sengun",
+      "pos": "C",
+      "share": 0,
+      "fg": 40,
+      "att": 11,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 201142,
+      "name": "Durant",
+      "pos": "F",
+      "share": 0,
+      "fg": 49,
+      "att": 8,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1631095,
+      "name": "Smith Jr.",
+      "pos": "F",
+      "share": 0,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1641708,
+      "name": "Thompson",
+      "pos": "G-F",
+      "share": 0,
+      "fg": 42,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "V. Wembanyama takes 30% of SAS first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "SAS wins parsed opening tips at 79%, HOU at 38%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "A. Sengun has 6 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Wembanyama",
+     "items": [
+      {
+       "icon": "🪝",
+       "label": "Tip Titan",
+       "note": "91% jump wins",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Fox",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Vassell",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Wembanyama L10",
+    "player": {
+     "makes": [
+      [
+       126,
+       371
+      ],
+      [
+       250,
+       399
+      ]
+     ],
+     "misses": [
+      [
+       125,
+       198
+      ],
+      [
+       224,
+       358
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       126,
+       371
+      ],
+      [
+       260,
+       361
+      ],
+      [
+       257,
+       145
+      ],
+      [
+       477,
+       420
+      ],
+      [
+       157,
+       268
+      ],
+      [
+       250,
+       399
+      ],
+      [
+       97,
+       198
+      ],
+      [
+       134,
+       181
+      ],
+      [
+       179,
+       321
+      ],
+      [
+       494,
+       420
+      ]
+     ],
+     "misses": [
+      [
+       346,
+       328
+      ],
+      [
+       386,
+       215
+      ],
+      [
+       125,
+       198
+      ],
+      [
+       224,
+       358
+      ],
+      [
+       272,
+       162
+      ],
+      [
+       254,
+       363
+      ],
+      [
+       138,
+       361
+      ],
+      [
+       374,
+       189
+      ],
+      [
+       254,
+       361
+      ],
+      [
+       331,
+       282
+      ],
+      [
+       224,
+       363
+      ],
+      [
+       12,
+       421
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600100",
+   "league": "nba",
+   "tipEt": "9:30 pm ET",
+   "home": {
+    "tri": "UTA",
+    "name": "Utah Jazz",
+    "teamId": 1610612762
+   },
+   "away": {
+    "tri": "NOP",
+    "name": "New Orleans Pelicans",
+    "teamId": 1610612740
+   },
+   "tip": {
+    "homePlayer": "Filipowski",
+    "awayPlayer": "Queen",
+    "homeWinPct": 70
+   },
+   "topPick": {
+    "playerId": 1642846,
+    "name": "Bailey",
+    "pos": "F",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+1067",
+    "rank": 1,
+    "share": 40,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1642846,
+      "name": "Bailey",
+      "pos": "F",
+      "share": 40,
+      "fg": 24,
+      "att": 13,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1642271,
+      "name": "Filipowski",
+      "pos": "C",
+      "share": 10,
+      "fg": 42,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1641729,
+      "name": "Sensabaugh",
+      "pos": "F",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1631131,
+      "name": "Tshiebwe",
+      "pos": "F-C",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1641718,
+      "name": "George",
+      "pos": "G",
+      "share": 0,
+      "fg": 38,
+      "att": 9,
+      "thin": false,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1629627,
+      "name": "Williamson",
+      "pos": "F",
+      "share": 10,
+      "fg": 74,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1641722,
+      "name": "Hawkins",
+      "pos": "G",
+      "share": 10,
+      "fg": 39,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     },
+     {
+      "playerId": 1630529,
+      "name": "Jones",
+      "pos": "F",
+      "share": 0,
+      "fg": 76,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630530,
+      "name": "Murphy III",
+      "pos": "F",
+      "share": 0,
+      "fg": 67,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630180,
+      "name": "Bey",
+      "pos": "F",
+      "share": 0,
+      "fg": 48,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "A. Bailey takes 40% of UTA first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "UTA wins parsed opening tips at 58%, NOP at 25%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "S. Bey has 7 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Bailey",
+     "items": [
+      {
+       "icon": "🎯",
+       "label": "First Look",
+       "note": "40% first-shot share",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      },
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on first attempts",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
+     "player": "George",
+     "items": [
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on first attempts",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
+     "player": "Murphy III",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Bailey L10",
+    "player": {
+     "makes": [
+      [
+       270,
+       390
+      ],
+      [
+       234,
+       394
+      ],
+      [
+       131,
+       278
+      ],
+      [
+       250,
+       416
+      ]
+     ],
+     "misses": [
+      [
+       178,
+       233
+      ],
+      [
+       249,
+       269
+      ],
+      [
+       109,
+       403
+      ],
+      [
+       214,
+       395
+      ],
+      [
+       169,
+       183
+      ],
+      [
+       238,
+       405
+      ],
+      [
+       275,
+       290
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       270,
+       390
+      ],
+      [
+       17,
+       424
+      ],
+      [
+       234,
+       394
+      ],
+      [
+       335,
+       353
+      ],
+      [
+       480,
+       411
+      ],
+      [
+       279,
+       394
+      ],
+      [
+       131,
+       278
+      ],
+      [
+       153,
+       190
+      ],
+      [
+       250,
+       416
+      ],
+      [
+       149,
+       410
+      ]
+     ],
+     "misses": [
+      [
+       293,
+       150
+      ],
+      [
+       268,
+       347
+      ],
+      [
+       350,
+       410
+      ],
+      [
+       178,
+       233
+      ],
+      [
+       487,
+       397
+      ],
+      [
+       249,
+       269
+      ],
+      [
+       169,
+       169
+      ],
+      [
+       271,
+       371
+      ],
+      [
+       217,
+       356
+      ],
+      [
+       109,
+       403
+      ],
+      [
+       214,
+       395
+      ],
+      [
+       169,
+       183
+      ],
+      [
+       317,
+       364
+      ],
+      [
+       238,
+       405
+      ],
+      [
+       346,
+       268
+      ],
+      [
+       275,
+       290
+      ],
+      [
+       350,
+       217
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600101",
+   "league": "nba",
+   "tipEt": "10:00 pm ET",
+   "home": {
+    "tri": "GSW",
+    "name": "Golden State Warriors",
+    "teamId": 1610612744
+   },
+   "away": {
+    "tri": "MEM",
+    "name": "Memphis Grizzlies",
+    "teamId": 1610612763
+   },
+   "tip": {
+    "homePlayer": "Post",
+    "awayPlayer": "Jackson Jr.",
+    "homeWinPct": 50
+   },
+   "topPick": {
+    "playerId": 201939,
+    "name": "Curry",
+    "pos": "G",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+2272",
+    "rank": 1,
+    "share": 10,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 201939,
+      "name": "Curry",
+      "pos": "G",
+      "share": 10,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1641764,
+      "name": "Podziemski",
+      "pos": "G",
+      "share": 10,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 204001,
+      "name": "Porziņģis",
+      "pos": "F-C",
+      "share": 10,
+      "fg": 54,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630541,
+      "name": "Moody",
+      "pos": "G",
+      "share": 0,
+      "fg": 28,
+      "att": 7,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 203110,
+      "name": "Green",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 53,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1642907,
+      "name": "Coward",
+      "pos": "G",
+      "share": 10,
+      "fg": 31,
+      "att": 9,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629660,
+      "name": "Jerome",
+      "pos": "G-F",
+      "share": 10,
+      "fg": 54,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1628991,
+      "name": "Jackson Jr.",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 38,
+      "att": 9,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1642377,
+      "name": "Wells",
+      "pos": "F",
+      "share": 0,
+      "fg": 40,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629630,
+      "name": "Morant",
+      "pos": "G",
+      "share": 0,
+      "fg": 59,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "S. Curry takes 10% of GSW first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "GSW wins parsed opening tips at 42%, MEM at 43%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "M. Moody has 6 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Coward",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      },
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on first attempts",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
+     "player": "Curry",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Moody",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "6 putback first baskets",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Curry L10",
+    "player": {
+     "makes": [
+      [
+       471,
+       358
+      ],
+      [
+       234,
+       297
+      ],
+      [
+       119,
+       181
+      ],
+      [
+       383,
+       263
+      ]
+     ],
+     "misses": []
+    },
+    "team": {
+     "makes": [
+      [
+       28,
+       290
+      ],
+      [
+       270,
+       147
+      ],
+      [
+       235,
+       373
+      ],
+      [
+       151,
+       143
+      ],
+      [
+       344,
+       332
+      ],
+      [
+       471,
+       358
+      ],
+      [
+       188,
+       363
+      ],
+      [
+       234,
+       297
+      ],
+      [
+       119,
+       181
+      ],
+      [
+       383,
+       263
+      ]
+     ],
+     "misses": [
+      [
+       299,
+       164
+      ],
+      [
+       388,
+       207
+      ],
+      [
+       83,
+       227
+      ],
+      [
+       250,
+       338
+      ],
+      [
+       241,
+       364
+      ],
+      [
+       401,
+       220
+      ],
+      [
+       66,
+       393
+      ],
+      [
+       75,
+       236
+      ],
+      [
+       438,
+       247
+      ],
+      [
+       392,
+       210
+      ],
+      [
+       18,
+       398
+      ],
+      [
+       349,
+       185
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600102",
+   "league": "nba",
+   "tipEt": "10:00 pm ET",
+   "home": {
+    "tri": "LAL",
+    "name": "Los Angeles Lakers",
+    "teamId": 1610612747
+   },
+   "away": {
+    "tri": "LAC",
+    "name": "LA Clippers",
+    "teamId": 1610612746
+   },
+   "tip": {
+    "homePlayer": "Ayton",
+    "awayPlayer": "Zubac",
+    "homeWinPct": 51
+   },
+   "topPick": {
+    "playerId": 1628381,
+    "name": "Collins",
+    "pos": "F-C",
+    "side": "away",
+    "bookOdds": null,
+    "fairOdds": "+1796",
+    "rank": 1,
+    "share": 10,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1629029,
+      "name": "Dončić",
+      "pos": "F-G",
+      "share": 10,
+      "fg": 32,
+      "att": 18,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629028,
+      "name": "Ayton",
+      "pos": "C",
+      "share": 10,
+      "fg": 70,
+      "att": 7,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630559,
+      "name": "Reaves",
+      "pos": "G",
+      "share": 10,
+      "fg": 53,
+      "att": 7,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629060,
+      "name": "Hachimura",
+      "pos": "F",
+      "share": 10,
+      "fg": 67,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1628379,
+      "name": "Kennard",
+      "pos": "G",
+      "share": 10,
+      "fg": 56,
+      "att": 1,
+      "thin": true,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 202695,
+      "name": "Leonard",
+      "pos": "F",
+      "share": 20,
+      "fg": 21,
+      "att": 11,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 201572,
+      "name": "Lopez",
+      "pos": "C",
+      "share": 20,
+      "fg": 40,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1628381,
+      "name": "Collins",
+      "pos": "F-C",
+      "share": 10,
+      "fg": 21,
+      "att": 6,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1627826,
+      "name": "Zubac",
+      "pos": "C",
+      "share": 10,
+      "fg": 48,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1629636,
+      "name": "Garland",
+      "pos": "G",
+      "share": 10,
+      "fg": 48,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "J. Collins takes 10% of LAC first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "LAL wins parsed opening tips at 51%, LAC at 49%"
+    },
+    {
+     "tag": "IN",
+     "text": "LAL concedes first baskets to opposing centers at 1.3× league rate (n=35)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "J. Collins has 7 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Dončić",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 putback first baskets",
+       "tier": ""
+      },
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on first attempts",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
+     "player": "Reaves",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Leonard",
+     "items": [
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on first attempts",
+       "tier": "cold"
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Collins L10",
+    "player": {
+     "makes": [
+      [
+       276,
+       393
+      ]
+     ],
+     "misses": [
+      [
+       403,
+       214
+      ],
+      [
+       478,
+       399
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       71,
+       193
+      ],
+      [
+       189,
+       273
+      ],
+      [
+       347,
+       416
+      ],
+      [
+       279,
+       393
+      ],
+      [
+       212,
+       398
+      ],
+      [
+       252,
+       289
+      ],
+      [
+       294,
+       394
+      ],
+      [
+       243,
+       404
+      ],
+      [
+       276,
+       393
+      ],
+      [
+       266,
+       163
+      ]
+     ],
+     "misses": [
+      [
+       67,
+       220
+      ],
+      [
+       271,
+       392
+      ],
+      [
+       403,
+       214
+      ],
+      [
+       140,
+       244
+      ],
+      [
+       388,
+       200
+      ],
+      [
+       188,
+       365
+      ],
+      [
+       478,
+       399
+      ],
+      [
+       406,
+       200
+      ],
+      [
+       257,
+       162
+      ],
+      [
+       407,
+       204
+      ],
+      [
+       328,
+       417
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600103",
+   "league": "nba",
+   "tipEt": "10:00 pm ET",
+   "home": {
+    "tri": "SAC",
+    "name": "Sacramento Kings",
+    "teamId": 1610612758
+   },
+   "away": {
+    "tri": "POR",
+    "name": "Portland Trail Blazers",
+    "teamId": 1610612757
+   },
+   "tip": {
+    "homePlayer": "Raynaud",
+    "awayPlayer": "Clingan",
+    "homeWinPct": 50
+   },
+   "topPick": {
+    "playerId": 1642875,
+    "name": "Raynaud",
+    "pos": "C",
+    "side": "home",
+    "bookOdds": null,
+    "fairOdds": "+1453",
+    "rank": 1,
+    "share": 20,
+    "verdict": null
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1642875,
+      "name": "Raynaud",
+      "pos": "C",
+      "share": 20,
+      "fg": 52,
+      "att": 9,
+      "thin": false,
+      "hot": true
+     },
+     {
+      "playerId": 1630173,
+      "name": "Achiuwa",
+      "pos": "F",
+      "share": 20,
+      "fg": 43,
+      "att": 5,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 203897,
+      "name": "LaVine",
+      "pos": "G",
+      "share": 10,
+      "fg": 59,
+      "att": 4,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 201566,
+      "name": "Westbrook",
+      "pos": "",
+      "share": 10,
+      "fg": 54,
+      "att": 3,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 201942,
+      "name": "DeRozan",
+      "pos": "G-F",
+      "share": 0,
+      "fg": 76,
+      "att": 10,
+      "thin": false,
+      "hot": false
+     }
+    ],
+    "away": [
+     {
+      "playerId": 203924,
+      "name": "Grant",
+      "pos": "F",
+      "share": 20,
+      "fg": 30,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 201950,
+      "name": "Holiday",
+      "pos": "G",
+      "share": 10,
+      "fg": 36,
+      "att": 10,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1641739,
+      "name": "Camara",
+      "pos": "F",
+      "share": 10,
+      "fg": 38,
+      "att": 9,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1642270,
+      "name": "Clingan",
+      "pos": "C",
+      "share": 10,
+      "fg": 49,
+      "att": 6,
+      "thin": false,
+      "hot": false
+     },
+     {
+      "playerId": 1630703,
+      "name": "Henderson",
+      "pos": "G",
+      "share": 10,
+      "fg": 48,
+      "att": 2,
+      "thin": true,
+      "hot": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "M. Raynaud takes 20% of SAC first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "SAC wins parsed opening tips at 53%, POR at 54%"
+    },
+    {
+     "tag": "IN",
+     "text": "SAC concedes first baskets to opposing guards at 1.3× league rate (n=42)"
+    },
+    {
+     "tag": "IN",
+     "text": "POR concedes first baskets to opposing centers at 1.3× league rate (n=43)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "J. Grant has 4 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Achiuwa",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Grant",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 putback first baskets",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Holiday",
+     "items": [
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on first attempts",
+       "tier": "cold"
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Raynaud L10",
+    "player": {
+     "makes": [
+      [
+       281,
+       370
+      ],
+      [
+       146,
+       411
+      ],
+      [
+       249,
+       364
+      ],
+      [
+       219,
+       396
+      ]
+     ],
+     "misses": [
+      [
+       225,
+       358
+      ],
+      [
+       265,
+       408
+      ],
+      [
+       183,
+       156
+      ],
+      [
+       306,
+       375
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       281,
+       370
+      ],
+      [
+       146,
+       411
+      ],
+      [
+       249,
+       364
+      ],
+      [
+       259,
+       324
+      ],
+      [
+       219,
+       396
+      ],
+      [
+       158,
+       298
+      ],
+      [
+       341,
+       158
+      ],
+      [
+       232,
+       391
+      ],
+      [
+       256,
+       214
+      ],
+      [
+       243,
+       397
+      ]
+     ],
+     "misses": [
+      [
+       104,
+       384
+      ],
+      [
+       276,
+       353
+      ],
+      [
+       211,
+       400
+      ],
+      [
+       255,
+       324
+      ],
+      [
+       225,
+       358
+      ],
+      [
+       265,
+       408
+      ],
+      [
+       214,
+       378
+      ],
+      [
+       183,
+       156
+      ],
+      [
+       306,
+       375
+      ],
+      [
+       189,
+       256
+      ],
+      [
+       221,
+       154
+      ]
+     ]
+    }
+   }
+  }
+ ]
+}

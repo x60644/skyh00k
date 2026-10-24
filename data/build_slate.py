@@ -152,6 +152,7 @@ def compute_factors(game_ids, game_dates=None):
         "personId": None, "team": None, "name": None,
         "first_shots": 0, "first_shots_l10": 0,
         "first_att_makes": 0, "first_att": 0,
+        "own_att": 0, "own_makes": 0,
         "first_baskets": 0, "second_chance": 0,
         "jumps_won": 0, "jumps_total": 0,
     })
@@ -219,8 +220,14 @@ def compute_factors(game_ids, game_dates=None):
         if fga.empty:
             continue
         fa = fga.iloc[0]
-        made = fga[fga["shotResult"].astype(str) == "Made"]
-        fb = made.iloc[0] if not made.empty else None
+        # fb = the game's first POINT scorer (made FG *or made free throw*),
+        # matching DK's "1st Points Scorer" market. V3 free throws carry
+        # actionType "Free Throw"; misses are prefixed "MISS" in description.
+        is_fg_made = (p1["isFieldGoal"] == 1) & (p1["shotResult"].astype(str) == "Made")
+        is_ft_made = (p1["actionType"].astype(str) == "Free Throw") & \
+                     ~p1["description"].astype(str).str.upper().str.startswith("MISS")
+        scoring = p1[(is_fg_made | is_ft_made) & p1["playerName"].notna()]
+        fb = scoring.iloc[0] if not scoring.empty else None
 
         key = (fa["playerName"], fa["teamTricode"])
         rec = players[key]
@@ -230,6 +237,17 @@ def compute_factors(game_ids, game_dates=None):
         rec["first_att"] += 1
         if str(fa["shotResult"]) == "Made":
             rec["first_att_makes"] += 1
+
+        # each player's OWN first shot of the game (every shooter has one,
+        # so samples are ~games played — the display stat people expect)
+        for (nm, tri), grp in fga.groupby(["playerName", "teamTricode"], sort=False):
+            fo = grp.iloc[0]
+            orec = players[(nm, tri)]
+            orec["personId"] = int(fo["personId"])
+            orec["team"], orec["name"] = tri, fo["playerNameI"]
+            orec["own_att"] += 1
+            if str(fo["shotResult"]) == "Made":
+                orec["own_makes"] += 1
 
         fb_info = None
         if fb is not None:
@@ -321,13 +339,13 @@ def compute_badges(rows, n_games):
                           "note": f"{round(100*r['share_l10'])}% first-shot share", "tier": "gold"})
         if r["first_baskets"] >= 5 and n_games >= 10 and r["first_baskets"] / n_games >= 0.15:
             items.append({"icon": "⚡", "label": "Instant Offense",
-                          "note": f"{r['first_baskets']} first baskets", "tier": "gold"})
+                          "note": f"{r['first_baskets']} first points", "tier": "gold"})
         if r["second_chance"] >= 3:
             items.append({"icon": "🧹", "label": "Glass First",
-                          "note": f"{r['second_chance']} putback first baskets", "tier": ""})
-        if r["first_att"] >= 8 and r["first_att_makes"] / r["first_att"] < 0.35:
+                          "note": f"{r['second_chance']} second-chance first points", "tier": ""})
+        if r["own_att"] >= 8 and r["own_makes"] / r["own_att"] < 0.35:
             items.append({"icon": "🧊", "label": "Cold Open",
-                          "note": "<35% on first attempts", "tier": "cold"})
+                          "note": "<35% on own first shots", "tier": "cold"})
         if items:
             out.append({"player": r["name"].split(". ")[-1], "items": items})
     out.sort(key=lambda b: len(b["items"]), reverse=True)
@@ -532,11 +550,15 @@ def build_game_card(g, players, team_games, team_tips, league,
         return pos_map.get(r["personId"] or -1, "")
 
     def roster_json(rows):
+        # fg shown = player's OWN first-shot conversion (n ≈ games played),
+        # not the team-first-attempt conversion the formula still uses —
+        # far bigger samples, and it matches what the number reads as.
         return [{
             "playerId": r["personId"], "name": r["name"].split(". ")[-1],
             "pos": pos_of(r),
-            "share": round(100 * r["share_l10"]), "fg": round(100 * r["fg1"]),
-            "att": int(r["first_att"]), "thin": bool(r["first_att"] < 3),
+            "share": round(100 * r["share_l10"]),
+            "fg": round(100 * r["own_makes"] / r["own_att"]) if r["own_att"] else None,
+            "att": int(r["own_att"]), "thin": bool(r["own_att"] < 3),
             "hot": r is top,
         } for r in rows]
 
@@ -584,6 +606,21 @@ def build_game_card(g, players, team_games, team_tips, league,
         shots = {"playerLabel": f"{top['name'].split('. ')[-1]} L10",
                  "player": player_shots, "team": team_shots}
 
+    # one-line model rationale for the SLATE card
+    prof_home = team_profile(h_tri, a_tri)
+    prof_away = team_profile(a_tri, h_tri)
+    pick_prof = prof_home if top_side == "home" else prof_away
+    pick_tip = round(100 * (h_norm if top_side == "home" else 1 - h_norm))
+    own_mk = round(100 * top["own_makes"] / top["own_att"]) if top["own_att"] else None
+    why = None
+    if pick_prof:
+        why = (f"{top['team']} controls the jump {pick_tip}% here and scores the "
+               f"game's first point in {pick_prof['firstScorePct']}% of its games; "
+               f"{top['name'].split('. ')[-1]} takes "
+               f"{round(100 * top['share_l10'])}% of its opening shots"
+               + (f" and makes {own_mk}% of his own first look" if own_mk is not None else "")
+               + ".")
+
     # merge entered book line for the top pick, latest wins
     book, verdict = None, None
     for ln in lines:
@@ -604,10 +641,10 @@ def build_game_card(g, players, team_games, team_tips, league,
             "pos": pos_of(top), "side": top_side,
             "bookOdds": book, "fairOdds": fair,
             "rank": 1, "share": round(100 * top["share_l10"]), "verdict": verdict,
+            "why": why,
         },
         "rosters": {"home": roster_json(h_rows), "away": roster_json(a_rows)},
-        "profile": {"home": team_profile(h_tri, a_tri),
-                    "away": team_profile(a_tri, h_tri)},
+        "profile": {"home": prof_home, "away": prof_away},
         "last10": {"home": last10(h_tri), "away": last10(a_tri)},
         "callouts": callouts,
         "badges": badges,

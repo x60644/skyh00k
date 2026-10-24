@@ -323,3 +323,15 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 .mxtable td.dis{color:#FF8A5C;}
 .capadv{color:#4FE0A6; font-weight:700;}
 .capdis{color:#FF8A5C; font-weight:700;}
+
+/* --- v0.9: sticky top dock, why-line, roster column headers --- */
+.topdock{position:sticky; top:0; z-index:60; background:var(--court);
+  display:flex; flex-direction:column; gap:10px; padding:4px 0 10px;
+  border-bottom:1px solid var(--line);}
+.topdock .sumbar{position:static; flex-wrap:wrap; overflow-x:visible;
+  padding:0 2px;}
+.whyline{margin-top:8px; padding-top:8px; border-top:1px dashed var(--line);
+  font-size:13px; color:var(--dim); line-height:1.45;}
+.colhead{display:flex; justify-content:space-between; font-size:9px;
+  letter-spacing:1px; text-transform:uppercase; color:var(--dim);
+  margin:-2px 0 6px; opacity:.85;}

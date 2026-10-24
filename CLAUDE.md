@@ -40,15 +40,22 @@ activates late October 2026.
    (not bare `vite build`) — works around a corrupted-cache permission bug.
    VERCEL_FORCE_NO_BUILD_CACHE env var may still be set; safe to remove
    once builds are consistently green.
-4. **Model = structured three-term, not ML.** P(first basket) ≈
+4. **Target event = FIRST POINT (FTs count) since 2026-10-24**, matching
+   DK's "1st Points Scorer" market: audit grading, team 1ST SCORE%, player
+   first-point counts and second-chance all use made FG *or made FT*.
+   Audit rows before 2026-10-24 were graded on first made FG. Roster
+   "MAKE%" display = player's OWN first shot of the game (n ≈ games);
+   the formula's fg1 term still uses team-first-attempt conversion.
+   **Model = structured three-term, not ML.** P(first basket) ≈
    P(team first shot | tip) × first-shot share (L10) × first-attempt FG%
    (shrunk to league mean 0.47, prior n=5) + damped second-chance term.
    Phase-0 constants: tip winner shoots first ~85%, tip team scores first
    ~64-66% (NBA/WNBA nearly identical). Don't add factors without
    measuring effect size first (docs/phase0-findings.md).
-5. **Book rules differ:** DraftKings first basket = first FIELD GOAL
-   (matches model). FanDuel = first POINTS (FTs count). Line Book rows and
-   any settlement logic must respect BOOK_RULES in app/src/config.js.
+5. **Book rules:** both DK ("1st Points Scorer") and FanDuel settle first
+   POINTS — FTs count — and so does the model (see 4). DK still lists
+   separate first-FG markets ("1st Team FG"); don't mix them. BOOK_RULES
+   in app/src/config.js is the source of truth.
 6. **PlayByPlayV3 only** (V2 endpoint is dead). Jump-ball descriptions use
    bare last names ("Tip to Thompson") — parser maps playerName→team with
    an ambiguity guard.

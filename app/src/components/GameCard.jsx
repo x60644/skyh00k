@@ -27,8 +27,8 @@ function RosterRow({ league, p, tint }) {
         <div className="pline">
           <span>{p.name}{p.pos ? <em className="pos">{p.pos}</em> : null}</span>
           <span className={'stats' + (p.thin ? ' thin' : '')}
-            title={p.att != null ? `${p.att} first attempts` : undefined}>
-            {p.share} · {p.fg}%{p.thin ? '*' : ''}
+            title={p.att != null ? `${p.att} games with a first shot` : undefined}>
+            {p.share} · {p.fg != null ? `${p.fg}%` : '—'}{p.thin ? '*' : ''}
           </span>
         </div>
         <div className="bar"><i style={{ width: `${Math.min(p.share * 2, 100)}%` }} /></div>
@@ -122,6 +122,7 @@ export default function GameCard({ game, slateDate }) {
               {verdict &&
                 <span className={'verdict ' + verdict.toLowerCase()}>{verdict}</span>}
             </div>
+            {pick.why && <div className="whyline">{pick.why}</div>}
             {isLiveGame && (
               entering ? (
                 <div className="lineentry">
@@ -154,6 +155,7 @@ export default function GameCard({ game, slateDate }) {
               <img src={teamLogoUrl(lg, game.home.teamId)} alt="" onError={(e) => e.currentTarget.remove()} />
               {game.home.name}
             </div>
+            <div className="colhead"><span>player</span><span>1st shot · make</span></div>
             {game.rosters.home.map((p) => (
               <RosterRow key={p.playerId} league={lg} p={p} tint={homeTint} />
             ))}
@@ -163,13 +165,16 @@ export default function GameCard({ game, slateDate }) {
               <img src={teamLogoUrl(lg, game.away.teamId)} alt="" onError={(e) => e.currentTarget.remove()} />
               {game.away.name}
             </div>
+            <div className="colhead"><span>player</span><span>1st shot · make</span></div>
             {game.rosters.away.map((p) => (
               <RosterRow key={p.playerId} league={lg} p={p} tint={awayTint} />
             ))}
           </div>
         </div>
 
-        <div className="legend">First-shot share · first-attempt FG% — last 10 games · * thin sample</div>
+        <div className="legend">1ST SHOT = how often they take the team's opening
+          shot (last 10) · MAKE = how often their own first shot of a game goes in
+          · * = small sample</div>
 
         {hasDetail && (
           <div className="foot">

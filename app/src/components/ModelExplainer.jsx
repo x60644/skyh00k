@@ -74,7 +74,7 @@ function Last10({ tri, rows }) {
             1st shot {r.firstShotUs ? '✓' : '✗'}
           </span>
           <span className="l10fb">
-            1st FG: <b className={r.fbUs ? 'us' : 'them'}>{r.fb || '—'}</b>
+            1st pt: <b className={r.fbUs ? 'us' : 'them'}>{r.fb || '—'}</b>
           </span>
         </div>
       ))}
@@ -159,8 +159,8 @@ function ProfileTable({ game, league }) {
           <div className="mxcap"><span className="capadv">green</span> = edge over
             tonight’s opponent · <span className="capdis">red</span> = deficit ·
             TIP% = jumper’s jump-ball win rate (jumps taken) ·
-            H2H = this jumper vs that jumper · 1ST SHOT/SCORE% = team takes/scores the
-            game’s first shot/basket · FGA→1ST FG = avg attempts until first make
+            H2H = this jumper vs that jumper · 1ST SHOT% = team takes the game’s first shot · 1ST SCORE% = team
+            scores the game’s first point (FTs count) · FGA→1ST FG = avg attempts until first make
             (lower is better) · stats span prior + current season</div>
           {game.last10 && (
             <>
@@ -179,7 +179,7 @@ export default function ModelExplainer({ league, slate }) {
     ? slate.games : []
   return (
     <div className="modeltab">
-      <div className="chead">The formula — P(player scores the first basket)</div>
+      <div className="chead">The formula — P(player scores the first point) · DK “1st Points Scorer”, free throws count</div>
       <div className="termchain">
         {TERMS.map((t, i) => (
           <div className={'term' + (i === 3 ? ' plus' : '')} key={t.k}>

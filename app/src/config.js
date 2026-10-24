@@ -1,6 +1,6 @@
 // skyh00k config — edit from phone via GitHub web UI, Vercel auto-deploys.
 
-export const APP_VERSION = 'v0.8.2'
+export const APP_VERSION = 'v0.9.0'
 export const DEMO_MODE = true
 
 // League registry — NBA is the live lead (2026-27 tipped off Oct 20);
@@ -39,9 +39,10 @@ export const DEFAULT_TINTS = { home: '#8B7FF0', away: '#38C99C' }
 // Verdict thresholds (edge = fair prob − implied book prob)
 export const VERDICT = { BET: 0.03, VALUE: 0.01 }
 
-// Market rules by book — DK settles first FIELD GOAL (FTs don't count);
-// FD settles first POINTS (FTs count). Model's base output is first FG.
+// Market rules — aligned 2026-10-24: the model + audit now target FIRST
+// POINT (FTs count), matching DK's "1st Points Scorer" board (DK also still
+// lists separate first-FG markets under "1st Team FG").
 export const BOOK_RULES = {
-  draftkings: { market: 'first_fg', ftCounts: false },
+  draftkings: { market: 'first_points', ftCounts: true },
   fanduel: { market: 'first_points', ftCounts: true },
 }

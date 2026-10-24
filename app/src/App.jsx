@@ -82,6 +82,7 @@ export default function App() {
             : <em className="demo">DEMO</em>}
         </div>
       </header>
+      <div className="topdock">
       <nav className="tabs" role="tablist" aria-label="View">
         {[['slate', 'SLATE'], ['log', 'LOG'], ['audit', 'AUDIT'], ['model', 'MODEL']].map(([key, label]) => (
           <button key={key} role="tab" aria-selected={tab === key}
@@ -100,10 +101,11 @@ export default function App() {
         </div>
         <RunNow />
       </div>
+      {isLive && <SummaryBar games={games} onJump={() => setTab('slate')} />}
+      </div>
 
       {tab === 'slate' && (
         <>
-          {isLive && <SummaryBar games={games} />}
           <main className="slate">
             {games.length === 0 ? (
               <div className="empty">No games on the {LEAGUES[league].label} board.</div>

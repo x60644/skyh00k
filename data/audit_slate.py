@@ -77,9 +77,14 @@ def get_pbp(game_id):
 
 
 def first_basket(pbp):
-    """Actual first made FG of the game -> (personId, lastName, nameI, team)."""
+    """Actual first POINT of the game (made FG or made free throw), matching
+    DK's '1st Points Scorer' market. Rows graded before 2026-10-24 used
+    first made FG only."""
     p1 = pbp[pbp["period"] == 1]
-    made = p1[(p1["isFieldGoal"] == 1) & (p1["shotResult"].astype(str) == "Made")]
+    is_fg_made = (p1["isFieldGoal"] == 1) & (p1["shotResult"].astype(str) == "Made")
+    is_ft_made = (p1["actionType"].astype(str) == "Free Throw") & \
+                 ~p1["description"].astype(str).str.upper().str.startswith("MISS")
+    made = p1[(is_fg_made | is_ft_made) & p1["playerName"].notna()]
     if made.empty:
         return None
     fb = made.iloc[0]

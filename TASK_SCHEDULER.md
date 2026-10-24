@@ -54,3 +54,25 @@ runs itself twice a day from your desk.
   failing crons: edit .github/workflows/skyh00k.yml on GitHub and delete the
   two "- cron:" lines (keep workflow_dispatch), so it stops emailing you
   daily failures.
+
+## Run-now watcher (v0.8.1)
+
+One-time setup for the RUN NOW button in the app:
+
+1. Supabase -> SQL Editor -> paste `supabase_run_requests.sql` -> Run.
+2. Create `data\supabase.env` (it's gitignored) with two lines, same values
+   as the Vercel env vars:
+       SUPABASE_URL=https://xxxx.supabase.co
+       SUPABASE_KEY=eyJ...   (the legacy anon key)
+3. Task Scheduler -> Create Task:
+   - Name: skyh00k watch
+   - Trigger: Daily 8:00 AM, Advanced: repeat every 15 minutes for 1 day
+   - Action: Start a program ->
+       Program:  C:\Users\wangm\OneDrive\Documents\GitHub\skyh00k\run_watch.bat
+       Start in: C:\Users\wangm\OneDrive\Documents\GitHub\skyh00k
+   - Conditions: uncheck "only on AC power"
+4. Test: tap RUN NOW in the app, then right-click "skyh00k watch" -> Run.
+   data\task_log.txt should show "run-now request picked up".
+
+While the laptop is awake, a RUN NOW tap is picked up within ~15 minutes.
+Laptop asleep = request waits in the queue until it wakes.

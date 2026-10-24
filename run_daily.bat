@@ -12,6 +12,9 @@ echo skyh00k daily run: %date% %time% >> "%LOG%"
 
 cd /d "%REPO%" || (echo REPO NOT FOUND >> "%LOG%" & exit /b 1)
 
+REM load Supabase creds (gitignored file) so entered lines merge into slates
+if exist data\supabase.env for /f "usebackq tokens=1,* delims==" %%a in ("data\supabase.env") do set %%a=%%b
+
 git pull >> "%LOG%" 2>&1
 
 cd data

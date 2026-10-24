@@ -12,7 +12,11 @@ activates late October 2026.
 - `data/` — Python pipeline (nba_api). `build_slate.py` computes factors and
   writes `app/public/slate.json` + archives to `data/slates/`.
   `audit_slate.py` grades past slates into `data/audit_log.csv` (append-only).
-- `data/cache/` — play-by-play CSVs, gitignored, ~1,500 files. Never commit.
+- `data/cache/` — play-by-play CSVs, ~1,500 files / 110MB. NOTE: these ARE
+  tracked in git (the gitignore line was lost at some point) — do NOT
+  `git rm --cached` them casually: a pull of that commit would delete the
+  laptop's working-tree cache and force an hours-long NBA refetch. Untrack
+  only with a deliberate migration plan; growth is ~1.5MB/day in season.
 - Supabase backend: `lines` table (the Line Book). App reads/writes with
   VITE_SUPABASE_URL / VITE_SUPABASE_ANON_KEY (Vercel env vars). Python reads
   with SUPABASE_URL / SUPABASE_KEY. Legacy eyJ anon key, RLS allows
@@ -24,7 +28,12 @@ activates late October 2026.
 1. **stats.nba.com blocks datacenter IPs.** GitHub Actions runners time out
    on every fetch (verified twice, 75s timeout × 3 retries). All data pulls
    MUST run on a residential IP. Automation = Windows Task Scheduler running
-   `run_daily.bat` (9:30 AM + 5:40 PM ET, missed-task catch-up on).
+   `run_daily.bat` (9:30 AM + 5:40 PM ET, missed-task catch-up on), plus
+   `run_watch.bat` every 15 min: it polls Supabase `run_requests` for the
+   app's RUN NOW button (data/check_run_requests.py, stdlib-only) and fires
+   run_daily on a pending request. Creds come from gitignored
+   data/supabase.env (both bats load it, which also makes build_slate's
+   Line Book merge work locally).
 2. **Audit before build.** `run_daily.bat` order matters: audit grades
    yesterday's archived slate before build overwrites anything. Keep it.
 3. **Vercel build command** is `node node_modules/vite/bin/vite.js build`

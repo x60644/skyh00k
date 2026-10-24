@@ -4,6 +4,13 @@ import SummaryBar from './components/SummaryBar.jsx'
 import LogTab from './components/LogTab.jsx'
 import ModelTab from './components/ModelTab.jsx'
 import ModelExplainer from './components/ModelExplainer.jsx'
+import RunNow from './components/RunNow.jsx'
+
+const fmtET = (iso) => iso
+  ? new Date(iso).toLocaleString('en-US', {
+      timeZone: 'America/New_York',
+      month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })
+  : '—'
 import { demoSlate } from './data/demoSlate.js'
 import { APP_VERSION, DEFAULT_LEAGUE, LEAGUES } from './config.js'
 import { supa } from './lib/supa.js'
@@ -14,8 +21,13 @@ export default function App() {
   const [wordmarkOk, setWordmarkOk] = useState(true)
   const [live, setLive] = useState(null)
   const [lines, setLines] = useState([])
+  const [auditGen, setAuditGen] = useState(null)
 
   useEffect(() => {
+    fetch('/audit.json')
+      .then((r) => (r.ok ? r.json() : null))
+      .then((a) => { if (a && a.generated) setAuditGen(a.generated) })
+      .catch(() => {})
     fetch('/slate.json')
       .then((r) => (r.ok ? r.json() : null))
       .then(async (data) => {
@@ -79,6 +91,15 @@ export default function App() {
           </button>
         ))}
       </nav>
+
+      <div className="datastamp">
+        <div className="dstext">
+          <span>SLATE <b>{live ? fmtET(live.generated) : '—'}</b></span>
+          <span>AUDIT <b>{fmtET(auditGen)}</b></span>
+          <span className="dszone">ET</span>
+        </div>
+        <RunNow />
+      </div>
 
       {tab === 'slate' && (
         <>

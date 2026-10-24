@@ -299,3 +299,21 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 .ideatag{flex:none; font-size:9px; font-weight:700; letter-spacing:1px;
   padding:2px 7px; border-radius:4px; background:#23232E; color:var(--dim);}
 .ideatag.hot{background:#332A12; color:#E0BB4F;}
+
+/* --- v0.8.1: data timestamp bar + run-now --- */
+.datastamp{display:flex; align-items:center; justify-content:space-between; gap:10px;
+  flex-wrap:wrap; background:var(--panel); border:1px solid var(--line);
+  border-radius:10px; padding:7px 12px; margin-top:2px;}
+.dstext{display:flex; gap:14px; align-items:baseline; font-size:11px;
+  letter-spacing:1.5px; text-transform:uppercase; color:var(--dim); flex-wrap:wrap;}
+.dstext b{font-family:'Bungee'; font-size:11px; color:var(--chalk); font-weight:400;
+  letter-spacing:.5px; margin-left:4px;}
+.dszone{color:var(--dim); font-size:10px;}
+.runwrap{display:flex; align-items:center; gap:10px; flex-wrap:wrap;}
+.runbtn{background:var(--flame); color:#210A02; border:none; border-radius:6px;
+  font-family:'Bungee'; font-size:11px; letter-spacing:1px; padding:6px 14px;
+  cursor:pointer;}
+.runbtn:hover{filter:brightness(1.1);}
+.runbtn.busy{background:var(--panel2); color:var(--amber); border:1px solid var(--amber);
+  cursor:default;}
+.runmsg{font-size:11px; color:var(--dim); letter-spacing:.5px;}

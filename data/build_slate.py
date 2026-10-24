@@ -140,7 +140,7 @@ def get_roster_positions(team_id, season, league):
 
 # ---------------- factor computation ----------------
 
-def compute_factors(game_ids):
+def compute_factors(game_ids, game_dates=None):
     players = defaultdict(lambda: {
         "personId": None, "team": None, "name": None,
         "first_shots": 0, "first_shots_l10": 0,
@@ -151,6 +151,14 @@ def compute_factors(game_ids):
     team_games = defaultdict(list)
     team_tips = defaultdict(lambda: [0, 0])
     game_rows = []   # per-game: first shot key, first basket person/team, conceder
+    game_dates = game_dates or {}
+    # team-level profile stats (the MODEL tab's matchup table)
+    team_stats = defaultdict(lambda: {
+        "g": 0, "first_shot": 0, "first_score": 0,
+        "fa_makes": 0, "fa_n": 0, "fga2fg_sum": 0, "fga2fg_n": 0,
+    })
+    team_log = defaultdict(list)   # chronological per-team game log
+    h2h = defaultdict(lambda: defaultdict(int))   # sorted (a,b) -> winner name -> wins
 
     for gid in game_ids:
         path = os.path.join(CACHE_DIR, f"pbp3_{gid}.csv")
@@ -193,6 +201,12 @@ def compute_factors(game_ids):
                         team_tips[side][1] += 1
                         if side == tip_team:
                             team_tips[side][0] += 1
+                    # jump winner = the JUMPER whose team gained possession
+                    # (tip_to is the receiver, often a third player)
+                    winner = j1 if name_team.get(j1) == tip_team else \
+                             j2 if name_team.get(j2) == tip_team else None
+                    if winner:
+                        h2h[tuple(sorted((j1, j2)))][winner] += 1
 
         fga = p1[p1["isFieldGoal"] == 1]
         if fga.empty:
@@ -224,6 +238,34 @@ def compute_factors(game_ids):
             fb_info = {"personId": int(fb["personId"]),
                        "team": fb["teamTricode"], "conceder": conceder}
 
+        # per-team profile stats + game log entry
+        for side in teams_in_game:
+            opp = next((t for t in teams_in_game if t != side), "")
+            ts = team_stats[side]
+            ts["g"] += 1
+            took_first = fa["teamTricode"] == side
+            scored_first = fb is not None and fb["teamTricode"] == side
+            if took_first:
+                ts["first_shot"] += 1
+            if scored_first:
+                ts["first_score"] += 1
+            tfga = fga[fga["teamTricode"] == side]
+            if not tfga.empty:
+                ts["fa_n"] += 1
+                if str(tfga.iloc[0]["shotResult"]) == "Made":
+                    ts["fa_makes"] += 1
+                made_mask = (tfga["shotResult"].astype(str) == "Made").tolist()
+                if True in made_mask:
+                    ts["fga2fg_sum"] += made_mask.index(True) + 1
+                    ts["fga2fg_n"] += 1
+            team_log[side].append({
+                "gid": gid, "date": game_dates.get(gid, ""), "opp": opp,
+                "tip": (tip_team == side) if tip_team else None,
+                "firstShotUs": bool(took_first),
+                "fb": (fb["playerNameI"].split(". ")[-1] if fb is not None else None),
+                "fbUs": bool(scored_first),
+            })
+
         for side in teams_in_game:
             team_games[side].append(gid)
         game_rows.append({"game_id": gid, "first_shot_key": key, "fb": fb_info})
@@ -235,7 +277,7 @@ def compute_factors(game_ids):
             if k[1] == team and row["game_id"] in last10:
                 players[k]["first_shots_l10"] += 1
 
-    return players, team_games, team_tips, game_rows
+    return players, team_games, team_tips, game_rows, team_stats, team_log, h2h
 
 
 def positional_concessions(game_rows, pos_map):
@@ -394,7 +436,11 @@ def fair_odds(p):
 
 
 def build_game_card(g, players, team_games, team_tips, league,
-                    pos_map, conc_team, conc_league, conc_total, lines):
+                    pos_map, conc_team, conc_league, conc_total, lines,
+                    team_stats=None, team_log=None, h2h=None):
+    team_stats = team_stats or {}
+    team_log = team_log or {}
+    h2h = h2h or {}
     def team_players(tri):
         rows = [r for (nm, t), r in players.items() if t == tri and r["first_shots"] > 0]
         n_l10 = min(len(set(team_games.get(tri, []))), L10) or 1
@@ -413,12 +459,53 @@ def build_game_card(g, players, team_games, team_tips, league,
     h_norm = tw_h / (tw_h + tw_a) if (tw_h + tw_a) else 0.5
     p_shot_h = h_norm * TIP_TO_FIRST_SHOT + (1 - h_norm) * (1 - TIP_TO_FIRST_SHOT)
 
-    def jumper(tri):
-        cands = [r for (nm, t), r in players.items() if t == tri and r["jumps_total"] >= 2]
+    def jumper_rec(tri):
+        """(parse-key name, record) of the team's most frequent jumper."""
+        cands = [(nm, r) for (nm, t), r in players.items()
+                 if t == tri and r["jumps_total"] >= 2]
         if not cands:
-            return tri
-        best = max(cands, key=lambda r: r["jumps_total"])
-        return best["name"].split(". ")[-1]
+            return None, None
+        return max(cands, key=lambda x: x[1]["jumps_total"])
+
+    def jumper(tri):
+        _, best = jumper_rec(tri)
+        return best["name"].split(". ")[-1] if best else tri
+
+    def team_profile(tri, opp_tri):
+        """The MODEL tab's matchup-table row for one team."""
+        ts = team_stats.get(tri)
+        if not ts or not ts["g"]:
+            return None
+        g_n = ts["g"]
+        jkey, jrec = jumper_rec(tri)
+        okey, _ = jumper_rec(opp_tri)
+        h2h_out = None
+        if jkey and okey:
+            rec = h2h.get(tuple(sorted((jkey, okey))))
+            if rec:
+                w = rec.get(jkey, 0)
+                h2h_out = {"w": w, "l": sum(rec.values()) - w}
+        won, tot = team_tips.get(tri, [0, 0])
+        return {
+            "tri": tri, "games": g_n,
+            "jumper": jrec["name"].split(". ")[-1] if jrec else tri,
+            "jumperTipPct": round(100 * jrec["jumps_won"] / jrec["jumps_total"])
+                            if jrec and jrec["jumps_total"] else None,
+            "jumperTips": jrec["jumps_total"] if jrec else 0,
+            "teamTipPct": round(100 * won / tot) if tot else None,
+            "firstShotPct": round(100 * ts["first_shot"] / g_n),
+            "firstScorePct": round(100 * ts["first_score"] / g_n),
+            "firstAttFgPct": round(100 * ts["fa_makes"] / ts["fa_n"])
+                             if ts["fa_n"] else None,
+            "fgaToFirstFg": round(ts["fga2fg_sum"] / ts["fga2fg_n"], 1)
+                            if ts["fga2fg_n"] else None,
+            "h2h": h2h_out,
+        }
+
+    def last10(tri):
+        return [{"date": e["date"], "opp": e["opp"], "tip": e["tip"],
+                 "firstShotUs": e["firstShotUs"], "fb": e["fb"], "fbUs": e["fbUs"]}
+                for e in team_log.get(tri, [])[-10:]][::-1]   # newest first
 
     def score_side(rows, p_team_shot, n_games):
         return [(p_team_shot * r["share_l10"] * r["fg1"]
@@ -512,6 +599,9 @@ def build_game_card(g, players, team_games, team_tips, league,
             "rank": 1, "share": round(100 * top["share_l10"]), "verdict": verdict,
         },
         "rosters": {"home": roster_json(h_rows), "away": roster_json(a_rows)},
+        "profile": {"home": team_profile(h_tri, a_tri),
+                    "away": team_profile(a_tri, h_tri)},
+        "last10": {"home": last10(h_tri), "away": last10(a_tri)},
         "callouts": callouts,
         "badges": badges,
         "shots": shots,
@@ -550,7 +640,12 @@ def main():
         pos_map.update(get_roster_positions(int(t["TEAM_ID"]), season, league))
 
     print("Computing factors from cache...")
-    players, team_games, team_tips, game_rows = compute_factors(finals)
+    game_dates = {}
+    if "GAME_DATE" in team_src.columns:
+        for _, r in team_src.drop_duplicates("GAME_ID").iterrows():
+            game_dates[str(r["GAME_ID"])] = str(r["GAME_DATE"])
+    (players, team_games, team_tips, game_rows,
+     team_stats, team_log, h2h) = compute_factors(finals, game_dates)
     conc_team, conc_league, conc_total = positional_concessions(game_rows, pos_map)
 
     print(f"Pulling schedule for {date_str}...")
@@ -562,7 +657,7 @@ def main():
     cards = [c for g in todays
              if (c := build_game_card(g, players, team_games, team_tips, league,
                                       pos_map, conc_team, conc_league, conc_total,
-                                      lines))]
+                                      lines, team_stats, team_log, h2h))]
 
     slate = {"generated": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
              "date": date_str, "league": league, "games": cards}

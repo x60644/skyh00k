@@ -74,8 +74,18 @@ activates late October 2026.
 - Frontend dev:         cd app && npm run dev
 - Frontend build check: cd app && node node_modules/vite/bin/vite.js build
 
-## Roadmap (v0.6+)
-- LOG tab: Line Book + audit history in-app (join lines table with
-  audit_log.csv; the m00nshot five-tab lineage: SLATE/LOG/MODEL/...).
-- Rank→probability calibration from audit history once n≈50.
+## Tabs (v0.8)
+- SLATE / LOG (Line Book) / AUDIT (pick-vs-actual grades, reads audit.json)
+  / MODEL (formula explainer with term weights + per-matchup team profiles
+  + collapsible last-10 logs; reads slate.json `profile` and `last10`
+  emitted by build_slate v0.8+). WNBA is hidden via LEAGUES.wnba.hidden in
+  config.js — flip to false to bring it back; pipeline still supports it.
+- Diagnostic verdict (0-for-77, data/diagnose_rank_bias.py): L10 share has
+  no live signal; putback term anti-selects (54% of picks pulled off the
+  top-share player, toward centers). Formula unchanged pending Matt's call;
+  team-level profile stats are the candidate replacement inputs.
+
+## Roadmap
+- Model surgery (pending approval): putback reweight/demotion, season+L10
+  share blend, audit-calibrated fair odds once n≈50 per league.
 - Scratch/lineup check near tip time. Raspberry Pi as always-on runner.

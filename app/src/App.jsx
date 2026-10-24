@@ -3,6 +3,7 @@ import GameCard from './components/GameCard.jsx'
 import SummaryBar from './components/SummaryBar.jsx'
 import LogTab from './components/LogTab.jsx'
 import ModelTab from './components/ModelTab.jsx'
+import ModelExplainer from './components/ModelExplainer.jsx'
 import { demoSlate } from './data/demoSlate.js'
 import { APP_VERSION, DEFAULT_LEAGUE, LEAGUES } from './config.js'
 import { supa } from './lib/supa.js'
@@ -54,7 +55,7 @@ export default function App() {
             : <div className="logo">skyh<span>00</span>k</div>}
         </div>
         <div className="lgswitch" role="tablist" aria-label="League">
-          {Object.entries(LEAGUES).map(([key, lg]) => (
+          {Object.entries(LEAGUES).filter(([, lg]) => !lg.hidden).map(([key, lg]) => (
             <button key={key} role="tab" aria-selected={league === key}
               className={'lg' + (league === key ? ' on' : '')}
               onClick={() => setLeague(key)}>
@@ -70,7 +71,7 @@ export default function App() {
         </div>
       </header>
       <nav className="tabs" role="tablist" aria-label="View">
-        {[['slate', 'SLATE'], ['log', 'LOG'], ['model', 'MODEL']].map(([key, label]) => (
+        {[['slate', 'SLATE'], ['log', 'LOG'], ['audit', 'AUDIT'], ['model', 'MODEL']].map(([key, label]) => (
           <button key={key} role="tab" aria-selected={tab === key}
             className={'tab' + (tab === key ? ' on' : '')}
             onClick={() => setTab(key)}>
@@ -94,7 +95,8 @@ export default function App() {
         </>
       )}
       {tab === 'log' && <LogTab league={league} />}
-      {tab === 'model' && <ModelTab league={league} />}
+      {tab === 'audit' && <ModelTab league={league} />}
+      {tab === 'model' && <ModelExplainer league={league} slate={live} />}
       <footer className="appfoot">
         {APP_VERSION}{isLive ? ` · live slate generated ${live.generated.slice(0, 16)}Z` : ' · demo data'}
       </footer>

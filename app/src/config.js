@@ -1,6 +1,6 @@
 // skyh00k config — edit from phone via GitHub web UI, Vercel auto-deploys.
 
-export const APP_VERSION = 'v0.7.0'
+export const APP_VERSION = 'v0.8.0'
 export const DEMO_MODE = true
 
 // League registry — NBA is the live lead (2026-27 tipped off Oct 20);
@@ -13,6 +13,7 @@ export const LEAGUES = {
   },
   wnba: {
     label: 'WNBA',
+    hidden: true,   // NBA season focus — flip to false to bring WNBA back
     headshot: (id) => `https://cdn.wnba.com/headshots/wnba/latest/260x190/${id}.png`,
     logo: (teamId) => `https://cdn.wnba.com/logos/wnba/${teamId}/primary/L/logo.svg`,
   },

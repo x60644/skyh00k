@@ -27,6 +27,13 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 import pandas as pd
 
+# Windows consoles/pipes default to cp1252, which can't encode marks like
+# the HIT check — the model's FIRST hit (2026-10-23) crashed the audit here.
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 try:
     from nba_api.stats.endpoints import playbyplayv3
 except ImportError:

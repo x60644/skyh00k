@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T01:30:13Z",
+ "generated": "2026-10-24T18:41:07Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -924,6 +924,150 @@
    "pickName": "Holmgren",
    "pickHit": 0,
    "actualBoardRank": 1
+  },
+  "22600099": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "CHI@MIL",
+   "actualPlayerId": 1630188,
+   "actualName": "J. Smith",
+   "actualTeam": "CHI",
+   "pickPlayerId": 1631157,
+   "pickName": "Rollins",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "22600008": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "NYK@BOS",
+   "actualPlayerId": 1628369,
+   "actualName": "J. Tatum",
+   "actualTeam": "BOS",
+   "pickPlayerId": 1629674,
+   "pickName": "Queta",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600094": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "ATL@CHA",
+   "actualPlayerId": 1631217,
+   "actualName": "M. Diabat\u00e9",
+   "actualTeam": "CHA",
+   "pickPlayerId": 1641706,
+   "pickName": "Miller",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600095": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "DAL@IND",
+   "actualPlayerId": 1629655,
+   "actualName": "D. Gafford",
+   "actualTeam": "DAL",
+   "pickPlayerId": 1627783,
+   "pickName": "Siakam",
+   "pickHit": 0,
+   "actualBoardRank": 7
+  },
+  "22600096": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "MIN@ORL",
+   "actualPlayerId": 1630183,
+   "actualName": "J. McDaniels",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "22600097": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "TOR@WAS",
+   "actualPlayerId": 1629628,
+   "actualName": "R. Barrett",
+   "actualTeam": "TOR",
+   "pickPlayerId": 1627742,
+   "pickName": "Ingram",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "22600098": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "DET@MIA",
+   "actualPlayerId": 1628381,
+   "actualName": "J. Collins",
+   "actualTeam": "DET",
+   "pickPlayerId": 1631105,
+   "pickName": "Duren",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600009": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "HOU@SAS",
+   "actualPlayerId": 1630578,
+   "actualName": "A. Sengun",
+   "actualTeam": "HOU",
+   "pickPlayerId": 1641705,
+   "pickName": "Wembanyama",
+   "pickHit": 0,
+   "actualBoardRank": 7
+  },
+  "22600100": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "NOP@UTA",
+   "actualPlayerId": 1642846,
+   "actualName": "A. Bailey",
+   "actualTeam": "UTA",
+   "pickPlayerId": 1642846,
+   "pickName": "Bailey",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "22600101": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "MEM@GSW",
+   "actualPlayerId": 1641744,
+   "actualName": "Z. Edey",
+   "actualTeam": "MEM",
+   "pickPlayerId": 201939,
+   "pickName": "Curry",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600102": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "LAC@LAL",
+   "actualPlayerId": 1630559,
+   "actualName": "A. Reaves",
+   "actualTeam": "LAL",
+   "pickPlayerId": 1628381,
+   "pickName": "Collins",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "22600103": {
+   "date": "2026-10-23",
+   "league": "nba",
+   "matchup": "POR@SAC",
+   "actualPlayerId": 1631099,
+   "actualName": "K. Murray",
+   "actualTeam": "SAC",
+   "pickPlayerId": 1642875,
+   "pickName": "Raynaud",
+   "pickHit": 0,
+   "actualBoardRank": null
   }
  }
 }

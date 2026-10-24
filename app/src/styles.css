@@ -317,3 +317,9 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 .runbtn.busy{background:var(--panel2); color:var(--amber); border:1px solid var(--amber);
   cursor:default;}
 .runmsg{font-size:11px; color:var(--dim); letter-spacing:.5px;}
+
+/* --- v0.8.2: MODEL profile advantage highlighting --- */
+.mxtable td.adv{color:#4FE0A6; font-weight:700;}
+.mxtable td.dis{color:#FF8A5C;}
+.capadv{color:#4FE0A6; font-weight:700;}
+.capdis{color:#FF8A5C; font-weight:700;}

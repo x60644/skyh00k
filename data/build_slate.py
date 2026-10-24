@@ -666,6 +666,23 @@ def main():
                                       pos_map, conc_team, conc_league, conc_total,
                                       lines, team_stats, team_log, h2h))]
 
+    # carry forward book odds from an earlier same-date build (e.g. odds
+    # injected by hand) when no Supabase line replaced them — a rebuild
+    # should never silently wipe odds off the board
+    old_archive = os.path.join("slates", f"slate_{league}_{date_str}.json")
+    if os.path.exists(old_archive):
+        try:
+            prev = {str(g["id"]): g["topPick"]
+                    for g in json.load(open(old_archive, encoding="utf-8")).get("games", [])}
+            for c in cards:
+                tp, old = c["topPick"], prev.get(str(c["id"]))
+                if (not tp["bookOdds"]) and old and old.get("bookOdds") \
+                        and old.get("playerId") == tp["playerId"]:
+                    tp["bookOdds"] = old["bookOdds"]
+                    tp["verdict"] = verdict_for(tp["fairOdds"], old["bookOdds"])
+        except (json.JSONDecodeError, OSError, KeyError):
+            pass
+
     slate = {"generated": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
              "date": date_str, "league": league, "games": cards}
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)

@@ -85,6 +85,28 @@ function Last10({ tri, rows }) {
 function ProfileTable({ game, league }) {
   const sides = [['away', game.away], ['home', game.home]]
   const haveProfile = game.profile && (game.profile.home || game.profile.away)
+  const pa = game.profile && game.profile.away
+  const ph = game.profile && game.profile.home
+
+  // green = edge over tonight's opponent, red = deficit (lowerBetter flips
+  // the comparison for FGA→1st FG, where fewer attempts is the advantage)
+  const cmp = (field, lowerBetter = false) => {
+    const a = pa && pa[field], h = ph && ph[field]
+    if (a == null || h == null || a === h) return { away: '', home: '' }
+    const awayWins = lowerBetter ? a < h : a > h
+    return awayWins ? { away: ' adv', home: ' dis' } : { away: ' dis', home: ' adv' }
+  }
+  const cols = {
+    jumperTipPct: cmp('jumperTipPct'),
+    firstShotPct: cmp('firstShotPct'),
+    firstScorePct: cmp('firstScorePct'),
+    firstAttFgPct: cmp('firstAttFgPct'),
+    fgaToFirstFg: cmp('fgaToFirstFg', true),
+  }
+  const h2hCls = (p) => {
+    if (!p || !p.h2h || p.h2h.w === p.h2h.l) return ''
+    return p.h2h.w > p.h2h.l ? ' adv' : ' dis'
+  }
   return (
     <div className="mxcard">
       <div className="mxhead">
@@ -121,23 +143,25 @@ function ProfileTable({ game, league }) {
                     <tr key={side}>
                       <td style={{ color: tint, fontWeight: 700 }}>{p.tri}</td>
                       <td>{p.jumper}</td>
-                      <td>{p.jumperTipPct != null
+                      <td className={cols.jumperTipPct[side]}>{p.jumperTipPct != null
                         ? `${p.jumperTipPct}% (${p.jumperTips})` : '—'}</td>
-                      <td>{p.h2h ? `${p.h2h.w}-${p.h2h.l}` : '—'}</td>
-                      <td>{p.firstShotPct}%</td>
-                      <td>{p.firstScorePct}%</td>
-                      <td>{p.firstAttFgPct != null ? `${p.firstAttFgPct}%` : '—'}</td>
-                      <td>{p.fgaToFirstFg != null ? p.fgaToFirstFg : '—'}</td>
+                      <td className={h2hCls(p)}>{p.h2h ? `${p.h2h.w}-${p.h2h.l}` : '—'}</td>
+                      <td className={cols.firstShotPct[side]}>{p.firstShotPct}%</td>
+                      <td className={cols.firstScorePct[side]}>{p.firstScorePct}%</td>
+                      <td className={cols.firstAttFgPct[side]}>{p.firstAttFgPct != null ? `${p.firstAttFgPct}%` : '—'}</td>
+                      <td className={cols.fgaToFirstFg[side]}>{p.fgaToFirstFg != null ? p.fgaToFirstFg : '—'}</td>
                     </tr>
                   )
                 })}
               </tbody>
             </table>
           </div>
-          <div className="mxcap">TIP% = jumper’s jump-ball win rate (jumps taken) ·
+          <div className="mxcap"><span className="capadv">green</span> = edge over
+            tonight’s opponent · <span className="capdis">red</span> = deficit ·
+            TIP% = jumper’s jump-ball win rate (jumps taken) ·
             H2H = this jumper vs that jumper · 1ST SHOT/SCORE% = team takes/scores the
-            game’s first shot/basket · FGA→1ST FG = avg attempts until first make ·
-            stats span prior + current season</div>
+            game’s first shot/basket · FGA→1ST FG = avg attempts until first make
+            (lower is better) · stats span prior + current season</div>
           {game.last10 && (
             <>
               <Last10 tri={game.away.tri} rows={game.last10.away} />

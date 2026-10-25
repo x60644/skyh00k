@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T23:01:32Z",
+ "generated": "2026-10-25T01:31:23Z",
  "date": "2026-10-24",
  "league": "nba",
  "games": [
@@ -28,11 +28,11 @@
     "pos": "C-F",
     "side": "away",
     "bookOdds": null,
-    "fairOdds": "+1339",
+    "fairOdds": "+1319",
     "rank": 1,
     "share": 10,
     "verdict": null,
-    "why": "MIA controls the jump 59% here and scores the game's first point in 61% of its games; Adebayo takes 10% of its opening shots and makes 44% of his own first look."
+    "why": "MIA controls the jump 59% here and scores the game's first point in 61% of its games; Adebayo takes 10% of its opening shots and makes 45% of his own first look."
    },
    "rosters": {
     "home": [
@@ -41,8 +41,8 @@
       "name": "Miller",
       "pos": "F",
       "share": 20,
-      "fg": 42,
-      "att": 67,
+      "fg": 43,
+      "att": 68,
       "thin": false,
       "hot": false
      },
@@ -61,8 +61,8 @@
       "name": "Diabaté",
       "pos": "F",
       "share": 10,
-      "fg": 64,
-      "att": 53,
+      "fg": 65,
+      "att": 54,
       "thin": false,
       "hot": false
      },
@@ -93,8 +93,8 @@
       "name": "Adebayo",
       "pos": "C-F",
       "share": 10,
-      "fg": 44,
-      "att": 73,
+      "fg": 45,
+      "att": 74,
       "thin": false,
       "hot": true
      },
@@ -113,8 +113,8 @@
       "name": "Wiggins",
       "pos": "F",
       "share": 10,
-      "fg": 43,
-      "att": 70,
+      "fg": 42,
+      "att": 71,
       "thin": false,
       "hot": false
      },
@@ -133,9 +133,9 @@
       "name": "Antetokounmpo",
       "pos": "F",
       "share": 10,
-      "fg": 50,
-      "att": 2,
-      "thin": true,
+      "fg": 33,
+      "att": 3,
+      "thin": false,
       "hot": false
      }
     ]
@@ -143,33 +143,41 @@
    "profile": {
     "home": {
      "tri": "CHA",
-     "games": 84,
+     "games": 85,
      "jumper": "Kalkbrenner",
      "jumperTipPct": 43,
      "jumperTips": 30,
      "teamTipPct": 44,
-     "firstShotPct": 48,
-     "firstScorePct": 48,
+     "firstShotPct": 47,
+     "firstScorePct": 47,
      "firstAttFgPct": 55,
      "fgaToFirstFg": 2.0,
      "h2h": null
     },
     "away": {
      "tri": "MIA",
-     "games": 84,
+     "games": 85,
      "jumper": "Adebayo",
-     "jumperTipPct": 62,
-     "jumperTips": 48,
-     "teamTipPct": 63,
+     "jumperTipPct": 63,
+     "jumperTips": 49,
+     "teamTipPct": 64,
      "firstShotPct": 61,
      "firstScorePct": 61,
-     "firstAttFgPct": 46,
+     "firstAttFgPct": 47,
      "fgaToFirstFg": 2.2,
      "h2h": null
     }
    },
    "last10": {
     "home": [
+     {
+      "date": "2026-10-24",
+      "opp": "MIA",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Adebayo",
+      "fbUs": false
+     },
      {
       "date": "2026-10-23",
       "opp": "ATL",
@@ -241,17 +249,17 @@
       "firstShotUs": false,
       "fb": "Siakam",
       "fbUs": false
-     },
-     {
-      "date": "2026-04-02",
-      "opp": "PHX",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Gillespie",
-      "fbUs": false
      }
     ],
     "away": [
+     {
+      "date": "2026-10-24",
+      "opp": "CHA",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Adebayo",
+      "fbUs": true
+     },
      {
       "date": "2026-10-23",
       "opp": "DET",
@@ -323,14 +331,6 @@
       "firstShotUs": false,
       "fb": "Adebayo",
       "fbUs": true
-     },
-     {
-      "date": "2026-04-01",
-      "opp": "BOS",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Adebayo",
-      "fbUs": true
      }
     ]
    },
@@ -341,7 +341,7 @@
     },
     {
      "tag": "IN",
-     "text": "CHA wins parsed opening tips at 44%, MIA at 63%"
+     "text": "CHA wins parsed opening tips at 44%, MIA at 64%"
     },
     {
      "tag": "WATCH",
@@ -355,7 +355,7 @@
       {
        "icon": "⚡",
        "label": "Instant Offense",
-       "note": "17 first points",
+       "note": "18 first points",
        "tier": "gold"
       },
       {
@@ -394,12 +394,12 @@
     "player": {
      "makes": [
       [
-       257,
-       260
-      ],
-      [
        216,
        152
+      ],
+      [
+       234,
+       344
       ]
      ],
      "misses": [
@@ -415,10 +415,6 @@
     },
     "team": {
      "makes": [
-      [
-       257,
-       260
-      ],
       [
        216,
        152
@@ -454,6 +450,10 @@
       [
        209,
        379
+      ],
+      [
+       234,
+       344
       ]
      ],
      "misses": [
@@ -849,7 +849,7 @@
     },
     {
      "tag": "IN",
-     "text": "BKN concedes first baskets to opposing centers at 1.4× league rate (n=50)"
+     "text": "BKN concedes first baskets to opposing centers at 1.3× league rate (n=50)"
     },
     {
      "tag": "WATCH",

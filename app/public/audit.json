@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T01:30:05Z",
+ "generated": "2026-10-25T23:00:22Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -1066,6 +1066,102 @@
    "actualTeam": "SAC",
    "pickPlayerId": 1642875,
    "pickName": "Raynaud",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600104": {
+   "date": "2026-10-24",
+   "league": "nba",
+   "matchup": "MIA@CHA",
+   "actualPlayerId": 1628389,
+   "actualName": "B. Adebayo",
+   "actualTeam": "MIA",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 1,
+   "actualBoardRank": 4
+  },
+  "22600105": {
+   "date": "2026-10-24",
+   "league": "nba",
+   "matchup": "BKN@CLE",
+   "actualPlayerId": 1628386,
+   "actualName": "J. Allen",
+   "actualTeam": "CLE",
+   "pickPlayerId": 1630596,
+   "pickName": "Mobley",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "22600106": {
+   "date": "2026-10-24",
+   "league": "nba",
+   "matchup": "MIL@PHI",
+   "actualPlayerId": 1629731,
+   "actualName": "D. Wade",
+   "actualTeam": "PHI",
+   "pickPlayerId": 1630178,
+   "pickName": "Maxey",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600108": {
+   "date": "2026-10-24",
+   "league": "nba",
+   "matchup": "WAS@CHI",
+   "actualPlayerId": 1629027,
+   "actualName": "T. Young",
+   "actualTeam": "WAS",
+   "pickPlayerId": 1642267,
+   "pickName": "Carrington",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "22600109": {
+   "date": "2026-10-24",
+   "league": "nba",
+   "matchup": "SAS@DAL",
+   "actualPlayerId": 1641705,
+   "actualName": "V. Wembanyama",
+   "actualTeam": "SAS",
+   "pickPlayerId": 1641705,
+   "pickName": "Wembanyama",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "22600107": {
+   "date": "2026-10-24",
+   "league": "nba",
+   "matchup": "HOU@ATL",
+   "actualPlayerId": 1630700,
+   "actualName": "D. Daniels",
+   "actualTeam": "ATL",
+   "pickPlayerId": 1629638,
+   "pickName": "Alexander-Walker",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600110": {
+   "date": "2026-10-24",
+   "league": "nba",
+   "matchup": "NOP@DEN",
+   "actualPlayerId": 203932,
+   "actualName": "A. Gordon",
+   "actualTeam": "DEN",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "22600111": {
+   "date": "2026-10-24",
+   "league": "nba",
+   "matchup": "GSW@PHX",
+   "actualPlayerId": 1642863,
+   "actualName": "K. Maluach",
+   "actualTeam": "PHX",
+   "pickPlayerId": 1628415,
+   "pickName": "Brooks",
    "pickHit": 0,
    "actualBoardRank": null
   }

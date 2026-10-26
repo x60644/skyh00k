@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T23:01:45Z",
+ "generated": "2026-10-26T01:31:31Z",
  "date": "2026-10-25",
  "league": "nba",
  "games": [
@@ -28,11 +28,11 @@
     "pos": "F",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+1093",
+    "fairOdds": "+1097",
     "rank": 1,
     "share": 50,
     "verdict": null,
-    "why": "UTA controls the jump 53% here and scores the game's first point in 55% of its games; Bailey takes 50% of its opening shots and makes 29% of his own first look."
+    "why": "UTA controls the jump 53% here and scores the game's first point in 54% of its games; Bailey takes 50% of its opening shots and makes 30% of his own first look."
    },
    "rosters": {
     "home": [
@@ -41,8 +41,8 @@
       "name": "Bailey",
       "pos": "F",
       "share": 50,
-      "fg": 29,
-      "att": 72,
+      "fg": 30,
+      "att": 73,
       "thin": false,
       "hot": true
      },
@@ -71,8 +71,8 @@
       "name": "George",
       "pos": "G",
       "share": 0,
-      "fg": 41,
-      "att": 56,
+      "fg": 40,
+      "att": 57,
       "thin": false,
       "hot": false
      },
@@ -81,8 +81,8 @@
       "name": "Markkanen",
       "pos": "F-C",
       "share": 0,
-      "fg": 41,
-      "att": 44,
+      "fg": 40,
+      "att": 45,
       "thin": false,
       "hot": false
      }
@@ -93,9 +93,9 @@
       "name": "Kessler",
       "pos": "C",
       "share": 20,
-      "fg": 50,
-      "att": 2,
-      "thin": true,
+      "fg": 33,
+      "att": 3,
+      "thin": false,
       "hot": false
      },
      {
@@ -103,8 +103,8 @@
       "name": "Dončić",
       "pos": "F-G",
       "share": 10,
-      "fg": 44,
-      "att": 66,
+      "fg": 45,
+      "att": 67,
       "thin": false,
       "hot": false
      },
@@ -124,7 +124,7 @@
       "pos": "G",
       "share": 10,
       "fg": 35,
-      "att": 51,
+      "att": 52,
       "thin": false,
       "hot": false
      },
@@ -143,26 +143,26 @@
    "profile": {
     "home": {
      "tri": "UTA",
-     "games": 84,
+     "games": 85,
      "jumper": "Filipowski",
      "jumperTipPct": 37,
      "jumperTips": 27,
      "teamTipPct": 58,
-     "firstShotPct": 56,
-     "firstScorePct": 55,
+     "firstShotPct": 55,
+     "firstScorePct": 54,
      "firstAttFgPct": 27,
      "fgaToFirstFg": 2.7,
      "h2h": null
     },
     "away": {
      "tri": "LAL",
-     "games": 84,
+     "games": 85,
      "jumper": "Ayton",
      "jumperTipPct": 40,
      "jumperTips": 72,
      "teamTipPct": 51,
-     "firstShotPct": 63,
-     "firstScorePct": 58,
+     "firstShotPct": 64,
+     "firstScorePct": 59,
      "firstAttFgPct": 55,
      "fgaToFirstFg": 1.9,
      "h2h": null
@@ -170,6 +170,14 @@
    },
    "last10": {
     "home": [
+     {
+      "date": "2026-10-25",
+      "opp": "LAL",
+      "tip": null,
+      "firstShotUs": false,
+      "fb": "Dončić",
+      "fbUs": false
+     },
      {
       "date": "2026-10-23",
       "opp": "NOP",
@@ -241,17 +249,17 @@
       "firstShotUs": true,
       "fb": "Durant",
       "fbUs": false
-     },
-     {
-      "date": "2026-04-01",
-      "opp": "DEN",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Murray",
-      "fbUs": false
      }
     ],
     "away": [
+     {
+      "date": "2026-10-25",
+      "opp": "UTA",
+      "tip": null,
+      "firstShotUs": true,
+      "fb": "Dončić",
+      "fbUs": true
+     },
      {
       "date": "2026-10-23",
       "opp": "LAC",
@@ -323,14 +331,6 @@
       "firstShotUs": false,
       "fb": "Flagg",
       "fbUs": false
-     },
-     {
-      "date": "2026-04-02",
-      "opp": "OKC",
-      "tip": null,
-      "firstShotUs": true,
-      "fb": "Hartenstein",
-      "fbUs": false
      }
     ]
    },
@@ -373,23 +373,29 @@
      ]
     },
     {
+     "player": "Reaves",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 second-chance first points",
+       "tier": ""
+      },
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
      "player": "George",
      "items": [
       {
        "icon": "🧹",
        "label": "Glass First",
        "note": "3 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Markkanen",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "4 second-chance first points",
        "tier": ""
       }
      ]
@@ -414,13 +420,13 @@
       [
        200,
        403
+      ],
+      [
+       219,
+       405
       ]
      ],
      "misses": [
-      [
-       178,
-       233
-      ],
       [
        249,
        269
@@ -453,10 +459,6 @@
     },
     "team": {
      "makes": [
-      [
-       17,
-       424
-      ],
       [
        234,
        394
@@ -492,25 +494,13 @@
       [
        200,
        403
+      ],
+      [
+       219,
+       405
       ]
      ],
      "misses": [
-      [
-       268,
-       347
-      ],
-      [
-       350,
-       410
-      ],
-      [
-       178,
-       233
-      ],
-      [
-       487,
-       397
-      ],
       [
        249,
        269
@@ -562,6 +552,10 @@
       [
        489,
        435
+      ],
+      [
+       368,
+       172
       ]
      ]
     }
@@ -584,7 +578,7 @@
    "tip": {
     "homePlayer": "Claxton",
     "awayPlayer": "Huff",
-    "homeWinPct": 51
+    "homeWinPct": 50
    },
    "topPick": {
     "playerId": 1627783,
@@ -592,11 +586,11 @@
     "pos": "F",
     "side": "away",
     "bookOdds": null,
-    "fairOdds": "+1511",
+    "fairOdds": "+1581",
     "rank": 1,
     "share": 10,
     "verdict": null,
-    "why": "IND controls the jump 49% here and scores the game's first point in 45% of its games; Siakam takes 10% of its opening shots and makes 53% of his own first look."
+    "why": "IND controls the jump 50% here and scores the game's first point in 46% of its games; Siakam takes 10% of its opening shots and makes 52% of his own first look."
    },
    "rosters": {
     "home": [
@@ -606,7 +600,7 @@
       "pos": "F",
       "share": 10,
       "fg": 35,
-      "att": 54,
+      "att": 55,
       "thin": false,
       "hot": false
      },
@@ -616,7 +610,7 @@
       "pos": "G",
       "share": 10,
       "fg": 33,
-      "att": 48,
+      "att": 49,
       "thin": false,
       "hot": false
      },
@@ -645,9 +639,9 @@
       "name": "Randle",
       "pos": "F-C",
       "share": 10,
-      "fg": 50,
-      "att": 2,
-      "thin": true,
+      "fg": 33,
+      "att": 3,
+      "thin": false,
       "hot": false
      }
     ],
@@ -657,8 +651,8 @@
       "name": "Nembhard",
       "pos": "G-F",
       "share": 30,
-      "fg": 49,
-      "att": 59,
+      "fg": 48,
+      "att": 60,
       "thin": false,
       "hot": false
      },
@@ -667,8 +661,8 @@
       "name": "Siakam",
       "pos": "F",
       "share": 10,
-      "fg": 53,
-      "att": 62,
+      "fg": 52,
+      "att": 63,
       "thin": false,
       "hot": true
      },
@@ -677,8 +671,8 @@
       "name": "Zubac",
       "pos": "C",
       "share": 10,
-      "fg": 43,
-      "att": 7,
+      "fg": 50,
+      "att": 8,
       "thin": false,
       "hot": false
      },
@@ -697,8 +691,8 @@
       "name": "Nesmith",
       "pos": "G-F",
       "share": 0,
-      "fg": 47,
-      "att": 45,
+      "fg": 48,
+      "att": 46,
       "thin": false,
       "hot": false
      }
@@ -707,12 +701,12 @@
    "profile": {
     "home": {
      "tri": "BKN",
-     "games": 84,
+     "games": 85,
      "jumper": "Claxton",
      "jumperTipPct": 54,
      "jumperTips": 65,
-     "teamTipPct": 53,
-     "firstShotPct": 54,
+     "teamTipPct": 52,
+     "firstShotPct": 53,
      "firstScorePct": 39,
      "firstAttFgPct": 44,
      "fgaToFirstFg": 2.5,
@@ -720,20 +714,28 @@
     },
     "away": {
      "tri": "IND",
-     "games": 84,
+     "games": 85,
      "jumper": "Huff",
      "jumperTipPct": 54,
      "jumperTips": 46,
      "teamTipPct": 51,
-     "firstShotPct": 52,
-     "firstScorePct": 45,
-     "firstAttFgPct": 43,
+     "firstShotPct": 53,
+     "firstScorePct": 46,
+     "firstAttFgPct": 42,
      "fgaToFirstFg": 1.9,
      "h2h": null
     }
    },
    "last10": {
     "home": [
+     {
+      "date": "2026-10-25",
+      "opp": "IND",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Zubac",
+      "fbUs": false
+     },
      {
       "date": "2026-10-24",
       "opp": "CLE",
@@ -805,17 +807,17 @@
       "firstShotUs": true,
       "fb": "Traore",
       "fbUs": true
-     },
-     {
-      "date": "2026-04-03",
-      "opp": "ATL",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Okongwu",
-      "fbUs": false
      }
     ],
     "away": [
+     {
+      "date": "2026-10-25",
+      "opp": "BKN",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Zubac",
+      "fbUs": true
+     },
      {
       "date": "2026-10-23",
       "opp": "DAL",
@@ -887,14 +889,6 @@
       "firstShotUs": false,
       "fb": "Potter",
       "fbUs": true
-     },
-     {
-      "date": "2026-04-03",
-      "opp": "CHA",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Siakam",
-      "fbUs": true
      }
     ]
    },
@@ -905,11 +899,11 @@
     },
     {
      "tag": "IN",
-     "text": "BKN wins parsed opening tips at 53%, IND at 51%"
+     "text": "BKN wins parsed opening tips at 52%, IND at 51%"
     },
     {
      "tag": "WATCH",
-     "text": "BKN concedes first baskets to opposing centers at 1.4× league rate (n=51)"
+     "text": "BKN concedes first baskets to opposing centers at 1.5× league rate (n=52)"
     },
     {
      "tag": "IN",
@@ -929,6 +923,12 @@
        "label": "Glass First",
        "note": "3 second-chance first points",
        "tier": ""
+      },
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
       }
      ]
     },
@@ -960,10 +960,6 @@
     "player": {
      "makes": [
       [
-       252,
-       409
-      ],
-      [
        273,
        391
       ]
@@ -972,15 +968,15 @@
       [
        279,
        222
+      ],
+      [
+       147,
+       190
       ]
      ]
     },
     "team": {
      "makes": [
-      [
-       252,
-       409
-      ],
       [
        467,
        277
@@ -1016,6 +1012,10 @@
       [
        271,
        411
+      ],
+      [
+       224,
+       421
       ]
      ],
      "misses": [
@@ -1054,6 +1054,10 @@
       [
        325,
        334
+      ],
+      [
+       147,
+       190
       ]
      ]
     }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T01:30:08Z",
+ "generated": "2026-10-28T23:00:20Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -1356,6 +1356,54 @@
    "pickName": "Murray",
    "pickHit": 0,
    "actualBoardRank": 8
+  },
+  "22600128": {
+   "date": "2026-10-27",
+   "league": "nba",
+   "matchup": "BKN@BOS",
+   "actualPlayerId": 202331,
+   "actualName": "P. George",
+   "actualTeam": "BOS",
+   "pickPlayerId": 1627759,
+   "pickName": "Brown",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "22600129": {
+   "date": "2026-10-27",
+   "league": "nba",
+   "matchup": "DET@NYK",
+   "actualPlayerId": 1626157,
+   "actualName": "K. Towns",
+   "actualTeam": "NYK",
+   "pickPlayerId": 1628969,
+   "pickName": "Bridges",
+   "pickHit": 0,
+   "actualBoardRank": 10
+  },
+  "22600130": {
+   "date": "2026-10-27",
+   "league": "nba",
+   "matchup": "SAC@SAS",
+   "actualPlayerId": 1641705,
+   "actualName": "V. Wembanyama",
+   "actualTeam": "SAS",
+   "pickPlayerId": 1641705,
+   "pickName": "Wembanyama",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "22600131": {
+   "date": "2026-10-27",
+   "league": "nba",
+   "matchup": "POR@LAL",
+   "actualPlayerId": 1630559,
+   "actualName": "A. Reaves",
+   "actualTeam": "LAL",
+   "pickPlayerId": 203924,
+   "pickName": "Grant",
+   "pickHit": 0,
+   "actualBoardRank": 5
   }
  }
 }

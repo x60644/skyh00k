@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T01:30:11Z",
+ "generated": "2026-10-29T23:00:27Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -1404,6 +1404,150 @@
    "pickName": "Grant",
    "pickHit": 0,
    "actualBoardRank": 5
+  },
+  "22600132": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "MIA@ATL",
+   "actualPlayerId": 1628389,
+   "actualName": "B. Adebayo",
+   "actualTeam": "MIA",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 1,
+   "actualBoardRank": 5
+  },
+  "22600133": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "WAS@CLE",
+   "actualPlayerId": 1643407,
+   "actualName": "A. Dybantsa",
+   "actualTeam": "WAS",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600134": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "CHA@DET",
+   "actualPlayerId": 1629675,
+   "actualName": "N. Reid",
+   "actualTeam": "CHA",
+   "pickPlayerId": 1641706,
+   "pickName": "Miller",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600135": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "PHI@IND",
+   "actualPlayerId": 1627783,
+   "actualName": "P. Siakam",
+   "actualTeam": "IND",
+   "pickPlayerId": 1630178,
+   "pickName": "Maxey",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "22600136": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "ORL@TOR",
+   "actualPlayerId": 1628976,
+   "actualName": "W. Carter Jr.",
+   "actualTeam": "ORL",
+   "pickPlayerId": 1630591,
+   "pickName": "Suggs",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "22600137": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "NYK@CHI",
+   "actualPlayerId": 1628384,
+   "actualName": "O. Anunoby",
+   "actualTeam": "NYK",
+   "pickPlayerId": 1628973,
+   "pickName": "Brunson",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "22600138": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "HOU@MIL",
+   "actualPlayerId": 1629639,
+   "actualName": "T. Herro",
+   "actualTeam": "MIL",
+   "pickPlayerId": 1641708,
+   "pickName": "Thompson",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600139": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "GSW@MIN",
+   "actualPlayerId": 1630183,
+   "actualName": "J. McDaniels",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1628978,
+   "pickName": "DiVincenzo",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "22600140": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "DEN@NOP",
+   "actualPlayerId": 1627750,
+   "actualName": "J. Murray",
+   "actualTeam": "DEN",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
+   "pickHit": 1,
+   "actualBoardRank": 2
+  },
+  "22600141": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "SAS@UTA",
+   "actualPlayerId": 1628368,
+   "actualName": "D. Fox",
+   "actualTeam": "SAS",
+   "pickPlayerId": 1641705,
+   "pickName": "Wembanyama",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "22600142": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "OKC@DAL",
+   "actualPlayerId": 1642843,
+   "actualName": "C. Flagg",
+   "actualTeam": "DAL",
+   "pickPlayerId": 1641717,
+   "pickName": "Wallace",
+   "pickHit": 0,
+   "actualBoardRank": 6
+  },
+  "22600143": {
+   "date": "2026-10-28",
+   "league": "nba",
+   "matchup": "LAL@LAC",
+   "actualPlayerId": 1629680,
+   "actualName": "M. Thybulle",
+   "actualTeam": "LAL",
+   "pickPlayerId": 1629029,
+   "pickName": "Don\u010di\u0107",
+   "pickHit": 0,
+   "actualBoardRank": null
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T01:30:10Z",
+ "generated": "2026-10-30T23:00:17Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -1548,6 +1548,42 @@
    "pickName": "Don\u010di\u0107",
    "pickHit": 0,
    "actualBoardRank": null
+  },
+  "22600144": {
+   "date": "2026-10-29",
+   "league": "nba",
+   "matchup": "CLE@ATL",
+   "actualPlayerId": 1630596,
+   "actualName": "E. Mobley",
+   "actualTeam": "CLE",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": 1
+  },
+  "22600145": {
+   "date": "2026-10-29",
+   "league": "nba",
+   "matchup": "SAC@NOP",
+   "actualPlayerId": 1630530,
+   "actualName": "T. Murphy III",
+   "actualTeam": "NOP",
+   "pickPlayerId": 203897,
+   "pickName": "LaVine",
+   "pickHit": 0,
+   "actualBoardRank": 8
+  },
+  "22600146": {
+   "date": "2026-10-29",
+   "league": "nba",
+   "matchup": "MEM@POR",
+   "actualPlayerId": 1641744,
+   "actualName": "Z. Edey",
+   "actualTeam": "MEM",
+   "pickPlayerId": 203924,
+   "pickName": "Grant",
+   "pickHit": 0,
+   "actualBoardRank": 8
   }
  }
 }

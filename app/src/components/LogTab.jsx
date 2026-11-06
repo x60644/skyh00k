@@ -163,7 +163,7 @@ export default function LogTab({ league }) {
       ))}
 
       <div className="logfoot">
-        Settled first-FG (DraftKings rule){audit && audit.generated ? ` · results as of ${audit.generated.slice(0, 10)}` : ''}
+        Settled on 1st Points Scorer · FTs count{audit && audit.generated ? ` · results as of ${audit.generated.slice(0, 10)}` : ''}
       </div>
     </div>
   )

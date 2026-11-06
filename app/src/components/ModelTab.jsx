@@ -111,7 +111,7 @@ export default function ModelTab({ league }) {
       ))}
 
       <div className="logfoot">
-        Model top pick vs. actual first field goal · {audit && audit.generated ? `as of ${audit.generated.slice(0, 10)}` : ''}
+        Model top pick vs. actual first scorer · {audit && audit.generated ? `as of ${audit.generated.slice(0, 10)}` : ''}
       </div>
     </div>
   )

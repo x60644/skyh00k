@@ -76,7 +76,7 @@ export default function App() {
           ))}
         </div>
         <div className="tagline">
-          First basket board{' '}
+          First point board{' '}
           {isLive
             ? <em className={'livechip' + (live.date !== new Date().toLocaleDateString('en-CA', { timeZone: 'America/New_York' }) ? ' stale' : '')}>{live.date}</em>
             : <em className="demo">DEMO</em>}

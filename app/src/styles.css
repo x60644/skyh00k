@@ -1,6 +1,7 @@
 :root{
   --court:#0D0D15; --panel:#16161F; --panel2:#1C1C27; --line:#2A2A38;
   --chalk:#F2EFE6; --dim:#9A97A8; --amber:#FFB524; --flame:#FF5C1A; --wood:#171219;
+  --you:#4FA3F0;
 }
 *{box-sizing:border-box; margin:0; padding:0;}
 body{background:var(--court); color:var(--chalk); font-family:'Barlow Condensed',sans-serif;}
@@ -63,7 +64,14 @@ body{background:var(--court); color:var(--chalk); font-family:'Barlow Condensed'
 .sidehead{font-size:12px; letter-spacing:1.5px; text-transform:uppercase; color:var(--dim);
   margin-bottom:8px; display:flex; align-items:center; gap:6px;}
 .sidehead img{width:16px; height:16px; object-fit:contain; filter:grayscale(1) brightness(1.4);}
-.prow{display:flex; align-items:center; gap:8px; margin-bottom:8px;}
+.prow{display:flex; align-items:center; gap:8px; margin-bottom:6px; width:100%;
+  text-align:left; background:transparent; border:1px solid transparent;
+  border-radius:9px; padding:4px 6px; cursor:pointer; font:inherit; color:inherit;}
+.prow:hover{background:var(--panel2); border-color:var(--line);}
+.prow.sel{background:#0E1A28; border-color:var(--you);}
+.prow .pn{display:flex; align-items:center;}
+.modeldot{color:var(--flame); font-style:normal; margin-left:5px; font-size:12px;}
+.rodds{color:var(--amber); font-weight:700;}
 .pbody{flex:1; min-width:0;}
 .pline{display:flex; justify-content:space-between; align-items:baseline; font-size:14px; font-weight:500;}
 .pline .stats{font-size:12px; color:var(--dim); font-variant-numeric:tabular-nums;}
@@ -335,3 +343,42 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 .colhead{display:flex; justify-content:space-between; font-size:9px;
   letter-spacing:1px; text-transform:uppercase; color:var(--dim);
   margin:-2px 0 6px; opacity:.85;}
+
+/* --- v0.10: pick-any-player + your-pick color + detail legend --- */
+.pick.userpick{border-color:var(--you); background:#0C1420;}
+.pick.userpick .picktag{background:var(--you); color:#04121E;}
+.pick.userpick .mug{animation:none;
+  box-shadow:0 0 0 3px var(--you), 0 0 14px 2px rgba(79,163,240,.5);}
+.modelnote{margin-top:8px; font-size:12px; color:var(--dim); display:flex;
+  align-items:center; gap:8px; flex-wrap:wrap;}
+.modelnote b{color:var(--chalk);}
+.modelnote button{background:transparent; border:1px solid var(--line);
+  border-radius:6px; color:var(--you); font-family:'Barlow Condensed',sans-serif;
+  font-size:12px; font-weight:600; letter-spacing:.5px; padding:2px 9px; cursor:pointer;}
+.modelnote button:hover{border-color:var(--you);}
+.selecthint{text-align:center; font-size:11px; color:var(--dim); letter-spacing:.5px;
+  margin:-4px 12px 2px; padding:0 4px;}
+.selecthint .modeldot{margin:0 2px;}
+
+.detailintro{padding:12px 16px 4px;}
+.dihead{font-size:11px; letter-spacing:1.5px; text-transform:uppercase;
+  color:var(--dim); margin-bottom:8px;}
+.detailintro ul{list-style:none; display:flex; flex-direction:column; gap:7px;}
+.detailintro li{font-size:13px; line-height:1.4; color:var(--chalk);
+  padding-left:14px; position:relative;}
+.detailintro li::before{content:'▸'; position:absolute; left:0; color:var(--flame);}
+.detailintro li b{font-weight:700;}
+.detailintro .tag{font-size:10px; font-weight:700; letter-spacing:.5px;
+  padding:0 5px; border-radius:3px;}
+.detailintro .tag.in{background:#123326; color:#4FE0A6;}
+.detailintro .tag.watch{background:#332A12; color:#E0BB4F;}
+
+/* desktop: widen the shell so the dashboard chips sit in 2–3 rows,
+   keep the card column at phone width and centered */
+@media (min-width:760px){
+  .app{max-width:880px;}
+  .slate{max-width:520px; width:100%; margin-left:auto; margin-right:auto;}
+  .empty{max-width:520px; margin-left:auto; margin-right:auto;}
+  .sumbar, .topdock .sumbar{flex-wrap:wrap; overflow-x:visible;}
+  .sumchip{flex:0 0 auto;}
+}

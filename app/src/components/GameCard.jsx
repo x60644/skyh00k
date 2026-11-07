@@ -19,21 +19,27 @@ export function verdictFor(fair, book) {
   return 'PASS'
 }
 
-function RosterRow({ league, p, tint }) {
+function RosterRow({ league, p, tint, isModel, isSelected, onSelect }) {
   return (
-    <div className={'prow' + (p.hot ? ' hot' : '')}>
+    <button type="button" aria-pressed={isSelected}
+      className={'prow' + (p.hot ? ' hot' : '') + (isSelected ? ' sel' : '')}
+      onClick={onSelect}>
       <Mug league={league} playerId={p.playerId} name={p.name} size={30} tint={tint} ring={p.hot} />
       <div className="pbody">
         <div className="pline">
-          <span>{p.name}{p.pos ? <em className="pos">{p.pos}</em> : null}</span>
+          <span className="pn">
+            {p.name}{p.pos ? <em className="pos">{p.pos}</em> : null}
+            {isModel && <em className="modeldot" title="Model's pick">★</em>}
+          </span>
           <span className={'stats' + (p.thin ? ' thin' : '')}
             title={p.att != null ? `${p.att} games with a first shot` : undefined}>
-            {p.share} · {p.fg != null ? `${p.fg}%` : '—'}{p.thin ? '*' : ''}
+            {p.fairOdds ? <b className="rodds">{p.fairOdds}</b> : null}
+            {' '}{p.share}% · {p.fg != null ? `${p.fg}%` : '—'}{p.thin ? '*' : ''}
           </span>
         </div>
         <div className="bar"><i style={{ width: `${Math.min(p.share * 2, 100)}%` }} /></div>
       </div>
-    </div>
+    </button>
   )
 }
 
@@ -44,32 +50,47 @@ export default function GameCard({ game, slateDate }) {
   const [showMisses, setShowMisses] = useState(false)
   const [entering, setEntering] = useState(false)
   const [oddsInput, setOddsInput] = useState('')
-  const [localBook, setLocalBook] = useState(null)
+  const [localBook, setLocalBook] = useState({})   // playerId -> entered odds (this session)
   const [saveState, setSaveState] = useState('')
 
   const lg = game.league
   const homeTint = TEAM_TINTS[game.home.tri] || DEFAULT_TINTS.home
   const awayTint = TEAM_TINTS[game.away.tri] || DEFAULT_TINTS.away
-  const pick = game.topPick
-  const pickTint = pick.side === 'home' ? homeTint : awayTint
-  const book = localBook || pick.bookOdds
-  const verdict = book ? verdictFor(pick.fairOdds, book) : null
+  const model = game.topPick
+
+  const roster = [
+    ...game.rosters.home.map((p) => ({ ...p, side: 'home' })),
+    ...game.rosters.away.map((p) => ({ ...p, side: 'away' })),
+  ]
+  const [selId, setSelId] = useState(model.playerId)
+  const isModel = selId === model.playerId
+  const selP = roster.find((p) => p.playerId === selId) ||
+    roster.find((p) => p.playerId === model.playerId) || roster[0]
+
+  // Selected player's model numbers come straight from the slate (the model
+  // scored everyone); fall back to the top-pick fields when it's the model's.
+  const selFair = isModel ? model.fairOdds : (selP.fairOdds || null)
+  const selRank = isModel ? model.rank : (selP.rank ?? null)
+  const selTint = selP.side === 'home' ? homeTint : awayTint
+  const book = localBook[selP.playerId] || (isModel ? model.bookOdds : null)
+  const verdict = book && selFair ? verdictFor(selFair, book) : null
+  const why = isModel ? model.why : null
   const hasDetail = !!(game.shots || (game.callouts && game.callouts.length) ||
     (game.badges && game.badges.length))
   const isLiveGame = !game.id.startsWith('demo-')
 
   async function saveLine() {
-    const clean = oddsInput.trim().startsWith('+') || oddsInput.trim().startsWith('-')
-      ? oddsInput.trim() : '+' + oddsInput.trim()
+    const t = oddsInput.trim()
+    const clean = t.startsWith('+') || t.startsWith('-') ? t : '+' + t
     if (!/^[+-]\d{3,5}$/.test(clean)) { setSaveState('bad'); return }
-    setLocalBook(clean)
+    setLocalBook((m) => ({ ...m, [selP.playerId]: clean }))
     setEntering(false)
     setOddsInput('')
     if (supa && isLiveGame) {
       setSaveState('saving')
       const { error } = await supa.from('lines').insert({
         slate_date: slateDate, league: lg, game_id: game.id,
-        player_id: pick.playerId, player_name: pick.name, book: 'dk', odds: clean,
+        player_id: selP.playerId, player_name: selP.name, book: 'dk', odds: clean,
       })
       setSaveState(error ? 'err' : 'ok')
     } else {
@@ -103,31 +124,41 @@ export default function GameCard({ game, slateDate }) {
           <div className="tipcap">Jump ball</div>
         </div>
 
-        <div className="pick">
-          <div className="picktag">Top pick</div>
-          <Mug league={lg} playerId={pick.playerId} name={pick.name} size={56} tint={pickTint} ring />
+        <div className={'pick' + (isModel ? '' : ' userpick')}>
+          <div className="picktag">{isModel ? 'Top pick' : 'Your pick'}</div>
+          <Mug league={lg} playerId={selP.playerId} name={selP.name} size={56} tint={selTint} ring />
           <div className="pickbody">
             <div className="pickrow">
               <div className="pickname">
-                {pick.name}{pick.pos ? <em className="pos big">{pick.pos}</em> : null}
+                {selP.name}{selP.pos ? <em className="pos big">{selP.pos}</em> : null}
               </div>
-              <div className="pickodds">{book || pick.fairOdds}</div>
+              <div className="pickodds">{book || selFair || '—'}</div>
             </div>
             <div className="pickmeta">
-              <span>Rank <b>#{pick.rank}</b></span>
+              {selRank != null && <span>Rank <b>#{selRank}</b></span>}
               {book
-                ? <span>Fair <b>{pick.fairOdds}</b></span>
-                : <span className="modelchip">model fair odds</span>}
-              <span>1st shot <b>{pick.share}%</b></span>
+                ? (selFair && <span>Fair <b>{selFair}</b></span>)
+                : (selFair && <span className="modelchip">model fair odds</span>)}
+              <span>1st shot <b>{selP.share}%</b></span>
+              {selP.fg != null && <span>make <b>{selP.fg}%</b></span>}
               {verdict &&
                 <span className={'verdict ' + verdict.toLowerCase()}>{verdict}</span>}
             </div>
-            {pick.why && <div className="whyline">{pick.why}</div>}
+            {!isModel && (
+              <div className="modelnote">
+                Model's pick: <b>{model.name}</b> {model.fairOdds}
+                <button type="button" onClick={() => setSelId(model.playerId)}>↺ back to model</button>
+              </div>
+            )}
+            {why && <div className="whyline">{why}</div>}
+            {!selFair && (
+              <div className="linemsg">Per-player model odds refresh on the next slate build.</div>
+            )}
             {isLiveGame && (
               entering ? (
                 <div className="lineentry">
                   <input value={oddsInput} inputMode="numeric"
-                    placeholder="book odds e.g. +630"
+                    placeholder={`book odds for ${selP.name} e.g. +630`}
                     onChange={(e) => { setOddsInput(e.target.value); setSaveState('') }}
                     onKeyDown={(e) => e.key === 'Enter' && saveLine()} autoFocus />
                   <button type="button" onClick={saveLine}>Save</button>
@@ -149,15 +180,20 @@ export default function GameCard({ game, slateDate }) {
           </div>
         </div>
 
+        <div className="selecthint">Tap any player below to model their first-point odds · <span className="modeldot">★</span> = model's call</div>
+
         <div className="rosters">
           <div className="side">
             <div className="sidehead">
               <img src={teamLogoUrl(lg, game.home.teamId)} alt="" onError={(e) => e.currentTarget.remove()} />
               {game.home.name}
             </div>
-            <div className="colhead"><span>player</span><span>1st shot · make</span></div>
+            <div className="colhead"><span>player</span><span>odds · 1st shot · make</span></div>
             {game.rosters.home.map((p) => (
-              <RosterRow key={p.playerId} league={lg} p={p} tint={homeTint} />
+              <RosterRow key={p.playerId} league={lg} p={p} tint={homeTint}
+                isModel={p.playerId === model.playerId}
+                isSelected={p.playerId === selId}
+                onSelect={() => setSelId(p.playerId)} />
             ))}
           </div>
           <div className="side">
@@ -165,21 +201,24 @@ export default function GameCard({ game, slateDate }) {
               <img src={teamLogoUrl(lg, game.away.teamId)} alt="" onError={(e) => e.currentTarget.remove()} />
               {game.away.name}
             </div>
-            <div className="colhead"><span>player</span><span>1st shot · make</span></div>
+            <div className="colhead"><span>player</span><span>odds · 1st shot · make</span></div>
             {game.rosters.away.map((p) => (
-              <RosterRow key={p.playerId} league={lg} p={p} tint={awayTint} />
+              <RosterRow key={p.playerId} league={lg} p={p} tint={awayTint}
+                isModel={p.playerId === model.playerId}
+                isSelected={p.playerId === selId}
+                onSelect={() => setSelId(p.playerId)} />
             ))}
           </div>
         </div>
 
-        <div className="legend">1ST SHOT = how often they take the team's opening
-          shot (last 10) · MAKE = how often their own first shot of a game goes in
-          · * = small sample</div>
+        <div className="legend">ODDS = model fair odds · 1ST SHOT = how often they take
+          the team's opening shot (last 10) · MAKE = how often their own first shot
+          of a game goes in · * = small sample</div>
 
         {hasDetail && (
           <div className="foot">
             <button type="button" onClick={() => setOpen(!open)}>
-              {open ? 'Collapse detail ▴' : 'Expand detail ▾'}
+              {open ? 'Collapse detail ▴' : 'Why this pick — shot chart, factors & badges ▾'}
             </button>
           </div>
         )}
@@ -187,6 +226,25 @@ export default function GameCard({ game, slateDate }) {
 
       {open && hasDetail && (
         <div className="card detail">
+          <div className="detailintro">
+            <div className="dihead">What's in here</div>
+            <ul>
+              {game.shots && (
+                <li><b>Court</b> — every early-game shot <b>{game.shots.playerLabel}</b> took
+                  before their team's first make, and whether it fell. Toggle the player,
+                  their team's last-10, or show misses.</li>
+              )}
+              {game.callouts && game.callouts.length > 0 && (
+                <li><b>Model read</b> — the factors behind the call.{' '}
+                  <span className="tag in">IN</span> helps the pick,{' '}
+                  <span className="tag watch">WATCH</span> is a caution.</li>
+              )}
+              {game.badges && game.badges.length > 0 && (
+                <li><b>Badges</b> — notable streaks or flags on these players.</li>
+              )}
+            </ul>
+          </div>
+
           {game.shots && (
             <>
               <div className="dhead">Court · <b>{game.shots.playerLabel}</b> — shots until first make</div>
@@ -204,7 +262,8 @@ export default function GameCard({ game, slateDate }) {
               <div className="courtwrap">
                 <Court shots={game.shots} showPlayer={showPlayer} showTeam={showTeam} showMisses={showMisses} />
               </div>
-              <div className="courtcap"><span className="mk">●</span> make · ○ miss · attempts before team's first make</div>
+              <div className="courtcap">Each dot is one early shot ·{' '}
+                <span className="mk">●</span> made · ○ missed · the court is the model's pick, {game.shots.playerLabel}</div>
             </>
           )}
 

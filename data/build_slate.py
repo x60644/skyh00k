@@ -546,6 +546,12 @@ def build_game_card(g, players, team_games, team_tips, league,
     p_top, top = scored[0]
     top_side = "home" if top["team"] == h_tri else "away"
 
+    # Per-player model odds + overall rank (across both teams), from this same
+    # scored list — so the SLATE card can swap to any roster player the user
+    # taps without ever recomputing the (frozen) formula client-side.
+    rank_map = {r["personId"]: (i + 1, fair_odds(p))
+                for i, (p, r) in enumerate(scored)}
+
     def pos_of(r):
         return pos_map.get(r["personId"] or -1, "")
 
@@ -560,6 +566,8 @@ def build_game_card(g, players, team_games, team_tips, league,
             "fg": round(100 * r["own_makes"] / r["own_att"]) if r["own_att"] else None,
             "att": int(r["own_att"]), "thin": bool(r["own_att"] < 3),
             "hot": r is top,
+            "rank": rank_map.get(r["personId"], (None, None))[0],
+            "fairOdds": rank_map.get(r["personId"], (None, None))[1],
         } for r in rows]
 
     callouts = [{"tag": "IN", "text":

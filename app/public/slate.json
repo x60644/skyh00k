@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T00:01:37Z",
+ "generated": "2026-11-07T01:11:43Z",
  "date": "2026-11-06",
  "league": "nba",
  "games": [
@@ -44,7 +44,9 @@
       "fg": 48,
       "att": 86,
       "thin": false,
-      "hot": true
+      "hot": true,
+      "rank": 1,
+      "fairOdds": "+1263"
      },
      {
       "playerId": 1630168,
@@ -54,7 +56,9 @@
       "fg": 47,
       "att": 79,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 3,
+      "fairOdds": "+2290"
      },
      {
       "playerId": 1630552,
@@ -64,7 +68,9 @@
       "fg": 43,
       "att": 79,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 2,
+      "fairOdds": "+1941"
      },
      {
       "playerId": 1643412,
@@ -74,7 +80,9 @@
       "fg": 40,
       "att": 5,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+3103"
      },
      {
       "playerId": 1642258,
@@ -84,7 +92,9 @@
       "fg": 53,
       "att": 62,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+19900"
      }
     ],
     "away": [
@@ -96,7 +106,9 @@
       "fg": 50,
       "att": 8,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+3279"
      },
      {
       "playerId": 1629027,
@@ -106,7 +118,9 @@
       "fg": 50,
       "att": 12,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 7,
+      "fairOdds": "+4282"
      },
      {
       "playerId": 1643407,
@@ -116,7 +130,9 @@
       "fg": 50,
       "att": 4,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+4282"
      },
      {
       "playerId": 1642259,
@@ -126,7 +142,9 @@
       "fg": 51,
       "att": 55,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 6,
+      "fairOdds": "+3500"
      },
      {
       "playerId": 1642267,
@@ -136,7 +154,9 @@
       "fg": 41,
       "att": 76,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+8900"
      }
     ]
    },
@@ -532,7 +552,9 @@
       "fg": 41,
       "att": 74,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+2360"
      },
      {
       "playerId": 1631217,
@@ -542,7 +564,9 @@
       "fg": 68,
       "att": 59,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 3,
+      "fairOdds": "+2032"
      },
      {
       "playerId": 203471,
@@ -552,7 +576,9 @@
       "fg": 71,
       "att": 7,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 7,
+      "fairOdds": "+3557"
      },
      {
       "playerId": 1629675,
@@ -562,7 +588,9 @@
       "fg": 22,
       "att": 9,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+3953"
      },
      {
       "playerId": 1642851,
@@ -572,7 +600,9 @@
       "fg": 56,
       "att": 81,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+4450"
      }
     ],
     "away": [
@@ -584,7 +614,9 @@
       "fg": 71,
       "att": 7,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 2,
+      "fairOdds": "+1947"
      },
      {
       "playerId": 1627759,
@@ -594,7 +626,9 @@
       "fg": 42,
       "att": 71,
       "thin": false,
-      "hot": true
+      "hot": true,
+      "rank": 1,
+      "fairOdds": "+1844"
      },
      {
       "playerId": 1628369,
@@ -604,7 +638,9 @@
       "fg": 35,
       "att": 23,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 6,
+      "fairOdds": "+2837"
      },
      {
       "playerId": 1629674,
@@ -614,7 +650,9 @@
       "fg": 67,
       "att": 75,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+2471"
      },
      {
       "playerId": 1628401,
@@ -624,7 +662,9 @@
       "fg": 44,
       "att": 79,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+5900"
      }
     ]
    },
@@ -987,7 +1027,9 @@
       "fg": 66,
       "att": 71,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 2,
+      "fairOdds": "+743"
      },
      {
       "playerId": 1631212,
@@ -997,7 +1039,9 @@
       "fg": 33,
       "att": 6,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+1978"
      },
      {
       "playerId": 1628386,
@@ -1007,7 +1051,9 @@
       "fg": 63,
       "att": 62,
       "thin": false,
-      "hot": true
+      "hot": true,
+      "rank": 1,
+      "fairOdds": "+709"
      },
      {
       "playerId": 1628378,
@@ -1017,7 +1063,9 @@
       "fg": 41,
       "att": 78,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+4400"
      },
      {
       "playerId": 1630241,
@@ -1027,7 +1075,9 @@
       "fg": 44,
       "att": 54,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+19900"
      }
     ],
     "away": [
@@ -1039,7 +1089,9 @@
       "fg": 51,
       "att": 79,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 3,
+      "fairOdds": "+1452"
      },
      {
       "playerId": 1642845,
@@ -1049,7 +1101,9 @@
       "fg": 51,
       "att": 82,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 6,
+      "fairOdds": "+2234"
      },
      {
       "playerId": 203954,
@@ -1059,7 +1113,9 @@
       "fg": 58,
       "att": 45,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+1568"
      },
      {
       "playerId": 1629731,
@@ -1069,7 +1125,9 @@
       "fg": 40,
       "att": 5,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 7,
+      "fairOdds": "+3846"
      },
      {
       "playerId": 1626162,
@@ -1079,7 +1137,9 @@
       "fg": 49,
       "att": 47,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+18100"
      }
     ]
    },
@@ -1494,7 +1554,9 @@
       "fg": 52,
       "att": 80,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 3,
+      "fairOdds": "+2506"
      },
      {
       "playerId": 1629023,
@@ -1504,7 +1566,9 @@
       "fg": 43,
       "att": 63,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+2696"
      },
      {
       "playerId": 1642843,
@@ -1514,7 +1578,9 @@
       "fg": 45,
       "att": 77,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+5900"
      },
      {
       "playerId": 203076,
@@ -1524,7 +1590,9 @@
       "fg": 50,
       "att": 20,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+17900"
      },
      {
       "playerId": 1629655,
@@ -1534,7 +1602,9 @@
       "fg": 67,
       "att": 52,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+4400"
      }
     ],
     "away": [
@@ -1546,7 +1616,9 @@
       "fg": 29,
       "att": 78,
       "thin": false,
-      "hot": true
+      "hot": true,
+      "rank": 1,
+      "fairOdds": "+1556"
      },
      {
       "playerId": 1628374,
@@ -1556,7 +1628,9 @@
       "fg": 41,
       "att": 49,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 2,
+      "fairOdds": "+1725"
      },
      {
       "playerId": 1629637,
@@ -1566,7 +1640,9 @@
       "fg": 67,
       "att": 6,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 7,
+      "fairOdds": "+4496"
      },
      {
       "playerId": 1641718,
@@ -1576,7 +1652,9 @@
       "fg": 42,
       "att": 62,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+5900"
      },
      {
       "playerId": 203994,
@@ -1586,7 +1664,9 @@
       "fg": 52,
       "att": 40,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 6,
+      "fairOdds": "+4400"
      }
     ]
    },
@@ -2014,7 +2094,9 @@
       "fg": 50,
       "att": 64,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 6,
+      "fairOdds": "+3452"
      },
      {
       "playerId": 1629660,
@@ -2024,7 +2106,9 @@
       "fg": 41,
       "att": 22,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+3071"
      },
      {
       "playerId": 1641744,
@@ -2034,7 +2118,9 @@
       "fg": 71,
       "att": 17,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 3,
+      "fairOdds": "+2547"
      },
      {
       "playerId": 1628991,
@@ -2044,7 +2130,9 @@
       "fg": 52,
       "att": 44,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+5900"
      },
      {
       "playerId": 1642377,
@@ -2054,7 +2142,9 @@
       "fg": 47,
       "att": 75,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+8900"
      }
     ],
     "away": [
@@ -2066,7 +2156,9 @@
       "fg": 38,
       "att": 73,
       "thin": false,
-      "hot": true
+      "hot": true,
+      "rank": 1,
+      "fairOdds": "+1258"
      },
      {
       "playerId": 1628392,
@@ -2076,7 +2168,9 @@
       "fg": 66,
       "att": 47,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 2,
+      "fairOdds": "+2258"
      },
      {
       "playerId": 1642349,
@@ -2086,7 +2180,9 @@
       "fg": 54,
       "att": 57,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 7,
+      "fairOdds": "+3901"
      },
      {
       "playerId": 1631096,
@@ -2096,7 +2192,9 @@
       "fg": 55,
       "att": 71,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+2900"
      },
      {
       "playerId": 1629652,
@@ -2106,7 +2204,9 @@
       "fg": 44,
       "att": 64,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+4400"
      }
     ]
    },
@@ -2500,7 +2600,9 @@
       "fg": 42,
       "att": 67,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+3929"
      },
      {
       "playerId": 1631170,
@@ -2510,7 +2612,9 @@
       "fg": 88,
       "att": 8,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+3496"
      },
      {
       "playerId": 1643415,
@@ -2520,7 +2624,9 @@
       "fg": 17,
       "att": 6,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+6306"
      },
      {
       "playerId": 1631157,
@@ -2530,7 +2636,9 @@
       "fg": 42,
       "att": 77,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 6,
+      "fairOdds": "+4400"
      },
      {
       "playerId": 1631260,
@@ -2540,7 +2648,9 @@
       "fg": 40,
       "att": 75,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 7,
+      "fairOdds": "+4400"
      }
     ],
     "away": [
@@ -2552,7 +2662,9 @@
       "fg": 51,
       "att": 86,
       "thin": false,
-      "hot": true
+      "hot": true,
+      "rank": 1,
+      "fairOdds": "+1259"
      },
      {
       "playerId": 1642266,
@@ -2562,7 +2674,9 @@
       "fg": 42,
       "att": 55,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 2,
+      "fairOdds": "+1484"
      },
      {
       "playerId": 1629628,
@@ -2572,7 +2686,9 @@
       "fg": 47,
       "att": 64,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 3,
+      "fairOdds": "+2176"
      },
      {
       "playerId": 1627742,
@@ -2582,7 +2698,9 @@
       "fg": 53,
       "att": 76,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+8900"
      },
      {
       "playerId": 1627751,
@@ -2592,7 +2710,9 @@
       "fg": 68,
       "att": 40,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+17900"
      }
     ]
    },
@@ -3030,7 +3150,9 @@
       "fg": 51,
       "att": 72,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 2,
+      "fairOdds": "+2152"
      },
      {
       "playerId": 1630529,
@@ -3040,7 +3162,9 @@
       "fg": 47,
       "att": 60,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+8900"
      },
      {
       "playerId": 1629627,
@@ -3050,7 +3174,9 @@
       "fg": 62,
       "att": 68,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 7,
+      "fairOdds": "+5900"
      },
      {
       "playerId": 1630180,
@@ -3060,7 +3186,9 @@
       "fg": 38,
       "att": 78,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+2900"
      },
      {
       "playerId": 1627749,
@@ -3070,7 +3198,9 @@
       "fg": 58,
       "att": 19,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+19900"
      }
     ],
     "away": [
@@ -3082,7 +3212,9 @@
       "fg": 22,
       "att": 9,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 3,
+      "fairOdds": "+2275"
      },
      {
       "playerId": 1630183,
@@ -3092,7 +3224,9 @@
       "fg": 56,
       "att": 81,
       "thin": false,
-      "hot": true
+      "hot": true,
+      "rank": 1,
+      "fairOdds": "+1810"
      },
      {
       "playerId": 1630163,
@@ -3102,7 +3236,9 @@
       "fg": 44,
       "att": 9,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+2369"
      },
      {
       "playerId": 203944,
@@ -3112,7 +3248,9 @@
       "fg": 37,
       "att": 79,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+18100"
      },
      {
       "playerId": 1628978,
@@ -3122,7 +3260,9 @@
       "fg": 49,
       "att": 80,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 6,
+      "fairOdds": "+3540"
      }
     ]
    },
@@ -3580,7 +3720,9 @@
       "fg": 44,
       "att": 72,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 2,
+      "fairOdds": "+1767"
      },
      {
       "playerId": 1631117,
@@ -3590,7 +3732,9 @@
       "fg": 67,
       "att": 9,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+2110"
      },
      {
       "playerId": 1629680,
@@ -3600,7 +3744,9 @@
       "fg": 67,
       "att": 9,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+3688"
      },
      {
       "playerId": 1629028,
@@ -3610,7 +3756,9 @@
       "fg": 69,
       "att": 67,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+9000"
      },
      {
       "playerId": 1630559,
@@ -3620,7 +3768,9 @@
       "fg": 38,
       "att": 58,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+3540"
      }
     ],
     "away": [
@@ -3632,7 +3782,9 @@
       "fg": 50,
       "att": 56,
       "thin": false,
-      "hot": true
+      "hot": true,
+      "rank": 1,
+      "fairOdds": "+1732"
      },
      {
       "playerId": 203081,
@@ -3642,7 +3794,9 @@
       "fg": 14,
       "att": 7,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+2338"
      },
      {
       "playerId": 1641739,
@@ -3652,7 +3806,9 @@
       "fg": 45,
       "att": 89,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 6,
+      "fairOdds": "+3229"
      },
      {
       "playerId": 201950,
@@ -3662,7 +3818,9 @@
       "fg": 30,
       "att": 56,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 7,
+      "fairOdds": "+3229"
      },
      {
       "playerId": 1642270,
@@ -3672,7 +3830,9 @@
       "fg": 44,
       "att": 79,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 3,
+      "fairOdds": "+1978"
      }
     ]
    },
@@ -4110,7 +4270,9 @@
       "fg": 60,
       "att": 45,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 3,
+      "fairOdds": "+1150"
      },
      {
       "playerId": 1629631,
@@ -4120,7 +4282,9 @@
       "fg": 50,
       "att": 10,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 6,
+      "fairOdds": "+2306"
      },
      {
       "playerId": 1630173,
@@ -4130,7 +4294,9 @@
       "fg": 44,
       "att": 70,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+3457"
      },
      {
       "playerId": 201566,
@@ -4140,7 +4306,9 @@
       "fg": 36,
       "att": 61,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 7,
+      "fairOdds": "+2799"
      },
      {
       "playerId": 201942,
@@ -4150,7 +4318,9 @@
       "fg": 61,
       "att": 75,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+19900"
      }
     ],
     "away": [
@@ -4162,7 +4332,9 @@
       "fg": 56,
       "att": 78,
       "thin": false,
-      "hot": true
+      "hot": true,
+      "rank": 1,
+      "fairOdds": "+1077"
      },
      {
       "playerId": 1630170,
@@ -4172,7 +4344,9 @@
       "fg": 44,
       "att": 73,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 2,
+      "fairOdds": "+1101"
      },
      {
       "playerId": 1641705,
@@ -4182,7 +4356,9 @@
       "fg": 57,
       "att": 68,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+1362"
      },
      {
       "playerId": 1642264,
@@ -4192,7 +4368,9 @@
       "fg": 40,
       "att": 75,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+2142"
      },
      {
       "playerId": 1642844,
@@ -4202,7 +4380,9 @@
       "fg": 61,
       "att": 75,
       "thin": false,
-      "hot": false
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+4379"
      }
     ]
    },

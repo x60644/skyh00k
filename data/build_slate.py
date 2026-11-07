@@ -145,6 +145,20 @@ def get_roster_positions(team_id, season, league):
     return out
 
 
+def get_roster_ids(team_id, season, league):
+    """Set of personIds CURRENTLY on a team's roster, from the same cached
+    commonteamroster file get_roster_positions writes. Used to drop players
+    who linger on a team only via stale play-by-play history (e.g. traded)."""
+    cache_path = os.path.join(CACHE_DIR, f"roster_{league}_{season}_{team_id}.csv")
+    if not os.path.exists(cache_path):
+        return set()
+    try:
+        df = pd.read_csv(cache_path)
+        return {int(x) for x in df["PLAYER_ID"]} if "PLAYER_ID" in df.columns else set()
+    except (OSError, ValueError, KeyError):
+        return set()
+
+
 # ---------------- factor computation ----------------
 
 def compute_factors(game_ids, game_dates=None):
@@ -462,12 +476,19 @@ def fair_odds(p):
 
 def build_game_card(g, players, team_games, team_tips, league,
                     pos_map, conc_team, conc_league, conc_total, lines,
-                    team_stats=None, team_log=None, h2h=None):
+                    team_stats=None, team_log=None, h2h=None, roster_ids=None):
     team_stats = team_stats or {}
     team_log = team_log or {}
     h2h = h2h or {}
+    roster_ids = roster_ids or {}
     def team_players(tri):
-        rows = [r for (nm, t), r in players.items() if t == tri and r["first_shots"] > 0]
+        # Only players on the team's CURRENT roster — stale play-by-play keeps
+        # traded players on their old team otherwise. Fail open (keep all) if a
+        # team's roster couldn't be fetched, so a hiccup never blanks a game.
+        ids = roster_ids.get(tri) or set()
+        rows = [r for (nm, t), r in players.items()
+                if t == tri and r["first_shots"] > 0
+                and (not ids or r["personId"] in ids)]
         n_l10 = min(len(set(team_games.get(tri, []))), L10) or 1
         for r in rows:
             r["share_l10"] = r["first_shots_l10"] / n_l10
@@ -686,10 +707,13 @@ def main():
 
     print("Fetching rosters for positions...")
     pos_map = {}
+    roster_ids = {}   # tricode -> set(personId) currently on the team
     team_src = pd.concat([d for d in (prior_df, games_df) if d is not None and not d.empty])
     tri_team = team_src.drop_duplicates("TEAM_ID")[["TEAM_ID", "TEAM_ABBREVIATION"]]
     for _, t in tri_team.iterrows():
-        pos_map.update(get_roster_positions(int(t["TEAM_ID"]), season, league))
+        tid, tri = int(t["TEAM_ID"]), t["TEAM_ABBREVIATION"]
+        pos_map.update(get_roster_positions(tid, season, league))
+        roster_ids[tri] = get_roster_ids(tid, season, league)
 
     print("Computing factors from cache...")
     game_dates = {}
@@ -709,7 +733,8 @@ def main():
     cards = [c for g in todays
              if (c := build_game_card(g, players, team_games, team_tips, league,
                                       pos_map, conc_team, conc_league, conc_total,
-                                      lines, team_stats, team_log, h2h))]
+                                      lines, team_stats, team_log, h2h,
+                                      roster_ids=roster_ids))]
 
     # carry forward book odds from an earlier same-date build (e.g. odds
     # injected by hand) when no Supabase line replaced them — a rebuild

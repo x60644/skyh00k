@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T02:30:07Z",
+ "generated": "2026-11-07T23:45:04Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -1608,6 +1608,114 @@
    "pickName": "Adebayo",
    "pickHit": 0,
    "actualBoardRank": 8
+  },
+  "22600025": {
+   "date": "2026-11-06",
+   "league": "nba",
+   "matchup": "WAS@ATL",
+   "actualPlayerId": 1629638,
+   "actualName": "N. Alexander-Walker",
+   "actualTeam": "ATL",
+   "pickPlayerId": 1629638,
+   "pickName": "Alexander-Walker",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "22600026": {
+   "date": "2026-11-06",
+   "league": "nba",
+   "matchup": "BOS@CHA",
+   "actualPlayerId": 1628369,
+   "actualName": "J. Tatum",
+   "actualTeam": "BOS",
+   "pickPlayerId": 202331,
+   "pickName": "George",
+   "pickHit": 0,
+   "actualBoardRank": 6
+  },
+  "22600027": {
+   "date": "2026-11-06",
+   "league": "nba",
+   "matchup": "PHI@CLE",
+   "actualPlayerId": 1642845,
+   "actualName": "V. Edgecombe",
+   "actualTeam": "PHI",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "22600028": {
+   "date": "2026-11-06",
+   "league": "nba",
+   "matchup": "UTA@DAL",
+   "actualPlayerId": 1628374,
+   "actualName": "L. Markkanen",
+   "actualTeam": "UTA",
+   "pickPlayerId": 1642846,
+   "pickName": "Bailey",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "22600029": {
+   "date": "2026-11-06",
+   "league": "nba",
+   "matchup": "OKC@MEM",
+   "actualPlayerId": 1642272,
+   "actualName": "J. McCain",
+   "actualTeam": "OKC",
+   "pickPlayerId": 1641717,
+   "pickName": "Wallace",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600030": {
+   "date": "2026-11-06",
+   "league": "nba",
+   "matchup": "TOR@MIL",
+   "actualPlayerId": 1631170,
+   "actualName": "J. Jaquez Jr.",
+   "actualTeam": "MIL",
+   "pickPlayerId": 1630567,
+   "pickName": "Barnes",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "22600031": {
+   "date": "2026-11-06",
+   "league": "nba",
+   "matchup": "MIN@NOP",
+   "actualPlayerId": 1631255,
+   "actualName": "K. Matkovi\u0107",
+   "actualTeam": "NOP",
+   "pickPlayerId": 1630183,
+   "pickName": "McDaniels",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "22600032": {
+   "date": "2026-11-06",
+   "league": "nba",
+   "matchup": "POR@LAL",
+   "actualPlayerId": 1629029,
+   "actualName": "L. Don\u010di\u0107",
+   "actualTeam": "LAL",
+   "pickPlayerId": 1629029,
+   "pickName": "Don\u010di\u0107",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "22600033": {
+   "date": "2026-11-06",
+   "league": "nba",
+   "matchup": "SAS@SAC",
+   "actualPlayerId": 1628368,
+   "actualName": "D. Fox",
+   "actualTeam": "SAS",
+   "pickPlayerId": 1628368,
+   "pickName": "Fox",
+   "pickHit": 1,
+   "actualBoardRank": 3
   }
  }
 }

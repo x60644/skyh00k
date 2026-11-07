@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import Mug from './Mug.jsx'
-import { DEFAULT_TINTS } from '../config.js'
+import { DEFAULT_TINTS, LOG_SINCE } from '../config.js'
 import { supa } from '../lib/supa.js'
 
 // American odds -> profit in units for a 1u stake that wins.
@@ -48,6 +48,7 @@ export default function LogTab({ league }) {
   const latest = new Map()
   for (const l of lines) {
     if (l.league !== league) continue
+    if (LOG_SINCE && String(l.slate_date) < LOG_SINCE) continue
     latest.set(String(l.game_id) + ':' + Number(l.player_id), l)
   }
 

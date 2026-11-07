@@ -1,6 +1,6 @@
 // skyh00k config — edit from phone via GitHub web UI, Vercel auto-deploys.
 
-export const APP_VERSION = 'v0.11.0'
+export const APP_VERSION = 'v0.11.1'
 export const DEMO_MODE = true
 
 // League registry — NBA is the live lead (2026-27 tipped off Oct 20);
@@ -19,6 +19,11 @@ export const LEAGUES = {
   },
 }
 export const DEFAULT_LEAGUE = 'nba' // in-season league leads
+
+// LOG tab shows the Line Book from this slate_date forward — earlier rows
+// (WNBA beta + early-season test bets) stay in Supabase but are hidden from
+// the UI. Change the date or set to '' to show everything again.
+export const LOG_SINCE = '2026-11-06'
 
 export const headshotUrl = (league, playerId) => LEAGUES[league].headshot(playerId)
 export const teamLogoUrl = (league, teamId) => LEAGUES[league].logo(teamId)

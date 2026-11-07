@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T01:30:08Z",
+ "generated": "2026-11-07T00:00:15Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -1582,6 +1582,30 @@
    "actualTeam": "MEM",
    "pickPlayerId": 203924,
    "pickName": "Grant",
+   "pickHit": 0,
+   "actualBoardRank": 8
+  },
+  "22600187": {
+   "date": "2026-11-05",
+   "league": "nba",
+   "matchup": "ORL@PHX",
+   "actualPlayerId": 1630532,
+   "actualName": "F. Wagner",
+   "actualTeam": "ORL",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "22600188": {
+   "date": "2026-11-05",
+   "league": "nba",
+   "matchup": "MIA@GSW",
+   "actualPlayerId": 203952,
+   "actualName": "A. Wiggins",
+   "actualTeam": "MIA",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
    "pickHit": 0,
    "actualBoardRank": 8
   }

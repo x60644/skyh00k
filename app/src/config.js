@@ -1,6 +1,6 @@
 // skyh00k config — edit from phone via GitHub web UI, Vercel auto-deploys.
 
-export const APP_VERSION = 'v0.11.2'
+export const APP_VERSION = 'v0.11.3'
 export const DEMO_MODE = true
 
 // League registry — NBA is the live lead (2026-27 tipped off Oct 20);

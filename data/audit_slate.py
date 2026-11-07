@@ -208,7 +208,7 @@ def main():
         print(f"\nAppended {len(rows)} row(s) -> {LOG_PATH}")
 
     if os.path.exists(LOG_PATH):
-        log = pd.read_csv(LOG_PATH)
+        log = pd.read_csv(LOG_PATH, dtype={"game_id": str})
         n, hits = len(log), int(log["hit"].sum())
         on_board = log["actual_board_rank"].notna() & (log["actual_board_rank"] != "")
         print("\n" + "=" * 52)

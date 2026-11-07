@@ -41,7 +41,12 @@ export default function LogTab({ league }) {
     return () => { alive = false }
   }, [])
 
-  const games = (audit && audit.games) || {}
+  // Index audit games by a normalized game_id (strip leading zeros) so a
+  // padded line id ('0022600032') still matches an audit key that lost its
+  // zeros ('22600032') on the CSV round-trip.
+  const normId = (x) => String(x).replace(/^0+/, '')
+  const games = {}
+  for (const [k, v] of Object.entries((audit && audit.games) || {})) games[normId(k)] = v
 
   // Dedup to the latest line per game+player (saveLine inserts, never upserts),
   // matching App.merge()'s "latest wins". Rows arrive ordered by created_at asc.
@@ -53,7 +58,7 @@ export default function LogTab({ league }) {
   }
 
   const bets = [...latest.values()].map((l) => {
-    const g = games[String(l.game_id)]
+    const g = games[normId(l.game_id)]
     let result = 'pend', pnl = 0
     if (g) {
       const hit = Number(g.actualPlayerId) === Number(l.player_id)

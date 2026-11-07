@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T01:11:43Z",
+ "generated": "2026-11-07T02:31:33Z",
  "date": "2026-11-06",
  "league": "nba",
  "games": [
@@ -85,16 +85,16 @@
       "fairOdds": "+3103"
      },
      {
-      "playerId": 1642258,
-      "name": "Risacher",
-      "pos": "F",
+      "playerId": 203468,
+      "name": "McCollum",
+      "pos": "G",
       "share": 0,
-      "fg": 53,
-      "att": 62,
+      "fg": 48,
+      "att": 50,
       "thin": false,
       "hot": false,
-      "rank": 10,
-      "fairOdds": "+19900"
+      "rank": 9,
+      "fairOdds": "+5967"
      }
     ],
     "away": [
@@ -155,7 +155,7 @@
       "att": 76,
       "thin": false,
       "hot": false,
-      "rank": 9,
+      "rank": 10,
       "fairOdds": "+8900"
      }
     ]
@@ -531,16 +531,16 @@
     "homeWinPct": 49
    },
    "topPick": {
-    "playerId": 1627759,
-    "name": "Brown",
-    "pos": "G-F",
+    "playerId": 202331,
+    "name": "George",
+    "pos": "F",
     "side": "away",
     "bookOdds": null,
-    "fairOdds": "+1844",
+    "fairOdds": "+1947",
     "rank": 1,
-    "share": 10,
+    "share": 20,
     "verdict": null,
-    "why": "BOS controls the jump 51% here and scores the game's first point in 53% of its games; Brown takes 10% of its opening shots and makes 42% of his own first look."
+    "why": "BOS controls the jump 51% here and scores the game's first point in 53% of its games; George takes 20% of its opening shots and makes 71% of his own first look."
    },
    "rosters": {
     "home": [
@@ -553,7 +553,7 @@
       "att": 74,
       "thin": false,
       "hot": false,
-      "rank": 4,
+      "rank": 3,
       "fairOdds": "+2360"
      },
      {
@@ -565,7 +565,7 @@
       "att": 59,
       "thin": false,
       "hot": false,
-      "rank": 3,
+      "rank": 2,
       "fairOdds": "+2032"
      },
      {
@@ -577,7 +577,7 @@
       "att": 7,
       "thin": false,
       "hot": false,
-      "rank": 7,
+      "rank": 6,
       "fairOdds": "+3557"
      },
      {
@@ -589,7 +589,7 @@
       "att": 9,
       "thin": false,
       "hot": false,
-      "rank": 8,
+      "rank": 7,
       "fairOdds": "+3953"
      },
      {
@@ -601,7 +601,7 @@
       "att": 81,
       "thin": false,
       "hot": false,
-      "rank": 9,
+      "rank": 8,
       "fairOdds": "+4450"
      }
     ],
@@ -614,21 +614,9 @@
       "fg": 71,
       "att": 7,
       "thin": false,
-      "hot": false,
-      "rank": 2,
-      "fairOdds": "+1947"
-     },
-     {
-      "playerId": 1627759,
-      "name": "Brown",
-      "pos": "G-F",
-      "share": 10,
-      "fg": 42,
-      "att": 71,
-      "thin": false,
       "hot": true,
       "rank": 1,
-      "fairOdds": "+1844"
+      "fairOdds": "+1947"
      },
      {
       "playerId": 1628369,
@@ -639,7 +627,7 @@
       "att": 23,
       "thin": false,
       "hot": false,
-      "rank": 6,
+      "rank": 5,
       "fairOdds": "+2837"
      },
      {
@@ -651,7 +639,7 @@
       "att": 75,
       "thin": false,
       "hot": false,
-      "rank": 5,
+      "rank": 4,
       "fairOdds": "+2471"
      },
      {
@@ -661,6 +649,18 @@
       "share": 0,
       "fg": 44,
       "att": 79,
+      "thin": false,
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+5900"
+     },
+     {
+      "playerId": 1630573,
+      "name": "Hauser",
+      "pos": "F",
+      "share": 0,
+      "fg": 53,
+      "att": 77,
       "thin": false,
       "hot": false,
       "rank": 10,
@@ -865,7 +865,7 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "J. Brown takes 10% of BOS first shots over the last 10 games"
+     "text": "P. George takes 20% of BOS first shots over the last 10 games"
     },
     {
      "tag": "IN",
@@ -912,15 +912,24 @@
     }
    ],
    "shots": {
-    "playerLabel": "Brown L10",
+    "playerLabel": "George L10",
     "player": {
      "makes": [
       [
-       104,
-       343
+       454,
+       267
+      ],
+      [
+       229,
+       268
       ]
      ],
-     "misses": []
+     "misses": [
+      [
+       223,
+       403
+      ]
+     ]
     },
     "team": {
      "makes": [
@@ -1130,16 +1139,16 @@
       "fairOdds": "+3846"
      },
      {
-      "playerId": 1626162,
-      "name": "Oubre Jr.",
-      "pos": "F-G",
+      "playerId": 1631230,
+      "name": "Barlow",
+      "pos": "F",
       "share": 0,
-      "fg": 49,
-      "att": 47,
+      "fg": 55,
+      "att": 53,
       "thin": false,
       "hot": false,
       "rank": 9,
-      "fairOdds": "+18100"
+      "fairOdds": "+5967"
      }
     ]
    },
@@ -1583,18 +1592,6 @@
       "fairOdds": "+5900"
      },
      {
-      "playerId": 203076,
-      "name": "Davis",
-      "pos": "F-C",
-      "share": 0,
-      "fg": 50,
-      "att": 20,
-      "thin": false,
-      "hot": false,
-      "rank": 10,
-      "fairOdds": "+17900"
-     },
-     {
       "playerId": 1629655,
       "name": "Gafford",
       "pos": "F-C",
@@ -1605,6 +1602,18 @@
       "hot": false,
       "rank": 5,
       "fairOdds": "+4400"
+     },
+     {
+      "playerId": 1630230,
+      "name": "Marshall",
+      "pos": "F",
+      "share": 0,
+      "fg": 51,
+      "att": 73,
+      "thin": false,
+      "hot": false,
+      "rank": 9,
+      "fairOdds": "+5900"
      }
     ],
     "away": [
@@ -1653,7 +1662,7 @@
       "att": 62,
       "thin": false,
       "hot": false,
-      "rank": 9,
+      "rank": 10,
       "fairOdds": "+5900"
      },
      {
@@ -2123,18 +2132,6 @@
       "fairOdds": "+2547"
      },
      {
-      "playerId": 1628991,
-      "name": "Jackson Jr.",
-      "pos": "F-C",
-      "share": 0,
-      "fg": 52,
-      "att": 44,
-      "thin": false,
-      "hot": false,
-      "rank": 9,
-      "fairOdds": "+5900"
-     },
-     {
       "playerId": 1642377,
       "name": "Wells",
       "pos": "F",
@@ -2143,8 +2140,20 @@
       "att": 75,
       "thin": false,
       "hot": false,
-      "rank": 10,
+      "rank": 8,
       "fairOdds": "+8900"
+     },
+     {
+      "playerId": 1642285,
+      "name": "Spencer",
+      "pos": "G",
+      "share": 0,
+      "fg": 56,
+      "att": 61,
+      "thin": false,
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+19900"
      }
     ],
     "away": [
@@ -2197,16 +2206,16 @@
       "fairOdds": "+2900"
      },
      {
-      "playerId": 1629652,
-      "name": "Dort",
-      "pos": "G",
+      "playerId": 1629026,
+      "name": "Williams",
+      "pos": "G-F",
       "share": 0,
-      "fg": 44,
-      "att": 64,
+      "fg": 46,
+      "att": 82,
       "thin": false,
       "hot": false,
-      "rank": 8,
-      "fairOdds": "+4400"
+      "rank": 9,
+      "fairOdds": "+8900"
      }
     ]
    },
@@ -2437,23 +2446,23 @@
      ]
     },
     {
-     "player": "Jackson Jr.",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "3 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
      "player": "Wallace",
      "items": [
       {
        "icon": "🧹",
        "label": "Glass First",
        "note": "4 second-chance first points",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Holmgren",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "6 second-chance first points",
        "tier": ""
       }
      ]
@@ -2625,7 +2634,7 @@
       "att": 6,
       "thin": false,
       "hot": false,
-      "rank": 8,
+      "rank": 9,
       "fairOdds": "+6306"
      },
      {
@@ -2691,18 +2700,6 @@
       "fairOdds": "+2176"
      },
      {
-      "playerId": 1627742,
-      "name": "Ingram",
-      "pos": "F",
-      "share": 0,
-      "fg": 53,
-      "att": 76,
-      "thin": false,
-      "hot": false,
-      "rank": 9,
-      "fairOdds": "+8900"
-     },
-     {
       "playerId": 1627751,
       "name": "Poeltl",
       "pos": "C",
@@ -2713,6 +2710,18 @@
       "hot": false,
       "rank": 10,
       "fairOdds": "+17900"
+     },
+     {
+      "playerId": 1630193,
+      "name": "Quickley",
+      "pos": "G",
+      "share": 0,
+      "fg": 53,
+      "att": 77,
+      "thin": false,
+      "hot": false,
+      "rank": 8,
+      "fairOdds": "+5900"
      }
     ]
    },
@@ -3163,7 +3172,7 @@
       "att": 60,
       "thin": false,
       "hot": false,
-      "rank": 8,
+      "rank": 9,
       "fairOdds": "+8900"
      },
      {
@@ -3175,7 +3184,7 @@
       "att": 68,
       "thin": false,
       "hot": false,
-      "rank": 7,
+      "rank": 8,
       "fairOdds": "+5900"
      },
      {
@@ -3187,7 +3196,7 @@
       "att": 78,
       "thin": false,
       "hot": false,
-      "rank": 5,
+      "rank": 6,
       "fairOdds": "+2900"
      },
      {
@@ -3241,18 +3250,6 @@
       "fairOdds": "+2369"
      },
      {
-      "playerId": 203944,
-      "name": "Randle",
-      "pos": "F-C",
-      "share": 0,
-      "fg": 37,
-      "att": 79,
-      "thin": false,
-      "hot": false,
-      "rank": 9,
-      "fairOdds": "+18100"
-     },
-     {
       "playerId": 1628978,
       "name": "DiVincenzo",
       "pos": "G",
@@ -3261,8 +3258,20 @@
       "att": 80,
       "thin": false,
       "hot": false,
-      "rank": 6,
+      "rank": 7,
       "fairOdds": "+3540"
+     },
+     {
+      "playerId": 1630162,
+      "name": "Edwards",
+      "pos": "G",
+      "share": 0,
+      "fg": 48,
+      "att": 65,
+      "thin": false,
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+2500"
      }
     ]
    },
@@ -3477,7 +3486,7 @@
     },
     {
      "tag": "WATCH",
-     "text": "S. Bey has 6 second-chance first baskets — putback pathway"
+     "text": "A. Edwards has 7 second-chance first baskets — putback pathway"
     }
    ],
    "badges": [
@@ -3699,16 +3708,16 @@
     "homeWinPct": 46
    },
    "topPick": {
-    "playerId": 203924,
-    "name": "Grant",
-    "pos": "F",
-    "side": "away",
+    "playerId": 1629029,
+    "name": "Dončić",
+    "pos": "F-G",
+    "side": "home",
     "bookOdds": null,
-    "fairOdds": "+1732",
+    "fairOdds": "+1767",
     "rank": 1,
     "share": 20,
     "verdict": null,
-    "why": "POR controls the jump 54% here and scores the game's first point in 45% of its games; Grant takes 20% of its opening shots and makes 50% of his own first look."
+    "why": "LAL controls the jump 46% here and scores the game's first point in 58% of its games; Dončić takes 20% of its opening shots and makes 44% of his own first look."
    },
    "rosters": {
     "home": [
@@ -3720,8 +3729,8 @@
       "fg": 44,
       "att": 72,
       "thin": false,
-      "hot": false,
-      "rank": 2,
+      "hot": true,
+      "rank": 1,
       "fairOdds": "+1767"
      },
      {
@@ -3733,7 +3742,7 @@
       "att": 9,
       "thin": false,
       "hot": false,
-      "rank": 4,
+      "rank": 3,
       "fairOdds": "+2110"
      },
      {
@@ -3749,18 +3758,6 @@
       "fairOdds": "+3688"
      },
      {
-      "playerId": 1629028,
-      "name": "Ayton",
-      "pos": "C",
-      "share": 0,
-      "fg": 69,
-      "att": 67,
-      "thin": false,
-      "hot": false,
-      "rank": 10,
-      "fairOdds": "+9000"
-     },
-     {
       "playerId": 1630559,
       "name": "Reaves",
       "pos": "G",
@@ -3771,21 +3768,21 @@
       "hot": false,
       "rank": 8,
       "fairOdds": "+3540"
+     },
+     {
+      "playerId": 1631222,
+      "name": "LaRavia",
+      "pos": "F",
+      "share": 0,
+      "fg": 54,
+      "att": 65,
+      "thin": false,
+      "hot": false,
+      "rank": 10,
+      "fairOdds": "+5967"
      }
     ],
     "away": [
-     {
-      "playerId": 203924,
-      "name": "Grant",
-      "pos": "F",
-      "share": 20,
-      "fg": 50,
-      "att": 56,
-      "thin": false,
-      "hot": true,
-      "rank": 1,
-      "fairOdds": "+1732"
-     },
      {
       "playerId": 203081,
       "name": "Lillard",
@@ -3795,7 +3792,7 @@
       "att": 7,
       "thin": false,
       "hot": false,
-      "rank": 5,
+      "rank": 4,
       "fairOdds": "+2338"
      },
      {
@@ -3831,8 +3828,20 @@
       "att": 79,
       "thin": false,
       "hot": false,
-      "rank": 3,
+      "rank": 2,
       "fairOdds": "+1978"
+     },
+     {
+      "playerId": 1630166,
+      "name": "Avdija",
+      "pos": "F",
+      "share": 0,
+      "fg": 48,
+      "att": 71,
+      "thin": false,
+      "hot": false,
+      "rank": 5,
+      "fairOdds": "+2867"
      }
     ]
    },
@@ -4039,7 +4048,7 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "J. Grant takes 20% of POR first shots over the last 10 games"
+     "text": "L. Dončić takes 20% of LAL first shots over the last 10 games"
     },
     {
      "tag": "IN",
@@ -4047,7 +4056,7 @@
     },
     {
      "tag": "WATCH",
-     "text": "A. Reaves has 5 second-chance first baskets — putback pathway"
+     "text": "D. Avdija has 6 second-chance first baskets — putback pathway"
     }
    ],
    "badges": [
@@ -4074,156 +4083,116 @@
      ]
     },
     {
-     "player": "Grant",
+     "player": "LaRavia",
      "items": [
       {
        "icon": "🧹",
        "label": "Glass First",
-       "note": "4 second-chance first points",
+       "note": "3 second-chance first points",
        "tier": ""
       }
      ]
     }
    ],
    "shots": {
-    "playerLabel": "Grant L10",
+    "playerLabel": "Dončić L10",
     "player": {
      "makes": [
       [
-       100,
-       219
+       24,
+       351
+      ],
+      [
+       145,
+       352
+      ],
+      [
+       34,
+       282
       ]
      ],
      "misses": [
       [
-       412,
-       227
+       318,
+       361
+      ],
+      [
+       108,
+       171
+      ],
+      [
+       334,
+       284
       ]
      ]
     },
     "team": {
      "makes": [
       [
-       184,
-       353
+       251,
+       418
       ],
       [
-       270,
-       401
+       243,
+       384
       ],
       [
-       100,
-       219
+       24,
+       351
       ],
       [
-       350,
-       189
+       262,
+       367
       ],
       [
-       18,
-       334
+       145,
+       352
       ],
       [
-       223,
-       308
+       119,
+       217
       ],
       [
-       366,
-       201
+       92,
+       226
       ],
       [
-       423,
-       286
+       34,
+       282
       ],
       [
-       296,
-       171
+       126,
+       200
       ],
       [
-       82,
-       194
+       425,
+       216
       ]
      ],
      "misses": [
       [
-       477,
-       389
+       127,
+       429
       ],
       [
-       412,
-       227
-      ],
-      [
-       283,
-       287
-      ],
-      [
-       443,
-       229
-      ],
-      [
-       324,
-       159
-      ],
-      [
-       238,
-       134
-      ],
-      [
-       253,
-       332
-      ],
-      [
-       369,
-       192
-      ],
-      [
-       272,
-       408
-      ],
-      [
-       453,
-       275
-      ],
-      [
-       75,
-       237
-      ],
-      [
-       12,
-       424
-      ],
-      [
-       395,
-       222
-      ],
-      [
-       7,
-       411
-      ],
-      [
-       488,
-       400
-      ],
-      [
-       247,
-       388
-      ],
-      [
-       24,
-       427
-      ],
-      [
-       29,
-       297
-      ],
-      [
-       487,
+       318,
        361
       ],
       [
-       260,
-       380
+       259,
+       402
+      ],
+      [
+       108,
+       171
+      ],
+      [
+       334,
+       284
+      ],
+      [
+       408,
+       211
       ]
      ]
     }
@@ -4295,28 +4264,28 @@
       "att": 70,
       "thin": false,
       "hot": false,
-      "rank": 8,
+      "rank": 7,
       "fairOdds": "+3457"
      },
      {
-      "playerId": 201566,
-      "name": "Westbrook",
-      "pos": "",
-      "share": 10,
-      "fg": 36,
-      "att": 61,
+      "playerId": 1642875,
+      "name": "Raynaud",
+      "pos": "C",
+      "share": 0,
+      "fg": 56,
+      "att": 62,
       "thin": false,
       "hot": false,
-      "rank": 7,
-      "fairOdds": "+2799"
+      "rank": 9,
+      "fairOdds": "+8900"
      },
      {
-      "playerId": 201942,
-      "name": "DeRozan",
-      "pos": "G-F",
+      "playerId": 1642363,
+      "name": "Clifford",
+      "pos": "G",
       "share": 0,
-      "fg": 61,
-      "att": 75,
+      "fg": 33,
+      "att": 61,
       "thin": false,
       "hot": false,
       "rank": 10,
@@ -4381,7 +4350,7 @@
       "att": 75,
       "thin": false,
       "hot": false,
-      "rank": 9,
+      "rank": 8,
       "fairOdds": "+4379"
      }
     ]
@@ -4625,23 +4594,23 @@
      ]
     },
     {
+     "player": "Clifford",
+     "items": [
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
      "player": "Fox",
      "items": [
       {
        "icon": "🧹",
        "label": "Glass First",
        "note": "4 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Vassell",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "3 second-chance first points",
        "tier": ""
       }
      ]

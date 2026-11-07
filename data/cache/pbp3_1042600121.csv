@@ -1,0 +1,401 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1042600121,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (4:13 PM EST),period,start,1,0,1
+1042600121,4,PT10M00.00S,1,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,Jump Ball Turner vs. Timpson: Tip to Boston,Jump Ball,,1,0,2
+1042600121,7,PT09M42.00S,1,1611661325,IND,1641648,Boston,A. Boston,2,62,6,Missed,1,,,0,v,MISS Boston 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,3
+1042600121,7,PT09M42.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson BLOCK (1 BLK),,,1,2,4
+1042600121,9,PT09M39.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+1042600121,10,PT09M18.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,-110,6,11,Missed,1,,,0,h,MISS Talbot 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,6
+1042600121,11,PT09M15.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+1042600121,12,PT09M12.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot P.FOUL (P1.T1),Foul,Personal,1,0,8
+1042600121,14,PT09M04.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,21,23,3,Missed,1,,,0,v,MISS Mitchell 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,9
+1042600121,15,PT09M01.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,10
+1042600121,16,PT09M01.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,6,36,4,Made,1,0,2,2,v,Timpson 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,11
+1042600121,17,PT08M46.00S,1,1611661319,LVA,203833,Gray,C. Gray,93,141,17,Made,1,2,2,4,h,Gray 17' Pullup Jump Shot (2 PTS) (Young 1 AST),Made Shot,Pullup Jump shot,1,2,12
+1042600121,19,PT08M34.00S,1,1611661325,IND,1642286,Clark,C. Clark,35,267,27,Missed,1,,,0,v,MISS Clark 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,13
+1042600121,20,PT08M31.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,14
+1042600121,21,PT08M19.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,15
+1042600121,21,PT08M19.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson STEAL (1 STL),,,1,0,16
+1042600121,23,PT08M14.00S,1,1611661319,LVA,1629498,Young,J. Young,-214,126,25,Missed,1,,,0,h,MISS Young 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,17
+1042600121,24,PT08M14.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,18
+1042600121,25,PT08M14.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P1.T1),Foul,Personal,1,0,19
+1042600121,70,PT08M04.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,20
+1042600121,70,PT08M04.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (1 STL),,,1,0,21
+1042600121,30,PT07M57.00S,1,1611661325,IND,1642286,Clark,C. Clark,29,25,4,Missed,1,,,0,v,MISS Clark 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,22
+1042600121,30,PT07M57.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot BLOCK (1 BLK),,,1,2,23
+1042600121,32,PT07M57.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+1042600121,33,PT07M57.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark P.FOUL (P1.T2),Foul,Personal,1,0,25
+1042600121,35,PT07M35.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-83,165,18,Made,1,4,2,6,h,Wilson 18' Jump Shot (2 PTS) (Young 2 AST),Made Shot,Jump Shot,1,2,26
+1042600121,37,PT07M22.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,4,56,6,Missed,1,,,0,v,MISS Mitchell 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,27
+1042600121,38,PT07M20.00S,1,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+1042600121,39,PT07M11.00S,1,1611661319,LVA,203833,Gray,C. Gray,24,158,16,Made,1,6,2,8,h,Gray 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,29
+1042600121,40,PT07M00.00S,1,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray S.FOUL (P1.T2),Foul,Shooting,1,0,30
+1042600121,42,PT07M00.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,6,3,9,v,Mitchell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,31
+1042600121,43,PT07M00.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,6,4,10,v,Mitchell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,32
+1042600121,44,PT06M53.00S,1,1611661319,LVA,1629498,Young,J. Young,1,262,26,Made,1,9,4,13,h,Young 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,33
+1042600121,45,PT06M34.00S,1,1611661325,IND,1642286,Clark,C. Clark,8,272,27,Made,1,9,7,16,v,Clark 27' 3PT Step Back Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Step Back Jump shot,1,3,34
+1042600121,47,PT06M10.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,233,-6,0,Made,1,12,7,19,h,Talbot 3PT Jump Shot (3 PTS) (Young 3 AST),Made Shot,Jump Shot,1,3,35
+1042600121,49,PT05M57.00S,1,1611661325,IND,1641648,Boston,A. Boston,4,67,7,Made,1,12,9,21,v,Boston 7' Driving Floating Jump Shot (2 PTS) (Clark 1 AST),Made Shot,Driving Floating Jump Shot,1,2,36
+1042600121,51,PT05M40.00S,1,1611661319,LVA,203833,Gray,C. Gray,-124,213,25,Missed,1,,,0,h,MISS Gray 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,37
+1042600121,52,PT05M37.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,38
+1042600121,53,PT05M27.00S,1,1611661325,IND,1631086,Hull,L. Hull,-224,23,0,Made,1,12,12,24,v,Hull 3PT Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,1,3,39
+1042600121,55,PT05M16.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P1.T3),Foul,Personal,1,0,40
+1042600121,57,PT05M16.00S,1,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,SUB: Parker-Tyus FOR Turner,Substitution,,0,0,41
+1042600121,58,PT05M16.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Russell FOR Boston,Substitution,,0,0,42
+1042600121,61,PT05M16.00S,1,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,SUB: Loyd FOR Talbot,Substitution,,0,0,43
+1042600121,63,PT05M13.00S,1,1611661325,IND,1628920,Russell,M. Russell,0,0,0,,0,,,0,v,Russell P.FOUL (P1.T4),Foul,Personal,1,0,44
+1042600121,65,PT05M06.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,38,192,20,Made,1,14,12,26,h,Wilson 20' Jump Shot (4 PTS),Made Shot,Jump Shot,1,2,45
+1042600121,67,PT04M59.00S,1,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young P.FOUL (P1.T3),Foul,Personal,1,0,46
+1042600121,69,PT04M59.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,47
+1042600121,72,PT04M59.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Cunningham FOR Hull,Substitution,,0,0,48
+1042600121,74,PT04M42.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,21,15,3,Made,1,14,14,28,v,Mitchell 3' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,49
+1042600121,75,PT04M28.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-56,49,7,Missed,1,,,0,h,MISS Wilson 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,50
+1042600121,76,PT04M25.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,51
+1042600121,77,PT04M20.00S,1,1611661325,IND,1642286,Clark,C. Clark,-161,243,29,Missed,1,,,0,v,MISS Clark 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,52
+1042600121,78,PT04M16.00S,1,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,53
+1042600121,79,PT04M05.00S,1,1611661319,LVA,1629498,Young,J. Young,-119,20,12,Missed,1,,,0,h,MISS Young 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,54
+1042600121,80,PT04M03.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,55
+1042600121,81,PT03M55.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-18,20,3,Made,1,14,16,30,v,Mitchell 3' Reverse Layup (6 PTS) (Clark 2 AST),Made Shot,Reverse Layup Shot,1,2,56
+1042600121,83,PT03M32.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham FLAGRANT.FOUL.TYPE1 (P1.PN),Foul,Flagrant Type 1,1,0,57
+1042600121,85,PT03M32.00S,1,0,,83,,,0,0,0,,0,14,16,30,,Instant Replay1st Period (4:26 PM EST),Instant Replay,Overturn Ruling,0,0,58
+1042600121,86,PT03M32.00S,1,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,15,16,31,h,Gray Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,59
+1042600121,87,PT03M32.00S,1,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,MISS Gray Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,1,0,60
+1042600121,88,PT03M32.00S,1,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Normal Rebound,0,0,61
+1042600121,89,PT03M24.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,-13,21,2,Made,1,17,16,33,h,Wilson 2' Driving Layup (6 PTS) (Young 4 AST),Made Shot,Driving Layup Shot,1,2,62
+1042600121,92,PT03M09.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-135,162,21,Missed,1,,,0,v,MISS Mitchell 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,63
+1042600121,93,PT03M09.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,64
+1042600121,94,PT03M09.00S,1,1611661325,IND,1628920,Russell,M. Russell,0,0,0,,0,,,0,v,SUB: Boston FOR Russell,Substitution,,0,0,65
+1042600121,96,PT03M03.00S,1,1611661325,IND,1642286,Clark,C. Clark,34,20,4,Missed,1,,,0,v,MISS Clark 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,66
+1042600121,96,PT03M03.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson BLOCK (2 BLK),,,1,2,67
+1042600121,98,PT03M00.00S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,68
+1042600121,99,PT02M57.00S,1,1611661319,LVA,204319,Loyd,J. Loyd,190,192,27,Made,1,20,16,36,h,Loyd 27' 3PT Running Jump Shot (3 PTS) (Gray 1 AST),Made Shot,Running Jump Shot,1,3,69
+1042600121,101,PT02M45.00S,1,1611661325,IND,1642286,Clark,C. Clark,29,165,17,Missed,1,,,0,v,MISS Clark 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,70
+1042600121,102,PT02M42.00S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+1042600121,103,PT02M32.00S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,10,9,1,Made,1,22,16,38,h,Parker-Tyus 1' Cutting Layup Shot (2 PTS) (Gray 2 AST),Made Shot,Cutting Layup Shot,1,2,72
+1042600121,105,PT02M32.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,73
+1042600121,107,PT02M32.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Billings FOR Timpson,Substitution,,0,0,74
+1042600121,109,PT02M18.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,75
+1042600121,110,PT02M18.00S,1,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,SUB: Yamamoto FOR Gray,Substitution,,0,0,76
+1042600121,112,PT02M01.00S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,-18,10,2,Made,1,24,16,40,h,Parker-Tyus 2' Driving Layup (4 PTS) (Young 5 AST),Made Shot,Driving Layup Shot,1,2,77
+1042600121,114,PT01M47.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,91,172,19,Missed,1,,,0,v,MISS Mitchell 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,78
+1042600121,115,PT01M45.00S,1,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,79
+1042600121,116,PT01M44.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,224,73,24,Missed,1,,,0,v,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+1042600121,117,PT01M39.00S,1,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+1042600121,118,PT01M34.00S,1,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,-30,15,3,Missed,1,,,0,h,MISS Yamamoto 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,82
+1042600121,119,PT01M31.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+1042600121,120,PT01M27.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,-204,152,25,Made,1,24,19,43,v,Cunningham 25' 3PT Running Jump Shot (3 PTS) (Clark 3 AST),Made Shot,Running Jump Shot,1,3,84
+1042600121,122,PT01M06.00S,1,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,-179,156,24,Missed,1,,,0,h,MISS Yamamoto 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+1042600121,123,PT01M03.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,86
+1042600121,124,PT00M59.70S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,-202,138,24,Made,1,24,22,46,v,Cunningham 24' 3PT Running Jump Shot (6 PTS) (Clark 4 AST),Made Shot,Running Jump Shot,1,3,87
+1042600121,126,PT00M45.80S,1,1611661319,LVA,1628932,Wilson,A. Wilson,63,34,7,Made,1,26,22,48,h,Wilson 7' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,2,88
+1042600121,127,PT00M45.80S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston S.FOUL (P1.PN),Foul,Shooting,1,0,89
+1042600121,129,PT00M45.80S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Johnson FOR Clark,Substitution,,0,0,90
+1042600121,131,PT00M45.80S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,27,22,49,h,Wilson Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,91
+1042600121,132,PT00M33.60S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,52,5,Missed,1,,,0,v,MISS Mitchell 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,92
+1042600121,132,PT00M33.60S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus BLOCK (1 BLK),,,1,2,93
+1042600121,134,PT00M30.70S,1,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,94
+1042600121,135,PT00M26.20S,1,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,95
+1042600121,136,PT00M26.20S,1,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,SUB: Turner FOR Wilson,Substitution,,0,0,96
+1042600121,138,PT00M06.90S,1,1611661325,IND,1641648,Boston,A. Boston,-4,57,6,Missed,1,,,0,v,MISS Boston 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,97
+1042600121,139,PT00M05.20S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,98
+1042600121,140,PT00M04.20S,1,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,Turner S.FOUL (P1.T4),Foul,Shooting,1,0,99
+1042600121,142,PT00M04.20S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,MISS Boston Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,100
+1042600121,143,PT00M04.20S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Normal Rebound,0,0,101
+1042600121,144,PT00M04.20S,1,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,SUB: Gray FOR Turner,Substitution,,0,0,102
+1042600121,146,PT00M04.20S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,27,23,50,v,Boston Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,103
+1042600121,147,PT00M00.60S,1,1611661319,LVA,1629498,Young,J. Young,137,286,32,Missed,1,,,0,h,MISS Young 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,104
+1042600121,148,PT00M00.10S,1,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,0,0,105
+1042600121,149,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,23,50,,End of 1st Period (4:37 PM EST),period,end,1,0,106
+1042600121,154,PT10M00.00S,2,0,,0,,,0,0,0,,0,27,23,50,,Start of 2nd Period (4:40 PM EST),period,start,1,0,107
+1042600121,155,PT09M46.00S,2,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,0,0,0,,0,,,0,h,Yamamoto Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,108
+1042600121,156,PT09M24.00S,2,1611661325,IND,1641648,Boston,A. Boston,-12,33,4,Made,1,27,25,52,v,Boston 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,109
+1042600121,157,PT09M10.00S,2,1611661319,LVA,203833,Gray,C. Gray,105,11,11,Made,1,29,25,54,h,Gray 11' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2,110
+1042600121,158,PT08M55.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-120,159,20,Missed,1,,,0,v,MISS Mitchell 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,111
+1042600121,159,PT08M52.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,112
+1042600121,160,PT08M48.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,113
+1042600121,160,PT08M48.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson STEAL (1 STL),,,1,0,114
+1042600121,162,PT08M44.00S,2,1611661325,IND,1643433,Johnson,R. Johnson,-17,22,3,Made,1,29,27,56,v,Johnson 3' Running Reverse Layup (2 PTS) (Boston 1 AST),Made Shot,Running Reverse Layup Shot,1,2,115
+1042600121,164,PT08M44.00S,2,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus S.FOUL (P1.T1),Foul,Shooting,1,0,116
+1042600121,166,PT08M44.00S,2,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,SUB: Wilson FOR Parker-Tyus,Substitution,,0,0,117
+1042600121,167,PT08M44.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,SUB: Clark FOR Mitchell,Substitution,,0,0,118
+1042600121,170,PT08M44.00S,2,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,29,28,57,v,Johnson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,119
+1042600121,171,PT08M22.00S,2,1611661319,LVA,203833,Gray,C. Gray,-13,115,12,Made,1,31,28,59,h,Gray 12' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,120
+1042600121,172,PT08M13.00S,2,1611661325,IND,1642286,Clark,C. Clark,-12,262,26,Made,1,31,31,62,v,Clark 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,121
+1042600121,173,PT07M59.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,-4,82,8,Made,1,33,31,64,h,Wilson 8' Step Back Jump Shot (11 PTS) (Gray 3 AST),Made Shot,Step Back Jump shot,1,2,122
+1042600121,175,PT07M47.00S,2,1611661325,IND,1641648,Boston,A. Boston,1,258,26,Made,1,33,34,67,v,Boston 26' 3PT Jump Bank Shot (8 PTS) (Clark 5 AST),Made Shot,Jump Bank Shot,1,3,123
+1042600121,178,PT07M32.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston S.FOUL (P2.T1),Foul,Shooting,1,0,124
+1042600121,180,PT07M32.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,34,34,68,h,Gray Free Throw 1 of 3 (10 PTS),Free Throw,Free Throw 1 of 3,0,0,125
+1042600121,181,PT07M32.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,35,34,69,h,Gray Free Throw 2 of 3 (11 PTS),Free Throw,Free Throw 2 of 3,1,0,126
+1042600121,182,PT07M32.00S,2,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,0,0,0,,0,,,0,h,SUB: Young FOR Yamamoto,Substitution,,0,0,127
+1042600121,183,PT07M32.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Hull FOR Boston,Substitution,,0,0,128
+1042600121,186,PT07M32.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,36,34,70,h,Gray Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,1,0,129
+1042600121,187,PT07M20.00S,2,1611661325,IND,1643433,Johnson,R. Johnson,21,12,2,Made,1,36,36,72,v,Johnson 2' Driving Finger Roll Layup (5 PTS) (Timpson 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,130
+1042600121,189,PT07M06.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,-16,71,7,Made,1,38,36,74,h,Wilson 7' Turnaround Jump Shot (13 PTS) (Gray 4 AST),Made Shot,Turnaround Jump Shot,1,2,131
+1042600121,191,PT06M59.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark OFF.Foul (P2),Foul,Offensive,1,0,132
+1042600121,193,PT06M59.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Offensive Foul Turnover (P3.T3),Turnover,Offensive Foul Turnover,1,0,133
+1042600121,194,PT06M47.00S,2,1611661319,LVA,1629498,Young,J. Young,13,23,3,Missed,1,,,0,h,MISS Young 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,134
+1042600121,195,PT06M45.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,135
+1042600121,196,PT06M44.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,16,22,3,Made,1,40,36,76,h,Wilson 3' Putback Layup (15 PTS),Made Shot,Putback Layup Shot,1,2,136
+1042600121,197,PT06M38.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.T2),Foul,Shooting,1,0,137
+1042600121,199,PT06M38.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,40,37,77,v,Hull Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,138
+1042600121,200,PT06M38.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,40,38,78,v,Hull Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,139
+1042600121,201,PT06M28.00S,2,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,140
+1042600121,202,PT06M15.00S,2,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,141
+1042600121,203,PT06M01.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P2.T2),Foul,Personal,1,0,142
+1042600121,205,PT06M01.00S,2,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,SUB: Mitchell FOR Johnson,Substitution,,0,0,143
+1042600121,207,PT05M49.00S,2,1611661319,LVA,1629498,Young,J. Young,165,59,18,Made,1,42,38,80,h,Young 18' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,144
+1042600121,208,PT05M40.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,145
+1042600121,208,PT05M40.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd STEAL (1 STL),,,1,0,146
+1042600121,210,PT05M37.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,10,20,2,Made,1,44,38,82,h,Loyd 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,147
+1042600121,211,PT05M30.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,-16,36,4,Missed,1,,,0,v,MISS Timpson 4' Layup,Missed Shot,Layup Shot,1,2,148
+1042600121,211,PT05M30.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson BLOCK (3 BLK),,,1,2,149
+1042600121,213,PT05M28.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,150
+1042600121,214,PT05M23.00S,2,1611661319,LVA,203833,Gray,C. Gray,17,141,14,Missed,1,,,0,h,MISS Gray 14' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,151
+1042600121,215,PT05M20.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,152
+1042600121,216,PT05M14.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson OFF.Foul (P1),Foul,Offensive,1,0,153
+1042600121,218,PT05M14.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,154
+1042600121,219,PT05M14.00S,2,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,155
+1042600121,220,PT05M14.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,SUB: Yamamoto FOR Loyd,Substitution,,0,0,156
+1042600121,222,PT04M57.00S,2,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,-12,150,15,Made,1,46,38,84,h,Yamamoto 15' Pullup Jump Shot (2 PTS) (Talbot 1 AST),Made Shot,Pullup Jump shot,1,2,157
+1042600121,224,PT04M34.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P4.T7),Turnover,Bad Pass,1,0,158
+1042600121,224,PT04M34.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young STEAL (1 STL),,,1,0,159
+1042600121,226,PT04M30.00S,2,1611661319,LVA,1629498,Young,J. Young,-180,168,25,Made,1,49,38,87,h,Young 25' 3PT Running Pull-Up Jump Shot (8 PTS) (Gray 5 AST),Made Shot,Running Pull-Up Jump Shot,1,3,160
+1042600121,227,PT04M16.00S,2,1611661325,IND,1642286,Clark,C. Clark,12,22,3,Made,1,49,40,89,v,Clark 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,161
+1042600121,229,PT04M08.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Boston FOR Timpson,Substitution,,0,0,162
+1042600121,232,PT04M05.00S,2,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,163
+1042600121,233,PT03M56.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,44,165,17,Made,1,51,40,91,h,Wilson 17' Jump Shot (17 PTS),Made Shot,Jump Shot,1,2,164
+1042600121,234,PT03M30.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,232,-7,0,Missed,1,,,0,v,MISS Cunningham 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+1042600121,235,PT03M28.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,166
+1042600121,236,PT03M26.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-162,212,27,Missed,1,,,0,v,MISS Mitchell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+1042600121,237,PT03M23.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,168
+1042600121,238,PT03M19.00S,2,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,0,0,0,,0,,,0,h,Yamamoto P.FOUL (P1.T3),Foul,Personal,1,0,169
+1042600121,240,PT03M16.00S,2,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,0,0,0,,0,,,0,h,Yamamoto P.FOUL (P2.T4),Foul,Personal,1,0,170
+1042600121,242,PT03M16.00S,2,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,0,0,0,,0,,,0,h,SUB: Loyd FOR Yamamoto,Substitution,,0,0,171
+1042600121,244,PT03M11.00S,2,1611661325,IND,1642286,Clark,C. Clark,-12,25,3,Made,1,51,42,93,v,Clark 3' Driving Layup (10 PTS) (Boston 2 AST),Made Shot,Driving Layup Shot,1,2,172
+1042600121,245,PT02M57.00S,2,1611661319,LVA,1629498,Young,J. Young,-229,63,24,Made,1,54,42,96,h,Young 24' 3PT Jump Shot (11 PTS) (Gray 6 AST),Made Shot,Jump Shot,1,3,173
+1042600121,247,PT02M46.00S,2,1611661325,IND,1631086,Hull,L. Hull,-166,190,25,Missed,1,,,0,v,MISS Hull 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,174
+1042600121,248,PT02M46.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,175
+1042600121,249,PT02M35.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,176
+1042600121,251,PT02M18.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,177
+1042600121,252,PT02M18.00S,2,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,SUB: Yamamoto FOR Talbot,Substitution,,0,0,178
+1042600121,254,PT02M12.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-1,73,7,Made,1,54,44,98,v,Mitchell 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,179
+1042600121,255,PT02M12.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P2.PN),Foul,Shooting,1,0,180
+1042600121,257,PT02M12.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,54,45,99,v,Mitchell Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,181
+1042600121,258,PT01M53.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,159,206,26,Made,1,57,45,102,h,Wilson 26' 3PT Jump Shot (20 PTS) (Young 6 AST),Made Shot,Jump Shot,1,3,182
+1042600121,260,PT01M38.00S,2,1611661325,IND,1641648,Boston,A. Boston,-6,78,8,Made,1,57,47,104,v,Boston 8' Driving Hook Shot (10 PTS),Made Shot,Driving Hook Shot,1,2,183
+1042600121,261,PT01M19.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,-145,81,17,Missed,1,,,0,h,MISS Wilson 17' Jump Shot,Missed Shot,Jump Shot,1,2,184
+1042600121,262,PT01M16.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,185
+1042600121,263,PT01M09.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,186
+1042600121,263,PT01M09.00S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson STEAL (2 STL),,,1,0,187
+1042600121,265,PT01M05.00S,2,1611661319,LVA,1629498,Young,J. Young,-203,102,0,Missed,1,,,0,h,MISS Young 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,188
+1042600121,266,PT01M04.00S,2,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,1,0,189
+1042600121,267,PT01M04.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull L.B.FOUL (P3.T3),Foul,Loose Ball,1,0,190
+1042600121,269,PT01M04.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Timpson FOR Hull,Substitution,,0,0,191
+1042600121,271,PT00M54.30S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston S.FOUL (P3.PN),Foul,Shooting,1,0,192
+1042600121,273,PT00M54.30S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,58,47,105,h,Wilson Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,193
+1042600121,274,PT00M54.30S,2,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,0,0,0,,0,,,0,h,SUB: Talbot FOR Yamamoto,Substitution,,0,0,194
+1042600121,276,PT00M54.30S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,195
+1042600121,278,PT00M54.30S,2,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,59,47,106,h,Wilson Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,196
+1042600121,279,PT00M33.20S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,197
+1042600121,279,PT00M33.20S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young STEAL (2 STL),,,1,0,198
+1042600121,281,PT00M23.00S,2,1611661319,LVA,204319,Loyd,J. Loyd,162,201,26,Made,1,62,47,109,h,Loyd 26' 3PT Jump Shot (8 PTS) (Young 7 AST),Made Shot,Jump Shot,1,3,199
+1042600121,283,PT00M06.20S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,228,86,24,Missed,1,,,0,v,MISS Mitchell 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,200
+1042600121,284,PT00M04.00S,2,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,201
+1042600121,285,PT00M00.70S,2,1611661319,LVA,1629498,Young,J. Young,-62,549,55,Missed,1,,,0,h,MISS Young 55' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,202
+1042600121,286,PT00M00.10S,2,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,1,0,203
+1042600121,287,PT00M00.00S,2,0,,0,,,0,0,0,,0,62,47,109,,End of 2nd Period (5:06 PM EST),period,end,1,0,204
+1042600121,294,PT10M00.00S,3,0,,0,,,0,0,0,,0,62,47,109,,Start of 3rd Period (5:23 PM EST),period,start,0,0,205
+1042600121,295,PT09M49.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,27,6,3,Missed,1,,,0,h,MISS Talbot 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,206
+1042600121,296,PT09M46.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,207
+1042600121,297,PT09M34.00S,3,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,Turner P.FOUL (P2.T1),Foul,Personal,1,0,208
+1042600121,299,PT09M29.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,-27,17,3,Missed,1,,,0,v,MISS Timpson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,209
+1042600121,300,PT09M28.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,210
+1042600121,301,PT09M11.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,-177,99,20,Missed,1,,,0,h,MISS Talbot 20' Jump Shot,Missed Shot,Jump Shot,1,2,211
+1042600121,302,PT09M06.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,212
+1042600121,303,PT08M59.00S,3,1611661325,IND,1641648,Boston,A. Boston,-213,109,24,Made,1,62,50,112,v,Boston 24' 3PT Jump Shot (13 PTS) (Clark 6 AST),Made Shot,Jump Shot,1,3,213
+1042600121,305,PT08M44.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,205,0,21,Made,1,64,50,114,h,Talbot 21' Jump Shot (5 PTS) (Young 8 AST),Made Shot,Jump Shot,1,2,214
+1042600121,307,PT08M29.00S,3,1611661325,IND,1631086,Hull,L. Hull,157,22,16,Missed,1,,,0,v,MISS Hull 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,215
+1042600121,307,PT08M29.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson BLOCK (4 BLK),,,1,2,216
+1042600121,309,PT08M26.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,217
+1042600121,310,PT08M21.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P4.T1),Foul,Personal,1,0,218
+1042600121,312,PT08M21.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,219
+1042600121,313,PT08M21.00S,3,0,,310,Hurley,B. Hurley,0,0,0,,0,64,50,114,,Instant Replay3rd Period (5:25 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,220
+1042600121,314,PT08M11.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young OFF.Foul (P2),Foul,Offensive,1,0,221
+1042600121,316,PT08M11.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,222
+1042600121,317,PT08M11.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Cunningham FOR Hull,Substitution,,0,0,223
+1042600121,319,PT07M58.00S,3,1611661325,IND,1642286,Clark,C. Clark,50,271,28,Missed,1,,,0,v,MISS Clark 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,224
+1042600121,320,PT07M54.00S,3,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,225
+1042600121,321,PT07M47.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,-199,27,20,Missed,1,,,0,h,MISS Talbot 20' Jump Shot,Missed Shot,Jump Shot,1,2,226
+1042600121,322,PT07M44.00S,3,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,1,0,227
+1042600121,324,PT07M34.00S,3,1611661319,LVA,203833,Gray,C. Gray,-28,87,9,Missed,1,,,0,h,MISS Gray 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,228
+1042600121,325,PT07M32.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,229
+1042600121,326,PT07M27.00S,3,1611661325,IND,1642286,Clark,C. Clark,-41,247,25,Missed,1,,,0,v,MISS Clark 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,230
+1042600121,327,PT07M24.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,231
+1042600121,328,PT07M18.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray Out of Bounds Lost Ball Turnover (P3.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,232
+1042600121,329,PT07M06.00S,3,1611661325,IND,1642286,Clark,C. Clark,10,66,7,Missed,1,,,0,v,MISS Clark 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,233
+1042600121,330,PT07M05.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,234
+1042600121,331,PT07M04.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,-6,1,Missed,1,,,0,v,MISS Timpson 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,235
+1042600121,332,PT07M03.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,236
+1042600121,334,PT06M49.00S,3,1611661319,LVA,1629488,Turner,B. Turner,0,0,0,,0,,,0,h,SUB: Parker-Tyus FOR Turner,Substitution,,0,0,237
+1042600121,336,PT06M49.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Johnson FOR Clark,Substitution,,0,0,238
+1042600121,338,PT06M46.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0,239
+1042600121,338,PT06M46.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham STEAL (1 STL),,,0,0,240
+1042600121,340,PT06M42.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,-141,203,25,Missed,1,,,0,v,MISS Cunningham 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,241
+1042600121,341,PT06M37.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,242
+1042600121,342,PT06M25.00S,3,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,6,248,25,Made,1,67,50,117,h,Parker-Tyus 25' 3PT Jump Shot (7 PTS) (Young 9 AST),Made Shot,Jump Shot,1,3,243
+1042600121,344,PT06M00.00S,3,1611661325,IND,1641648,Boston,A. Boston,127,236,27,Missed,1,,,0,v,MISS Boston 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,244
+1042600121,345,PT06M00.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,245
+1042600121,346,PT06M00.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,246
+1042600121,348,PT05M53.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson OFF.Foul (P3),Foul,Offensive,1,0,247
+1042600121,350,PT05M53.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,248
+1042600121,351,PT05M42.00S,3,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus P.FOUL (P2.T2),Foul,Personal,1,0,249
+1042600121,353,PT05M36.00S,3,1611661325,IND,1641648,Boston,A. Boston,-219,5,0,Missed,1,,,0,v,MISS Boston 3PT Jump Shot,Missed Shot,Jump Shot,1,3,250
+1042600121,354,PT05M33.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,251
+1042600121,355,PT05M25.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P2.T2),Foul,Personal,1,0,252
+1042600121,357,PT05M25.00S,3,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,SUB: Loyd FOR Talbot,Substitution,,0,0,253
+1042600121,359,PT05M16.00S,3,1611661319,LVA,1629498,Young,J. Young,-13,86,9,Made,1,69,50,119,h,Young 9' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,254
+1042600121,360,PT05M03.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell OFF.Foul (P3),Foul,Offensive,1,0,255
+1042600121,362,PT05M03.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1,0,256
+1042600121,363,PT05M03.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,SUB: Clark FOR Mitchell,Substitution,,0,0,257
+1042600121,365,PT04M51.00S,3,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.T3),Foul,Shooting,1,0,258
+1042600121,367,PT04M51.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,70,50,120,h,Young Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,259
+1042600121,368,PT04M51.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,71,50,121,h,Young Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,260
+1042600121,369,PT04M33.00S,3,1611661325,IND,1641648,Boston,A. Boston,6,61,6,Made,1,71,52,123,v,Boston 6' Driving Floating Jump Shot (15 PTS) (Clark 7 AST),Made Shot,Driving Floating Jump Shot,1,2,261
+1042600121,371,PT04M16.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham P.FOUL (P2.T4),Foul,Personal,1,0,262
+1042600121,373,PT04M16.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,263
+1042600121,375,PT04M08.00S,3,1611661319,LVA,204319,Loyd,J. Loyd,227,13,0,Missed,1,,,0,h,MISS Loyd 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+1042600121,376,PT04M07.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,265
+1042600121,377,PT04M07.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,-6,1,Missed,1,,,0,h,MISS Wilson 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,266
+1042600121,378,PT04M06.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,267
+1042600121,379,PT04M05.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,36,4,Made,1,73,52,125,h,Wilson 4' Putback Layup (24 PTS),Made Shot,Putback Layup Shot,1,2,268
+1042600121,380,PT04M05.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson S.FOUL (P2.PN),Foul,Shooting,1,0,269
+1042600121,382,PT04M05.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,74,52,126,h,Wilson Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,1,0,270
+1042600121,383,PT03M48.00S,3,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus P.FOUL (P3.T3),Foul,Personal,1,0,271
+1042600121,385,PT03M42.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,-223,2,0,Made,1,74,55,129,v,Cunningham 3PT Jump Shot (9 PTS) (Clark 8 AST),Made Shot,Jump Shot,1,3,272
+1042600121,387,PT03M29.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,221,103,24,Made,1,77,55,132,h,Wilson 24' 3PT Jump Shot (28 PTS) (Gray 7 AST),Made Shot,Jump Shot,1,3,273
+1042600121,389,PT03M11.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,229,6,0,Missed,1,,,0,v,MISS Cunningham 3PT Jump Shot,Missed Shot,Jump Shot,1,3,274
+1042600121,390,PT03M06.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,275
+1042600121,391,PT02M53.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,105,13,11,Made,1,79,55,134,h,Wilson 11' Turnaround Fadeaway (30 PTS) (Gray 8 AST),Made Shot,Turnaround Fadeaway shot,1,2,276
+1042600121,393,PT02M34.00S,3,1611661325,IND,1642286,Clark,C. Clark,-61,246,25,Made,1,79,58,137,v,Clark 25' 3PT Jump Shot (13 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,277
+1042600121,395,PT02M23.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark P.FOUL (P3.PN),Foul,Personal,1,0,278
+1042600121,397,PT02M23.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,80,58,138,h,Gray Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,279
+1042600121,398,PT02M23.00S,3,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,SUB: Hull FOR Cunningham,Substitution,,0,0,280
+1042600121,400,PT02M23.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,81,58,139,h,Gray Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,281
+1042600121,401,PT02M10.00S,3,1611661325,IND,1642286,Clark,C. Clark,-133,209,25,Missed,1,,,0,v,MISS Clark 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,282
+1042600121,402,PT02M07.00S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,283
+1042600121,403,PT01M55.00S,3,1611661319,LVA,204319,Loyd,J. Loyd,23,24,3,Made,1,83,58,141,h,Loyd 3' Alley Oop Layup (10 PTS) (Wilson 1 AST),Made Shot,Alley Oop Layup shot,1,2,284
+1042600121,405,PT01M41.00S,3,1611661325,IND,1642286,Clark,C. Clark,-177,178,25,Missed,1,,,0,v,MISS Clark 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,285
+1042600121,406,PT01M38.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,286
+1042600121,407,PT01M35.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,287
+1042600121,407,PT01M35.00S,3,1611661319,LVA,204323,Parker-Tyus,C. Parker-Tyus,0,0,0,,0,,,0,h,Parker-Tyus STEAL (1 STL),,,1,0,288
+1042600121,409,PT01M32.00S,3,1611661319,LVA,1629498,Young,J. Young,8,31,3,Made,1,85,58,143,h,Young 3' Running Layup (17 PTS) (Parker-Tyus 1 AST),Made Shot,Running Layup Shot,1,2,289
+1042600121,411,PT01M32.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,290
+1042600121,412,PT01M32.00S,3,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,SUB: Yamamoto FOR Gray,Substitution,,0,0,291
+1042600121,413,PT01M32.00S,3,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,SUB: Talbot FOR Wilson,Substitution,,0,0,292
+1042600121,414,PT01M32.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Boston FOR Timpson,Substitution,,0,0,293
+1042600121,418,PT01M14.00S,3,1611661325,IND,1642286,Clark,C. Clark,-29,49,6,Made,1,85,60,145,v,Clark 6' Driving Floating Jump Shot (15 PTS) (Boston 3 AST),Made Shot,Driving Floating Jump Shot,1,2,294
+1042600121,421,PT00M51.80S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,295
+1042600121,421,PT00M51.80S,3,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (1 STL),,,1,0,296
+1042600121,423,PT00M48.40S,3,1611661325,IND,1643433,Johnson,R. Johnson,-12,10,2,Made,1,85,62,147,v,Johnson 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,297
+1042600121,424,PT00M34.60S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark P.FOUL (P4.PN),Foul,Personal,1,0,298
+1042600121,426,PT00M34.60S,3,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,MISS Talbot Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,299
+1042600121,427,PT00M34.60S,3,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Normal Rebound,0,0,300
+1042600121,428,PT00M34.60S,3,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,86,62,148,h,Talbot Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,301
+1042600121,429,PT00M20.60S,3,1611661325,IND,1643433,Johnson,R. Johnson,-82,237,25,Made,1,86,65,151,v,Johnson 25' 3PT Jump Shot (10 PTS) (Boston 4 AST),Made Shot,Jump Shot,1,3,302
+1042600121,431,PT00M02.60S,3,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,0,303
+1042600121,431,PT00M02.60S,3,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (2 STL),,,1,0,304
+1042600121,433,PT00M00.00S,3,0,,0,,,0,0,0,,0,86,65,151,,End of 3rd Period (5:47 PM EST),period,end,1,0,305
+1042600121,440,PT10M00.00S,4,0,,0,,,0,0,0,,0,86,65,151,,Start of 4th Period (5:51 PM EST),period,start,0,0,306
+1042600121,441,PT10M00.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Violation: Delay of game Violation,Violation,Delay Of Game,0,0,307
+1042600121,442,PT09M47.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings Offensive Charge Foul (P1),Foul,Offensive Charge,1,0,308
+1042600121,444,PT09M47.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0,309
+1042600121,445,PT09M47.00S,4,0,,442,Ellison,P. Ellison,0,0,0,,0,86,65,151,,Instant Replay4th Period (5:51 PM EST),Instant Replay,Support Ruling,0,0,310
+1042600121,446,PT09M47.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Cunningham FOR Billings,Substitution,,0,0,311
+1042600121,448,PT09M44.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Violation:Kicked Ball,Violation,Kicked Ball,0,0,312
+1042600121,449,PT09M23.00S,4,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,313
+1042600121,450,PT09M02.00S,4,1611661325,IND,1641648,Boston,A. Boston,-46,249,25,Made,1,86,68,154,v,Boston 25' 3PT Jump Shot (18 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,3,314
+1042600121,452,PT08M46.00S,4,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,-165,223,28,Missed,1,,,0,h,MISS Yamamoto 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+1042600121,453,PT08M43.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,316
+1042600121,454,PT08M25.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-1,258,26,Made,1,86,71,157,v,Mitchell 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,317
+1042600121,455,PT08M09.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,10,58,6,Missed,1,,,0,h,MISS Loyd 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,318
+1042600121,457,PT08M06.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,319
+1042600121,459,PT08M06.00S,4,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,320
+1042600121,460,PT08M06.00S,4,0,,458,Eisley,H. Eisley,0,0,0,,0,86,71,157,,Instant Replay4th Period (5:55 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,321
+1042600121,461,PT08M06.00S,4,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,0,0,0,,0,,,0,h,SUB: Young FOR Yamamoto,Substitution,,0,0,322
+1042600121,463,PT07M52.00S,4,1611661325,IND,1642286,Clark,C. Clark,-214,140,26,Missed,1,,,0,v,MISS Clark 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+1042600121,464,PT07M47.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:4 Def:11),Rebound,Unknown,1,0,324
+1042600121,465,PT07M32.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,18,170,17,Made,1,88,71,159,h,Wilson 17' Jump Shot (32 PTS) (Young 10 AST),Made Shot,Jump Shot,1,2,325
+1042600121,467,PT07M32.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston S.FOUL (P4.T1),Foul,Shooting,1,0,326
+1042600121,469,PT07M32.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,89,71,160,h,Wilson Free Throw 1 of 1 (33 PTS),Free Throw,Free Throw 1 of 1,1,0,327
+1042600121,491,PT07M12.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P5.T14),Turnover,Bad Pass,1,0,328
+1042600121,491,PT07M12.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray STEAL (1 STL),,,1,0,329
+1042600121,472,PT06M50.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,10,14,2,Made,1,91,71,162,h,Wilson 2' Layup (35 PTS) (Talbot 2 AST),Made Shot,Layup Shot,1,2,330
+1042600121,474,PT06M34.00S,4,1611661325,IND,1643433,Johnson,R. Johnson,-17,5,2,Made,1,91,73,164,v,Johnson 2' Layup (12 PTS) (Clark 9 AST),Made Shot,Layup Shot,1,2,331
+1042600121,476,PT06M17.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,-16,94,10,Missed,1,,,0,h,MISS Wilson 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,332
+1042600121,477,PT06M15.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,333
+1042600121,478,PT06M09.00S,4,1611661325,IND,1641648,Boston,A. Boston,-6,265,27,Missed,1,,,0,v,MISS Boston 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+1042600121,479,PT06M06.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:4 Def:12),Rebound,Unknown,1,0,335
+1042600121,480,PT06M01.00S,4,1611661319,LVA,1629498,Young,J. Young,-13,22,3,Made,1,93,73,166,h,Young 3' Running Layup (19 PTS) (Wilson 2 AST),Made Shot,Running Layup Shot,1,2,336
+1042600121,482,PT05M48.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,24,254,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,337
+1042600121,483,PT05M48.00S,4,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Unknown,1,0,338
+1042600121,484,PT05M48.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston L.B.FOUL (P5.T2),Foul,Loose Ball,1,0,339
+1042600121,486,PT05M48.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,340
+1042600121,488,PT05M44.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,-10,22,2,Made,1,95,73,168,h,Wilson 2' Cutting Layup Shot (37 PTS) (Talbot 3 AST),Made Shot,Cutting Layup Shot,1,2,341
+1042600121,490,PT05M44.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,342
+1042600121,493,PT05M29.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-10,22,2,Missed,1,,,0,v,MISS Mitchell 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,343
+1042600121,494,PT05M27.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,344
+1042600121,495,PT05M12.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0,345
+1042600121,495,PT05M12.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (1 STL),,,1,0,346
+1042600121,497,PT05M01.00S,4,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,347
+1042600121,498,PT04M42.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P5.T3),Foul,Shooting,1,0,348
+1042600121,500,PT04M42.00S,4,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,96,73,169,h,Talbot Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,349
+1042600121,501,PT04M42.00S,4,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,97,73,170,h,Talbot Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,350
+1042600121,502,PT04M32.00S,4,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot S.FOUL (P2.T1),Foul,Shooting,0,0,351
+1042600121,504,PT04M32.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,97,74,171,v,Cunningham Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,352
+1042600121,505,PT04M32.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,97,75,172,v,Cunningham Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+1042600121,506,PT04M13.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray Lost Ball Turnover (P5.T15),Turnover,Lost Ball,1,0,354
+1042600121,506,PT04M13.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings STEAL (1 STL),,,1,0,355
+1042600121,508,PT04M11.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Out of Bounds - Bad Pass Turnover Turnover (P6.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,356
+1042600121,509,PT03M52.00S,4,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Bad Pass Turnover (P5.T16),Turnover,Bad Pass,1,0,357
+1042600121,509,PT03M52.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings STEAL (2 STL),,,1,0,358
+1042600121,511,PT03M49.00S,4,1611661325,IND,1628881,Billings,M. Billings,7,23,2,Made,1,97,77,174,v,Billings 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,359
+1042600121,512,PT03M27.00S,4,1611661319,LVA,203833,Gray,C. Gray,-4,135,14,Missed,1,,,0,h,MISS Gray 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,360
+1042600121,513,PT03M26.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,361
+1042600121,514,PT03M22.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray S.FOUL (P2.T2),Foul,Shooting,1,0,362
+1042600121,516,PT03M22.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,97,78,175,v,Cunningham Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+1042600121,517,PT03M22.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,97,79,176,v,Cunningham Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,364
+1042600121,518,PT03M04.00S,4,1611661319,LVA,203855,Talbot,S. Talbot,-227,8,0,Missed,1,,,0,h,MISS Talbot 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+1042600121,519,PT03M02.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,366
+1042600121,520,PT02M55.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,148,219,26,Missed,1,,,0,v,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,367
+1042600121,521,PT02M51.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,Gray REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,368
+1042600121,522,PT02M50.00S,4,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young Traveling Turnover (P6.T17),Turnover,Traveling,1,0,369
+1042600121,523,PT02M41.00S,4,1611661325,IND,1628881,Billings,M. Billings,-22,1,2,Made,1,97,81,178,v,Billings 2' Cutting Layup Shot (4 PTS) (Clark 10 AST),Made Shot,Cutting Layup Shot,1,2,370
+1042600121,525,PT02M29.00S,4,1611661325,IND,1643433,Johnson,R. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P2.T4),Foul,Shooting,1,0,371
+1042600121,527,PT02M29.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,MISS Wilson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,372
+1042600121,528,PT02M29.00S,4,0,,1611661319,,,0,0,0,,0,,,0,h,ACES Rebound,Rebound,Normal Rebound,0,0,373
+1042600121,529,PT02M29.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,98,81,179,h,Wilson Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+1042600121,530,PT02M13.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0,375
+1042600121,530,PT02M13.00S,4,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,Young STEAL (3 STL),,,1,0,376
+1042600121,532,PT02M08.00S,4,1611661319,LVA,1629498,Young,J. Young,-5,24,2,Made,1,100,81,181,h,Young 2' Running Layup (21 PTS),Made Shot,Running Layup Shot,1,2,377
+1042600121,533,PT01M51.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,Wilson Violation:Kicked Ball,Violation,Kicked Ball,0,0,378
+1042600121,534,PT01M51.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,SUB: Hull FOR Mitchell,Substitution,,0,0,379
+1042600121,535,PT01M51.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,SUB: VanSlooten FOR Cunningham,Substitution,,0,0,380
+1042600121,536,PT01M51.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Russell FOR Billings,Substitution,,0,0,381
+1042600121,544,PT01M51.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Timpson FOR Clark,Substitution,,0,0,382
+1042600121,540,PT01M51.00S,4,1611661319,LVA,1628932,Wilson,A. Wilson,0,0,0,,0,,,0,h,SUB: Parker-Tyus FOR Wilson,Substitution,,0,0,383
+1042600121,542,PT01M51.00S,4,1611661319,LVA,203833,Gray,C. Gray,0,0,0,,0,,,0,h,SUB: Yamamoto FOR Gray,Substitution,,0,0,384
+1042600121,546,PT01M51.00S,4,1611661319,LVA,1629498,Young,J. Young,0,0,0,,0,,,0,h,SUB: Bell FOR Young,Substitution,,0,0,385
+1042600121,548,PT01M38.00S,4,1611661325,IND,1643433,Johnson,R. Johnson,0,145,15,Missed,1,,,0,v,MISS Johnson 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,386
+1042600121,549,PT01M34.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,Loyd REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,387
+1042600121,550,PT01M17.00S,4,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,143,228,27,Missed,1,,,0,h,MISS Yamamoto 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,388
+1042600121,551,PT01M15.00S,4,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,Talbot REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,389
+1042600121,552,PT01M12.00S,4,1611661319,LVA,203855,Talbot,S. Talbot,10,71,7,Missed,1,,,0,h,MISS Talbot 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,390
+1042600121,553,PT01M12.00S,4,1611661325,IND,1628920,Russell,M. Russell,0,0,0,,0,,,0,v,Russell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,391
+1042600121,554,PT01M05.00S,4,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,0,0,0,,0,,,0,h,Yamamoto P.FOUL (P3.T3),Foul,Personal,1,0,392
+1042600121,556,PT01M05.00S,4,1611661319,LVA,203855,Talbot,S. Talbot,0,0,0,,0,,,0,h,SUB: Brown FOR Talbot,Substitution,,0,0,393
+1042600121,558,PT01M05.00S,4,1611661319,LVA,204319,Loyd,J. Loyd,0,0,0,,0,,,0,h,SUB: Pissott FOR Loyd,Substitution,,0,0,394
+1042600121,560,PT00M59.60S,4,1611661325,IND,1643433,Johnson,R. Johnson,21,108,11,Made,1,100,83,183,v,Johnson 11' Driving Floating Jump Shot (14 PTS) (Russell 1 AST),Made Shot,Driving Floating Jump Shot,1,2,395
+1042600121,562,PT00M37.40S,4,1611661319,LVA,1642769,Yamamoto,M. Yamamoto,118,60,13,Made,1,102,83,185,h,Yamamoto 13' Turnaround Fadeaway Bank Jump Shot (4 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,396
+1042600121,563,PT00M19.90S,4,1611661319,LVA,1631006,Bell,K. Bell,0,0,0,,0,,,0,h,Bell S.FOUL (P1.PN),Foul,Shooting,1,0,397
+1042600121,565,PT00M19.90S,4,1611661325,IND,1643453,VanSlooten,G. VanSlooten,0,0,0,,0,102,84,186,v,VanSlooten Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,398
+1042600121,566,PT00M19.90S,4,1611661325,IND,1643453,VanSlooten,G. VanSlooten,0,0,0,,0,102,85,187,v,VanSlooten Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,399
+1042600121,567,PT00M00.00S,4,0,,0,,,0,0,0,,0,102,85,187,,End of 4th Period (6:17 PM EST),period,end,1,0,400

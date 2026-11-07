@@ -1,0 +1,387 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600289,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:06 PM EST),period,start,1,0,1
+1022600289,4,PT10M00.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jump Ball Jones vs. Stokes: Tip to Ionescu,Jump Ball,,1,0,2
+1022600289,7,PT09M42.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,-230,68,24,Missed,1,,,0,h,MISS Fiebich 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+1022600289,8,PT09M40.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+1022600289,9,PT09M31.00S,1,1611661331,GSV,1628931,Williams,G. Williams,-233,68,24,Made,1,0,3,3,v,Williams 24' 3PT Jump Shot (3 PTS) (Burton 1 AST),Made Shot,Jump Shot,1,3,5
+1022600289,11,PT09M16.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,6
+1022600289,12,PT08M52.00S,1,1611661331,GSV,203866,Thornton,K. Thornton,52,121,13,Missed,1,,,0,v,MISS Thornton 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,7
+1022600289,13,PT08M51.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+1022600289,14,PT08M44.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes S.FOUL (P1.T1),Foul,Shooting,1,0,9
+1022600289,16,PT08M44.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,10
+1022600289,17,PT08M44.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Normal Rebound,0,0,11
+1022600289,18,PT08M44.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,1,3,4,h,Jones Free Throw 2 of 3 (1 PTS),Free Throw,Free Throw 2 of 3,1,0,12
+1022600289,19,PT08M44.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,2,3,5,h,Jones Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,1,0,13
+1022600289,20,PT08M27.00S,1,1611661331,GSV,1628931,Williams,G. Williams,-166,183,25,Missed,1,,,0,v,MISS Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,14
+1022600289,21,PT08M24.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+1022600289,22,PT08M19.00S,1,1611661313,NYL,1631136,Astier,P. Astier,16,17,2,Made,1,4,3,7,h,Astier 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,16
+1022600289,23,PT08M15.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier P.FOUL (P1.T1),Foul,Personal,1,0,17
+1022600289,25,PT08M15.00S,1,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,v,SUB: Chen FOR Burton,Substitution,,0,0,18
+1022600289,27,PT08M01.00S,1,1611661331,GSV,203866,Thornton,K. Thornton,-233,67,24,Made,1,4,6,10,v,Thornton 24' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,19
+1022600289,29,PT07M50.00S,1,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,v,Thornton P.FOUL (P1.T2),Foul,Personal,1,0,20
+1022600289,31,PT07M40.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,6,76,8,Missed,1,,,0,h,MISS Stewart 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,21
+1022600289,32,PT07M39.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,Zandalasini REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+1022600289,33,PT07M24.00S,1,1611661331,GSV,1642822,Chen,K. Chen,89,122,15,Missed,1,,,0,v,MISS Chen 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,23
+1022600289,37,PT07M22.00S,1,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Unknown,0,0,24
+1022600289,34,PT07M16.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Jump Ball Fiebich vs. Chen: Tip to Zandalasini,Jump Ball,,1,0,25
+1022600289,38,PT07M05.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,213,119,24,Made,1,4,9,13,v,Zandalasini 24' 3PT Jump Shot (3 PTS) (Chen 1 AST),Made Shot,Jump Shot,1,3,26
+1022600289,40,PT06M50.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,229,18,0,Missed,1,,,0,h,MISS Fiebich 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+1022600289,41,PT06M48.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,28
+1022600289,43,PT06M33.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,97,82,13,Missed,1,,,0,v,MISS Zandalasini 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,29
+1022600289,44,PT06M31.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+1022600289,45,PT06M25.00S,1,1611661313,NYL,1631136,Astier,P. Astier,-44,27,5,Missed,1,,,0,h,MISS Astier 5' Running Layup,Missed Shot,Running Layup Shot,1,2,31
+1022600289,46,PT06M24.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,32
+1022600289,47,PT06M14.00S,1,1611661331,GSV,1628931,Williams,G. Williams,29,29,4,Made,1,4,11,15,v,Williams 4' Driving Layup (5 PTS) (Stokes 1 AST),Made Shot,Driving Layup Shot,1,2,33
+1022600289,49,PT06M06.00S,1,1611661313,NYL,1627673,Jones,J. Jones,161,176,24,Made,1,7,11,18,h,Jones 24' 3PT Jump Shot (5 PTS) (Stewart 1 AST),Made Shot,Jump Shot,1,3,34
+1022600289,51,PT05M54.00S,1,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams OFF.Foul (P1),Foul,Offensive,1,0,35
+1022600289,53,PT05M54.00S,1,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,36
+1022600289,54,PT05M44.00S,1,1611661313,NYL,1627673,Jones,J. Jones,-40,238,24,Made,1,10,11,21,h,Jones 24' 3PT Jump Shot (8 PTS) (Astier 1 AST),Made Shot,Jump Shot,1,3,37
+1022600289,56,PT05M22.00S,1,1611661331,GSV,1628931,Williams,G. Williams,-56,110,12,Missed,1,,,0,v,MISS Williams 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,38
+1022600289,57,PT05M20.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+1022600289,58,PT05M15.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier Traveling Turnover (P1.T2),Turnover,Traveling,1,0,40
+1022600289,59,PT05M15.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,SUB: Johannes FOR Ionescu,Substitution,,0,0,41
+1022600289,60,PT05M15.00S,1,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,SUB: Hayes FOR Stokes,Substitution,,0,0,42
+1022600289,63,PT04M53.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,227,34,0,Missed,1,,,0,v,MISS Zandalasini 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+1022600289,64,PT04M52.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,44
+1022600289,66,PT04M52.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,45
+1022600289,67,PT04M52.00S,1,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,v,SUB: Charles FOR Thornton,Substitution,,0,0,46
+1022600289,68,PT04M52.00S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,SUB: Salaun FOR Zandalasini,Substitution,,0,0,47
+1022600289,71,PT04M36.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,166,185,25,Missed,1,,,0,h,MISS Fiebich 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,48
+1022600289,72,PT04M33.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,49
+1022600289,73,PT04M33.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,-6,1,Missed,1,,,0,h,MISS Stewart 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,50
+1022600289,74,PT04M33.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,51
+1022600289,76,PT04M31.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,-233,11,0,Made,1,13,11,24,h,Fiebich 3PT Jump Shot (3 PTS) (Astier 2 AST),Made Shot,Jump Shot,1,3,52
+1022600289,78,PT04M15.00S,1,1611661331,GSV,1628931,Williams,G. Williams,101,114,15,Missed,1,,,0,v,MISS Williams 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,53
+1022600289,79,PT04M13.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,54
+1022600289,80,PT03M57.00S,1,1611661313,NYL,1627673,Jones,J. Jones,-49,23,5,Missed,1,,,0,h,MISS Jones 5' Layup,Missed Shot,Layup Shot,1,2,55
+1022600289,80,PT03M57.00S,1,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,v,Hayes BLOCK (1 BLK),,,1,2,56
+1022600289,82,PT03M55.00S,1,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+1022600289,83,PT03M54.00S,1,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,v,Hayes Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,58
+1022600289,83,PT03M54.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich STEAL (1 STL),,,1,0,59
+1022600289,85,PT03M47.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,-2,130,13,Made,1,15,11,26,h,Stewart 13' Running Pull-Up Jump Shot (2 PTS) (Johannes 1 AST),Made Shot,Running Pull-Up Jump Shot,1,2,60
+1022600289,88,PT03M28.00S,1,1611661331,GSV,203026,Hayes,T. Hayes,58,97,11,Made,1,15,13,28,v,Hayes 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,61
+1022600289,89,PT03M18.00S,1,1611661313,NYL,1627673,Jones,J. Jones,150,204,25,Missed,1,,,0,h,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+1022600289,90,PT03M16.00S,1,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+1022600289,91,PT03M01.00S,1,1611661331,GSV,1628931,Williams,G. Williams,-166,207,27,Missed,1,,,0,v,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+1022600289,92,PT02M58.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+1022600289,93,PT02M39.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,66
+1022600289,93,PT02M39.00S,1,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams STEAL (1 STL),,,1,0,67
+1022600289,95,PT02M36.00S,1,1611661331,GSV,1628931,Williams,G. Williams,33,52,6,Missed,1,,,0,v,MISS Williams 6' Running Layup,Missed Shot,Running Layup Shot,1,2,68
+1022600289,95,PT02M36.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart BLOCK (1 BLK),,,1,2,69
+1022600289,97,PT02M36.00S,1,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Unknown,0,0,70
+1022600289,99,PT02M36.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,SUB: Allen FOR Fiebich,Substitution,,0,0,71
+1022600289,100,PT02M36.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Ionescu FOR Jones,Substitution,,0,0,72
+1022600289,101,PT02M36.00S,1,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,v,SUB: Burton FOR Chen,Substitution,,0,0,73
+1022600289,105,PT02M30.00S,1,1611661331,GSV,1630097,Charles,K. Charles,-120,228,26,Missed,1,,,0,v,MISS Charles 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+1022600289,106,PT02M28.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,75
+1022600289,107,PT02M14.00S,1,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams P.FOUL (P2.T3),Foul,Personal,1,0,76
+1022600289,109,PT02M14.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Fiebich FOR Astier,Substitution,,0,0,77
+1022600289,110,PT02M14.00S,1,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,SUB: Thornton FOR Williams,Substitution,,0,0,78
+1022600289,113,PT02M06.00S,1,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,v,Burton S.FOUL (P1.T4),Foul,Shooting,1,0,79
+1022600289,115,PT02M06.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,16,13,29,h,Stewart Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,80
+1022600289,116,PT02M06.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,17,13,30,h,Stewart Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,81
+1022600289,117,PT01M54.00S,1,1611661331,GSV,1642767,Salaun,J. Salaun,144,9,14,Made,1,17,15,32,v,Salaun 14' Jump Shot (2 PTS) (Burton 2 AST),Made Shot,Jump Shot,1,2,82
+1022600289,119,PT01M45.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,188,184,26,Missed,1,,,0,h,MISS Ionescu 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,83
+1022600289,120,PT01M43.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,84
+1022600289,122,PT01M39.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,70,7,Made,1,19,15,34,h,Stewart 7' Driving Floating Jump Shot (6 PTS) (Ionescu 1 AST),Made Shot,Driving Floating Jump Shot,1,2,85
+1022600289,124,PT01M29.00S,1,1611661331,GSV,203026,Hayes,T. Hayes,-21,73,8,Made,1,19,17,36,v,Hayes 8' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,86
+1022600289,125,PT01M10.00S,1,1611661313,NYL,204296,Allen,R. Allen,-235,15,24,Missed,1,,,0,h,MISS Allen 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+1022600289,126,PT01M07.00S,1,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,v,Burton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+1022600289,127,PT01M01.00S,1,1611661331,GSV,1630097,Charles,K. Charles,33,33,5,Made,1,19,19,38,v,Charles 5' Running Layup (2 PTS) (Burton 3 AST),Made Shot,Running Layup Shot,1,2,89
+1022600289,129,PT00M53.50S,1,1611661313,NYL,1627668,Stewart,B. Stewart,-197,130,24,Missed,1,,,0,h,MISS Stewart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,90
+1022600289,130,PT00M50.90S,1,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,v,Burton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,91
+1022600289,131,PT00M46.00S,1,1611661331,GSV,1630097,Charles,K. Charles,-29,39,5,Made,1,19,21,40,v,Charles 5' Running Finger Roll Layup (4 PTS) (Burton 4 AST),Made Shot,Running Finger Roll Layup Shot,1,2,92
+1022600289,135,PT00M36.40S,1,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Timeout: Coach Challenge (Reg.0 Short 0),Timeout,Coach Challenge,0,0,93
+1022600289,136,PT00M36.40S,1,0,,133,Wesley,D. Wesley,0,0,0,,0,19,21,40,,Instant Replay1st Period (8:26 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,94
+1022600289,137,PT00M36.40S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,SUB: Jones FOR Stewart,Substitution,,0,0,95
+1022600289,138,PT00M36.40S,1,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,v,SUB: Zandalasini FOR Hayes,Substitution,,0,0,96
+1022600289,141,PT00M30.50S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones OFF.Foul (P1),Foul,Offensive,1,0,97
+1022600289,143,PT00M30.50S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,98
+1022600289,144,PT00M07.50S,1,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-98,160,19,Missed,1,,,0,v,MISS Zandalasini 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,99
+1022600289,145,PT00M04.80S,1,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+1022600289,146,PT00M00.00S,1,1611661313,NYL,1627673,Jones,J. Jones,44,308,31,Missed,1,,,0,h,MISS Jones 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+1022600289,147,PT00M00.00S,1,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,102
+1022600289,148,PT00M00.00S,1,0,,0,,,0,0,0,,0,19,21,40,,End of 1st Period (8:29 PM EST),period,end,1,0,103
+1022600289,153,PT10M00.00S,2,0,,0,,,0,0,0,,0,19,21,40,,Start of 2nd Period (8:32 PM EST),period,start,1,0,104
+1022600289,154,PT09M36.00S,2,1611661331,GSV,1631007,Burton,V. Burton,28,272,27,Missed,1,,,0,v,MISS Burton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,105
+1022600289,155,PT09M33.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,106
+1022600289,157,PT09M13.00S,2,1611661313,NYL,1629566,Han,Han,88,15,9,Missed,1,,,0,h,MISS Xu 9' Jump Shot,Missed Shot,Jump Shot,1,2,107
+1022600289,158,PT09M11.00S,2,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,v,Charles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+1022600289,159,PT09M04.00S,2,1611661331,GSV,1630097,Charles,K. Charles,125,216,25,Missed,1,,,0,v,MISS Charles 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+1022600289,160,PT09M00.00S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,Zandalasini REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,110
+1022600289,161,PT08M55.00S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,182,156,24,Missed,1,,,0,v,MISS Zandalasini 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+1022600289,162,PT08M54.00S,2,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,v,Charles REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,112
+1022600289,163,PT08M49.00S,2,1611661331,GSV,1630097,Charles,K. Charles,43,15,5,Made,1,19,23,42,v,Charles 5' Layup (6 PTS),Made Shot,Layup Shot,1,2,113
+1022600289,164,PT08M29.00S,2,1611661313,NYL,1629566,Han,Han,39,112,12,Missed,1,,,0,h,MISS Xu 12' Jump Shot,Missed Shot,Jump Shot,1,2,114
+1022600289,165,PT08M27.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,Salaun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+1022600289,166,PT08M12.00S,2,1611661331,GSV,203866,Thornton,K. Thornton,-62,25,7,Missed,1,,,0,v,MISS Thornton 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,116
+1022600289,166,PT08M12.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones BLOCK (1 BLK),,,1,2,117
+1022600289,168,PT08M12.00S,2,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Unknown,0,0,118
+1022600289,170,PT08M08.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,-160,206,26,Missed,1,,,0,v,MISS Salaun 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,119
+1022600289,171,PT08M06.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,120
+1022600289,172,PT07M53.00S,2,1611661313,NYL,1629566,Han,Han,-34,20,4,Missed,1,,,0,h,MISS Xu 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,121
+1022600289,173,PT07M50.00S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,Zandalasini REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,122
+1022600289,174,PT07M44.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner S.FOUL (P1.T1),Foul,Shooting,1,0,123
+1022600289,176,PT07M44.00S,2,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,v,MISS Burton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,124
+1022600289,177,PT07M44.00S,2,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Normal Rebound,0,0,125
+1022600289,178,PT07M44.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,SUB: Johannes FOR Ionescu,Substitution,,0,0,126
+1022600289,180,PT07M44.00S,2,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,19,24,43,v,Burton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,127
+1022600289,181,PT07M22.00S,2,1611661313,NYL,1627673,Jones,J. Jones,35,9,4,Made,1,21,24,45,h,Jones 4' Layup (10 PTS) (Xu 1 AST),Made Shot,Layup Shot,1,2,128
+1022600289,183,PT07M01.00S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,145,20,15,Made,1,21,26,47,v,Zandalasini 15' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2,129
+1022600289,184,PT06M37.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,35,26,4,Made,1,23,26,49,h,Gardner 4' Driving Layup (2 PTS) (Johannes 2 AST),Made Shot,Driving Layup Shot,1,2,130
+1022600289,186,PT06M25.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner P.FOUL (P2.T2),Foul,Personal,1,0,131
+1022600289,188,PT06M25.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,SUB: Stewart FOR Fiebich,Substitution,,0,0,132
+1022600289,189,PT06M25.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Allen FOR Jones,Substitution,,0,0,133
+1022600289,190,PT06M25.00S,2,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,v,SUB: Stokes FOR Thornton,Substitution,,0,0,134
+1022600289,191,PT06M25.00S,2,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,v,SUB: Williams FOR Charles,Substitution,,0,0,135
+1022600289,196,PT06M12.00S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-150,218,26,Made,1,23,29,52,v,Zandalasini 26' 3PT Jump Shot (8 PTS) (Burton 5 AST),Made Shot,Jump Shot,1,3,136
+1022600289,198,PT05M52.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,137
+1022600289,198,PT05M52.00S,2,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes STEAL (1 STL),,,1,0,138
+1022600289,200,PT05M41.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,40,25,5,Missed,1,,,0,v,MISS Salaun 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,139
+1022600289,201,PT05M38.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,Salaun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,140
+1022600289,202,PT05M36.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,Salaun Backcourt Turnover (P1.T3),Turnover,Backcourt Turnover,1,0,141
+1022600289,203,PT05M36.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,142
+1022600289,205,PT05M36.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,SUB: Ionescu FOR Gardner,Substitution,,0,0,143
+1022600289,206,PT05M36.00S,2,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,SUB: Astier FOR Xu,Substitution,,0,0,144
+1022600289,207,PT05M36.00S,2,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,SUB: Hayes FOR Salaun,Substitution,,0,0,145
+1022600289,211,PT05M24.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,54,23,6,Missed,1,,,0,h,MISS Johannes 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,146
+1022600289,212,PT05M22.00S,2,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,147
+1022600289,214,PT05M01.00S,2,1611661331,GSV,1631007,Burton,V. Burton,-4,261,26,Missed,1,,,0,v,MISS Burton 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,148
+1022600289,214,PT05M01.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu BLOCK (1 BLK),,,1,3,149
+1022600289,216,PT05M00.00S,2,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Unknown,1,0,150
+1022600289,217,PT05M00.00S,2,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,151
+1022600289,218,PT04M37.00S,2,1611661313,NYL,204296,Allen,R. Allen,92,168,19,Missed,1,,,0,h,MISS Allen 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,152
+1022600289,219,PT04M35.00S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,Zandalasini REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,153
+1022600289,220,PT04M29.00S,2,1611661331,GSV,203026,Hayes,T. Hayes,183,170,25,Missed,1,,,0,v,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+1022600289,221,PT04M27.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,155
+1022600289,222,PT04M20.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,-201,120,0,Missed,1,,,0,h,MISS Ionescu 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,156
+1022600289,223,PT04M19.00S,2,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,157
+1022600289,224,PT03M56.00S,2,1611661331,GSV,1628931,Williams,G. Williams,-161,189,25,Made,1,23,32,55,v,Williams 25' 3PT Pullup Jump Shot (8 PTS) (Stokes 2 AST),Made Shot,Pullup Jump shot,1,3,158
+1022600289,226,PT03M39.00S,2,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P3.T1),Foul,Shooting,1,0,159
+1022600289,228,PT03M39.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,24,32,56,h,Ionescu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,160
+1022600289,229,PT03M39.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,SUB: Fiebich FOR Allen,Substitution,,0,0,161
+1022600289,230,PT03M39.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,SUB: Jones FOR Johannes,Substitution,,0,0,162
+1022600289,231,PT03M39.00S,2,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,SUB: Charles FOR Williams,Substitution,,0,0,163
+1022600289,235,PT03M39.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,25,32,57,h,Ionescu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,164
+1022600289,236,PT03M24.00S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,183,174,25,Made,1,25,35,60,v,Zandalasini 25' 3PT Jump Shot (11 PTS) (Stokes 3 AST),Made Shot,Jump Shot,1,3,165
+1022600289,238,PT03M22.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,166
+1022600289,239,PT03M08.00S,2,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,v,Hayes S.FOUL (P1.T2),Foul,Shooting,1,0,167
+1022600289,241,PT03M08.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,26,35,61,h,Stewart Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,168
+1022600289,242,PT03M08.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,27,35,62,h,Stewart Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,169
+1022600289,243,PT02M48.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich S.FOUL (P1.T3),Foul,Shooting,1,0,170
+1022600289,245,PT02M48.00S,2,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,27,36,63,v,Hayes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,171
+1022600289,246,PT02M48.00S,2,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,v,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,172
+1022600289,247,PT02M46.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,173
+1022600289,248,PT02M31.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Traveling Turnover (P1.T6),Turnover,Traveling,1,0,174
+1022600289,249,PT02M08.00S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-4,249,25,Missed,1,,,0,v,MISS Zandalasini 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+1022600289,250,PT02M06.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,176
+1022600289,251,PT01M59.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,234,23,24,Missed,1,,,0,h,MISS Fiebich 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,177
+1022600289,252,PT01M57.00S,2,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,178
+1022600289,253,PT01M32.00S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-224,45,0,Made,1,27,39,66,v,Zandalasini 3PT Step Back Jump Shot (14 PTS) (Burton 6 AST),Made Shot,Step Back Jump shot,1,3,179
+1022600289,255,PT01M20.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,16,240,24,Made,1,30,39,69,h,Ionescu 24' 3PT Pullup Jump Shot (5 PTS) (Astier 3 AST),Made Shot,Pullup Jump shot,1,3,180
+1022600289,257,PT00M54.20S,2,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-201,163,26,Missed,1,,,0,v,MISS Zandalasini 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,181
+1022600289,258,PT00M53.90S,2,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,182
+1022600289,259,PT00M50.60S,2,1611661331,GSV,203026,Hayes,T. Hayes,152,203,25,Made,1,30,42,72,v,Hayes 25' 3PT Jump Shot (8 PTS) (Stokes 4 AST),Made Shot,Jump Shot,1,3,183
+1022600289,261,PT00M44.10S,2,1611661313,NYL,1627668,Stewart,B. Stewart,4,136,14,Missed,1,,,0,h,MISS Stewart 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,184
+1022600289,262,PT00M42.80S,2,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,v,Charles REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,185
+1022600289,263,PT00M27.30S,2,1611661331,GSV,1631007,Burton,V. Burton,-12,120,12,Missed,1,,,0,v,MISS Burton 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,186
+1022600289,264,PT00M25.20S,2,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,187
+1022600289,265,PT00M21.00S,2,1611661331,GSV,204329,Stokes,K. Stokes,-234,33,24,Missed,1,,,0,v,MISS Stokes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,188
+1022600289,266,PT00M18.40S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,189
+1022600289,268,PT00M04.40S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,187,156,24,Missed,1,,,0,h,MISS Ionescu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+1022600289,269,PT00M01.40S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,191
+1022600289,270,PT00M01.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,192
+1022600289,270,PT00M01.00S,2,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,v,Burton STEAL (1 STL),,,1,0,193
+1022600289,272,PT00M00.20S,2,1611661331,GSV,1631007,Burton,V. Burton,160,406,44,Missed,1,,,0,v,MISS Burton 44' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+1022600289,273,PT00M00.10S,2,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Unknown,0,0,195
+1022600289,274,PT00M00.00S,2,0,,0,,,0,0,0,,0,30,42,72,,End of 2nd Period (8:55 PM EST),period,end,1,0,196
+1022600289,279,PT10M00.00S,3,0,,0,,,0,0,0,,0,30,42,72,,Start of 3rd Period (9:11 PM EST),period,start,1,0,197
+1022600289,280,PT09M36.00S,3,1611661331,GSV,1628931,Williams,G. Williams,109,114,16,Missed,1,,,0,v,MISS Williams 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,198
+1022600289,281,PT09M35.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,199
+1022600289,282,PT09M18.00S,3,1611661313,NYL,1627673,Jones,J. Jones,111,27,11,Missed,1,,,0,h,MISS Jones 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,200
+1022600289,283,PT09M17.00S,3,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,Zandalasini REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,201
+1022600289,284,PT09M05.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier P.FOUL (P2.T1),Foul,Personal,1,0,202
+1022600289,286,PT08M57.00S,3,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-91,80,12,Made,1,30,44,74,v,Zandalasini 12' Jump Shot (16 PTS) (Burton 7 AST),Made Shot,Jump Shot,1,2,203
+1022600289,288,PT08M44.00S,3,1611661313,NYL,1631136,Astier,P. Astier,-66,50,8,Made,1,32,44,76,h,Astier 8' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,204
+1022600289,289,PT08M33.00S,3,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,Zandalasini Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,205
+1022600289,290,PT08M19.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,-53,28,6,Made,1,34,44,78,h,Stewart 6' Driving Reverse Layup (10 PTS) (Ionescu 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,206
+1022600289,292,PT07M59.00S,3,1611661331,GSV,1631007,Burton,V. Burton,-4,23,2,Made,1,34,46,80,v,Burton 2' Driving Finger Roll Layup (3 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,207
+1022600289,293,PT07M45.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,208
+1022600289,293,PT07M45.00S,3,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams STEAL (2 STL),,,1,0,209
+1022600289,295,PT07M33.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart Violation:Kicked Ball,Violation,Kicked Ball,0,0,210
+1022600289,296,PT07M20.00S,3,1611661331,GSV,203866,Thornton,K. Thornton,118,49,13,Missed,1,,,0,v,MISS Thornton 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,211
+1022600289,297,PT07M18.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,212
+1022600289,298,PT07M10.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,-229,65,24,Missed,1,,,0,h,MISS Ionescu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+1022600289,299,PT07M09.00S,3,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,214
+1022600289,300,PT07M00.00S,3,1611661331,GSV,1631007,Burton,V. Burton,-26,11,3,Made,1,34,48,82,v,Burton 3' Cutting Layup Shot (5 PTS) (Zandalasini 1 AST),Made Shot,Cutting Layup Shot,1,2,215
+1022600289,302,PT06M42.00S,3,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,Zandalasini P.FOUL (P1.T1),Foul,Personal,1,0,216
+1022600289,304,PT06M42.00S,3,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,SUB: Salaun FOR Stokes,Substitution,,0,0,217
+1022600289,306,PT06M28.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,-111,129,17,Missed,1,,,0,h,MISS Stewart 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,218
+1022600289,307,PT06M25.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,Salaun REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,219
+1022600289,308,PT06M17.00S,3,1611661331,GSV,1631007,Burton,V. Burton,100,256,27,Made,1,34,51,85,v,Burton 27' 3PT Jump Shot (8 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,220
+1022600289,310,PT06M16.00S,3,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,221
+1022600289,311,PT06M16.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Gardner FOR Astier,Substitution,,0,0,222
+1022600289,312,PT06M16.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Allen FOR Jones,Substitution,,0,0,223
+1022600289,315,PT05M57.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,-10,94,9,Made,1,36,51,87,h,Stewart 9' Turnaround Jump Shot (12 PTS) (Gardner 1 AST),Made Shot,Turnaround Jump Shot,1,2,224
+1022600289,317,PT05M38.00S,3,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-29,16,3,Made,1,36,53,89,v,Zandalasini 3' Driving Finger Roll Layup (18 PTS) (Burton 8 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,225
+1022600289,319,PT05M21.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,26,12,3,Made,1,38,53,91,h,Gardner 3' Driving Reverse Layup (4 PTS) (Ionescu 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,226
+1022600289,321,PT04M56.00S,3,1611661331,GSV,1628931,Williams,G. Williams,220,119,25,Missed,1,,,0,v,MISS Williams 25' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,227
+1022600289,322,PT04M55.00S,3,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,v,Thornton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,228
+1022600289,323,PT04M55.00S,3,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,229
+1022600289,324,PT04M52.00S,3,1611661313,NYL,204296,Allen,R. Allen,197,138,24,Missed,1,,,0,h,MISS Allen 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+1022600289,325,PT04M50.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,231
+1022600289,326,PT04M45.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,164,201,26,Missed,1,,,0,h,MISS Ionescu 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+1022600289,327,PT04M44.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,233
+1022600289,328,PT04M38.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,225,30,0,Missed,1,,,0,h,MISS Ionescu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+1022600289,329,PT04M36.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,235
+1022600289,330,PT04M35.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,-6,1,Made,1,40,53,93,h,Allen 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,236
+1022600289,332,PT04M16.00S,3,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,237
+1022600289,333,PT04M16.00S,3,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,SUB: Chen FOR Williams,Substitution,,0,0,238
+1022600289,334,PT04M16.00S,3,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,v,SUB: Charles FOR Burton,Substitution,,0,0,239
+1022600289,335,PT04M16.00S,3,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,SUB: Hayes FOR Zandalasini,Substitution,,0,0,240
+1022600289,339,PT04M11.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,40,129,14,Missed,1,,,0,v,MISS Salaun 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,241
+1022600289,340,PT04M10.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,242
+1022600289,341,PT04M00.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,52,24,6,Missed,1,,,0,h,MISS Stewart 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,243
+1022600289,342,PT03M59.00S,3,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,v,Thornton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,244
+1022600289,343,PT03M40.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,-7,44,4,Missed,1,,,0,v,MISS Salaun 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,245
+1022600289,344,PT03M39.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,Salaun REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,246
+1022600289,345,PT03M26.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,-88,88,12,Missed,1,,,0,v,MISS Salaun 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,247
+1022600289,346,PT03M25.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,248
+1022600289,347,PT03M13.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,Salaun P.FOUL (P1.T2),Foul,Personal,1,0,249
+1022600289,349,PT03M13.00S,3,1611661331,GSV,203866,Thornton,K. Thornton,0,0,0,,0,,,0,v,SUB: Stokes FOR Thornton,Substitution,,0,0,250
+1022600289,351,PT03M07.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,-5,275,28,Missed,1,,,0,h,MISS Ionescu 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,251
+1022600289,352,PT03M03.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,v,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,252
+1022600289,353,PT02M55.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu P.FOUL (P1.T2),Foul,Personal,1,0,253
+1022600289,355,PT02M49.00S,3,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,v,Chen Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,254
+1022600289,355,PT02M49.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner STEAL (1 STL),,,1,0,255
+1022600289,357,PT02M45.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,-40,30,5,Missed,1,,,0,h,MISS Fiebich 5' Running Layup,Missed Shot,Running Layup Shot,1,2,256
+1022600289,358,PT02M44.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,257
+1022600289,359,PT02M44.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,v,Hayes S.FOUL (P2.T3),Foul,Shooting,1,0,258
+1022600289,361,PT02M44.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,41,53,94,h,Gardner Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,259
+1022600289,362,PT02M44.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,42,53,95,h,Gardner Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,260
+1022600289,363,PT02M27.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P1.T3),Foul,Shooting,1,0,261
+1022600289,365,PT02M27.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,42,54,96,v,Hayes Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,262
+1022600289,366,PT02M27.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,42,55,97,v,Hayes Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,263
+1022600289,367,PT02M10.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,-9,163,16,Missed,1,,,0,h,MISS Ionescu 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,264
+1022600289,368,PT02M09.00S,3,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,Salaun REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,265
+1022600289,369,PT01M54.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,5,50,5,Missed,1,,,0,v,MISS Hayes 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,266
+1022600289,370,PT01M52.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,267
+1022600289,371,PT01M46.00S,3,1611661313,NYL,204296,Allen,R. Allen,-184,164,25,Missed,1,,,0,h,MISS Allen 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,268
+1022600289,372,PT01M43.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,269
+1022600289,373,PT01M38.00S,3,1611661313,NYL,204296,Allen,R. Allen,-113,235,26,Made,1,45,55,100,h,Allen 26' 3PT Jump Shot (5 PTS) (Stewart 2 AST),Made Shot,Jump Shot,1,3,270
+1022600289,375,PT01M38.00S,3,0,,376,Montross,E. Montross,0,0,0,,0,45,55,100,,Instant Replay3rd Period (9:29 PM EST),Instant Replay,Overturn Ruling,0,0,271
+1022600289,376,PT01M38.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich FLAGRANT.FOUL.TYPE1 (P2.T4),Foul,Flagrant Type 1,1,0,272
+1022600289,378,PT01M38.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,SUB: Astier FOR Fiebich,Substitution,,0,0,273
+1022600289,379,PT01M38.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,SUB: Xu FOR Ionescu,Substitution,,0,0,274
+1022600289,382,PT01M38.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,45,56,101,v,Hayes Free Throw Flagrant 1 of 2 (11 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,275
+1022600289,383,PT01M38.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,45,57,102,v,Hayes Free Throw Flagrant 2 of 2 (12 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,276
+1022600289,384,PT01M18.00S,3,1611661331,GSV,204329,Stokes,K. Stokes,-222,85,24,Missed,1,,,0,v,MISS Stokes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+1022600289,385,PT01M16.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,278
+1022600289,386,PT01M05.00S,3,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,v,Charles P.FOUL (P1.T4),Foul,Personal,1,0,279
+1022600289,388,PT01M05.00S,3,1611661331,GSV,203026,Hayes,T. Hayes,0,0,0,,0,,,0,v,SUB: Zandalasini FOR Hayes,Substitution,,0,0,280
+1022600289,390,PT00M58.80S,3,1611661313,NYL,1629566,Han,Han,-176,184,25,Missed,1,,,0,h,MISS Xu 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+1022600289,391,PT00M56.90S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,282
+1022600289,393,PT00M55.40S,3,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,v,Charles S.FOUL (P2.PN),Foul,Shooting,1,0,283
+1022600289,395,PT00M55.40S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,46,57,103,h,Stewart Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,284
+1022600289,396,PT00M55.40S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,47,57,104,h,Stewart Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,285
+1022600289,397,PT00M34.30S,3,1611661331,GSV,1642822,Chen,K. Chen,43,185,19,Made,1,47,59,106,v,Chen 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,286
+1022600289,398,PT00M24.30S,3,1611661313,NYL,1631136,Astier,P. Astier,28,40,5,Missed,1,,,0,h,MISS Astier 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,287
+1022600289,399,PT00M23.40S,3,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,v,Charles REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,288
+1022600289,400,PT00M05.90S,3,1611661331,GSV,1642822,Chen,K. Chen,-29,17,3,Missed,1,,,0,v,MISS Chen 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,289
+1022600289,400,PT00M05.90S,3,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu BLOCK (1 BLK),,,1,2,290
+1022600289,402,PT00M05.90S,3,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Unknown,0,0,291
+1022600289,405,PT00M00.00S,3,0,,0,,,0,0,0,,0,47,59,106,,End of 3rd Period (9:36 PM EST),period,end,1,0,292
+1022600289,410,PT10M00.00S,4,0,,0,,,0,0,0,,0,47,59,106,,Start of 4th Period (9:40 PM EST),period,start,1,0,293
+1022600289,411,PT09M48.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,-181,184,26,Missed,1,,,0,h,MISS Fiebich 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,294
+1022600289,412,PT09M43.00S,4,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,v,Charles REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,295
+1022600289,413,PT09M26.00S,4,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,93,34,10,Made,1,47,61,108,v,Zandalasini 10' Turnaround Fadeaway (20 PTS),Made Shot,Turnaround Fadeaway shot,1,2,296
+1022600289,414,PT09M03.00S,4,1611661313,NYL,1631136,Astier,P. Astier,232,52,24,Missed,1,,,0,h,MISS Astier 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,297
+1022600289,415,PT09M01.00S,4,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,298
+1022600289,416,PT08M46.00S,4,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,191,188,27,Missed,1,,,0,v,MISS Zandalasini 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,299
+1022600289,417,PT08M44.00S,4,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Unknown,0,0,300
+1022600289,419,PT08M44.00S,4,1611661331,GSV,1642822,Chen,K. Chen,0,0,0,,0,,,0,v,SUB: Williams FOR Chen,Substitution,,0,0,301
+1022600289,420,PT08M44.00S,4,1611661331,GSV,1630097,Charles,K. Charles,0,0,0,,0,,,0,v,SUB: Burton FOR Charles,Substitution,,0,0,302
+1022600289,423,PT08M33.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart P.FOUL (P1.T1),Foul,Personal,1,0,303
+1022600289,425,PT08M33.00S,4,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,SUB: Ionescu FOR Gardner,Substitution,,0,0,304
+1022600289,427,PT08M27.00S,4,1611661331,GSV,1628931,Williams,G. Williams,-27,13,3,Made,1,47,63,110,v,Williams 3' Cutting Layup Shot (10 PTS) (Burton 9 AST),Made Shot,Cutting Layup Shot,1,2,305
+1022600289,429,PT08M16.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,306
+1022600289,430,PT08M00.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,-211,40,21,Made,1,47,65,112,v,Salaun 21' Pullup Jump Shot (4 PTS) (Williams 3 AST),Made Shot,Pullup Jump shot,1,2,307
+1022600289,432,PT07M48.00S,4,1611661313,NYL,1627673,Jones,J. Jones,33,38,5,Missed,1,,,0,h,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,308
+1022600289,432,PT07M48.00S,4,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes BLOCK (1 BLK),,,1,2,309
+1022600289,434,PT07M48.00S,4,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Unknown,0,0,310
+1022600289,436,PT07M48.00S,4,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,311
+1022600289,437,PT07M48.00S,4,0,,435,Rogers,C. Rogers,0,0,0,,0,47,65,112,,Instant Replay4th Period (9:44 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,312
+1022600289,438,PT07M48.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Gardner FOR Astier,Substitution,,0,0,313
+1022600289,440,PT07M46.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich P.FOUL (P3.T2),Foul,Personal,1,0,314
+1022600289,442,PT07M26.00S,4,1611661331,GSV,1631007,Burton,V. Burton,-33,18,4,Missed,1,,,0,v,MISS Burton 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,315
+1022600289,442,PT07M26.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones BLOCK (2 BLK),,,1,2,316
+1022600289,444,PT07M24.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,Salaun REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,317
+1022600289,445,PT07M22.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,-28,25,4,Missed,1,,,0,v,MISS Salaun 4' Layup,Missed Shot,Layup Shot,1,2,318
+1022600289,446,PT07M21.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,319
+1022600289,447,PT07M07.00S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams S.FOUL (P4.T1),Foul,Shooting,1,0,320
+1022600289,449,PT07M07.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,48,65,113,h,Stewart Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,321
+1022600289,450,PT07M07.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,MISS Stewart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,322
+1022600289,451,PT07M06.00S,4,0,,1611661331,,,0,0,0,,0,,,0,v,Valkyries Rebound,Rebound,Unknown,0,0,323
+1022600289,453,PT07M05.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,Stewart Violation:Kicked Ball,Violation,Kicked Ball,0,0,324
+1022600289,454,PT06M49.00S,4,1611661331,GSV,1628931,Williams,G. Williams,-6,23,2,Missed,1,,,0,v,MISS Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,325
+1022600289,454,PT06M49.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones BLOCK (3 BLK),,,1,2,326
+1022600289,456,PT06M47.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,327
+1022600289,457,PT06M39.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,-235,30,24,Missed,1,,,0,h,MISS Ionescu 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,328
+1022600289,458,PT06M38.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,329
+1022600289,459,PT06M36.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,-6,1,Made,1,50,65,115,h,Jones 1' Layup (12 PTS),Made Shot,Layup Shot,1,2,330
+1022600289,460,PT06M11.00S,4,1611661331,GSV,1628931,Williams,G. Williams,-222,71,0,Made,1,50,68,118,v,Williams 3PT Jump Shot (13 PTS) (Burton 10 AST),Made Shot,Jump Shot,1,3,331
+1022600289,462,PT05M58.00S,4,1611661313,NYL,1627673,Jones,J. Jones,29,283,28,Made,1,53,68,121,h,Jones 28' 3PT Jump Shot (15 PTS) (Ionescu 4 AST),Made Shot,Jump Shot,1,3,332
+1022600289,464,PT05M44.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,182,168,25,Made,1,53,71,124,v,Salaun 25' 3PT Jump Shot (7 PTS) (Burton 11 AST),Made Shot,Jump Shot,1,3,333
+1022600289,466,PT05M32.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,-5,82,8,Missed,1,,,0,h,MISS Ionescu 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,334
+1022600289,467,PT05M30.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,Salaun REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,335
+1022600289,468,PT05M13.00S,4,1611661331,GSV,1628931,Williams,G. Williams,72,246,26,Missed,1,,,0,v,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,336
+1022600289,472,PT05M10.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,337
+1022600289,469,PT05M10.00S,4,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Jump Ball Gardner vs. Burton: Tip to Jones,Jump Ball,,1,0,338
+1022600289,473,PT05M02.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,22,23,3,Made,1,55,71,126,h,Ionescu 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,339
+1022600289,474,PT04M57.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich P.FOUL (P4.T3),Foul,Personal,1,0,340
+1022600289,476,PT04M39.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones P.FOUL (P2.T4),Foul,Personal,1,0,341
+1022600289,478,PT04M39.00S,4,0,,476,,,0,0,0,,0,55,71,126,,Instant Replay4th Period (9:53 PM EST),Instant Replay,Ruling Stands,0,0,342
+1022600289,479,PT04M28.00S,4,1611661331,GSV,1628931,Williams,G. Williams,-171,184,25,Made,1,55,74,129,v,Williams 25' 3PT Jump Shot (16 PTS) (Burton 12 AST),Made Shot,Jump Shot,1,3,343
+1022600289,481,PT04M10.00S,4,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,Zandalasini S.FOUL (P2.T2),Foul,Shooting,1,0,344
+1022600289,483,PT04M10.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,MISS Stewart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,345
+1022600289,484,PT04M10.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Normal Rebound,0,0,346
+1022600289,485,PT04M10.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,56,74,130,h,Stewart Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,347
+1022600289,486,PT03M48.00S,4,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,160,9,16,Missed,1,,,0,v,MISS Zandalasini 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,348
+1022600289,487,PT03M46.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,349
+1022600289,488,PT03M37.00S,4,1611661313,NYL,1627673,Jones,J. Jones,91,238,25,Made,1,59,74,133,h,Jones 25' 3PT Jump Shot (18 PTS) (Gardner 2 AST),Made Shot,Jump Shot,1,3,350
+1022600289,490,PT03M13.00S,4,1611661331,GSV,204329,Stokes,K. Stokes,34,23,4,Made,1,59,76,135,v,Stokes 4' Layup (2 PTS) (Burton 13 AST),Made Shot,Layup Shot,0,2,351
+1022600289,492,PT03M13.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,352
+1022600289,493,PT03M13.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,SUB: Fauthoux FOR Fiebich,Substitution,,0,0,353
+1022600289,494,PT03M13.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,SUB: Carrera FOR Ionescu,Substitution,,0,0,354
+1022600289,495,PT03M13.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,h,SUB: Astier FOR Stewart,Substitution,,0,0,355
+1022600289,496,PT03M13.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Xu FOR Jones,Substitution,,0,0,356
+1022600289,497,PT03M13.00S,4,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,SUB: Johannes FOR Gardner,Substitution,,0,0,357
+1022600289,503,PT03M00.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,-61,78,10,Missed,1,,,0,h,MISS Fauthoux 10' Driving Layup,Missed Shot,Driving Layup Shot,1,2,358
+1022600289,504,PT02M58.00S,4,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,359
+1022600289,505,PT02M33.00S,4,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,-210,91,0,Missed,1,,,0,v,MISS Zandalasini 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+1022600289,506,PT02M31.00S,4,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,361
+1022600289,507,PT02M20.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,230,45,0,Missed,1,,,0,h,MISS Fauthoux 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+1022600289,508,PT02M18.00S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,363
+1022600289,509,PT02M01.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,123,211,24,Missed,1,,,0,v,MISS Salaun 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,364
+1022600289,510,PT01M59.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,365
+1022600289,511,PT01M42.00S,4,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,Stokes P.FOUL (P2.T3),Foul,Personal,1,0,366
+1022600289,513,PT01M42.00S,4,1611661331,GSV,1628931,Williams,G. Williams,0,0,0,,0,,,0,v,SUB: Amihere FOR Williams,Substitution,,0,0,367
+1022600289,514,PT01M42.00S,4,1611661331,GSV,1642767,Salaun,J. Salaun,0,0,0,,0,,,0,v,SUB: Jocyte FOR Salaun,Substitution,,0,0,368
+1022600289,515,PT01M42.00S,4,1611661331,GSV,1631007,Burton,V. Burton,0,0,0,,0,,,0,v,SUB: Sowah FOR Burton,Substitution,,0,0,369
+1022600289,516,PT01M42.00S,4,1611661331,GSV,1628508,Zandalasini,C. Zandalasini,0,0,0,,0,,,0,v,SUB: Prechtel FOR Zandalasini,Substitution,,0,0,370
+1022600289,517,PT01M42.00S,4,1611661331,GSV,204329,Stokes,K. Stokes,0,0,0,,0,,,0,v,SUB: Fingall FOR Stokes,Substitution,,0,0,371
+1022600289,523,PT01M33.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,227,57,0,Missed,1,,,0,h,MISS Fauthoux 3PT Jump Shot,Missed Shot,Jump Shot,1,3,372
+1022600289,524,PT01M31.00S,4,1611661331,GSV,1631039,Sowah,M. Sowah,0,0,0,,0,,,0,v,Sowah REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,373
+1022600289,525,PT01M13.00S,4,1611661331,GSV,1641695,Prechtel,A. Prechtel,0,0,0,,0,,,0,v,Prechtel Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,374
+1022600289,525,PT01M13.00S,4,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,Carrera STEAL (1 STL),,,1,0,375
+1022600289,527,PT00M59.10S,4,1611661313,NYL,1631136,Astier,P. Astier,29,54,6,Missed,1,,,0,h,MISS Astier 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,376
+1022600289,528,PT00M57.90S,4,1611661331,GSV,1641695,Prechtel,A. Prechtel,0,0,0,,0,,,0,v,Prechtel REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,377
+1022600289,529,PT00M48.10S,4,1611661331,GSV,1643686,Fingall,N. Fingall,0,0,0,,0,,,0,v,Fingall Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,378
+1022600289,530,PT00M41.70S,4,1611661331,GSV,1631039,Sowah,M. Sowah,0,0,0,,0,,,0,v,Sowah P.FOUL (P1.PN),Foul,Personal,1,0,379
+1022600289,532,PT00M41.70S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,MISS Fauthoux Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,380
+1022600289,533,PT00M41.70S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Normal Rebound,0,0,381
+1022600289,534,PT00M41.70S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,60,76,136,h,Fauthoux Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,382
+1022600289,535,PT00M34.40S,4,1611661331,GSV,1641695,Prechtel,A. Prechtel,-212,97,0,Made,1,60,79,139,v,Prechtel 3PT Jump Shot (3 PTS) (Jocyte 1 AST),Made Shot,Jump Shot,1,3,383
+1022600289,537,PT00M21.60S,4,1611661313,NYL,1630384,Carrera,R. Carrera,-234,33,24,Missed,1,,,0,h,MISS Carrera 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+1022600289,538,PT00M18.60S,4,1611661331,GSV,1641695,Prechtel,A. Prechtel,0,0,0,,0,,,0,v,Prechtel REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,385
+1022600289,539,PT00M00.00S,4,0,,0,,,0,0,0,,0,60,79,139,,End of 4th Period (10:05 PM EST),period,end,1,0,386

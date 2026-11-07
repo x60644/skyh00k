@@ -1,0 +1,447 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600307,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:33 PM EST),period,start,1,0,1
+1022600307,4,PT10M00.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Jump Ball Howard vs. Jones: Tip to Astier,Jump Ball,,1,0,2
+1022600307,7,PT09M46.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,3
+1022600307,8,PT09M33.00S,1,1611661324,MIN,1643426,Miles,O. Miles,135,213,25,Missed,1,,,0,h,MISS Miles 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+1022600307,9,PT09M29.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+1022600307,10,PT09M09.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,150,190,24,Made,1,0,3,3,v,Stewart 24' 3PT Jump Shot (3 PTS) (Ionescu 1 AST),Made Shot,Jump Shot,1,3,6
+1022600307,12,PT08M55.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,7
+1022600307,13,PT08M44.00S,1,1611661313,NYL,1627673,Jones,J. Jones,-12,2,1,Made,1,0,5,5,v,Jones 1' Driving Layup (2 PTS) (Astier 1 AST),Made Shot,Driving Layup Shot,1,2,8
+1022600307,15,PT08M44.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard S.FOUL (P1.T1),Foul,Shooting,1,0,9
+1022600307,17,PT08M44.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,0,6,6,v,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,10
+1022600307,19,PT08M43.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich P.FOUL (P1.T1),Foul,Personal,1,0,11
+1022600307,21,PT08M32.00S,1,1611661324,MIN,1627675,Williams,C. Williams,-54,15,6,Made,1,2,6,8,h,Williams 6' Driving Floating Jump Shot (2 PTS) (Collier 1 AST),Made Shot,Driving Floating Jump Shot,1,2,12
+1022600307,22,PT08M27.00S,1,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier P.FOUL (P1.T2),Foul,Personal,1,0,13
+1022600307,24,PT08M24.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu OFF.Foul (P1),Foul,Offensive,1,0,14
+1022600307,26,PT08M24.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu Offensive Foul Turnover (P2.T2),Turnover,Offensive Foul Turnover,1,0,15
+1022600307,27,PT08M06.00S,1,1611661324,MIN,1627675,Williams,C. Williams,-134,210,25,Made,1,5,6,11,h,Williams 25' 3PT Jump Shot (5 PTS) (Miles 1 AST),Made Shot,Jump Shot,1,3,16
+1022600307,29,PT07M48.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,-50,5,5,Missed,1,,,0,v,MISS Ionescu 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,17
+1022600307,29,PT07M48.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard BLOCK (1 BLK),,,1,2,18
+1022600307,31,PT07M45.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+1022600307,32,PT07M42.00S,1,1611661324,MIN,203825,McBride,K. McBride,232,-5,0,Missed,1,,,0,h,MISS McBride 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,20
+1022600307,33,PT07M41.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,21
+1022600307,34,PT07M38.00S,1,1611661324,MIN,1643426,Miles,O. Miles,-15,17,2,Made,1,7,6,13,h,Miles 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,22
+1022600307,35,PT07M27.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,23
+1022600307,35,PT07M27.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams STEAL (1 STL),,,1,0,24
+1022600307,37,PT07M24.00S,1,1611661324,MIN,1627675,Williams,C. Williams,27,8,3,Made,1,9,6,15,h,Williams 3' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,25
+1022600307,38,PT07M08.00S,1,1611661313,NYL,1627673,Jones,J. Jones,26,227,0,Missed,1,,,0,v,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+1022600307,39,PT07M05.00S,1,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+1022600307,40,PT07M01.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier P.FOUL (P1.T2),Foul,Personal,1,0,28
+1022600307,43,PT06M50.00S,1,1611661324,MIN,1629483,Collier,N. Collier,-11,121,12,Made,1,11,6,17,h,Collier 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,29
+1022600307,44,PT06M27.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,18,231,0,Made,1,11,9,20,v,Ionescu 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,30
+1022600307,45,PT06M18.00S,1,1611661324,MIN,1643426,Miles,O. Miles,-27,-9,3,Missed,1,,,0,h,MISS Miles 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,31
+1022600307,45,PT06M18.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones BLOCK (1 BLK),,,1,2,32
+1022600307,47,PT06M17.00S,1,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,33
+1022600307,49,PT06M14.00S,1,1611661324,MIN,1627675,Williams,C. Williams,-190,1,19,Made,1,13,9,22,h,Williams 19' Jump Shot (9 PTS) (Howard 1 AST),Made Shot,Jump Shot,1,2,34
+1022600307,51,PT06M01.00S,1,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier P.FOUL (P2.T3),Foul,Personal,1,0,35
+1022600307,53,PT06M01.00S,1,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,SUB: Brodie FOR Collier,Substitution,,0,0,36
+1022600307,55,PT05M51.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,15,-9,2,Missed,1,,,0,v,MISS Fiebich 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,37
+1022600307,55,PT05M51.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard BLOCK (2 BLK),,,1,2,38
+1022600307,57,PT05M51.00S,1,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Rebound,Rebound,Unknown,1,0,39
+1022600307,59,PT05M49.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,226,47,0,Made,1,13,12,25,v,Ionescu 3PT Jump Shot (6 PTS) (Astier 2 AST),Made Shot,Jump Shot,1,3,40
+1022600307,61,PT05M38.00S,1,1611661324,MIN,203825,McBride,K. McBride,-15,51,5,Made,1,15,12,27,h,McBride 5' Driving Finger Roll Layup (2 PTS) (Howard 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,41
+1022600307,62,PT05M31.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams P.FOUL (P1.T4),Foul,Personal,1,0,42
+1022600307,64,PT05M15.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,43
+1022600307,65,PT04M57.00S,1,1611661324,MIN,1643426,Miles,O. Miles,23,8,2,Missed,1,,,0,h,MISS Miles 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,44
+1022600307,66,PT04M55.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+1022600307,67,PT04M42.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0,46
+1022600307,67,PT04M42.00S,1,1611661324,MIN,1628269,Brodie,N. Brodie,0,0,0,,0,,,0,h,Brodie STEAL (1 STL),,,1,0,47
+1022600307,69,PT04M35.00S,1,1611661324,MIN,1643426,Miles,O. Miles,-21,7,2,Missed,1,,,0,h,MISS Miles 2' Running Layup,Missed Shot,Running Layup Shot,1,2,48
+1022600307,70,PT04M32.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+1022600307,71,PT04M23.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,-26,54,6,Missed,1,,,0,v,MISS Fiebich 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,50
+1022600307,71,PT04M23.00S,1,1611661324,MIN,1628269,Brodie,N. Brodie,0,0,0,,0,,,0,h,Brodie BLOCK (1 BLK),,,1,2,51
+1022600307,73,PT04M20.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,52
+1022600307,74,PT04M07.00S,1,1611661324,MIN,1643426,Miles,O. Miles,-7,167,17,Missed,1,,,0,h,MISS Miles 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,53
+1022600307,75,PT04M04.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,54
+1022600307,76,PT04M01.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P2.PN),Foul,Shooting,1,0,55
+1022600307,78,PT04M01.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,56
+1022600307,79,PT04M01.00S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,SUB: Caldwell FOR Howard,Substitution,,0,0,57
+1022600307,80,PT04M01.00S,1,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,SUB: Juhasz FOR Miles,Substitution,,0,0,58
+1022600307,81,PT04M01.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,SUB: Gardner FOR Astier,Substitution,,0,0,59
+1022600307,82,PT04M01.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,SUB: Xu FOR Jones,Substitution,,0,0,60
+1022600307,87,PT04M01.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,15,13,28,v,Stewart Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,61
+1022600307,88,PT04M01.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,MISS Stewart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,62
+1022600307,89,PT03M59.00S,1,1611661324,MIN,1641657,Juhasz,D. Juhasz,0,0,0,,0,,,0,h,Juhasz REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+1022600307,90,PT03M40.00S,1,1611661324,MIN,1641657,Juhasz,D. Juhasz,-45,98,11,Missed,1,,,0,h,MISS Juhasz 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,64
+1022600307,91,PT03M37.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+1022600307,92,PT03M22.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,66
+1022600307,93,PT03M17.00S,1,1611661324,MIN,1641657,Juhasz,D. Juhasz,0,0,0,,0,,,0,h,Juhasz Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,67
+1022600307,93,PT03M17.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart STEAL (1 STL),,,1,0,68
+1022600307,95,PT03M15.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,16,6,2,Made,1,15,15,30,v,Stewart 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,69
+1022600307,96,PT03M15.00S,1,1611661324,MIN,1641657,Juhasz,D. Juhasz,0,0,0,,0,,,0,h,Juhasz S.FOUL (P1.PN),Foul,Shooting,1,0,70
+1022600307,98,PT03M15.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,SUB: Johannes FOR Ionescu,Substitution,,0,0,71
+1022600307,100,PT03M15.00S,1,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,15,16,31,v,Stewart Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,72
+1022600307,102,PT02M54.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,-12,65,7,Missed,1,,,0,h,MISS Caldwell 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,73
+1022600307,103,PT02M50.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+1022600307,104,PT02M47.00S,1,1611661324,MIN,1627675,Williams,C. Williams,-20,110,11,Missed,1,,,0,h,MISS Williams 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,75
+1022600307,105,PT02M44.00S,1,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,v,Gardner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+1022600307,106,PT02M28.00S,1,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,v,Gardner Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,77
+1022600307,106,PT02M28.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride STEAL (1 STL),,,1,0,78
+1022600307,108,PT02M23.00S,1,1611661324,MIN,1627675,Williams,C. Williams,-46,156,16,Missed,1,,,0,h,MISS Williams 16' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,79
+1022600307,109,PT02M19.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+1022600307,110,PT02M07.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,166,187,25,Made,1,15,19,34,v,Johannes 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,81
+1022600307,111,PT01M46.00S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,-172,183,25,Made,1,18,19,37,h,Caldwell 25' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,82
+1022600307,113,PT01M31.00S,1,1611661313,NYL,1629546,Johannes,M. Johannes,159,201,26,Missed,1,,,0,v,MISS Johannes 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,83
+1022600307,114,PT01M28.00S,1,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,0,0,84
+1022600307,115,PT01M28.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich L.B.FOUL (P2.T3),Foul,Loose Ball,1,0,85
+1022600307,118,PT01M28.00S,1,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Miles FOR Williams,Substitution,,0,0,86
+1022600307,119,PT01M28.00S,1,1611661324,MIN,1628269,Brodie,N. Brodie,0,0,0,,0,,,0,h,SUB: Howard FOR Brodie,Substitution,,0,0,87
+1022600307,120,PT01M28.00S,1,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,SUB: Collier FOR McBride,Substitution,,0,0,88
+1022600307,126,PT01M28.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,SUB: Allen FOR Fiebich,Substitution,,0,0,89
+1022600307,124,PT01M05.00S,1,1611661324,MIN,203827,Howard,N. Howard,-16,8,2,Made,1,20,19,39,h,Howard 2' Driving Layup (2 PTS) (Miles 2 AST),Made Shot,Driving Layup Shot,1,2,90
+1022600307,128,PT00M48.00S,1,1611661313,NYL,1629566,Han,Han,-2,-14,1,Missed,1,,,0,v,MISS Xu 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,91
+1022600307,129,PT00M46.70S,1,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,92
+1022600307,130,PT00M35.30S,1,1611661324,MIN,1629483,Collier,N. Collier,-44,88,10,Missed,1,,,0,h,MISS Collier 10' Jump Shot,Missed Shot,Jump Shot,1,2,93
+1022600307,131,PT00M32.80S,1,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,v,Xu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+1022600307,132,PT00M32.80S,1,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Jump Ball Howard vs. Xu: Tip to Allen,Jump Ball,,1,0,95
+1022600307,135,PT00M10.20S,1,1611661313,NYL,203822,Gardner,R. Gardner,-236,-14,24,Missed,1,,,0,v,MISS Gardner 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+1022600307,136,PT00M07.20S,1,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,97
+1022600307,137,PT00M00.80S,1,1611661324,MIN,1643426,Miles,O. Miles,173,227,29,Missed,1,,,0,h,MISS Miles 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,98
+1022600307,138,PT00M00.80S,1,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,99
+1022600307,139,PT00M00.00S,1,0,,0,,,0,0,0,,0,20,19,39,,End of 1st Period (7:53 PM EST),period,end,1,0,100
+1022600307,146,PT10M00.00S,2,0,,0,,,0,0,0,,0,20,19,39,,Start of 2nd Period (7:56 PM EST),period,start,1,0,101
+1022600307,147,PT09M43.00S,2,1611661324,MIN,203827,Howard,N. Howard,-23,18,3,Made,1,22,19,41,h,Howard 3' Driving Layup (4 PTS) (Caldwell 1 AST),Made Shot,Driving Layup Shot,1,2,102
+1022600307,149,PT09M43.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich S.FOUL (P3.T1),Foul,Shooting,1,0,103
+1022600307,151,PT09M43.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,23,19,42,h,Howard Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,104
+1022600307,152,PT09M25.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,223,9,0,Missed,1,,,0,v,MISS Fiebich 3PT Jump Shot,Missed Shot,Jump Shot,1,3,105
+1022600307,153,PT09M21.00S,2,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,106
+1022600307,154,PT09M16.00S,2,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,107
+1022600307,154,PT09M16.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich STEAL (1 STL),,,1,0,108
+1022600307,156,PT09M12.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,179,217,28,Missed,1,,,0,v,MISS Johannes 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,109
+1022600307,157,PT09M09.00S,2,1611661324,MIN,1641657,Juhasz,D. Juhasz,0,0,0,,0,,,0,h,Juhasz REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,110
+1022600307,158,PT08M50.00S,2,1611661324,MIN,203827,Howard,N. Howard,15,11,2,Missed,1,,,0,h,MISS Howard 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,111
+1022600307,159,PT08M49.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,112
+1022600307,160,PT08M41.00S,2,1611661313,NYL,204296,Allen,R. Allen,232,26,0,Missed,1,,,0,v,MISS Allen 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+1022600307,161,PT08M38.00S,2,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,114
+1022600307,162,PT08M30.00S,2,1611661324,MIN,1643426,Miles,O. Miles,-66,36,8,Missed,1,,,0,h,MISS Miles 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,115
+1022600307,163,PT08M28.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,116
+1022600307,164,PT08M21.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard S.FOUL (P2.T1),Foul,Shooting,1,0,117
+1022600307,166,PT08M21.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,23,20,43,v,Allen Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,118
+1022600307,167,PT08M21.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,SUB: McBride FOR Howard,Substitution,,0,0,119
+1022600307,168,PT08M21.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,SUB: Stewart FOR Fiebich,Substitution,,0,0,120
+1022600307,171,PT08M21.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,23,21,44,v,Allen Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,121
+1022600307,172,PT08M14.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles OFF.Foul (P1),Foul,Offensive,1,0,122
+1022600307,174,PT08M14.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,123
+1022600307,176,PT08M06.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,v,Johannes Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,124
+1022600307,178,PT07M53.00S,2,1611661324,MIN,203825,McBride,K. McBride,22,7,2,Made,1,25,21,46,h,McBride 2' Cutting Layup Shot (4 PTS) (Juhasz 1 AST),Made Shot,Cutting Layup Shot,1,2,125
+1022600307,180,PT07M53.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P1.T2),Foul,Shooting,1,0,126
+1022600307,182,PT07M53.00S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,26,21,47,h,McBride Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,127
+1022600307,183,PT07M37.00S,2,1611661313,NYL,1631136,Astier,P. Astier,-28,6,3,Made,1,26,23,49,v,Astier 3' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,128
+1022600307,184,PT07M23.00S,2,1611661324,MIN,1641657,Juhasz,D. Juhasz,145,178,0,Missed,1,,,0,h,MISS Juhasz 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+1022600307,185,PT07M20.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+1022600307,186,PT07M13.00S,2,1611661313,NYL,1627673,Jones,J. Jones,28,1,3,Missed,1,,,0,v,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,131
+1022600307,188,PT07M10.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,132
+1022600307,189,PT07M07.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,133
+1022600307,190,PT07M07.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,v,SUB: Ionescu FOR Johannes,Substitution,,0,0,134
+1022600307,192,PT06M57.00S,2,1611661313,NYL,1631136,Astier,P. Astier,-21,-1,2,Made,1,26,25,51,v,Astier 2' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,1,2,135
+1022600307,193,PT06M42.00S,2,1611661324,MIN,1641657,Juhasz,D. Juhasz,-181,148,0,Missed,1,,,0,h,MISS Juhasz 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+1022600307,194,PT06M39.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,137
+1022600307,195,PT06M30.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,232,4,0,Missed,1,,,0,v,MISS Ionescu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+1022600307,196,PT06M27.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,139
+1022600307,197,PT06M17.00S,2,1611661313,NYL,1627673,Jones,J. Jones,17,7,2,Made,1,26,27,53,v,Jones 2' Cutting Layup Shot (5 PTS) (Ionescu 2 AST),Made Shot,Cutting Layup Shot,1,2,140
+1022600307,199,PT06M17.00S,2,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,141
+1022600307,200,PT06M17.00S,2,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,SUB: Brodie FOR Caldwell,Substitution,,0,0,142
+1022600307,201,PT06M17.00S,2,1611661324,MIN,1641657,Juhasz,D. Juhasz,0,0,0,,0,,,0,h,SUB: Williams FOR Juhasz,Substitution,,0,0,143
+1022600307,204,PT06M08.00S,2,1611661324,MIN,1628269,Brodie,N. Brodie,-95,233,25,Missed,1,,,0,h,MISS Brodie 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+1022600307,205,PT06M05.00S,2,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,145
+1022600307,206,PT06M04.00S,2,1611661324,MIN,1627675,Williams,C. Williams,180,147,0,Made,1,29,27,56,h,Williams 3PT Jump Shot (12 PTS) (Collier 2 AST),Made Shot,Jump Shot,1,3,146
+1022600307,209,PT05M48.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,-23,16,3,Missed,1,,,0,v,MISS Stewart 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,147
+1022600307,210,PT05M46.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,148
+1022600307,211,PT05M45.00S,2,1611661313,NYL,1627673,Jones,J. Jones,162,34,17,Made,1,29,29,58,v,Jones 17' Jump Shot (7 PTS) (Stewart 1 AST),Made Shot,Jump Shot,1,2,149
+1022600307,213,PT05M27.00S,2,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,150
+1022600307,213,PT05M27.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu STEAL (1 STL),,,1,0,151
+1022600307,215,PT05M21.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,37,99,11,Missed,1,,,0,v,MISS Stewart 11' Jump Shot,Missed Shot,Jump Shot,1,2,152
+1022600307,216,PT05M18.00S,2,1611661324,MIN,1628269,Brodie,N. Brodie,0,0,0,,0,,,0,h,Brodie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,153
+1022600307,217,PT05M09.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier L.B.FOUL (P2.T3),Foul,Loose Ball,1,0,154
+1022600307,220,PT05M02.00S,2,1611661324,MIN,203825,McBride,K. McBride,-12,33,4,Missed,1,,,0,h,MISS McBride 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,155
+1022600307,221,PT05M00.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,156
+1022600307,222,PT04M49.00S,2,1611661313,NYL,1627673,Jones,J. Jones,23,-21,3,Missed,1,,,0,v,MISS Jones 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,157
+1022600307,224,PT04M48.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,158
+1022600307,225,PT04M48.00S,2,1611661313,NYL,1627673,Jones,J. Jones,18,1,2,Missed,1,,,0,v,MISS Jones 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,159
+1022600307,225,PT04M48.00S,2,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier BLOCK (1 BLK),,,1,2,160
+1022600307,226,PT04M47.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,161
+1022600307,227,PT04M40.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,v,Allen P.FOUL (P2.T4),Foul,Personal,1,0,162
+1022600307,229,PT04M38.00S,2,1611661324,MIN,203825,McBride,K. McBride,101,190,22,Missed,1,,,0,h,MISS McBride 22' Jump Shot,Missed Shot,Jump Shot,1,2,163
+1022600307,230,PT04M34.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,164
+1022600307,231,PT04M23.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,-11,58,6,Missed,1,,,0,v,MISS Stewart 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,165
+1022600307,232,PT04M22.00S,2,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,166
+1022600307,233,PT04M14.00S,2,1611661324,MIN,1629483,Collier,N. Collier,-156,199,25,Missed,1,,,0,h,MISS Collier 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+1022600307,234,PT04M12.00S,2,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Rebound,Rebound,Unknown,1,0,168
+1022600307,236,PT04M12.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,SUB: Xu FOR Jones,Substitution,,0,0,169
+1022600307,238,PT03M50.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,44,112,12,Missed,1,,,0,v,MISS Stewart 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,170
+1022600307,239,PT03M47.00S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,171
+1022600307,240,PT03M41.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier S.FOUL (P3.PN),Foul,Shooting,1,0,172
+1022600307,242,PT03M41.00S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,30,29,59,h,McBride Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,173
+1022600307,243,PT03M41.00S,2,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,174
+1022600307,244,PT03M41.00S,2,1611661324,MIN,1628269,Brodie,N. Brodie,0,0,0,,0,,,0,h,SUB: Howard FOR Brodie,Substitution,,0,0,175
+1022600307,245,PT03M41.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,SUB: Gardner FOR Astier,Substitution,,0,0,176
+1022600307,248,PT03M41.00S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,31,29,60,h,McBride Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,177
+1022600307,249,PT03M21.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu OFF.Foul (P2),Foul,Offensive,1,0,178
+1022600307,251,PT03M21.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu Offensive Foul Turnover (P4.T9),Turnover,Offensive Foul Turnover,1,0,179
+1022600307,252,PT03M08.00S,2,1611661324,MIN,1627675,Williams,C. Williams,41,115,12,Missed,1,,,0,h,MISS Williams 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,180
+1022600307,253,PT03M07.00S,2,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,0,0,181
+1022600307,254,PT03M07.00S,2,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,v,Xu L.B.FOUL (P1.PN),Foul,Loose Ball,1,0,182
+1022600307,256,PT03M07.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,32,29,61,h,Howard Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,183
+1022600307,258,PT03M07.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,33,29,62,h,Howard Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,184
+1022600307,259,PT02M53.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,-45,113,12,Made,1,33,31,64,v,Ionescu 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,185
+1022600307,260,PT02M36.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,0,186
+1022600307,260,PT02M36.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,v,Allen STEAL (1 STL),,,1,0,187
+1022600307,262,PT02M35.00S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams P.FOUL (P3.T2),Foul,Personal,1,0,188
+1022600307,264,PT02M35.00S,2,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,v,SUB: Jones FOR Xu,Substitution,,0,0,189
+1022600307,266,PT02M18.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,-39,106,11,Made,1,33,33,66,v,Ionescu 11' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,1,2,190
+1022600307,267,PT02M18.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard S.FOUL (P3.T3),Foul,Shooting,1,0,191
+1022600307,269,PT02M18.00S,2,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,SUB: Juhasz FOR Howard,Substitution,,0,0,192
+1022600307,272,PT02M18.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,MISS Ionescu Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,193
+1022600307,273,PT02M16.00S,2,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,194
+1022600307,274,PT02M01.00S,2,1611661324,MIN,1629483,Collier,N. Collier,-27,15,3,Missed,1,,,0,h,MISS Collier 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,195
+1022600307,275,PT01M57.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,v,Gardner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,196
+1022600307,276,PT01M52.00S,2,1611661313,NYL,1627673,Jones,J. Jones,4,238,24,Missed,1,,,0,v,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+1022600307,277,PT01M49.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,198
+1022600307,278,PT01M48.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,35,-4,4,Made,1,33,35,68,v,Stewart 4' Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,199
+1022600307,279,PT01M35.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones S.FOUL (P1.PN),Foul,Shooting,1,0,200
+1022600307,281,PT01M35.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,34,35,69,h,Miles Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,201
+1022600307,282,PT01M35.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,35,35,70,h,Miles Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,202
+1022600307,283,PT01M18.00S,2,1611661313,NYL,1627668,Stewart,B. Stewart,73,31,8,Made,1,35,37,72,v,Stewart 8' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,203
+1022600307,284,PT01M03.00S,2,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,0,204
+1022600307,284,PT01M03.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu STEAL (2 STL),,,1,0,205
+1022600307,286,PT01M00.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,-22,0,2,Made,1,35,39,74,v,Gardner 2' Running Layup (2 PTS) (Ionescu 3 AST),Made Shot,Running Layup Shot,1,2,206
+1022600307,288,PT00M53.90S,2,1611661324,MIN,1643426,Miles,O. Miles,13,7,1,Made,1,37,39,76,h,Miles 1' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,207
+1022600307,289,PT00M43.20S,2,1611661313,NYL,1627673,Jones,J. Jones,13,5,1,Made,1,37,41,78,v,Jones 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,208
+1022600307,290,PT00M34.00S,2,1611661324,MIN,203825,McBride,K. McBride,232,8,0,Missed,1,,,0,h,MISS McBride 3PT Jump Shot,Missed Shot,Jump Shot,1,3,209
+1022600307,291,PT00M31.20S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,210
+1022600307,292,PT00M30.20S,2,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,211
+1022600307,292,PT00M30.20S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu STEAL (3 STL),,,1,0,212
+1022600307,294,PT00M09.40S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,34,273,28,Missed,1,,,0,v,MISS Ionescu 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,213
+1022600307,295,PT00M06.20S,2,1611661324,MIN,1641657,Juhasz,D. Juhasz,0,0,0,,0,,,0,h,Juhasz REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,214
+1022600307,296,PT00M00.50S,2,1611661324,MIN,1627675,Williams,C. Williams,-70,82,11,Missed,1,,,0,h,MISS Williams 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,215
+1022600307,297,PT00M00.10S,2,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,216
+1022600307,298,PT00M00.00S,2,0,,0,,,0,0,0,,0,37,41,78,,End of 2nd Period (8:22 PM EST),period,end,1,0,217
+1022600307,305,PT10M00.00S,3,0,,0,,,0,0,0,,0,37,41,78,,Start of 3rd Period (8:38 PM EST),period,start,1,0,218
+1022600307,306,PT09M46.00S,3,1611661324,MIN,1643426,Miles,O. Miles,118,98,15,Missed,1,,,0,h,MISS Miles 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,219
+1022600307,307,PT09M42.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,220
+1022600307,308,PT09M33.00S,3,1611661313,NYL,1627673,Jones,J. Jones,-26,23,3,Missed,1,,,0,v,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,221
+1022600307,309,PT09M31.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,222
+1022600307,310,PT09M15.00S,3,1611661324,MIN,1629483,Collier,N. Collier,-8,95,10,Made,1,39,41,80,h,Collier 10' Fadeaway Jumper (4 PTS) (McBride 1 AST),Made Shot,Fadeaway Jump Shot,1,2,223
+1022600307,312,PT08M55.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,4,108,11,Made,1,39,43,82,v,Ionescu 11' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,224
+1022600307,313,PT08M32.00S,3,1611661324,MIN,1627675,Williams,C. Williams,-133,6,13,Missed,1,,,0,h,MISS Williams 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,225
+1022600307,314,PT08M29.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,226
+1022600307,315,PT08M26.00S,3,1611661313,NYL,1631136,Astier,P. Astier,23,8,2,Missed,1,,,0,v,MISS Astier 2' Running Layup,Missed Shot,Running Layup Shot,1,2,227
+1022600307,315,PT08M26.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles BLOCK (1 BLK),,,1,2,228
+1022600307,317,PT08M24.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,229
+1022600307,318,PT08M18.00S,3,1611661324,MIN,1629483,Collier,N. Collier,-193,123,0,Missed,1,,,0,h,MISS Collier 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+1022600307,319,PT08M14.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,231
+1022600307,320,PT08M05.00S,3,1611661313,NYL,1627673,Jones,J. Jones,21,17,3,Missed,1,,,0,v,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,232
+1022600307,322,PT08M03.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,233
+1022600307,323,PT07M53.00S,3,1611661324,MIN,203827,Howard,N. Howard,-46,7,5,Missed,1,,,0,h,MISS Howard 5' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,234
+1022600307,324,PT07M52.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,235
+1022600307,385,PT07M51.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,236
+1022600307,385,PT07M51.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones STEAL (1 STL),,,1,0,237
+1022600307,325,PT07M44.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,-4,12,1,Made,1,39,45,84,v,Stewart 1' Driving Layup (13 PTS) (Ionescu 4 AST),Made Shot,Driving Layup Shot,1,2,238
+1022600307,327,PT07M44.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams S.FOUL (P4.T1),Foul,Shooting,1,0,239
+1022600307,329,PT07M44.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,39,46,85,v,Stewart Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,240
+1022600307,330,PT07M28.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich S.FOUL (P4.T1),Foul,Shooting,1,0,241
+1022600307,332,PT07M28.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,40,46,86,h,Miles Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,242
+1022600307,333,PT07M28.00S,3,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Caldwell FOR Williams,Substitution,,0,0,243
+1022600307,335,PT07M28.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,MISS Miles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,244
+1022600307,336,PT07M26.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,245
+1022600307,337,PT07M07.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,201,122,24,Missed,1,,,0,v,MISS Stewart 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,246
+1022600307,337,PT07M07.00S,3,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier BLOCK (2 BLK),,,1,3,247
+1022600307,339,PT07M04.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,248
+1022600307,342,PT07M03.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride Offensive Charge Foul (P1),Foul,Offensive Charge,1,0,249
+1022600307,344,PT07M03.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,250
+1022600307,345,PT06M53.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard S.FOUL (P4.T2),Foul,Shooting,1,0,251
+1022600307,347,PT06M53.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,40,47,87,v,Stewart Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,252
+1022600307,348,PT06M53.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,40,48,88,v,Stewart Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,253
+1022600307,349,PT06M42.00S,3,1611661324,MIN,203827,Howard,N. Howard,13,31,3,Made,1,42,48,90,h,Howard 3' Driving Floating Jump Shot (9 PTS) (Miles 3 AST),Made Shot,Driving Floating Jump Shot,1,2,254
+1022600307,353,PT06M18.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,-1,8,1,Missed,1,,,0,v,MISS Ionescu 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,255
+1022600307,354,PT06M17.00S,3,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Rebound,Rebound,Unknown,1,0,256
+1022600307,356,PT06M17.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles L.B.FOUL (P2.T3),Foul,Loose Ball,1,0,257
+1022600307,368,PT06M17.00S,3,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,SUB: Brodie FOR Howard,Substitution,,0,0,258
+1022600307,360,PT06M05.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,28,72,8,Missed,1,,,0,v,MISS Stewart 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,259
+1022600307,361,PT06M02.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,260
+1022600307,362,PT05M51.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,-139,229,27,Missed,1,,,0,v,MISS Ionescu 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,261
+1022600307,363,PT05M48.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,262
+1022600307,364,PT05M36.00S,3,1611661324,MIN,1643426,Miles,O. Miles,13,7,1,Missed,1,,,0,h,MISS Miles 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,263
+1022600307,365,PT05M34.00S,3,1611661324,MIN,1628269,Brodie,N. Brodie,0,0,0,,0,,,0,h,Brodie REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,264
+1022600307,366,PT05M32.00S,3,1611661324,MIN,203825,McBride,K. McBride,181,156,24,Made,1,45,48,93,h,McBride 24' 3PT Jump Shot (10 PTS) (Brodie 1 AST),Made Shot,Jump Shot,1,3,265
+1022600307,370,PT05M15.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,185,149,24,Made,1,45,51,96,v,Fiebich 24' 3PT Jump Shot (3 PTS) (Astier 3 AST),Made Shot,Jump Shot,1,3,266
+1022600307,371,PT05M01.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu P.FOUL (P3.T2),Foul,Personal,1,0,267
+1022600307,373,PT05M01.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,SUB: Gardner FOR Astier,Substitution,,0,0,268
+1022600307,375,PT05M00.00S,3,1611661324,MIN,1628269,Brodie,N. Brodie,0,0,0,,0,,,0,h,Brodie OFF.Foul (P1),Foul,Offensive,1,0,269
+1022600307,377,PT05M00.00S,3,1611661324,MIN,1628269,Brodie,N. Brodie,0,0,0,,0,,,0,h,Brodie Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,1,0,270
+1022600307,378,PT04M51.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride P.FOUL (P2.T4),Foul,Personal,1,0,271
+1022600307,381,PT04M51.00S,3,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,272
+1022600307,384,PT04M51.00S,3,0,,378,Ehlo,C. Ehlo,0,0,0,,0,45,51,96,,Instant Replay3rd Period (8:48 PM EST),Instant Replay,Ruling Stands,0,0,273
+1022600307,387,PT04M51.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones T.FOUL (P1.T2),Foul,Technical,1,0,274
+1022600307,388,PT04M51.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,46,51,97,h,McBride Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,1,0,275
+1022600307,389,PT04M51.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,SUB: Allen FOR Fiebich,Substitution,,0,0,276
+1022600307,391,PT04M44.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,90,17,9,Missed,1,,,0,v,MISS Ionescu 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,277
+1022600307,392,PT04M43.00S,3,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Rebound,Rebound,Unknown,1,0,278
+1022600307,394,PT04M37.00S,3,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,279
+1022600307,395,PT04M26.00S,3,1611661324,MIN,1643426,Miles,O. Miles,12,11,2,Made,1,48,51,99,h,Miles 2' Driving Finger Roll Layup (9 PTS) (Collier 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,280
+1022600307,397,PT04M09.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones Lost Ball Turnover (P4.T11),Turnover,Lost Ball,1,0,281
+1022600307,397,PT04M09.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles STEAL (1 STL),,,1,0,282
+1022600307,399,PT04M04.00S,3,1611661324,MIN,1643426,Miles,O. Miles,21,16,3,Missed,1,,,0,h,MISS Miles 3' Running Layup,Missed Shot,Running Layup Shot,1,2,283
+1022600307,400,PT04M02.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,Ionescu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,284
+1022600307,401,PT03M56.00S,3,1611661313,NYL,1627673,Jones,J. Jones,26,-15,3,Missed,1,,,0,v,MISS Jones 3' Layup,Missed Shot,Layup Shot,1,2,285
+1022600307,401,PT03M56.00S,3,1611661324,MIN,1628269,Brodie,N. Brodie,0,0,0,,0,,,0,h,Brodie BLOCK (2 BLK),,,1,2,286
+1022600307,403,PT03M56.00S,3,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Rebound,Rebound,Unknown,0,0,287
+1022600307,405,PT03M54.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,150,33,15,Missed,1,,,0,v,MISS Stewart 15' Jump Shot,Missed Shot,Jump Shot,1,2,288
+1022600307,406,PT03M50.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,289
+1022600307,407,PT03M45.00S,3,1611661324,MIN,1628269,Brodie,N. Brodie,-236,0,24,Made,1,51,51,102,h,Brodie 24' 3PT Running Jump Shot (3 PTS) (Collier 4 AST),Made Shot,Running Jump Shot,1,3,290
+1022600307,409,PT03M44.00S,3,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,291
+1022600307,410,PT03M44.00S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,SUB: Williams FOR Miles,Substitution,,0,0,292
+1022600307,411,PT03M44.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,SUB: Xu FOR Jones,Substitution,,0,0,293
+1022600307,414,PT03M32.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,-159,216,27,Made,1,51,54,105,v,Ionescu 27' 3PT Jump Shot (15 PTS) (Stewart 2 AST),Made Shot,Jump Shot,1,3,294
+1022600307,416,PT03M15.00S,3,1611661324,MIN,203825,McBride,K. McBride,-44,161,17,Missed,1,,,0,h,MISS McBride 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,295
+1022600307,417,PT03M13.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,296
+1022600307,418,PT03M11.00S,3,1611661324,MIN,203825,McBride,K. McBride,-30,-3,3,Made,1,53,54,107,h,McBride 3' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,2,297
+1022600307,420,PT02M55.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,v,SUB: Johannes FOR Gardner,Substitution,,0,0,298
+1022600307,422,PT02M51.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,57,235,24,Missed,1,,,0,v,MISS Ionescu 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,299
+1022600307,423,PT02M46.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,300
+1022600307,424,PT02M40.00S,3,1611661324,MIN,1629483,Collier,N. Collier,-24,5,2,Made,1,55,54,109,h,Collier 2' Layup (6 PTS) (Caldwell 2 AST),Made Shot,Layup Shot,1,2,301
+1022600307,426,PT02M27.00S,3,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier P.FOUL (P3.PN),Foul,Personal,1,0,302
+1022600307,428,PT02M27.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,55,55,110,v,Stewart Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,303
+1022600307,429,PT02M27.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,v,SUB: Gardner FOR Ionescu,Substitution,,0,0,304
+1022600307,430,PT02M27.00S,3,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,v,SUB: Fiebich FOR Xu,Substitution,,0,0,305
+1022600307,433,PT02M27.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,MISS Stewart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,306
+1022600307,434,PT02M25.00S,3,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,307
+1022600307,435,PT02M09.00S,3,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,308
+1022600307,435,PT02M09.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart STEAL (2 STL),,,1,0,309
+1022600307,437,PT01M52.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,v,Allen Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,310
+1022600307,437,PT01M52.00S,3,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride STEAL (2 STL),,,1,0,311
+1022600307,439,PT01M46.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,155,181,24,Missed,1,,,0,h,MISS Caldwell 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,312
+1022600307,440,PT01M42.00S,3,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,313
+1022600307,441,PT01M30.00S,3,1611661313,NYL,1629546,Johannes,M. Johannes,-165,203,26,Made,1,55,58,113,v,Johannes 26' 3PT Pullup Jump Shot (6 PTS) (Gardner 1 AST),Made Shot,Pullup Jump shot,1,3,314
+1022600307,443,PT01M09.00S,3,1611661324,MIN,1628269,Brodie,N. Brodie,193,128,0,Missed,1,,,0,h,MISS Brodie 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+1022600307,444,PT01M08.00S,3,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Rebound,Rebound,Unknown,0,0,316
+1022600307,446,PT01M08.00S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell L.B.FOUL (P1.PN),Foul,Loose Ball,1,0,317
+1022600307,448,PT01M08.00S,3,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,v,MISS Johannes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,318
+1022600307,449,PT01M08.00S,3,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Rebound,Rebound,Normal Rebound,0,0,319
+1022600307,450,PT01M08.00S,3,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,55,59,114,v,Johannes Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,320
+1022600307,451,PT00M55.90S,3,1611661324,MIN,203825,McBride,K. McBride,-171,172,24,Made,1,58,59,117,h,McBride 24' 3PT Jump Shot (16 PTS) (Caldwell 3 AST),Made Shot,Jump Shot,1,3,321
+1022600307,453,PT00M41.50S,3,1611661313,NYL,1629546,Johannes,M. Johannes,-165,183,25,Made,1,58,62,120,v,Johannes 25' 3PT Pullup Jump Shot (10 PTS) (Gardner 2 AST),Made Shot,Pullup Jump shot,1,3,322
+1022600307,455,PT00M28.60S,3,1611661324,MIN,1629483,Collier,N. Collier,-6,7,1,Made,1,60,62,122,h,Collier 1' Cutting Layup Shot (8 PTS) (Brodie 2 AST),Made Shot,Cutting Layup Shot,1,2,323
+1022600307,457,PT00M28.60S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P3.T3),Foul,Shooting,1,0,324
+1022600307,459,PT00M28.60S,3,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,SUB: Miles FOR Caldwell,Substitution,,0,0,325
+1022600307,461,PT00M28.60S,3,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,MISS Collier Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,326
+1022600307,462,PT00M27.10S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,327
+1022600307,463,PT00M09.50S,3,1611661313,NYL,1629546,Johannes,M. Johannes,125,215,25,Made,1,60,65,125,v,Johannes 25' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,3,328
+1022600307,465,PT00M04.50S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,v,Allen S.FOUL (P4.PN),Foul,Shooting,1,0,329
+1022600307,467,PT00M04.50S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,61,65,126,h,Miles Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,330
+1022600307,468,PT00M04.50S,3,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,v,SUB: Xu FOR Gardner,Substitution,,0,0,331
+1022600307,470,PT00M04.50S,3,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,62,65,127,h,Miles Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+1022600307,471,PT00M00.40S,3,1611661313,NYL,1629546,Johannes,M. Johannes,-42,348,35,Missed,1,,,0,v,MISS Johannes 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,333
+1022600307,472,PT00M00.10S,3,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Rebound,Rebound,Unknown,1,0,334
+1022600307,473,PT00M00.00S,3,0,,0,,,0,0,0,,0,62,65,127,,End of 3rd Period (9:03 PM EST),period,end,1,0,335
+1022600307,482,PT10M00.00S,4,0,,0,,,0,0,0,,0,62,65,127,,Start of 4th Period (9:06 PM EST),period,start,1,0,336
+1022600307,483,PT09M45.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,50,271,28,Missed,1,,,0,v,MISS Johannes 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,337
+1022600307,484,PT09M43.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,338
+1022600307,486,PT09M27.00S,4,1611661324,MIN,203827,Howard,N. Howard,-15,1,2,Made,1,64,65,129,h,Howard 2' Cutting Layup Shot (11 PTS) (Juhasz 2 AST),Made Shot,Cutting Layup Shot,1,2,339
+1022600307,488,PT09M16.00S,4,1611661324,MIN,1641657,Juhasz,D. Juhasz,0,0,0,,0,,,0,h,Juhasz P.FOUL (P2.T1),Foul,Personal,1,0,340
+1022600307,490,PT09M16.00S,4,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,v,SUB: Jones FOR Allen,Substitution,,0,0,341
+1022600307,492,PT09M11.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-39,105,11,Missed,1,,,0,v,MISS Stewart 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,342
+1022600307,493,PT09M09.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,343
+1022600307,494,PT09M08.00S,4,1611661313,NYL,1627673,Jones,J. Jones,21,0,2,Made,1,64,67,131,v,Jones 2' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,344
+1022600307,495,PT08M57.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,345
+1022600307,495,PT08M57.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich STEAL (2 STL),,,1,0,346
+1022600307,497,PT08M52.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,347
+1022600307,497,PT08M52.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles STEAL (2 STL),,,1,0,348
+1022600307,499,PT08M47.00S,4,1611661324,MIN,1643426,Miles,O. Miles,1,5,1,Made,1,66,67,133,h,Miles 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,349
+1022600307,500,PT08M47.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,v,Johannes S.FOUL (P1.T1),Foul,Shooting,1,0,350
+1022600307,503,PT08M47.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,MISS Miles Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,351
+1022600307,504,PT08M44.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,352
+1022600307,505,PT08M41.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles P.FOUL (P3.T2),Foul,Personal,1,0,353
+1022600307,507,PT08M27.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,v,Johannes Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,354
+1022600307,507,PT08M27.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell STEAL (1 STL),,,1,0,355
+1022600307,509,PT08M27.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,v,Johannes P.FOUL (P2.T2),Foul,Personal,1,0,356
+1022600307,512,PT08M22.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier P.FOUL (P4.T3),Foul,Personal,1,0,357
+1022600307,514,PT08M22.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,v,SUB: Ionescu FOR Johannes,Substitution,,0,0,358
+1022600307,516,PT08M18.00S,4,1611661324,MIN,1643426,Miles,O. Miles,-28,5,3,Made,1,68,67,135,h,Miles 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,359
+1022600307,517,PT08M18.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones S.FOUL (P2.T4),Foul,Shooting,1,0,360
+1022600307,519,PT08M18.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,69,67,136,h,Miles Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,361
+1022600307,520,PT08M06.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,186,157,24,Made,1,69,70,139,v,Stewart 24' 3PT Jump Shot (20 PTS) (Fiebich 1 AST),Made Shot,Jump Shot,1,3,362
+1022600307,522,PT07M53.00S,4,1611661324,MIN,1627675,Williams,C. Williams,109,213,24,Missed,1,,,0,h,MISS Williams 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,363
+1022600307,523,PT07M50.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,364
+1022600307,524,PT07M38.00S,4,1611661313,NYL,1631136,Astier,P. Astier,154,186,24,Made,1,69,73,142,v,Astier 24' 3PT Jump Shot (7 PTS) (Fiebich 2 AST),Made Shot,Jump Shot,1,3,365
+1022600307,526,PT07M21.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,-29,22,4,Made,1,71,73,144,h,Caldwell 4' Cutting Layup Shot (5 PTS) (Howard 3 AST),Made Shot,Cutting Layup Shot,1,2,366
+1022600307,528,PT07M08.00S,4,1611661313,NYL,1627673,Jones,J. Jones,-165,49,17,Made,1,71,75,146,v,Jones 17' Turnaround Fadeaway (13 PTS),Made Shot,Turnaround Fadeaway shot,1,2,367
+1022600307,529,PT06M53.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,,,0,h,Miles Bad Pass Turnover (P5.T15),Turnover,Bad Pass,1,0,368
+1022600307,529,PT06M53.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich STEAL (3 STL),,,1,0,369
+1022600307,531,PT06M50.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard P.FOUL (P5.T3),Foul,Personal,1,0,370
+1022600307,533,PT06M50.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,SUB: McBride FOR Howard,Substitution,,0,0,371
+1022600307,534,PT06M50.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,SUB: Collier FOR Williams,Substitution,,0,0,372
+1022600307,537,PT06M42.00S,4,1611661313,NYL,1631136,Astier,P. Astier,8,1,1,Made,1,71,77,148,v,Astier 1' Cutting Layup Shot (9 PTS) (Stewart 3 AST),Made Shot,Cutting Layup Shot,1,2,373
+1022600307,539,PT06M42.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,374
+1022600307,540,PT06M24.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier P.FOUL (P5.PN),Foul,Personal,1,0,375
+1022600307,542,PT06M24.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,72,77,149,h,Miles Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,376
+1022600307,543,PT06M24.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,73,77,150,h,Miles Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,377
+1022600307,544,PT06M05.00S,4,1611661313,NYL,1631136,Astier,P. Astier,86,228,24,Made,1,73,80,153,v,Astier 24' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,378
+1022600307,545,PT05M48.00S,4,1611661324,MIN,1643426,Miles,O. Miles,32,-18,4,Missed,1,,,0,h,MISS Miles 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,379
+1022600307,545,PT05M48.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones BLOCK (2 BLK),,,1,2,380
+1022600307,547,PT05M48.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,381
+1022600307,549,PT05M38.00S,4,1611661324,MIN,203825,McBride,K. McBride,187,79,20,Missed,1,,,0,h,MISS McBride 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,382
+1022600307,550,PT05M37.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,383
+1022600307,551,PT05M37.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,13,16,2,Missed,1,,,0,h,MISS Caldwell 2' Jump Shot,Missed Shot,Jump Shot,1,2,384
+1022600307,552,PT05M37.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,385
+1022600307,553,PT05M37.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,386
+1022600307,554,PT05M25.00S,4,1611661313,NYL,1627673,Jones,J. Jones,-38,33,5,Missed,1,,,0,v,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,387
+1022600307,554,PT05M25.00S,4,1611661324,MIN,203825,McBride,K. McBride,0,0,0,,0,,,0,h,McBride BLOCK (1 BLK),,,1,2,388
+1022600307,556,PT05M23.00S,4,1611661324,MIN,1641657,Juhasz,D. Juhasz,0,0,0,,0,,,0,h,Juhasz REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,389
+1022600307,557,PT05M10.00S,4,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier Lost Ball Turnover (P4.T17),Turnover,Lost Ball,1,0,390
+1022600307,557,PT05M10.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich STEAL (4 STL),,,1,0,391
+1022600307,559,PT05M05.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,169,179,25,Missed,1,,,0,v,MISS Ionescu 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,392
+1022600307,560,PT05M03.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Rebound,Rebound,Unknown,1,0,393
+1022600307,562,PT04M50.00S,4,1611661324,MIN,1643426,Miles,O. Miles,-44,36,6,Missed,1,,,0,h,MISS Miles 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,394
+1022600307,563,PT04M48.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,Caldwell REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,395
+1022600307,564,PT04M48.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,-18,43,5,Missed,1,,,0,h,MISS Caldwell 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,396
+1022600307,565,PT04M45.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,397
+1022600307,566,PT04M41.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier Traveling Turnover (P1.T15),Turnover,Traveling,1,0,398
+1022600307,568,PT04M33.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones P.FOUL (P3.PN),Foul,Personal,1,0,399
+1022600307,570,PT04M33.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,74,80,154,h,Miles Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,400
+1022600307,571,PT04M33.00S,4,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,401
+1022600307,573,PT04M33.00S,4,0,,544,,,0,0,0,,0,74,80,154,,Instant Replay4th Period (9:22 PM EST),Instant Replay,Support Ruling,0,0,402
+1022600307,574,PT04M33.00S,4,1611661324,MIN,1630471,Caldwell,M. Caldwell,0,0,0,,0,,,0,h,SUB: Williams FOR Caldwell,Substitution,,0,0,403
+1022600307,575,PT04M33.00S,4,1611661324,MIN,1641657,Juhasz,D. Juhasz,0,0,0,,0,,,0,h,SUB: Howard FOR Juhasz,Substitution,,0,0,404
+1022600307,578,PT04M33.00S,4,1611661324,MIN,1643426,Miles,O. Miles,0,0,0,,0,75,80,155,h,Miles Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,405
+1022600307,579,PT04M18.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-56,18,6,Missed,1,,,0,v,MISS Stewart 6' Jump Shot,Missed Shot,Jump Shot,1,2,406
+1022600307,580,PT04M15.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,407
+1022600307,581,PT04M08.00S,4,1611661324,MIN,1627675,Williams,C. Williams,115,77,14,Missed,1,,,0,h,MISS Williams 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,408
+1022600307,582,PT04M04.00S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,409
+1022600307,584,PT03M52.00S,4,1611661324,MIN,1629483,Collier,N. Collier,17,4,2,Made,1,77,80,157,h,Collier 2' Driving Layup (10 PTS) (Williams 2 AST),Made Shot,Driving Layup Shot,1,2,410
+1022600307,586,PT03M35.00S,4,1611661313,NYL,1631136,Astier,P. Astier,-33,46,6,Missed,1,,,0,v,MISS Astier 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,411
+1022600307,587,PT03M34.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,412
+1022600307,588,PT03M31.00S,4,1611661324,MIN,1643426,Miles,O. Miles,-210,106,24,Missed,1,,,0,h,MISS Miles 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,413
+1022600307,589,PT03M28.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,414
+1022600307,592,PT03M10.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich Out of Bounds - Bad Pass Turnover Turnover (P2.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,415
+1022600307,593,PT03M02.00S,4,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier Lost Ball Turnover (P5.T18),Turnover,Lost Ball,1,0,416
+1022600307,593,PT03M02.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,Stewart STEAL (3 STL),,,1,0,417
+1022600307,595,PT02M58.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,26,9,3,Made,1,77,82,159,v,Stewart 3' Running Layup (22 PTS),Made Shot,Running Layup Shot,1,2,418
+1022600307,596,PT02M48.00S,4,1611661324,MIN,203825,McBride,K. McBride,-189,155,24,Missed,1,,,0,h,MISS McBride 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,419
+1022600307,597,PT02M46.00S,4,1611661324,MIN,203827,Howard,N. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,420
+1022600307,598,PT02M44.00S,4,1611661324,MIN,203825,McBride,K. McBride,-188,131,0,Missed,1,,,0,h,MISS McBride 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+1022600307,599,PT02M40.00S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,422
+1022600307,600,PT02M19.00S,4,1611661313,NYL,1631136,Astier,P. Astier,38,23,4,Made,1,77,84,161,v,Astier 4' Driving Floating Bank Jump Shot (14 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,423
+1022600307,601,PT02M08.00S,4,1611661324,MIN,1629483,Collier,N. Collier,4,20,2,Made,1,79,84,163,h,Collier 2' Cutting Layup Shot (12 PTS) (Miles 4 AST),Made Shot,Cutting Layup Shot,1,2,424
+1022600307,603,PT01M50.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,27,63,7,Missed,1,,,0,v,MISS Fiebich 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,425
+1022600307,604,PT01M48.00S,4,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,v,Fiebich REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,426
+1022600307,605,PT01M47.00S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,-110,238,26,Missed,1,,,0,v,MISS Ionescu 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,427
+1022600307,606,PT01M43.00S,4,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,v,Astier REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,428
+1022600307,607,PT01M33.00S,4,1611661313,NYL,1627668,Stewart,B. Stewart,-20,117,12,Made,1,79,86,165,v,Stewart 12' Jump Shot (24 PTS) (Ionescu 5 AST),Made Shot,Jump Shot,1,2,429
+1022600307,609,PT01M33.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,430
+1022600307,610,PT01M26.00S,4,1611661324,MIN,1629483,Collier,N. Collier,1,60,6,Made,1,81,86,167,h,Collier 6' Fadeaway Jumper (14 PTS) (Miles 5 AST),Made Shot,Fadeaway Jump Shot,1,2,431
+1022600307,612,PT01M09.00S,4,1611661313,NYL,1627673,Jones,J. Jones,-234,12,0,Made,1,81,89,170,v,Jones 3PT Jump Shot (16 PTS) (Ionescu 6 AST),Made Shot,Jump Shot,1,3,432
+1022600307,614,PT01M09.00S,4,0,,1611661324,,,0,0,0,,0,,,0,h,LYNX Timeout: Reset (Full 3 Short 0),Timeout,Reset,0,0,433
+1022600307,615,PT00M59.70S,4,1611661324,MIN,203825,McBride,K. McBride,121,232,26,Missed,1,,,0,h,MISS McBride 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+1022600307,616,PT00M56.10S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,435
+1022600307,617,PT00M43.80S,4,1611661324,MIN,1627675,Williams,C. Williams,0,0,0,,0,,,0,h,Williams P.FOUL (P5.T4),Foul,Personal,1,0,436
+1022600307,619,PT00M43.80S,4,0,,1611661313,,,0,0,0,,0,,,0,v,Liberty Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,437
+1022600307,620,PT00M36.40S,4,1611661313,NYL,1627673,Jones,J. Jones,21,6,2,Made,1,81,91,172,v,Jones 2' Cutting Layup Shot (18 PTS) (Stewart 4 AST),Made Shot,Cutting Layup Shot,1,2,438
+1022600307,622,PT00M29.10S,4,1611661324,MIN,203825,McBride,K. McBride,18,5,2,Missed,1,,,0,h,MISS McBride 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,439
+1022600307,623,PT00M26.70S,4,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,v,Jones REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,440
+1022600307,624,PT00M20.80S,4,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier Personal Take Foul (P4.PN),Foul,Personal Take,1,0,441
+1022600307,626,PT00M20.80S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,81,92,173,v,Ionescu Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+1022600307,627,PT00M20.80S,4,1611661313,NYL,1627668,Stewart,B. Stewart,0,0,0,,0,,,0,v,SUB: Fauthoux FOR Stewart,Substitution,,0,0,443
+1022600307,629,PT00M20.80S,4,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,81,93,174,v,Ionescu Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,444
+1022600307,630,PT00M03.20S,4,1611661324,MIN,1629483,Collier,N. Collier,0,0,0,,0,,,0,h,Collier Traveling Turnover (P6.T19),Turnover,Traveling,1,0,445
+1022600307,631,PT00M00.00S,4,0,,0,,,0,0,0,,0,81,93,174,,End of 4th Period (9:37 PM EST),period,end,1,0,446

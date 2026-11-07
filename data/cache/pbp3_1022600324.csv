@@ -1,0 +1,415 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600324,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:09 PM EST),period,start,1,0,1
+1022600324,4,PT10M00.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jump Ball Jones vs. Reese: Tip to Canada,Jump Ball,,1,0,2
+1022600324,7,PT09M39.00S,1,1611661330,ATL,1628886,Canada,J. Canada,21,47,5,Made,1,0,2,2,v,Canada 5' Driving Floating Jump Shot (2 PTS) (Howard 1 AST),Made Shot,Driving Floating Jump Shot,1,2,3
+1022600324,9,PT09M28.00S,1,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray P.FOUL (P1.T1),Foul,Personal,1,0,4
+1022600324,11,PT09M17.00S,1,1611661313,NYL,1627673,Jones,J. Jones,189,203,28,Missed,1,,,0,h,MISS Jones 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+1022600324,12,PT09M13.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,6
+1022600324,13,PT09M12.00S,1,1611661313,NYL,1631136,Astier,P. Astier,11,49,5,Made,1,2,2,4,h,Astier 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,7
+1022600324,14,PT08M59.00S,1,1611661330,ATL,1631009,Howard,R. Howard,-163,67,18,Made,1,2,4,6,v,Howard 18' Pullup Jump Shot (2 PTS) (Reese 1 AST),Made Shot,Pullup Jump shot,1,2,8
+1022600324,16,PT08M39.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,-188,156,24,Missed,1,,,0,h,MISS Ionescu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+1022600324,17,PT08M37.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+1022600324,18,PT08M37.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Jump Ball Fiebich vs. Reese: Tip to Canada,Jump Ball,,1,0,11
+1022600324,21,PT08M37.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,12
+1022600324,21,PT08M37.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese STEAL (1 STL),,,1,0,13
+1022600324,23,PT08M30.00S,1,1611661330,ATL,1628277,Gray,A. Gray,-21,27,3,Made,1,2,6,8,v,Gray 3' Running Layup (2 PTS) (Canada 1 AST),Made Shot,Running Layup Shot,1,2,14
+1022600324,25,PT08M09.00S,1,1611661313,NYL,1631136,Astier,P. Astier,-45,23,5,Missed,1,,,0,h,MISS Astier 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,15
+1022600324,26,PT08M07.00S,1,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,Carrera REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,16
+1022600324,27,PT07M53.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,54,120,13,Made,1,4,6,10,h,Ionescu 13' Pullup Jump Shot (2 PTS) (Carrera 1 AST),Made Shot,Pullup Jump shot,1,2,17
+1022600324,28,PT07M42.00S,1,1611661330,ATL,1642291,Reese,A. Reese,44,213,22,Missed,1,,,0,v,MISS Reese 22' Jump Shot,Missed Shot,Jump Shot,1,2,18
+1022600324,29,PT07M39.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+1022600324,30,PT07M27.00S,1,1611661313,NYL,1631136,Astier,P. Astier,-23,20,3,Missed,1,,,0,h,MISS Astier 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,20
+1022600324,31,PT07M24.00S,1,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+1022600324,32,PT07M22.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu S.FOUL (P1.T1),Foul,Shooting,1,0,22
+1022600324,35,PT07M22.00S,1,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,4,7,11,v,Gray Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,23
+1022600324,36,PT07M22.00S,1,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,4,8,12,v,Gray Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,24
+1022600324,37,PT07M05.00S,1,1611661313,NYL,1630384,Carrera,R. Carrera,28,17,3,Made,1,6,8,14,h,Carrera 3' Layup (2 PTS) (Astier 1 AST),Made Shot,Layup Shot,1,2,25
+1022600324,39,PT06M52.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier P.FOUL (P1.T2),Foul,Personal,1,0,26
+1022600324,42,PT06M37.00S,1,1611661330,ATL,1628277,Gray,A. Gray,-165,249,30,Missed,1,,,0,v,MISS Gray 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+1022600324,43,PT06M34.00S,1,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,28
+1022600324,44,PT06M26.00S,1,1611661330,ATL,1642291,Reese,A. Reese,-24,55,6,Missed,1,,,0,v,MISS Reese 6' Hook Shot,Missed Shot,Hook Shot,1,2,29
+1022600324,44,PT06M26.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones BLOCK (1 BLK),,,1,2,30
+1022600324,46,PT06M24.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,31
+1022600324,47,PT06M17.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier Traveling Turnover (P1.T2),Turnover,Traveling,1,0,32
+1022600324,48,PT05M58.00S,1,1611661330,ATL,1628886,Canada,J. Canada,55,30,6,Missed,1,,,0,v,MISS Canada 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,33
+1022600324,48,PT05M58.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu BLOCK (1 BLK),,,1,2,34
+1022600324,50,PT05M57.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+1022600324,51,PT05M57.00S,1,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada P.FOUL (P1.T2),Foul,Personal,1,0,36
+1022600324,53,PT05M57.00S,1,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,SUB: Bonner FOR Hillmon,Substitution,,0,0,37
+1022600324,56,PT05M45.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese S.FOUL (P1.T3),Foul,Shooting,1,0,38
+1022600324,58,PT05M45.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,7,8,15,h,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,39
+1022600324,59,PT05M45.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,8,8,16,h,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,40
+1022600324,60,PT05M28.00S,1,1611661330,ATL,1642291,Reese,A. Reese,18,20,3,Made,1,8,10,18,v,Reese 3' Layup (2 PTS) (Bonner 1 AST),Made Shot,Layup Shot,1,2,41
+1022600324,62,PT05M07.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,42
+1022600324,62,PT05M07.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese STEAL (2 STL),,,1,0,43
+1022600324,64,PT05M03.00S,1,1611661330,ATL,1631009,Howard,R. Howard,-18,27,3,Made,1,8,12,20,v,Howard 3' Running Layup (4 PTS) (Reese 2 AST),Made Shot,Running Layup Shot,1,2,44
+1022600324,66,PT04M52.00S,1,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard P.FOUL (P1.T4),Foul,Personal,1,0,45
+1022600324,68,PT04M52.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,46
+1022600324,69,PT04M52.00S,1,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,SUB: Johannes FOR Carrera,Substitution,,0,0,47
+1022600324,70,PT04M52.00S,1,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Xu FOR Astier,Substitution,,0,0,48
+1022600324,71,PT04M52.00S,1,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,SUB: Borlase FOR Gray,Substitution,,0,0,49
+1022600324,75,PT04M45.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,50
+1022600324,75,PT04M45.00S,1,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner STEAL (1 STL),,,1,0,51
+1022600324,77,PT04M38.00S,1,1611661330,ATL,201886,Bonner,D. Bonner,-31,33,5,Missed,1,,,0,v,MISS Bonner 5' Running Layup,Missed Shot,Running Layup Shot,1,2,52
+1022600324,78,PT04M36.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,53
+1022600324,79,PT04M18.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,238,23,24,Missed,1,,,0,h,MISS Fiebich 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+1022600324,80,PT04M16.00S,1,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+1022600324,81,PT04M07.00S,1,1611661330,ATL,1631009,Howard,R. Howard,136,210,25,Missed,1,,,0,v,MISS Howard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+1022600324,82,PT04M07.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,57
+1022600324,83,PT03M53.00S,1,1611661330,ATL,1628886,Canada,J. Canada,169,178,25,Missed,1,,,0,v,MISS Canada 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+1022600324,84,PT03M50.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,59
+1022600324,85,PT03M42.00S,1,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada S.FOUL (P2.PN),Foul,Shooting,1,0,60
+1022600324,87,PT03M42.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,9,12,21,h,Ionescu Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,61
+1022600324,88,PT03M42.00S,1,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,62
+1022600324,90,PT03M42.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,10,12,22,h,Ionescu Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,63
+1022600324,91,PT03M32.00S,1,1611661330,ATL,1642804,Paopao,T. Paopao,110,226,25,Missed,1,,,0,v,MISS Paopao 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+1022600324,92,PT03M29.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,65
+1022600324,93,PT03M22.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,-212,102,24,Made,1,13,12,25,h,Ionescu 24' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,3,66
+1022600324,94,PT03M07.00S,1,1611661330,ATL,1642302,Borlase,I. Borlase,16,28,3,Made,1,13,14,27,v,Borlase 3' Driving Floating Bank Jump Shot (2 PTS) (Reese 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,67
+1022600324,95,PT02M56.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese S.FOUL (P2.PN),Foul,Shooting,1,0,68
+1022600324,97,PT02M56.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,14,14,28,h,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,69
+1022600324,98,PT02M56.00S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,SUB: Hillmon FOR Reese,Substitution,,0,0,70
+1022600324,99,PT02M56.00S,1,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,SUB: Gray FOR Howard,Substitution,,0,0,71
+1022600324,102,PT02M56.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,72
+1022600324,103,PT02M54.00S,1,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+1022600324,105,PT02M36.00S,1,1611661330,ATL,1631044,Hillmon,N. Hillmon,30,253,25,Missed,1,,,0,v,MISS Hillmon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+1022600324,106,PT02M33.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,75
+1022600324,107,PT02M29.00S,1,1611661313,NYL,1627673,Jones,J. Jones,34,279,28,Made,1,17,14,31,h,Jones 28' 3PT Running Jump Shot (6 PTS) (Ionescu 1 AST),Made Shot,Running Jump Shot,1,3,76
+1022600324,109,PT02M12.00S,1,1611661330,ATL,1642302,Borlase,I. Borlase,79,13,8,Made,1,17,16,33,v,Borlase 8' Pullup Jump Shot (4 PTS) (Paopao 1 AST),Made Shot,Pullup Jump shot,1,2,77
+1022600324,110,PT01M59.00S,1,1611661313,NYL,1629566,Han,Han,21,15,3,Made,1,19,16,35,h,Xu 3' Layup (2 PTS) (Jones 1 AST),Made Shot,Layup Shot,1,2,78
+1022600324,113,PT01M47.00S,1,1611661330,ATL,201886,Bonner,D. Bonner,17,13,2,Missed,1,,,0,v,MISS Bonner 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,79
+1022600324,114,PT01M45.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,80
+1022600324,115,PT01M38.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,81
+1022600324,115,PT01M38.00S,1,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase STEAL (1 STL),,,1,0,82
+1022600324,117,PT01M31.00S,1,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,83
+1022600324,117,PT01M31.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich STEAL (1 STL),,,1,0,84
+1022600324,119,PT01M18.00S,1,1611661313,NYL,1629566,Han,Han,182,149,24,Missed,1,,,0,h,MISS Xu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+1022600324,120,PT01M17.00S,1,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,86
+1022600324,121,PT01M17.00S,1,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0,87
+1022600324,122,PT01M17.00S,1,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,SUB: Allen FOR Fiebich,Substitution,,0,0,88
+1022600324,123,PT01M17.00S,1,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Gardner FOR Jones,Substitution,,0,0,89
+1022600324,126,PT01M17.00S,1,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,SUB: Reese FOR Bonner,Substitution,,0,0,90
+1022600324,128,PT01M17.00S,1,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Canada FOR Paopao,Substitution,,0,0,91
+1022600324,130,PT01M08.00S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,92
+1022600324,130,PT01M08.00S,1,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon STEAL (1 STL),,,1,0,93
+1022600324,132,PT00M56.90S,1,1611661330,ATL,1642302,Borlase,I. Borlase,33,24,4,Made,1,19,18,37,v,Borlase 4' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,94
+1022600324,133,PT00M41.20S,1,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,95
+1022600324,133,PT00M41.20S,1,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada STEAL (1 STL),,,1,0,96
+1022600324,135,PT00M36.60S,1,1611661330,ATL,1628886,Canada,J. Canada,36,31,5,Missed,1,,,0,v,MISS Canada 5' Running Layup,Missed Shot,Running Layup Shot,1,2,97
+1022600324,136,PT00M34.50S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,98
+1022600324,137,PT00M33.30S,1,1611661330,ATL,1642291,Reese,A. Reese,13,23,3,Missed,1,,,0,v,MISS Reese 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,99
+1022600324,137,PT00M33.30S,1,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu BLOCK (1 BLK),,,1,2,100
+1022600324,139,PT00M31.00S,1,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+1022600324,140,PT00M11.50S,1,1611661313,NYL,1629477,Ionescu,S. Ionescu,10,240,24,Missed,1,,,0,h,MISS Ionescu 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,102
+1022600324,141,PT00M09.50S,1,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,103
+1022600324,142,PT00M00.20S,1,1611661330,ATL,1642291,Reese,A. Reese,27,27,4,Missed,1,,,0,v,MISS Reese 4' Layup,Missed Shot,Layup Shot,1,2,104
+1022600324,142,PT00M00.20S,1,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner BLOCK (1 BLK),,,1,2,105
+1022600324,144,PT00M00.10S,1,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Unknown,1,0,106
+1022600324,145,PT00M00.00S,1,0,,0,,,0,0,0,,0,19,18,37,,End of 1st Period (8:29 PM EST),period,end,1,0,107
+1022600324,152,PT10M00.00S,2,0,,0,,,0,0,0,,0,19,18,37,,Start of 2nd Period (8:33 PM EST),period,start,0,0,108
+1022600324,153,PT09M46.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,7,251,25,Missed,1,,,0,h,MISS Johannes 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+1022600324,154,PT09M42.00S,2,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,110
+1022600324,155,PT09M28.00S,2,1611661330,ATL,1628277,Gray,A. Gray,205,126,24,Made,1,19,21,40,v,Gray 24' 3PT Jump Shot (7 PTS) (Canada 2 AST),Made Shot,Jump Shot,1,3,111
+1022600324,157,PT09M11.00S,2,1611661313,NYL,1631136,Astier,P. Astier,67,18,7,Made,1,21,21,42,h,Astier 7' Pullup Jump Shot (4 PTS) (Johannes 1 AST),Made Shot,Pullup Jump shot,1,2,112
+1022600324,159,PT08M55.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,-4,262,26,Missed,1,,,0,v,MISS Hillmon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+1022600324,160,PT08M55.00S,2,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,Carrera REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,114
+1022600324,161,PT08M34.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,35,5,4,Missed,1,,,0,h,MISS Gardner 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,115
+1022600324,162,PT08M32.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,116
+1022600324,163,PT08M20.00S,2,1611661330,ATL,1628886,Canada,J. Canada,-239,30,24,Missed,1,,,0,v,MISS Canada 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,117
+1022600324,164,PT08M16.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,118
+1022600324,165,PT08M02.00S,2,1611661313,NYL,1631136,Astier,P. Astier,98,233,25,Missed,1,,,0,h,MISS Astier 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,119
+1022600324,166,PT08M00.00S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+1022600324,167,PT07M57.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,8,19,2,Made,1,21,23,44,v,Hillmon 2' Running Layup (2 PTS) (Gray 1 AST),Made Shot,Running Layup Shot,1,2,121
+1022600324,169,PT07M57.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes S.FOUL (P1.T1),Foul,Shooting,1,0,122
+1022600324,171,PT07M57.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,MISS Hillmon Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,123
+1022600324,172,PT07M53.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,124
+1022600324,294,PT07M47.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,125
+1022600324,294,PT07M47.00S,2,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,Carrera STEAL (1 STL),,,1,0,126
+1022600324,296,PT07M46.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,127
+1022600324,296,PT07M46.00S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray STEAL (1 STL),,,1,0,128
+1022600324,173,PT07M42.00S,2,1611661330,ATL,1628277,Gray,A. Gray,189,185,26,Missed,1,,,0,v,MISS Gray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+1022600324,174,PT07M40.00S,2,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,130
+1022600324,175,PT07M33.00S,2,1611661330,ATL,1631009,Howard,R. Howard,-112,173,21,Missed,1,,,0,v,MISS Howard 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,131
+1022600324,176,PT07M31.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+1022600324,177,PT07M08.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,21,505,51,Missed,1,,,0,h,MISS Johannes 51' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,133
+1022600324,178,PT07M07.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,134
+1022600324,179,PT07M07.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,135
+1022600324,180,PT07M07.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Ionescu FOR Astier,Substitution,,0,0,136
+1022600324,182,PT06M55.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,22,24,3,Made,1,21,25,46,v,Hillmon 3' Cutting Layup Shot (4 PTS) (Gray 2 AST),Made Shot,Cutting Layup Shot,1,2,137
+1022600324,184,PT06M55.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,138
+1022600324,186,PT06M35.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,-138,18,14,Missed,1,,,0,h,MISS Ionescu 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,139
+1022600324,187,PT06M33.00S,2,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,140
+1022600324,188,PT06M24.00S,2,1611661330,ATL,1628886,Canada,J. Canada,183,168,25,Made,1,21,28,49,v,Canada 25' 3PT Jump Shot (5 PTS) (Howard 2 AST),Made Shot,Jump Shot,1,3,141
+1022600324,190,PT06M02.00S,2,1611661313,NYL,204296,Allen,R. Allen,230,52,24,Made,1,24,28,52,h,Allen 24' 3PT Jump Shot (3 PTS) (Carrera 2 AST),Made Shot,Jump Shot,1,3,142
+1022600324,192,PT05M48.00S,2,1611661330,ATL,1642291,Reese,A. Reese,22,25,3,Made,1,24,30,54,v,Reese 3' Driving Layup (4 PTS) (Canada 3 AST),Made Shot,Driving Layup Shot,1,2,143
+1022600324,193,PT05M38.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,144
+1022600324,193,PT05M38.00S,2,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard STEAL (1 STL),,,1,0,145
+1022600324,195,PT05M34.00S,2,1611661330,ATL,1631009,Howard,R. Howard,-16,35,4,Made,1,24,32,56,v,Howard 4' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,146
+1022600324,197,PT05M19.00S,2,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,Carrera Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,147
+1022600324,197,PT05M19.00S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray STEAL (2 STL),,,1,0,148
+1022600324,199,PT05M14.00S,2,1611661330,ATL,1631009,Howard,R. Howard,184,154,24,Missed,1,,,0,v,MISS Howard 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,149
+1022600324,200,PT05M11.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,150
+1022600324,201,PT05M05.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,-78,243,26,Made,1,24,35,59,v,Hillmon 26' 3PT Jump Bank Shot (7 PTS) (Canada 4 AST),Made Shot,Jump Bank Shot,1,3,151
+1022600324,203,PT04M46.00S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,SUB: Astier FOR Gardner,Substitution,,0,0,152
+1022600324,204,PT04M46.00S,2,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,SUB: Xu FOR Carrera,Substitution,,0,0,153
+1022600324,205,PT04M46.00S,2,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,SUB: Jones FOR Johannes,Substitution,,0,0,154
+1022600324,206,PT04M46.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,SUB: Borlase FOR Hillmon,Substitution,,0,0,155
+1022600324,207,PT04M46.00S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,SUB: Bonner FOR Gray,Substitution,,0,0,156
+1022600324,213,PT04M46.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada Violation:Jump Ball,Violation,Jump Ball,0,0,157
+1022600324,214,PT04M46.00S,2,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,SUB: Fiebich FOR Allen,Substitution,,0,0,158
+1022600324,216,PT04M33.00S,2,1611661313,NYL,1631136,Astier,P. Astier,232,61,24,Missed,1,,,0,h,MISS Astier 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+1022600324,217,PT04M30.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,160
+1022600324,218,PT04M28.00S,2,1611661313,NYL,1631136,Astier,P. Astier,-48,87,10,Missed,1,,,0,h,MISS Astier 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,161
+1022600324,219,PT04M25.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,162
+1022600324,220,PT04M20.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier P.FOUL (P2.T2),Foul,Personal,1,0,163
+1022600324,222,PT04M13.00S,2,1611661330,ATL,1628886,Canada,J. Canada,72,254,26,Missed,1,,,0,v,MISS Canada 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,164
+1022600324,223,PT04M12.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,165
+1022600324,224,PT03M48.00S,2,1611661313,NYL,1629566,Han,Han,-41,86,10,Missed,1,,,0,h,MISS Xu 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,166
+1022600324,225,PT03M44.00S,2,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,167
+1022600324,226,PT03M44.00S,2,1611661313,NYL,1629566,Han,Han,0,-6,1,Missed,1,,,0,h,MISS Xu 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,168
+1022600324,227,PT03M44.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,169
+1022600324,228,PT03M37.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,-229,99,25,Missed,1,,,0,v,MISS Borlase 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+1022600324,229,PT03M35.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,171
+1022600324,230,PT03M28.00S,2,1611661313,NYL,1627673,Jones,J. Jones,127,241,27,Missed,1,,,0,h,MISS Jones 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,172
+1022600324,231,PT03M24.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,173
+1022600324,232,PT03M21.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,174
+1022600324,232,PT03M21.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,Reese STEAL (3 STL),,,1,0,175
+1022600324,234,PT03M04.00S,2,1611661330,ATL,1642291,Reese,A. Reese,203,130,24,Missed,1,,,0,v,MISS Reese 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+1022600324,235,PT03M00.00S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,177
+1022600324,236,PT02M55.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich OFF.Foul (P1),Foul,Offensive,1,0,178
+1022600324,238,PT02M55.00S,2,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,Fiebich Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,1,0,179
+1022600324,239,PT02M55.00S,2,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,180
+1022600324,240,PT02M55.00S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,181
+1022600324,241,PT02M55.00S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,SUB: Hillmon FOR Reese,Substitution,,0,0,182
+1022600324,244,PT02M41.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,-229,86,24,Missed,1,,,0,v,MISS Hillmon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,183
+1022600324,245,PT02M38.00S,2,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,184
+1022600324,246,PT02M25.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon P.FOUL (P1.T1),Foul,Personal,1,0,185
+1022600324,353,PT02M11.00S,2,1611661313,NYL,1629566,Han,Han,124,197,0,Missed,1,,,0,h,MISS Xu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+1022600324,354,PT02M11.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,187
+1022600324,248,PT02M11.00S,2,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,188
+1022600324,249,PT01M55.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,21,20,3,Missed,1,,,0,v,MISS Hillmon 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,189
+1022600324,250,PT01M52.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,190
+1022600324,251,PT01M39.00S,2,1611661313,NYL,1629566,Han,Han,-33,237,24,Missed,1,,,0,h,MISS Xu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,191
+1022600324,252,PT01M35.00S,2,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,192
+1022600324,253,PT01M26.00S,2,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu S.FOUL (P1.T3),Foul,Shooting,1,0,193
+1022600324,255,PT01M26.00S,2,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,24,36,60,v,Bonner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,194
+1022600324,256,PT01M26.00S,2,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,SUB: Reese FOR Borlase,Substitution,,0,0,195
+1022600324,257,PT01M26.00S,2,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,SUB: Gray FOR Hillmon,Substitution,,0,0,196
+1022600324,260,PT01M26.00S,2,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,MISS Bonner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,197
+1022600324,261,PT01M25.00S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,198
+1022600324,262,PT01M01.00S,2,1611661313,NYL,1629566,Han,Han,13,6,1,Made,1,26,36,62,h,Xu 1' Driving Layup (4 PTS) (Astier 2 AST),Made Shot,Driving Layup Shot,1,2,199
+1022600324,264,PT00M49.90S,2,1611661330,ATL,1628277,Gray,A. Gray,6,44,4,Made,1,26,38,64,v,Gray 4' Driving Layup (9 PTS) (Bonner 2 AST),Made Shot,Driving Layup Shot,1,2,200
+1022600324,266,PT00M49.90S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones S.FOUL (P1.PN),Foul,Shooting,1,0,201
+1022600324,268,PT00M49.90S,2,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Canada FOR Paopao,Substitution,,0,0,202
+1022600324,270,PT00M49.90S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,26,39,65,v,Gray Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,203
+1022600324,271,PT00M34.80S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,-55,9,6,Missed,1,,,0,h,MISS Ionescu 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,204
+1022600324,271,PT00M34.80S,2,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray BLOCK (1 BLK),,,1,2,205
+1022600324,273,PT00M31.60S,2,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,206
+1022600324,274,PT00M24.10S,2,1611661330,ATL,1628277,Gray,A. Gray,136,202,24,Missed,1,,,0,v,MISS Gray 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+1022600324,275,PT00M21.30S,2,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,208
+1022600324,276,PT00M05.60S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu FLAGRANT.FOUL.TYPE1 (P2.PN),Foul,Flagrant Type 1,1,0,209
+1022600324,278,PT00M05.60S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,1,0,210
+1022600324,279,PT00M05.60S,2,0,,276,,,0,0,0,,0,26,39,65,,Instant Replay2nd Period (8:55 PM EST),Instant Replay,Overturn Ruling,0,0,211
+1022600324,280,PT00M05.60S,2,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,212
+1022600324,281,PT00M05.60S,2,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,SUB: Allen FOR Ionescu,Substitution,,0,0,213
+1022600324,282,PT00M05.60S,2,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,SUB: Gardner FOR Xu,Substitution,,0,0,214
+1022600324,285,PT00M05.60S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,26,40,66,v,Reese Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,215
+1022600324,286,PT00M05.60S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,26,41,67,v,Reese Free Throw Flagrant 2 of 2 (6 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,216
+1022600324,287,PT00M05.60S,2,1611661330,ATL,1642291,Reese,A. Reese,0,0,0,,0,,,0,v,SUB: Hillmon FOR Reese,Substitution,,0,0,217
+1022600324,289,PT00M03.20S,2,1611661330,ATL,1628886,Canada,J. Canada,-54,93,11,Missed,1,,,0,v,MISS Canada 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,218
+1022600324,290,PT00M01.00S,2,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,219
+1022600324,291,PT00M00.40S,2,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,220
+1022600324,291,PT00M00.40S,2,1611661313,NYL,203822,Gardner,R. Gardner,0,0,0,,0,,,0,h,Gardner STEAL (1 STL),,,1,0,221
+1022600324,293,PT00M00.00S,2,0,,0,,,0,0,0,,0,26,41,67,,End of 2nd Period (9:02 PM EST),period,end,1,0,222
+1022600324,302,PT10M00.00S,3,0,,0,,,0,0,0,,0,26,41,67,,Start of 3rd Period (9:17 PM EST),period,start,0,0,223
+1022600324,303,PT09M48.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones 3 Second Violation Turnover (P1.T16),Turnover,3 Second Violation,1,0,224
+1022600324,304,PT09M33.00S,3,1611661330,ATL,201886,Bonner,D. Bonner,-207,120,24,Missed,1,,,0,v,MISS Bonner 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+1022600324,305,PT09M31.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,226
+1022600324,306,PT09M19.00S,3,1611661313,NYL,1627673,Jones,J. Jones,17,23,3,Missed,1,,,0,h,MISS Jones 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,227
+1022600324,307,PT09M16.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,228
+1022600324,308,PT09M01.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,-17,13,2,Made,1,26,43,69,v,Hillmon 2' Cutting Layup Shot (9 PTS) (Howard 3 AST),Made Shot,Cutting Layup Shot,1,2,229
+1022600324,310,PT08M41.00S,3,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,Carrera Lost Ball Turnover (P2.T17),Turnover,Lost Ball,1,0,230
+1022600324,310,PT08M41.00S,3,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard STEAL (2 STL),,,1,0,231
+1022600324,312,PT08M34.00S,3,1611661330,ATL,1628277,Gray,A. Gray,18,4,2,Missed,1,,,0,v,MISS Gray 2' Running Layup,Missed Shot,Running Layup Shot,1,2,232
+1022600324,313,PT08M32.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,233
+1022600324,314,PT08M27.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,-142,212,26,Missed,1,,,0,h,MISS Ionescu 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,234
+1022600324,315,PT08M23.00S,3,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,235
+1022600324,316,PT08M08.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier S.FOUL (P3.T1),Foul,Shooting,1,0,236
+1022600324,318,PT08M08.00S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,26,44,70,v,Canada Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,237
+1022600324,319,PT08M08.00S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,26,45,71,v,Canada Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,238
+1022600324,320,PT07M49.00S,3,1611661313,NYL,1627673,Jones,J. Jones,7,20,2,Made,1,28,45,73,h,Jones 2' Cutting Layup Shot (8 PTS) (Carrera 3 AST),Made Shot,Cutting Layup Shot,1,2,239
+1022600324,323,PT07M42.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,Astier P.FOUL (P4.T2),Foul,Personal,1,0,240
+1022600324,325,PT07M37.00S,3,1611661330,ATL,1631009,Howard,R. Howard,6,155,16,Made,1,28,47,75,v,Howard 16' Pullup Jump Shot (8 PTS) (Hillmon 1 AST),Made Shot,Pullup Jump shot,1,2,241
+1022600324,327,PT07M21.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu OFF.Foul (P3),Foul,Offensive,1,0,242
+1022600324,329,PT07M21.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,Ionescu Offensive Foul Turnover (P4.T18),Turnover,Offensive Foul Turnover,1,0,243
+1022600324,330,PT07M11.00S,3,1611661330,ATL,1628277,Gray,A. Gray,12,12,2,Missed,1,,,0,v,MISS Gray 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,244
+1022600324,331,PT07M10.00S,3,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,245
+1022600324,333,PT07M10.00S,3,1611661313,NYL,1630142,Fiebich,L. Fiebich,0,0,0,,0,,,0,h,SUB: Allen FOR Fiebich,Substitution,,0,0,246
+1022600324,334,PT07M10.00S,3,1611661313,NYL,1631136,Astier,P. Astier,0,0,0,,0,,,0,h,SUB: Fauthoux FOR Astier,Substitution,,0,0,247
+1022600324,337,PT06M55.00S,3,1611661313,NYL,1627673,Jones,J. Jones,-9,65,7,Made,1,30,47,77,h,Jones 7' Turnaround Fadeaway (10 PTS) (Fauthoux 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,248
+1022600324,339,PT06M39.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,-189,151,24,Made,1,30,50,80,v,Hillmon 24' 3PT Jump Shot (12 PTS) (Gray 3 AST),Made Shot,Jump Shot,1,3,249
+1022600324,341,PT06M19.00S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada S.FOUL (P3.T1),Foul,Shooting,1,0,250
+1022600324,343,PT06M19.00S,3,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,31,50,81,h,Carrera Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,251
+1022600324,344,PT06M19.00S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,252
+1022600324,346,PT06M19.00S,3,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,32,50,82,h,Carrera Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,253
+1022600324,347,PT05M55.00S,3,1611661330,ATL,201886,Bonner,D. Bonner,-21,23,3,Missed,1,,,0,v,MISS Bonner 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,254
+1022600324,348,PT05M53.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,255
+1022600324,349,PT05M36.00S,3,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,210,124,24,Missed,1,,,0,h,MISS Fauthoux 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+1022600324,350,PT05M33.00S,3,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,257
+1022600324,351,PT05M23.00S,3,1611661330,ATL,1631009,Howard,R. Howard,123,257,28,Missed,1,,,0,v,MISS Howard 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+1022600324,352,PT05M20.00S,3,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,259
+1022600324,355,PT05M14.00S,3,1611661330,ATL,1628277,Gray,A. Gray,-46,15,5,Missed,1,,,0,v,MISS Gray 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,260
+1022600324,356,PT05M12.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:12),Rebound,Unknown,1,0,261
+1022600324,357,PT05M05.00S,3,1611661313,NYL,1630384,Carrera,R. Carrera,224,50,0,Made,1,35,50,85,h,Carrera 3PT Jump Shot (7 PTS) (Fauthoux 2 AST),Made Shot,Jump Shot,1,3,262
+1022600324,359,PT04M47.00S,3,1611661330,ATL,1642804,Paopao,T. Paopao,143,226,27,Missed,1,,,0,v,MISS Paopao 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,263
+1022600324,360,PT04M44.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,Jones REBOUND (Off:1 Def:13),Rebound,Unknown,1,0,264
+1022600324,361,PT04M39.00S,3,1611661313,NYL,204296,Allen,R. Allen,221,79,0,Missed,1,,,0,h,MISS Allen 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,265
+1022600324,362,PT04M35.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,266
+1022600324,363,PT04M19.00S,3,1611661330,ATL,1628277,Gray,A. Gray,26,26,4,Made,1,35,52,87,v,Gray 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,267
+1022600324,364,PT04M19.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen S.FOUL (P1.T3),Foul,Shooting,1,0,268
+1022600324,366,PT04M19.00S,3,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,269
+1022600324,367,PT04M19.00S,3,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,SUB: Xu FOR Carrera,Substitution,,0,0,270
+1022600324,368,PT04M19.00S,3,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,SUB: Okot FOR Bonner,Substitution,,0,0,271
+1022600324,371,PT04M19.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,35,53,88,v,Gray Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,272
+1022600324,372,PT04M06.00S,3,1611661313,NYL,1627673,Jones,J. Jones,-209,163,27,Missed,1,,,0,h,MISS Jones 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,273
+1022600324,373,PT04M05.00S,3,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Unknown,1,0,274
+1022600324,375,PT03M58.00S,3,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux P.FOUL (P1.T4),Foul,Personal,1,0,275
+1022600324,377,PT03M58.00S,3,1611661313,NYL,1627673,Jones,J. Jones,0,0,0,,0,,,0,h,SUB: Carrera FOR Jones,Substitution,,0,0,276
+1022600324,379,PT03M45.00S,3,1611661330,ATL,1631009,Howard,R. Howard,-1,162,16,Missed,1,,,0,v,MISS Howard 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,277
+1022600324,380,PT03M42.00S,3,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,Xu REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,278
+1022600324,381,PT03M38.00S,3,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot P.FOUL (P1.T2),Foul,Personal,1,0,279
+1022600324,383,PT03M38.00S,3,1611661313,NYL,1629477,Ionescu,S. Ionescu,0,0,0,,0,,,0,h,SUB: Gardner FOR Ionescu,Substitution,,0,0,280
+1022600324,385,PT03M29.00S,3,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,33,3,Made,1,37,53,90,h,Fauthoux 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,281
+1022600324,386,PT03M13.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,-83,232,25,Missed,1,,,0,v,MISS Hillmon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+1022600324,387,PT03M10.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,283
+1022600324,389,PT02M59.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,SUB: Borlase FOR Gray,Substitution,,0,0,284
+1022600324,391,PT02M51.00S,3,1611661313,NYL,204296,Allen,R. Allen,-171,203,27,Missed,1,,,0,h,MISS Allen 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,285
+1022600324,392,PT02M49.00S,3,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,286
+1022600324,393,PT02M36.00S,3,1611661330,ATL,1642804,Paopao,T. Paopao,195,151,25,Missed,1,,,0,v,MISS Paopao 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+1022600324,394,PT02M33.00S,3,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,1,0,288
+1022600324,396,PT02M15.00S,3,1611661313,NYL,1629566,Han,Han,15,35,4,Missed,1,,,0,h,MISS Xu 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,289
+1022600324,397,PT02M12.00S,3,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,290
+1022600324,398,PT02M04.00S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,-229,18,0,Missed,1,,,0,v,MISS Hillmon 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+1022600324,399,PT02M03.00S,3,1611661330,ATL,1642302,Borlase,I. Borlase,0,0,0,,0,,,0,v,Borlase REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,292
+1022600324,400,PT02M03.00S,3,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,SUB: Bonner FOR Howard,Substitution,,0,0,293
+1022600324,401,PT02M03.00S,3,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,SUB: Gray FOR Okot,Substitution,,0,0,294
+1022600324,404,PT02M03.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray Jump Ball Violation Turnover (P1.T5),Turnover,Jump Ball Violation,1,0,295
+1022600324,405,PT01M50.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,-237,13,24,Missed,1,,,0,h,MISS Gardner 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,296
+1022600324,406,PT01M46.00S,3,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,297
+1022600324,408,PT01M46.00S,3,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Canada FOR Paopao,Substitution,,0,0,298
+1022600324,410,PT01M42.00S,3,1611661313,NYL,203822,Gardner,R. Gardner,-17,24,3,Made,1,39,53,92,h,Gardner 3' Driving Finger Roll Layup (2 PTS) (Fauthoux 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,299
+1022600324,411,PT01M34.00S,3,1611661330,ATL,1628886,Canada,J. Canada,40,33,5,Missed,1,,,0,v,MISS Canada 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,300
+1022600324,412,PT01M32.00S,3,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,Carrera REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,301
+1022600324,414,PT01M16.00S,3,1611661313,NYL,204296,Allen,R. Allen,219,30,0,Made,1,42,53,95,h,Allen 3PT Jump Shot (6 PTS) (Carrera 4 AST),Made Shot,Jump Shot,1,3,302
+1022600324,416,PT01M02.00S,3,1611661330,ATL,1628277,Gray,A. Gray,-24,37,4,Missed,1,,,0,v,MISS Gray 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,303
+1022600324,417,PT01M01.00S,3,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,304
+1022600324,454,PT01M00.00S,3,1611661330,ATL,1628277,Gray,A. Gray,-2,36,4,Missed,1,,,0,v,MISS Gray 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,305
+1022600324,454,PT01M00.00S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen BLOCK (1 BLK),,,1,2,306
+1022600324,456,PT00M59.60S,3,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Unknown,1,0,307
+1022600324,418,PT00M59.60S,3,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Jump Ball Allen vs. Gray: Tip to Gray,Jump Ball,,1,0,308
+1022600324,421,PT00M48.00S,3,1611661330,ATL,1628277,Gray,A. Gray,173,166,24,Made,1,42,56,98,v,Gray 24' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,309
+1022600324,422,PT00M29.60S,3,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,18,28,3,Made,1,44,56,100,h,Fauthoux 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,310
+1022600324,423,PT00M07.10S,3,1611661330,ATL,1631044,Hillmon,N. Hillmon,7,18,2,Made,1,44,58,102,v,Hillmon 2' Cutting Layup Shot (14 PTS) (Canada 5 AST),Made Shot,Cutting Layup Shot,1,2,311
+1022600324,425,PT00M04.50S,3,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada P.FOUL (P4.T3),Foul,Personal,1,0,312
+1022600324,427,PT00M00.70S,3,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,-191,262,32,Missed,1,,,0,h,MISS Fauthoux 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,313
+1022600324,428,PT00M00.10S,3,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Rebound,Rebound,Unknown,0,0,314
+1022600324,429,PT00M00.00S,3,0,,0,,,0,0,0,,0,44,58,102,,End of 3rd Period (9:38 PM EST),period,end,1,0,315
+1022600324,434,PT10M00.00S,4,0,,0,,,0,0,0,,0,44,58,102,,Start of 4th Period (9:42 PM EST),period,start,1,0,316
+1022600324,435,PT09M39.00S,4,1611661330,ATL,1631009,Howard,R. Howard,35,55,7,Missed,1,,,0,v,MISS Howard 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,317
+1022600324,436,PT09M37.00S,4,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,Carrera REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,318
+1022600324,437,PT09M28.00S,4,1611661313,NYL,1630384,Carrera,R. Carrera,0,43,4,Made,1,46,58,104,h,Carrera 4' Cutting Finger Roll Layup Shot (9 PTS) (Fauthoux 4 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,319
+1022600324,439,PT09M06.00S,4,1611661330,ATL,1631009,Howard,R. Howard,150,236,28,Missed,1,,,0,v,MISS Howard 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+1022600324,440,PT09M02.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,321
+1022600324,441,PT08M47.00S,4,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard P.FOUL (P2.T1),Foul,Personal,1,0,322
+1022600324,443,PT08M37.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,-155,212,26,Missed,1,,,0,h,MISS Fauthoux 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+1022600324,444,PT08M34.00S,4,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,324
+1022600324,445,PT08M30.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,107,258,28,Missed,1,,,0,h,MISS Johannes 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+1022600324,446,PT08M29.00S,4,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Unknown,1,0,326
+1022600324,448,PT08M13.00S,4,1611661330,ATL,1628886,Canada,J. Canada,133,215,25,Made,1,46,61,107,v,Canada 25' 3PT Jump Shot (10 PTS) (Gray 4 AST),Made Shot,Jump Shot,1,3,327
+1022600324,450,PT07M51.00S,4,1611661313,NYL,1629566,Han,Han,96,233,25,Missed,1,,,0,h,MISS Xu 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+1022600324,451,PT07M51.00S,4,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Rebound,Rebound,Unknown,1,0,329
+1022600324,452,PT07M51.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,Johannes L.B.FOUL (P2.T1),Foul,Loose Ball,1,0,330
+1022600324,457,PT07M31.00S,4,1611661330,ATL,1631009,Howard,R. Howard,-155,187,24,Missed,1,,,0,v,MISS Howard 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+1022600324,458,PT07M28.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,332
+1022600324,459,PT07M22.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,-200,139,24,Missed,1,,,0,v,MISS Hillmon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+1022600324,460,PT07M17.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,334
+1022600324,461,PT07M12.00S,4,1611661313,NYL,1629566,Han,Han,-96,38,10,Made,1,48,61,109,h,Xu 10' Running Jump Shot (6 PTS) (Johannes 2 AST),Made Shot,Running Jump Shot,1,2,335
+1022600324,463,PT06M48.00S,4,1611661330,ATL,1628277,Gray,A. Gray,-45,114,12,Missed,1,,,0,v,MISS Gray 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,336
+1022600324,464,PT06M46.00S,4,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,Carrera REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,337
+1022600324,465,PT06M43.00S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada P.FOUL (P5.T2),Foul,Personal,1,0,338
+1022600324,467,PT06M43.00S,4,1611661313,NYL,1630384,Carrera,R. Carrera,0,0,0,,0,,,0,h,SUB: Maley FOR Carrera,Substitution,,0,0,339
+1022600324,468,PT06M43.00S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,340
+1022600324,471,PT06M26.00S,4,1611661313,NYL,1629566,Han,Han,13,22,3,Made,1,50,61,111,h,Xu 3' Driving Layup (8 PTS) (Johannes 3 AST),Made Shot,Driving Layup Shot,1,2,341
+1022600324,473,PT06M26.00S,4,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P3.T3),Foul,Shooting,1,0,342
+1022600324,475,PT06M26.00S,4,1611661313,NYL,1629566,Han,Han,0,0,0,,0,51,61,112,h,Xu Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,343
+1022600324,476,PT06M09.00S,4,1611661313,NYL,1630993,Maley,A. Maley,0,0,0,,0,,,0,h,Maley S.FOUL (P1.T2),Foul,Shooting,1,0,344
+1022600324,478,PT06M09.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,51,62,113,v,Hillmon Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,345
+1022600324,479,PT06M09.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,51,63,114,v,Hillmon Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,346
+1022600324,480,PT05M59.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,-6,13,1,Made,1,53,63,116,h,Fauthoux 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,347
+1022600324,481,PT05M59.00S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,Hillmon S.FOUL (P2.T4),Foul,Shooting,1,0,348
+1022600324,483,PT05M59.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,349
+1022600324,484,PT05M59.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,54,63,117,h,Fauthoux Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,350
+1022600324,485,PT05M47.00S,4,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,351
+1022600324,486,PT05M31.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,55,101,12,Missed,1,,,0,h,MISS Johannes 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,352
+1022600324,487,PT05M28.00S,4,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,353
+1022600324,488,PT05M12.00S,4,1611661330,ATL,201886,Bonner,D. Bonner,-22,259,26,Missed,1,,,0,v,MISS Bonner 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+1022600324,489,PT05M09.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,355
+1022600324,490,PT05M03.00S,4,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner S.FOUL (P1.PN),Foul,Shooting,1,0,356
+1022600324,492,PT05M03.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,55,63,118,h,Fauthoux Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,357
+1022600324,493,PT05M03.00S,4,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Canada FOR Paopao,Substitution,,0,0,358
+1022600324,495,PT05M03.00S,4,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,SUB: Carrera FOR Xu,Substitution,,0,0,359
+1022600324,497,PT05M03.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,56,63,119,h,Fauthoux Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,360
+1022600324,498,PT04M49.00S,4,1611661330,ATL,1628277,Gray,A. Gray,-15,18,2,Made,1,56,65,121,v,Gray 2' Cutting Layup Shot (18 PTS) (Howard 4 AST),Made Shot,Cutting Layup Shot,1,2,361
+1022600324,500,PT04M32.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,362
+1022600324,501,PT04M32.00S,4,1611661313,NYL,1629546,Johannes,M. Johannes,0,0,0,,0,,,0,h,SUB: Gardner FOR Johannes,Substitution,,0,0,363
+1022600324,503,PT04M23.00S,4,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,Howard S.FOUL (P4.PN),Foul,Shooting,1,0,364
+1022600324,505,PT04M23.00S,4,0,,503,,,0,0,0,,0,56,65,121,,Instant Replay4th Period (9:59 PM EST),Instant Replay,Support Ruling,0,0,365
+1022600324,506,PT04M23.00S,4,0,,1611661330,,,0,0,0,,0,,,0,v,Dream Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,366
+1022600324,507,PT04M23.00S,4,0,,503,,,0,0,0,,0,56,65,121,,Instant Replay4th Period (10:01 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,367
+1022600324,508,PT04M23.00S,4,1611661313,NYL,1630993,Maley,A. Maley,0,0,0,,0,57,65,122,h,Maley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,368
+1022600324,509,PT04M23.00S,4,1611661313,NYL,1630993,Maley,A. Maley,0,0,0,,0,58,65,123,h,Maley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,369
+1022600324,510,PT04M05.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux S.FOUL (P2.T3),Foul,Shooting,1,0,370
+1022600324,512,PT04M05.00S,4,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,58,66,124,v,Bonner Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,371
+1022600324,513,PT04M05.00S,4,1611661313,NYL,1630993,Maley,A. Maley,0,0,0,,0,,,0,h,SUB: Xu FOR Maley,Substitution,,0,0,372
+1022600324,515,PT04M05.00S,4,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,58,67,125,v,Bonner Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,373
+1022600324,516,PT03M51.00S,4,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner S.FOUL (P2.PN),Foul,Shooting,1,0,374
+1022600324,518,PT03M51.00S,4,1611661313,NYL,1629566,Han,Han,0,0,0,,0,59,67,126,h,Xu Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,375
+1022600324,519,PT03M51.00S,4,1611661313,NYL,1629566,Han,Han,0,0,0,,0,60,67,127,h,Xu Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+1022600324,520,PT03M32.00S,4,1611661330,ATL,1628277,Gray,A. Gray,-221,90,24,Made,1,60,70,130,v,Gray 24' 3PT Jump Shot (21 PTS) (Howard 5 AST),Made Shot,Jump Shot,1,3,377
+1022600324,522,PT03M16.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux Bad Pass Turnover (P1.T19),Turnover,Bad Pass,1,0,378
+1022600324,522,PT03M16.00S,4,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray STEAL (3 STL),,,1,0,379
+1022600324,524,PT03M11.00S,4,1611661330,ATL,1628886,Canada,J. Canada,34,23,4,Made,1,60,72,132,v,Canada 4' Running Finger Roll Layup (12 PTS) (Gray 5 AST),Made Shot,Running Finger Roll Layup Shot,1,2,380
+1022600324,526,PT02M55.00S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,Canada P.FOUL (P6.PN),Foul,Personal,1,0,381
+1022600324,528,PT02M55.00S,4,1611661330,ATL,1628886,Canada,J. Canada,0,0,0,,0,,,0,v,SUB: Paopao FOR Canada,Substitution,,0,0,382
+1022600324,530,PT02M55.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,61,72,133,h,Fauthoux Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,383
+1022600324,531,PT02M55.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,62,72,134,h,Fauthoux Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,384
+1022600324,532,PT02M34.00S,4,1611661330,ATL,201886,Bonner,D. Bonner,-156,189,25,Made,1,62,75,137,v,Bonner 25' 3PT Jump Shot (6 PTS) (Howard 6 AST),Made Shot,Jump Shot,1,3,385
+1022600324,534,PT02M31.00S,4,0,,1611661313,,,0,0,0,,0,,,0,h,LIBERTY Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,386
+1022600324,535,PT02M31.00S,4,1611661313,NYL,1629566,Han,Han,0,0,0,,0,,,0,h,SUB: Maley FOR Xu,Substitution,,0,0,387
+1022600324,537,PT02M17.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux Out of Bounds - Bad Pass Turnover Turnover (P2.T20),Turnover,Out of Bounds - Bad Pass Turnover,1,0,388
+1022600324,538,PT01M59.00S,4,1611661330,ATL,1642804,Paopao,T. Paopao,-174,150,0,Missed,1,,,0,v,MISS Paopao 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+1022600324,539,PT01M55.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,390
+1022600324,540,PT01M47.00S,4,1611661313,NYL,204296,Allen,R. Allen,-199,164,26,Missed,1,,,0,h,MISS Allen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+1022600324,541,PT01M43.00S,4,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,Bonner REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,392
+1022600324,542,PT01M37.00S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,Fauthoux Personal Take Foul (P3.T4),Foul,Personal Take,1,0,393
+1022600324,544,PT01M37.00S,4,1611661313,NYL,204296,Allen,R. Allen,0,0,0,,0,,,0,h,SUB: Scott FOR Allen,Substitution,,0,0,394
+1022600324,546,PT01M24.00S,4,1611661330,ATL,1628277,Gray,A. Gray,-167,181,25,Made,1,62,78,140,v,Gray 25' 3PT Jump Shot (24 PTS) (Hillmon 2 AST),Made Shot,Jump Shot,1,3,395
+1022600324,548,PT01M08.00S,4,1611661313,NYL,203822,Gardner,R. Gardner,-13,262,26,Missed,1,,,0,h,MISS Gardner 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,396
+1022600324,549,PT01M08.00S,4,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,Gray REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,397
+1022600324,550,PT00M58.50S,4,1611661330,ATL,201886,Bonner,D. Bonner,-232,-1,0,Made,1,62,81,143,v,Bonner 3PT Jump Shot (9 PTS) (Paopao 2 AST),Made Shot,Jump Shot,1,3,398
+1022600324,552,PT00M52.80S,4,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,Paopao Personal Take Foul (P1.PN),Foul,Personal Take,1,0,399
+1022600324,554,PT00M52.80S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,63,81,144,h,Fauthoux Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,400
+1022600324,555,PT00M52.80S,4,1611661330,ATL,1631044,Hillmon,N. Hillmon,0,0,0,,0,,,0,v,SUB: Okot FOR Hillmon,Substitution,,0,0,401
+1022600324,556,PT00M52.80S,4,1611661330,ATL,1642804,Paopao,T. Paopao,0,0,0,,0,,,0,v,SUB: Borlase FOR Paopao,Substitution,,0,0,402
+1022600324,557,PT00M52.80S,4,1611661330,ATL,1631009,Howard,R. Howard,0,0,0,,0,,,0,v,SUB: Nivar FOR Howard,Substitution,,0,0,403
+1022600324,558,PT00M52.80S,4,1611661330,ATL,1628277,Gray,A. Gray,0,0,0,,0,,,0,v,SUB: Kone FOR Gray,Substitution,,0,0,404
+1022600324,559,PT00M52.80S,4,1611661330,ATL,201886,Bonner,D. Bonner,0,0,0,,0,,,0,v,SUB: Walker-Kimbrough FOR Bonner,Substitution,,0,0,405
+1022600324,565,PT00M52.80S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,,,0,h,MISS Fauthoux Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,406
+1022600324,566,PT00M51.30S,4,1611661330,ATL,1628278,Walker-Kimbrough,S. Walker-Kimbrough,0,0,0,,0,,,0,v,Walker-Kimbrough REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,407
+1022600324,567,PT00M37.80S,4,1611661330,ATL,1643469,Nivar,I. Nivar,-41,2,4,Missed,1,,,0,v,MISS Nivar 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,408
+1022600324,568,PT00M36.50S,4,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,409
+1022600324,569,PT00M36.50S,4,1611661330,ATL,1643431,Okot,M. Okot,0,-6,1,Made,1,63,83,146,v,Okot 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,410
+1022600324,570,PT00M18.90S,4,1611661330,ATL,1643431,Okot,M. Okot,0,0,0,,0,,,0,v,Okot S.FOUL (P2.PN),Foul,Shooting,1,0,411
+1022600324,572,PT00M18.90S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,64,83,147,h,Fauthoux Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,412
+1022600324,573,PT00M18.90S,4,1611661313,NYL,1630469,Fauthoux,M. Fauthoux,0,0,0,,0,65,83,148,h,Fauthoux Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,413
+1022600324,574,PT00M00.00S,4,0,,0,,,0,0,0,,0,65,83,148,,End of 4th Period (10:15 PM EST),period,end,1,0,414

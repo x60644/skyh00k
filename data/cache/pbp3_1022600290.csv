@@ -1,0 +1,410 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600290,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:06 PM EST),period,start,1,0,1
+1022600290,4,PT10M00.00S,1,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Jump Ball Mack vs. Austin: Tip to Thomas,Jump Ball,,1,0,2
+1022600290,9,PT09M40.00S,1,1611661317,PHX,1627674,Copper,K. Copper,-2,29,3,Missed,1,,,0,h,MISS Copper 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,3
+1022600290,10,PT09M38.00S,1,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+1022600290,11,PT09M38.00S,1,1611661317,PHX,1630442,Mack,N. Mack,23,25,3,Missed,1,,,0,h,MISS Mack 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,5
+1022600290,12,PT09M35.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+1022600290,13,PT09M24.00S,1,1611661322,WAS,1631022,Austin,S. Austin,-4,63,6,Missed,1,,,0,v,MISS Austin 6' Hook Shot,Missed Shot,Hook Shot,1,2,7
+1022600290,14,PT09M22.00S,1,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+1022600290,15,PT09M18.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen P.FOUL (P1.T1),Foul,Personal,1,0,9
+1022600290,17,PT09M13.00S,1,1611661317,PHX,1627674,Copper,K. Copper,-22,12,3,Made,1,2,0,2,h,Copper 3' Cutting Layup Shot (2 PTS) (Thomas 1 AST),Made Shot,Cutting Layup Shot,1,2,10
+1022600290,19,PT09M00.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,-23,184,19,Missed,1,,,0,v,MISS Iriafen 19' Jump Shot,Missed Shot,Jump Shot,1,2,11
+1022600290,20,PT08M57.00S,1,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+1022600290,21,PT08M51.00S,1,1611661317,PHX,1627674,Copper,K. Copper,56,189,20,Made,1,4,0,4,h,Copper 20' Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,13
+1022600290,22,PT08M29.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,136,200,24,Missed,1,,,0,v,MISS Onyenwere 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+1022600290,23,PT08M28.00S,1,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,15
+1022600290,24,PT08M24.00S,1,1611661317,PHX,1627674,Copper,K. Copper,-111,83,14,Made,1,6,0,6,h,Copper 14' Running Pull-Up Jump Shot (6 PTS) (Thomas 2 AST),Made Shot,Running Pull-Up Jump Shot,1,2,16
+1022600290,26,PT08M06.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,-232,1,0,Missed,1,,,0,v,MISS Amoore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+1022600290,27,PT08M03.00S,1,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,18
+1022600290,28,PT07M58.00S,1,1611661317,PHX,1627674,Copper,K. Copper,-144,192,24,Missed,1,,,0,h,MISS Copper 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+1022600290,29,PT07M54.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+1022600290,30,PT07M44.00S,1,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper P.FOUL (P1.T1),Foul,Personal,1,0,21
+1022600290,32,PT07M44.00S,1,0,,30,Dumas,R. Dumas,0,0,0,,0,6,0,6,,Instant Replay1st Period (10:10 PM EST),Instant Replay,Ruling Stands,0,0,22
+1022600290,33,PT07M39.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,17,45,5,Missed,1,,,0,v,MISS Iriafen 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,23
+1022600290,33,PT07M39.00S,1,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack BLOCK (1 BLK),,,1,2,24
+1022600290,35,PT07M37.00S,1,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,25
+1022600290,36,PT07M30.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere P.FOUL (P1.T2),Foul,Personal,1,0,26
+1022600290,40,PT07M22.00S,1,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,7,160,16,Missed,1,,,0,h,MISS Whitcomb 16' Jump Shot,Missed Shot,Jump Shot,1,2,27
+1022600290,41,PT07M20.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+1022600290,42,PT07M04.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen Traveling Turnover (P1.T1),Turnover,Traveling,1,0,29
+1022600290,43,PT07M04.00S,1,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,SUB: Laney-Hamilton FOR Onyenwere,Substitution,,0,0,30
+1022600290,45,PT06M54.00S,1,1611661317,PHX,1627674,Copper,K. Copper,121,64,14,Made,1,8,0,8,h,Copper 14' Pullup Jump Shot (8 PTS) (Brochant 1 AST),Made Shot,Pullup Jump shot,1,2,31
+1022600290,47,PT06M29.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,32
+1022600290,47,PT06M29.00S,1,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper STEAL (1 STL),,,1,0,33
+1022600290,49,PT06M28.00S,1,1611661317,PHX,1627674,Copper,K. Copper,24,0,2,Made,1,10,0,10,h,Copper 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,34
+1022600290,50,PT06M07.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,-29,76,8,Missed,1,,,0,v,MISS Iriafen 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,35
+1022600290,51,PT06M06.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,36
+1022600290,52,PT06M05.00S,1,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack S.FOUL (P1.T2),Foul,Shooting,1,0,37
+1022600290,54,PT06M05.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,10,1,11,v,Austin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,38
+1022600290,55,PT06M05.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,SUB: Betts FOR Iriafen,Substitution,,0,0,39
+1022600290,57,PT06M05.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,10,2,12,v,Austin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,40
+1022600290,59,PT05M51.00S,1,1611661317,PHX,1627674,Copper,K. Copper,42,11,4,Made,1,12,2,14,h,Copper 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,41
+1022600290,60,PT05M34.00S,1,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,Laney-Hamilton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,42
+1022600290,60,PT05M34.00S,1,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack STEAL (1 STL),,,1,0,43
+1022600290,62,PT05M22.00S,1,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,185,174,25,Made,1,15,2,17,h,Whitcomb 25' 3PT Step Back Jump Shot (3 PTS) (Thomas 3 AST),Made Shot,Step Back Jump shot,1,3,44
+1022600290,64,PT05M06.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,-202,132,24,Made,1,15,5,20,v,Amoore 24' 3PT Pullup Jump Shot (3 PTS) (Citron 1 AST),Made Shot,Pullup Jump shot,1,3,45
+1022600290,66,PT04M53.00S,1,1611661317,PHX,203826,Thomas,A. Thomas,59,72,9,Missed,1,,,0,h,MISS Thomas 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,46
+1022600290,67,PT04M51.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,47
+1022600290,68,PT04M33.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,91,224,24,Made,1,15,8,23,v,Amoore 24' 3PT Jump Shot (6 PTS) (Laney-Hamilton 1 AST),Made Shot,Jump Shot,1,3,48
+1022600290,191,PT04M17.00S,1,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,49
+1022600290,136,PT04M17.00S,1,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper L.B.FOUL (P2.T3),Foul,Loose Ball,1,0,50
+1022600290,74,PT04M17.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,51
+1022600290,76,PT04M17.00S,1,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,SUB: Held FOR Copper,Substitution,,0,0,52
+1022600290,77,PT04M17.00S,1,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,SUB: Westbeld FOR Mack,Substitution,,0,0,53
+1022600290,78,PT04M17.00S,1,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,0,0,0,,0,,,0,h,SUB: Ayayi FOR Whitcomb,Substitution,,0,0,54
+1022600290,79,PT04M17.00S,1,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,SUB: McMahon FOR Austin,Substitution,,0,0,55
+1022600290,80,PT04M17.00S,1,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,SUB: Iriafen FOR Amoore,Substitution,,0,0,56
+1022600290,86,PT03M55.00S,1,1611661322,WAS,1642785,Citron,S. Citron,-230,45,0,Made,1,15,11,26,v,Citron 3PT Jump Shot (3 PTS) (Laney-Hamilton 2 AST),Made Shot,Jump Shot,1,3,57
+1022600290,88,PT03M43.00S,1,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld OFF.Foul (P1),Foul,Offensive,1,0,58
+1022600290,90,PT03M43.00S,1,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,59
+1022600290,91,PT03M43.00S,1,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,SUB: Florez FOR Citron,Substitution,,0,0,60
+1022600290,93,PT03M27.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,-31,28,4,Made,1,15,13,28,v,Iriafen 4' Layup (2 PTS) (Florez 1 AST),Made Shot,Layup Shot,1,2,61
+1022600290,95,PT03M09.00S,1,1611661317,PHX,1643493,Brochant,N. Brochant,0,0,0,,0,,,0,h,Brochant Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,62
+1022600290,95,PT03M09.00S,1,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,Florez STEAL (1 STL),,,1,0,63
+1022600290,97,PT02M50.00S,1,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,-48,129,14,Made,1,15,15,30,v,Laney-Hamilton 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,64
+1022600290,98,PT02M42.00S,1,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld OFF.Foul (P2),Foul,Offensive,1,0,65
+1022600290,100,PT02M42.00S,1,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,66
+1022600290,101,PT02M42.00S,1,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,SUB: Onyenwere FOR Laney-Hamilton,Substitution,,0,0,67
+1022600290,103,PT02M27.00S,1,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,Florez OFF.Foul (P1),Foul,Offensive,1,0,68
+1022600290,105,PT02M27.00S,1,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,Florez Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,69
+1022600290,106,PT02M12.00S,1,1611661317,PHX,203826,Thomas,A. Thomas,33,55,6,Missed,1,,,0,h,MISS Thomas 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,70
+1022600290,107,PT02M10.00S,1,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+1022600290,108,PT01M59.00S,1,1611661317,PHX,204468,Ayayi,V. Ayayi,0,0,0,,0,,,0,h,Ayayi S.FOUL (P1.T4),Foul,Shooting,1,0,72
+1022600290,110,PT01M59.00S,1,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,15,16,31,v,Betts Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,73
+1022600290,111,PT01M59.00S,1,1611661317,PHX,1643493,Brochant,N. Brochant,0,0,0,,0,,,0,h,SUB: Copper FOR Brochant,Substitution,,0,0,74
+1022600290,112,PT01M59.00S,1,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,SUB: Mack FOR Thomas,Substitution,,0,0,75
+1022600290,115,PT01M59.00S,1,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,15,17,32,v,Betts Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,76
+1022600290,116,PT01M47.00S,1,1611661317,PHX,1630442,Mack,N. Mack,0,55,6,Missed,1,,,0,h,MISS Mack 6' Layup,Missed Shot,Layup Shot,1,2,77
+1022600290,117,PT01M44.00S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,78
+1022600290,118,PT01M39.00S,1,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,,,0,h,Held P.FOUL (P1.PN),Foul,Personal,1,0,79
+1022600290,120,PT01M39.00S,1,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,15,18,33,v,Florez Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,80
+1022600290,121,PT01M39.00S,1,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,MISS Florez Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,81
+1022600290,122,PT01M39.00S,1,1611661317,PHX,204468,Ayayi,V. Ayayi,0,0,0,,0,,,0,h,Ayayi REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+1022600290,123,PT01M18.00S,1,1611661317,PHX,1627674,Copper,K. Copper,0,20,2,Made,1,17,18,35,h,Copper 2' Driving Layup (14 PTS) (Mack 1 AST),Made Shot,Driving Layup Shot,1,2,83
+1022600290,125,PT00M59.10S,1,1611661322,WAS,1643427,Betts,L. Betts,35,121,13,Missed,1,,,0,v,MISS Betts 13' Jump Shot,Missed Shot,Jump Shot,1,2,84
+1022600290,126,PT00M58.10S,1,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Unknown,1,0,85
+1022600290,127,PT00M58.10S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen L.B.FOUL (P2.T3),Foul,Loose Ball,1,0,86
+1022600290,129,PT00M58.10S,1,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,SUB: Citron FOR Florez,Substitution,,0,0,87
+1022600290,130,PT00M58.10S,1,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,SUB: Austin FOR Iriafen,Substitution,,0,0,88
+1022600290,133,PT00M39.30S,1,1611661317,PHX,1631118,Held,L. Held,56,235,24,Missed,1,,,0,h,MISS Held 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,89
+1022600290,134,PT00M35.10S,1,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Unknown,1,0,90
+1022600290,139,PT00M30.70S,1,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts P.FOUL (P1.PN),Foul,Personal,1,0,91
+1022600290,141,PT00M30.70S,1,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,MISS Copper Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,92
+1022600290,142,PT00M30.70S,1,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Normal Rebound,1,0,93
+1022600290,143,PT00M30.70S,1,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,18,18,36,h,Copper Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,94
+1022600290,144,PT00M14.00S,1,1611661322,WAS,1631022,Austin,S. Austin,29,34,4,Made,1,18,20,38,v,Austin 4' Driving Layup (4 PTS) (Betts 1 AST),Made Shot,Driving Layup Shot,1,2,95
+1022600290,146,PT00M00.00S,1,0,,0,,,0,0,0,,0,18,20,38,,End of 1st Period (10:31 PM EST),period,end,1,0,96
+1022600290,151,PT10M00.00S,2,0,,0,,,0,0,0,,0,18,20,38,,Start of 2nd Period (10:34 PM EST),period,start,1,0,97
+1022600290,152,PT09M38.00S,2,1611661317,PHX,204468,Ayayi,V. Ayayi,0,0,0,,0,,,0,h,Ayayi S.FOUL (P2.T1),Foul,Shooting,1,0,98
+1022600290,154,PT09M38.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,MISS Onyenwere Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,99
+1022600290,155,PT09M38.00S,2,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Normal Rebound,1,0,100
+1022600290,156,PT09M38.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,18,21,39,v,Onyenwere Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,101
+1022600290,157,PT09M25.00S,2,1611661317,PHX,1627674,Copper,K. Copper,128,23,13,Missed,1,,,0,h,MISS Copper 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,102
+1022600290,158,PT09M22.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,103
+1022600290,159,PT09M07.00S,2,1611661322,WAS,1643427,Betts,L. Betts,-32,82,9,Made,1,18,23,41,v,Betts 9' Hook Shot (4 PTS) (McMahon 1 AST),Made Shot,Hook Shot,1,2,104
+1022600290,161,PT08M55.00S,2,1611661317,PHX,1627674,Copper,K. Copper,-169,168,24,Made,1,21,23,44,h,Copper 24' 3PT Jump Shot (18 PTS) (Ciezki 1 AST),Made Shot,Jump Shot,1,3,105
+1022600290,163,PT08M38.00S,2,1611661322,WAS,1643427,Betts,L. Betts,21,24,3,Made,1,21,25,46,v,Betts 3' Layup (6 PTS) (Austin 1 AST),Made Shot,Layup Shot,1,2,106
+1022600290,165,PT08M27.00S,2,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,148,237,28,Missed,1,,,0,h,MISS Whitcomb 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,107
+1022600290,166,PT08M25.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,108
+1022600290,167,PT08M05.00S,2,1611661322,WAS,1642785,Citron,S. Citron,-50,33,6,Missed,1,,,0,v,MISS Citron 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,109
+1022600290,168,PT08M04.00S,2,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,110
+1022600290,169,PT07M51.00S,2,1611661317,PHX,1643470,Ciezki,S. Ciezki,-16,0,2,Made,1,23,25,48,h,Ciezki 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,111
+1022600290,170,PT07M41.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,112
+1022600290,170,PT07M41.00S,2,1611661317,PHX,204468,Ayayi,V. Ayayi,0,0,0,,0,,,0,h,Ayayi STEAL (1 STL),,,1,0,113
+1022600290,172,PT07M36.00S,2,1611661317,PHX,1627674,Copper,K. Copper,33,13,4,Made,1,25,25,50,h,Copper 4' Running Layup (20 PTS) (Ayayi 1 AST),Made Shot,Running Layup Shot,1,2,114
+1022600290,174,PT07M23.00S,2,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,Ciezki P.FOUL (P1.T2),Foul,Personal,1,0,115
+1022600290,176,PT07M23.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,SUB: Laney-Hamilton FOR Onyenwere,Substitution,,0,0,116
+1022600290,177,PT07M23.00S,2,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,SUB: Amoore FOR McMahon,Substitution,,0,0,117
+1022600290,180,PT07M15.00S,2,1611661322,WAS,1631022,Austin,S. Austin,12,40,4,Made,1,25,27,52,v,Austin 4' Driving Layup (6 PTS) (Amoore 1 AST),Made Shot,Driving Layup Shot,1,2,118
+1022600290,182,PT07M15.00S,2,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,Ciezki S.FOUL (P2.T3),Foul,Shooting,1,0,119
+1022600290,184,PT07M15.00S,2,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,25,28,53,v,Austin Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,120
+1022600290,185,PT07M01.00S,2,1611661317,PHX,1630442,Mack,N. Mack,43,45,6,Missed,1,,,0,h,MISS Mack 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,121
+1022600290,185,PT07M01.00S,2,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin BLOCK (1 BLK),,,1,2,122
+1022600290,187,PT07M00.00S,2,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,Laney-Hamilton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+1022600290,188,PT06M47.00S,2,1611661322,WAS,1631022,Austin,S. Austin,-15,73,7,Missed,1,,,0,v,MISS Austin 7' Jump Shot,Missed Shot,Jump Shot,1,2,124
+1022600290,188,PT06M47.00S,2,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack BLOCK (2 BLK),,,1,2,125
+1022600290,190,PT06M46.00S,2,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,Ciezki REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+1022600290,193,PT06M41.00S,2,1611661317,PHX,1643470,Ciezki,S. Ciezki,4,37,4,Missed,1,,,0,h,MISS Ciezki 4' Running Layup,Missed Shot,Running Layup Shot,1,2,127
+1022600290,193,PT06M41.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron BLOCK (1 BLK),,,1,2,128
+1022600290,195,PT06M41.00S,2,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Unknown,0,0,129
+1022600290,197,PT06M41.00S,2,1611661317,PHX,204468,Ayayi,V. Ayayi,0,0,0,,0,,,0,h,SUB: Thomas FOR Ayayi,Substitution,,0,0,130
+1022600290,199,PT06M32.00S,2,1611661317,PHX,1630442,Mack,N. Mack,-13,15,2,Made,1,27,28,55,h,Mack 2' Cutting Layup Shot (2 PTS) (Copper 1 AST),Made Shot,Cutting Layup Shot,1,2,131
+1022600290,201,PT06M24.00S,2,1611661322,WAS,1642785,Citron,S. Citron,39,60,7,Made,1,27,30,57,v,Citron 7' Driving Layup (5 PTS) (Laney-Hamilton 3 AST),Made Shot,Driving Layup Shot,1,2,132
+1022600290,203,PT06M02.00S,2,1611661317,PHX,1627674,Copper,K. Copper,187,85,21,Missed,1,,,0,h,MISS Copper 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,133
+1022600290,204,PT06M00.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,134
+1022600290,205,PT05M54.00S,2,1611661322,WAS,1642785,Citron,S. Citron,168,227,28,Missed,1,,,0,v,MISS Citron 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,135
+1022600290,206,PT05M52.00S,2,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,136
+1022600290,207,PT05M52.00S,2,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,137
+1022600290,208,PT05M52.00S,2,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,SUB: Westbeld FOR Copper,Substitution,,0,0,138
+1022600290,209,PT05M52.00S,2,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,SUB: Brochant FOR Mack,Substitution,,0,0,139
+1022600290,210,PT05M52.00S,2,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,SUB: Iriafen FOR Austin,Substitution,,0,0,140
+1022600290,214,PT05M39.00S,2,1611661317,PHX,1643470,Ciezki,S. Ciezki,-207,102,0,Missed,1,,,0,h,MISS Ciezki 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+1022600290,215,PT05M37.00S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,142
+1022600290,216,PT05M25.00S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,-17,23,3,Made,1,27,32,59,v,Iriafen 3' Cutting Layup Shot (4 PTS) (Amoore 2 AST),Made Shot,Cutting Layup Shot,1,2,143
+1022600290,218,PT05M17.00S,2,1611661317,PHX,1642818,Westbeld,M. Westbeld,-15,11,2,Missed,1,,,0,h,MISS Westbeld 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,144
+1022600290,219,PT05M15.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,145
+1022600290,220,PT05M01.00S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,-74,71,10,Made,1,27,34,61,v,Iriafen 10' Turnaround Bank Shot (6 PTS) (Amoore 3 AST),Made Shot,Turnaround Bank shot,1,2,146
+1022600290,222,PT04M47.00S,2,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,0,0,0,,0,,,0,h,Whitcomb Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,147
+1022600290,223,PT04M38.00S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,-34,52,6,Missed,1,,,0,v,MISS Iriafen 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,148
+1022600290,224,PT04M36.00S,2,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,149
+1022600290,225,PT04M30.00S,2,1611661317,PHX,1642818,Westbeld,M. Westbeld,-112,209,24,Missed,1,,,0,h,MISS Westbeld 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,150
+1022600290,226,PT04M28.00S,2,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,Laney-Hamilton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,151
+1022600290,227,PT04M15.00S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,-12,30,3,Made,1,27,36,63,v,Iriafen 3' Layup (8 PTS) (Laney-Hamilton 4 AST),Made Shot,Layup Shot,1,2,152
+1022600290,229,PT03M55.00S,2,1611661317,PHX,1643493,Brochant,N. Brochant,-32,7,3,Missed,1,,,0,h,MISS Brochant 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,153
+1022600290,230,PT03M53.00S,2,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,Laney-Hamilton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,154
+1022600290,231,PT03M35.00S,2,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,10,15,2,Made,1,27,38,65,v,Laney-Hamilton 2' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,1,2,155
+1022600290,232,PT03M21.00S,2,1611661317,PHX,1643493,Brochant,N. Brochant,71,221,0,Missed,1,,,0,h,MISS Brochant 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,156
+1022600290,233,PT03M20.00S,2,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,157
+1022600290,234,PT03M15.00S,2,1611661317,PHX,1643493,Brochant,N. Brochant,0,0,0,,0,,,0,h,Brochant Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,158
+1022600290,234,PT03M15.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore STEAL (1 STL),,,1,0,159
+1022600290,236,PT02M57.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,-134,66,15,Missed,1,,,0,v,MISS Amoore 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,160
+1022600290,237,PT02M55.00S,2,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,161
+1022600290,238,PT02M49.00S,2,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,0,162
+1022600290,238,PT02M49.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron STEAL (1 STL),,,1,0,163
+1022600290,240,PT02M43.00S,2,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,Ciezki P.FOUL (P3.T4),Foul,Personal,1,0,164
+1022600290,242,PT02M43.00S,2,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,165
+1022600290,243,PT02M43.00S,2,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,SUB: Mack FOR Ciezki,Substitution,,0,0,166
+1022600290,244,PT02M43.00S,2,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,0,0,0,,0,,,0,h,SUB: Copper FOR Whitcomb,Substitution,,0,0,167
+1022600290,245,PT02M43.00S,2,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,SUB: Held FOR Westbeld,Substitution,,0,0,168
+1022600290,246,PT02M43.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,SUB: McMahon FOR Amoore,Substitution,,0,0,169
+1022600290,247,PT02M43.00S,2,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,SUB: Onyenwere FOR Laney-Hamilton,Substitution,,0,0,170
+1022600290,253,PT02M41.00S,2,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,,,0,h,Held P.FOUL (P2.PN),Foul,Personal,1,0,171
+1022600290,255,PT02M41.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,MISS Citron Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,172
+1022600290,256,PT02M41.00S,2,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Normal Rebound,0,0,173
+1022600290,257,PT02M41.00S,2,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,SUB: Austin FOR Betts,Substitution,,0,0,174
+1022600290,259,PT02M41.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,27,39,66,v,Citron Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,175
+1022600290,260,PT02M32.00S,2,1611661317,PHX,1627674,Copper,K. Copper,16,6,2,Made,1,29,39,68,h,Copper 2' Reverse Layup (22 PTS) (Thomas 4 AST),Made Shot,Reverse Layup Shot,1,2,176
+1022600290,262,PT02M17.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,177
+1022600290,262,PT02M17.00S,2,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack STEAL (2 STL),,,1,0,178
+1022600290,264,PT02M13.00S,2,1611661317,PHX,1643493,Brochant,N. Brochant,-16,22,3,Missed,1,,,0,h,MISS Brochant 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,179
+1022600290,265,PT02M11.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,180
+1022600290,266,PT01M51.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,1,0,181
+1022600290,267,PT01M51.00S,2,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,SUB: Amoore FOR Onyenwere,Substitution,,0,0,182
+1022600290,269,PT01M38.00S,2,1611661317,PHX,1643493,Brochant,N. Brochant,33,-4,3,Made,1,31,39,70,h,Brochant 3' Floating Jump Shot (2 PTS) (Thomas 5 AST),Made Shot,Floating Jump shot,1,2,183
+1022600290,271,PT01M20.00S,2,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,184
+1022600290,271,PT01M20.00S,2,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper STEAL (2 STL),,,1,0,185
+1022600290,273,PT01M09.00S,2,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron S.FOUL (P1.T1),Foul,Shooting,1,0,186
+1022600290,275,PT01M09.00S,2,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,32,39,71,h,Mack Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,187
+1022600290,276,PT01M09.00S,2,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,33,39,72,h,Mack Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,188
+1022600290,277,PT00M58.50S,2,1611661322,WAS,1642785,Citron,S. Citron,-201,151,25,Missed,1,,,0,v,MISS Citron 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+1022600290,278,PT00M56.80S,2,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Unknown,1,0,190
+1022600290,280,PT00M49.00S,2,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin P.FOUL (P1.PN),Foul,Personal,1,0,191
+1022600290,282,PT00M49.00S,2,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,34,39,73,h,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,192
+1022600290,283,PT00M49.00S,2,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,35,39,74,h,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,193
+1022600290,284,PT00M33.10S,2,1611661322,WAS,1631022,Austin,S. Austin,-22,74,8,Missed,1,,,0,v,MISS Austin 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,194
+1022600290,284,PT00M33.10S,2,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack BLOCK (3 BLK),,,1,2,195
+1022600290,286,PT00M32.20S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,196
+1022600290,287,PT00M32.20S,2,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas S.FOUL (P1.PN),Foul,Shooting,1,0,197
+1022600290,289,PT00M32.20S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,MISS Iriafen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,198
+1022600290,290,PT00M32.20S,2,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Normal Rebound,1,0,199
+1022600290,291,PT00M32.20S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,35,40,75,v,Iriafen Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,200
+1022600290,292,PT00M09.80S,2,1611661317,PHX,1630442,Mack,N. Mack,-26,2,3,Made,1,37,40,77,h,Mack 3' Cutting Layup Shot (6 PTS) (Held 1 AST),Made Shot,Cutting Layup Shot,1,2,201
+1022600290,294,PT00M02.20S,2,1611661322,WAS,1642781,Amoore,G. Amoore,-39,206,21,Missed,1,,,0,v,MISS Amoore 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,202
+1022600290,295,PT00M02.20S,2,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,203
+1022600290,296,PT00M00.00S,2,0,,0,,,0,0,0,,0,37,40,77,,End of 2nd Period (10:57 PM EST),period,end,1,0,204
+1022600290,301,PT10M00.00S,3,0,,0,,,0,0,0,,0,37,40,77,,Start of 3rd Period (11:13 PM EST),period,start,1,0,205
+1022600290,302,PT09M37.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,-93,232,25,Missed,1,,,0,v,MISS Amoore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+1022600290,303,PT09M35.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,207
+1022600290,304,PT09M28.00S,3,1611661322,WAS,1631022,Austin,S. Austin,35,54,6,Missed,1,,,0,v,MISS Austin 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,208
+1022600290,305,PT09M27.00S,3,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,209
+1022600290,306,PT09M21.00S,3,1611661317,PHX,1627674,Copper,K. Copper,-18,38,4,Made,1,39,40,79,h,Copper 4' Running Layup (24 PTS) (Thomas 6 AST),Made Shot,Running Layup Shot,1,2,210
+1022600290,308,PT09M13.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,211
+1022600290,308,PT09M13.00S,3,1611661317,PHX,1643493,Brochant,N. Brochant,0,0,0,,0,,,0,h,Brochant STEAL (1 STL),,,1,0,212
+1022600290,310,PT09M09.00S,3,1611661317,PHX,203826,Thomas,A. Thomas,7,67,7,Missed,1,,,0,h,MISS Thomas 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,213
+1022600290,311,PT09M07.00S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,214
+1022600290,314,PT08M42.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,57,27,6,Missed,1,,,0,v,MISS Iriafen 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,215
+1022600290,314,PT08M42.00S,3,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack BLOCK (4 BLK),,,1,2,216
+1022600290,315,PT08M40.00S,3,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,217
+1022600290,316,PT08M25.00S,3,1611661317,PHX,203826,Thomas,A. Thomas,18,86,9,Missed,1,,,0,h,MISS Thomas 9' Layup,Missed Shot,Layup Shot,1,2,218
+1022600290,317,PT08M23.00S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,219
+1022600290,318,PT08M07.00S,3,1611661322,WAS,1642785,Citron,S. Citron,40,42,6,Missed,1,,,0,v,MISS Citron 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,220
+1022600290,319,PT08M06.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,221
+1022600290,320,PT08M05.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,12,20,2,Made,1,39,42,81,v,Iriafen 2' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,222
+1022600290,321,PT07M49.00S,3,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas Traveling Turnover (P1.T8),Turnover,Traveling,1,0,223
+1022600290,322,PT07M29.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,-219,48,0,Missed,1,,,0,v,MISS Amoore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,224
+1022600290,323,PT07M27.00S,3,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,225
+1022600290,324,PT07M20.00S,3,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,0,0,0,,0,,,0,h,Whitcomb Offensive Charge Foul (P1),Foul,Offensive Charge,1,0,226
+1022600290,326,PT07M20.00S,3,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,0,0,0,,0,,,0,h,Whitcomb Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,227
+1022600290,327,PT07M00.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,-135,208,25,Made,1,39,45,84,v,Amoore 25' 3PT Jump Shot (9 PTS) (Citron 2 AST),Made Shot,Jump Shot,1,3,228
+1022600290,331,PT06M49.00S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,SUB: Laney-Hamilton FOR Onyenwere,Substitution,,0,0,229
+1022600290,333,PT06M43.00S,3,1611661317,PHX,1627674,Copper,K. Copper,-230,4,0,Made,1,42,45,87,h,Copper 3PT Jump Shot (27 PTS) (Thomas 7 AST),Made Shot,Jump Shot,1,3,230
+1022600290,335,PT06M21.00S,3,1611661322,WAS,1631022,Austin,S. Austin,60,25,7,Missed,1,,,0,v,MISS Austin 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,231
+1022600290,336,PT06M20.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,232
+1022600290,337,PT06M19.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,27,25,4,Made,1,42,47,89,v,Iriafen 4' Layup (13 PTS),Made Shot,Layup Shot,1,2,233
+1022600290,338,PT06M09.00S,3,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,58,145,16,Missed,1,,,0,h,MISS Whitcomb 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,234
+1022600290,339,PT06M07.00S,3,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,235
+1022600290,341,PT05M52.00S,3,1611661317,PHX,1630442,Mack,N. Mack,-37,22,4,Made,1,44,47,91,h,Mack 4' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,236
+1022600290,342,PT05M28.00S,3,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,-19,34,4,Missed,1,,,0,v,MISS Laney-Hamilton 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,237
+1022600290,343,PT05M28.00S,3,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,238
+1022600290,345,PT05M22.00S,3,1611661317,PHX,1627674,Copper,K. Copper,-191,158,25,Missed,1,,,0,h,MISS Copper 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,239
+1022600290,346,PT05M20.00S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,240
+1022600290,347,PT05M04.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,222,81,24,Missed,1,,,0,v,MISS Amoore 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,241
+1022600290,348,PT05M02.00S,3,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,242
+1022600290,349,PT04M50.00S,3,1611661317,PHX,1643493,Brochant,N. Brochant,71,233,24,Missed,1,,,0,h,MISS Brochant 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+1022600290,350,PT04M48.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,244
+1022600290,351,PT04M30.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,67,5,7,Made,1,44,49,93,v,Iriafen 7' Layup (15 PTS) (Laney-Hamilton 5 AST),Made Shot,Layup Shot,1,2,245
+1022600290,353,PT04M11.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen S.FOUL (P3.T1),Foul,Shooting,1,0,246
+1022600290,355,PT04M11.00S,3,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,247
+1022600290,368,PT04M11.00S,3,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Violation: Delay of game Violation,Violation,Delay Of Game,0,0,248
+1022600290,356,PT04M11.00S,3,1611661317,PHX,1643493,Brochant,N. Brochant,0,0,0,,0,,,0,h,SUB: Held FOR Brochant,Substitution,,0,0,249
+1022600290,357,PT04M11.00S,3,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,SUB: Ayayi FOR Mack,Substitution,,0,0,250
+1022600290,358,PT04M11.00S,3,1611661317,PHX,1628244,Whitcomb,S. Whitcomb,0,0,0,,0,,,0,h,SUB: Westbeld FOR Whitcomb,Substitution,,0,0,251
+1022600290,359,PT04M11.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,SUB: Betts FOR Amoore,Substitution,,0,0,252
+1022600290,360,PT04M11.00S,3,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,SUB: McMahon FOR Citron,Substitution,,0,0,253
+1022600290,361,PT04M11.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,SUB: Florez FOR Iriafen,Substitution,,0,0,254
+1022600290,369,PT04M11.00S,3,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,45,49,94,h,Copper Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,255
+1022600290,370,PT04M11.00S,3,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,46,49,95,h,Copper Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,256
+1022600290,371,PT04M01.00S,3,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,Florez Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,257
+1022600290,371,PT04M01.00S,3,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,,,0,h,Held STEAL (1 STL),,,1,0,258
+1022600290,373,PT03M57.00S,3,1611661317,PHX,1627674,Copper,K. Copper,22,9,2,Made,1,48,49,97,h,Copper 2' Running Layup (31 PTS) (Ayayi 2 AST),Made Shot,Running Layup Shot,1,2,259
+1022600290,375,PT03M35.00S,3,1611661322,WAS,1643427,Betts,L. Betts,-32,156,16,Missed,1,,,0,v,MISS Betts 16' Jump Shot,Missed Shot,Jump Shot,1,2,260
+1022600290,376,PT03M31.00S,3,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,261
+1022600290,377,PT03M28.00S,3,1611661317,PHX,1642818,Westbeld,M. Westbeld,-133,65,15,Missed,1,,,0,h,MISS Westbeld 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,262
+1022600290,378,PT03M26.00S,3,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,,,0,h,Held REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,263
+1022600290,379,PT03M10.00S,3,1611661317,PHX,204468,Ayayi,V. Ayayi,51,33,6,Missed,1,,,0,h,MISS Ayayi 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,264
+1022600290,379,PT03M10.00S,3,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,Florez BLOCK (1 BLK),,,1,2,265
+1022600290,380,PT03M10.00S,3,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Unknown,1,0,266
+1022600290,382,PT03M10.00S,3,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,267
+1022600290,383,PT03M04.00S,3,1611661322,WAS,1643644,Florez,A. Florez,39,28,5,Made,1,48,51,99,v,Florez 5' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,2,268
+1022600290,384,PT02M39.00S,3,1611661317,PHX,1642818,Westbeld,M. Westbeld,-27,62,7,Made,1,50,51,101,h,Westbeld 7' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,269
+1022600290,385,PT02M33.00S,3,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,Florez Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,270
+1022600290,386,PT02M33.00S,3,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,SUB: Brochant FOR Copper,Substitution,,0,0,271
+1022600290,388,PT02M22.00S,3,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,Florez P.FOUL (P2.T2),Foul,Personal,1,0,272
+1022600290,390,PT02M18.00S,3,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,273
+1022600290,391,PT02M08.00S,3,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,Florez Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,0,274
+1022600290,391,PT02M08.00S,3,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,,,0,h,Held STEAL (2 STL),,,1,0,275
+1022600290,393,PT02M06.00S,3,1611661317,PHX,1631118,Held,L. Held,212,170,27,Made,1,53,51,104,h,Held 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,276
+1022600290,394,PT02M06.00S,3,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,Florez FLAGRANT.FOUL.TYPE1 (P3.T3),Foul,Flagrant Type 1,1,0,277
+1022600290,396,PT02M06.00S,3,0,,394,,,0,0,0,,0,53,51,104,,Instant Replay3rd Period (11:30 PM EST),Instant Replay,Overturn Ruling,0,0,278
+1022600290,397,PT02M06.00S,3,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,54,51,105,h,Held Free Throw Flagrant 1 of 1 (4 PTS),Free Throw,Free Throw Flagrant 1 of 1,1,0,279
+1022600290,451,PT02M06.00S,3,1611661322,WAS,1643644,Florez,A. Florez,0,0,0,,0,,,0,v,SUB: Amoore FOR Florez,Substitution,,0,0,280
+1022600290,400,PT01M53.00S,3,1611661317,PHX,1631118,Held,L. Held,-181,170,25,Missed,1,,,0,h,MISS Held 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+1022600290,401,PT01M51.00S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,282
+1022600290,402,PT01M32.00S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,283
+1022600290,402,PT01M32.00S,3,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld STEAL (1 STL),,,1,0,284
+1022600290,404,PT01M26.00S,3,1611661317,PHX,204468,Ayayi,V. Ayayi,179,148,0,Missed,1,,,0,h,MISS Ayayi 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,285
+1022600290,405,PT01M25.00S,3,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Unknown,1,0,286
+1022600290,406,PT01M25.00S,3,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,SUB: Iriafen FOR Austin,Substitution,,0,0,287
+1022600290,408,PT01M25.00S,3,1611661317,PHX,1643493,Brochant,N. Brochant,-7,95,10,Missed,1,,,0,h,MISS Brochant 10' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,288
+1022600290,408,PT01M25.00S,3,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,Laney-Hamilton BLOCK (1 BLK),,,1,2,289
+1022600290,410,PT01M23.00S,3,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,Laney-Hamilton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,290
+1022600290,411,PT01M15.00S,3,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld P.FOUL (P3.T1),Foul,Personal,1,0,291
+1022600290,413,PT01M09.00S,3,1611661322,WAS,1642792,Iriafen,K. Iriafen,40,39,6,Made,1,54,53,107,v,Iriafen 6' Turnaround Hook Shot (17 PTS),Made Shot,Turnaround Hook Shot,1,2,292
+1022600290,415,PT00M54.30S,3,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,Laney-Hamilton S.FOUL (P1.T4),Foul,Shooting,1,0,293
+1022600290,417,PT00M54.30S,3,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,55,53,108,h,Held Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,294
+1022600290,418,PT00M54.30S,3,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,56,53,109,h,Held Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,295
+1022600290,419,PT00M40.20S,3,1611661322,WAS,1643430,McMahon,C. McMahon,233,29,0,Missed,1,,,0,v,MISS McMahon 3PT Jump Shot,Missed Shot,Jump Shot,1,3,296
+1022600290,420,PT00M37.80S,3,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,297
+1022600290,421,PT00M26.60S,3,1611661317,PHX,204468,Ayayi,V. Ayayi,-11,104,10,Missed,1,,,0,h,MISS Ayayi 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,298
+1022600290,422,PT00M24.10S,3,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,299
+1022600290,423,PT00M16.80S,3,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon OFF.Foul (P1),Foul,Offensive,1,0,300
+1022600290,425,PT00M16.80S,3,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,McMahon Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,301
+1022600290,426,PT00M16.80S,3,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,SUB: Copper FOR Westbeld,Substitution,,0,0,302
+1022600290,427,PT00M16.80S,3,1611661322,WAS,1643430,McMahon,C. McMahon,0,0,0,,0,,,0,v,SUB: Onyenwere FOR McMahon,Substitution,,0,0,303
+1022600290,430,PT00M04.90S,3,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere S.FOUL (P2.PN),Foul,Shooting,1,0,304
+1022600290,432,PT00M04.90S,3,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,MISS Copper Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,305
+1022600290,433,PT00M04.90S,3,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Normal Rebound,0,0,306
+1022600290,434,PT00M04.90S,3,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,57,53,110,h,Copper Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0,307
+1022600290,437,PT00M00.00S,3,1611661322,WAS,1642781,Amoore,G. Amoore,-178,170,25,Missed,1,,,0,v,MISS Amoore 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,308
+1022600290,438,PT00M00.00S,3,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,1,0,309
+1022600290,439,PT00M00.00S,3,0,,0,,,0,0,0,,0,57,53,110,,End of 3rd Period (11:38 PM EST),period,end,1,0,310
+1022600290,452,PT10M00.00S,4,0,,0,,,0,0,0,,0,57,53,110,,Start of 4th Period (11:42 PM EST),period,start,0,0,311
+1022600290,453,PT09M44.00S,4,1611661317,PHX,1643470,Ciezki,S. Ciezki,-188,146,24,Made,1,60,53,113,h,Ciezki 24' 3PT Pullup Jump Shot (5 PTS) (Mack 2 AST),Made Shot,Pullup Jump shot,1,3,312
+1022600290,455,PT09M29.00S,4,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld P.FOUL (P4.T1),Foul,Personal,1,0,313
+1022600290,457,PT09M22.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,Betts Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,314
+1022600290,457,PT09M22.00S,4,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,,,0,h,Held STEAL (3 STL),,,1,0,315
+1022600290,459,PT09M09.00S,4,1611661317,PHX,1643470,Ciezki,S. Ciezki,-13,46,5,Made,1,62,53,115,h,Ciezki 5' Jump Shot (7 PTS) (Westbeld 1 AST),Made Shot,Jump Shot,1,2,316
+1022600290,461,PT08M57.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen OFF.Foul (P4),Foul,Offensive,1,0,317
+1022600290,463,PT08M57.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,318
+1022600290,464,PT08M41.00S,4,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,319
+1022600290,464,PT08M41.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore STEAL (2 STL),,,1,0,320
+1022600290,466,PT08M22.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,-217,71,0,Missed,1,,,0,v,MISS Onyenwere 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+1022600290,467,PT08M20.00S,4,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,322
+1022600290,468,PT08M17.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore Transition Take Foul (P1.T1),Foul,Transition Take,1,0,323
+1022600290,470,PT08M17.00S,4,1611661322,WAS,1643427,Betts,L. Betts,0,0,0,,0,,,0,v,SUB: Austin FOR Betts,Substitution,,0,0,324
+1022600290,472,PT08M17.00S,4,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,63,53,116,h,Copper Free Throw 1 of 1 (33 PTS),Free Throw,Free Throw 1 of 1,1,0,325
+1022600290,473,PT08M07.00S,4,1611661317,PHX,1627674,Copper,K. Copper,40,58,7,Missed,1,,,0,h,MISS Copper 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,326
+1022600290,474,PT08M06.00S,4,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Unknown,1,0,327
+1022600290,476,PT08M02.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore P.FOUL (P2.T2),Foul,Personal,1,0,328
+1022600290,478,PT07M57.00S,4,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,Ciezki Traveling Turnover (P1.T13),Turnover,Traveling,1,0,329
+1022600290,479,PT07M50.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,24,5,2,Made,1,63,55,118,v,Amoore 2' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,330
+1022600290,480,PT07M50.00S,4,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,Ciezki S.FOUL (P4.T2),Foul,Shooting,1,0,331
+1022600290,482,PT07M50.00S,4,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,332
+1022600290,483,PT07M50.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,63,56,119,v,Amoore Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,333
+1022600290,484,PT07M44.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore P.FOUL (P3.T3),Foul,Personal,1,0,334
+1022600290,486,PT07M29.00S,4,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,,,0,h,Held Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,335
+1022600290,486,PT07M29.00S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin STEAL (1 STL),,,1,0,336
+1022600290,488,PT07M25.00S,4,1611661322,WAS,1631022,Austin,S. Austin,-13,23,3,Made,1,63,58,121,v,Austin 3' Running Layup (9 PTS) (Amoore 4 AST),Made Shot,Running Layup Shot,1,2,337
+1022600290,490,PT07M12.00S,4,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,338
+1022600290,490,PT07M12.00S,4,1611661322,WAS,1642785,Citron,S. Citron,0,0,0,,0,,,0,v,Citron STEAL (2 STL),,,1,0,339
+1022600290,492,PT07M07.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,-174,173,25,Made,1,63,61,124,v,Amoore 25' 3PT Running Jump Shot (15 PTS) (Citron 3 AST),Made Shot,Running Jump Shot,1,3,340
+1022600290,494,PT06M48.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,Onyenwere P.FOUL (P3.T4),Foul,Personal,1,0,341
+1022600290,496,PT06M48.00S,4,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,SUB: Thomas FOR Mack,Substitution,,0,0,342
+1022600290,498,PT06M41.00S,4,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper Out of Bounds - Bad Pass Turnover Turnover (P3.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,343
+1022600290,499,PT06M22.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,50,50,7,Missed,1,,,0,v,MISS Iriafen 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,344
+1022600290,500,PT06M21.00S,4,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,Westbeld REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,345
+1022600290,501,PT06M14.00S,4,1611661317,PHX,203826,Thomas,A. Thomas,27,29,4,Made,1,65,61,126,h,Thomas 4' Running Layup (4 PTS) (Westbeld 2 AST),Made Shot,Running Layup Shot,1,2,346
+1022600290,503,PT06M07.00S,4,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,Ciezki P.FOUL (P5.T3),Foul,Personal,1,0,347
+1022600290,505,PT06M07.00S,4,1611661317,PHX,1631118,Held,L. Held,0,0,0,,0,,,0,h,SUB: Brochant FOR Held,Substitution,,0,0,348
+1022600290,506,PT06M07.00S,4,1611661322,WAS,1630446,Onyenwere,M. Onyenwere,0,0,0,,0,,,0,v,SUB: Laney-Hamilton FOR Onyenwere,Substitution,,0,0,349
+1022600290,509,PT05M48.00S,4,1611661322,WAS,1642785,Citron,S. Citron,-18,15,2,Made,1,65,63,128,v,Citron 2' Cutting Layup Shot (8 PTS) (Laney-Hamilton 6 AST),Made Shot,Cutting Layup Shot,1,2,350
+1022600290,511,PT05M38.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,0,0,0,,0,,,0,v,Amoore P.FOUL (P4.PN),Foul,Personal,1,0,351
+1022600290,513,PT05M38.00S,4,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,MISS Ciezki Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,352
+1022600290,514,PT05M38.00S,4,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Rebound,Rebound,Normal Rebound,1,0,353
+1022600290,515,PT05M38.00S,4,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,MISS Ciezki Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,354
+1022600290,516,PT05M38.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,355
+1022600290,517,PT05M23.00S,4,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas S.FOUL (P2.T4),Foul,Shooting,1,0,356
+1022600290,519,PT05M23.00S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,65,64,129,v,Austin Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,357
+1022600290,520,PT05M23.00S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,65,65,130,v,Austin Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,358
+1022600290,521,PT05M06.00S,4,1611661317,PHX,1642818,Westbeld,M. Westbeld,136,202,24,Missed,1,,,0,h,MISS Westbeld 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,359
+1022600290,522,PT05M05.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,360
+1022600290,523,PT04M58.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,48,69,8,Made,1,65,67,132,v,Amoore 8' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,361
+1022600290,524,PT04M39.00S,4,1611661317,PHX,1627674,Copper,K. Copper,-15,90,9,Missed,1,,,0,h,MISS Copper 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,362
+1022600290,525,PT04M38.00S,4,1611661322,WAS,1631022,Austin,S. Austin,0,0,0,,0,,,0,v,Austin REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,363
+1022600290,526,PT04M19.00S,4,1611661322,WAS,1631022,Austin,S. Austin,50,96,11,Missed,1,,,0,v,MISS Austin 11' Layup,Missed Shot,Layup Shot,1,2,364
+1022600290,526,PT04M19.00S,4,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas BLOCK (1 BLK),,,1,2,365
+1022600290,528,PT04M17.00S,4,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,366
+1022600290,529,PT04M10.00S,4,1611661317,PHX,1627674,Copper,K. Copper,-40,90,10,Missed,1,,,0,h,MISS Copper 10' Running Layup,Missed Shot,Running Layup Shot,1,2,367
+1022600290,530,PT04M09.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,368
+1022600290,531,PT04M02.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,35,27,4,Made,1,65,69,134,v,Iriafen 4' Driving Floating Jump Shot (19 PTS) (Laney-Hamilton 7 AST),Made Shot,Driving Floating Jump Shot,1,2,369
+1022600290,533,PT04M02.00S,4,1611661317,PHX,1643493,Brochant,N. Brochant,0,0,0,,0,,,0,h,Brochant S.FOUL (P1.PN),Foul,Shooting,1,0,370
+1022600290,535,PT04M02.00S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,371
+1022600290,536,PT04M02.00S,4,1611661317,PHX,1643470,Ciezki,S. Ciezki,0,0,0,,0,,,0,h,SUB: Held FOR Ciezki,Substitution,,0,0,372
+1022600290,537,PT04M02.00S,4,1611661317,PHX,1642818,Westbeld,M. Westbeld,0,0,0,,0,,,0,h,SUB: Mack FOR Westbeld,Substitution,,0,0,373
+1022600290,540,PT04M02.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,65,70,135,v,Iriafen Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1,0,374
+1022600290,541,PT03M47.00S,4,1611661317,PHX,1643493,Brochant,N. Brochant,-42,56,7,Made,1,67,70,137,h,Brochant 7' Driving Floating Bank Jump Shot (4 PTS) (Thomas 8 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,375
+1022600290,543,PT03M27.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,160,29,16,Missed,1,,,0,v,MISS Iriafen 16' Jump Shot,Missed Shot,Jump Shot,1,2,376
+1022600290,544,PT03M25.00S,4,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,377
+1022600290,545,PT03M17.00S,4,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,378
+1022600290,546,PT03M10.00S,4,1611661317,PHX,1627674,Copper,K. Copper,36,99,11,Missed,1,,,0,h,MISS Copper 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,0,2,379
+1022600290,552,PT03M07.00S,4,1611661317,PHX,1630442,Mack,N. Mack,0,0,0,,0,,,0,h,Mack REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,380
+1022600290,548,PT03M05.00S,4,1611661317,PHX,1630442,Mack,N. Mack,2,-6,1,Made,1,69,70,139,h,Mack 1' Layup (10 PTS),Made Shot,Layup Shot,1,2,381
+1022600290,549,PT02M48.00S,4,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,65,142,16,Missed,1,,,0,v,MISS Laney-Hamilton 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,382
+1022600290,550,PT02M44.00S,4,1611661317,PHX,203826,Thomas,A. Thomas,0,0,0,,0,,,0,h,Thomas REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,383
+1022600290,551,PT02M36.00S,4,1611661317,PHX,1631118,Held,L. Held,-56,278,28,Missed,1,,,0,h,MISS Held 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+1022600290,553,PT02M35.00S,4,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,Laney-Hamilton REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,385
+1022600290,554,PT02M26.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,27,25,4,Made,1,69,72,141,v,Amoore 4' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,386
+1022600290,555,PT02M07.00S,4,1611661317,PHX,1631118,Held,L. Held,16,35,4,Made,1,71,72,143,h,Held 4' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,387
+1022600290,556,PT01M49.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,237,22,24,Made,1,71,75,146,v,Amoore 24' 3PT Jump Shot (22 PTS) (Iriafen 1 AST),Made Shot,Jump Shot,1,3,388
+1022600290,558,PT01M36.00S,4,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,,,0,v,Laney-Hamilton P.FOUL (P2.PN),Foul,Personal,1,0,389
+1022600290,560,PT01M36.00S,4,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,72,75,147,h,Copper Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,0,390
+1022600290,561,PT01M36.00S,4,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,73,75,148,h,Copper Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,0,391
+1022600290,562,PT01M18.00S,4,1611661322,WAS,1642781,Amoore,G. Amoore,184,163,25,Made,1,73,78,151,v,Amoore 25' 3PT Jump Shot (25 PTS) (Citron 4 AST),Made Shot,Jump Shot,1,3,392
+1022600290,564,PT01M01.00S,4,1611661317,PHX,1630442,Mack,N. Mack,-42,31,5,Missed,1,,,0,h,MISS Mack 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,393
+1022600290,565,PT01M00.00S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Rebound,Rebound,Unknown,1,0,394
+1022600290,567,PT01M00.00S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,395
+1022600290,568,PT01M00.00S,4,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Violation: Delay of game Violation,Violation,Delay Of Game,0,0,396
+1022600290,569,PT00M40.20S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,-1,44,4,Missed,1,,,0,v,MISS Iriafen 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,397
+1022600290,570,PT00M39.80S,4,1611661317,PHX,1627674,Copper,K. Copper,0,0,0,,0,,,0,h,Copper REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,398
+1022600290,571,PT00M39.80S,4,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Timeout: Reset (Full 3 Short 0),Timeout,Reset,0,0,399
+1022600290,572,PT00M31.00S,4,1611661317,PHX,1630442,Mack,N. Mack,-99,114,15,Missed,1,,,0,h,MISS Mack 15' Jump Shot,Missed Shot,Jump Shot,1,2,400
+1022600290,573,PT00M30.00S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,401
+1022600290,574,PT00M28.10S,4,1611661317,PHX,1643493,Brochant,N. Brochant,0,0,0,,0,,,0,h,Brochant P.FOUL (P2.PN),Foul,Personal,1,0,402
+1022600290,576,PT00M28.10S,4,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,73,79,152,v,Laney-Hamilton Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,403
+1022600290,577,PT00M28.10S,4,1611661322,WAS,204335,Laney-Hamilton,B. Laney-Hamilton,0,0,0,,0,73,80,153,v,Laney-Hamilton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,404
+1022600290,578,PT00M28.10S,4,0,,1611661317,,,0,0,0,,0,,,0,h,MERCURY Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,405
+1022600290,579,PT00M26.10S,4,1611661317,PHX,1631118,Held,L. Held,86,39,9,Missed,1,,,0,h,MISS Held 9' Jump Shot,Missed Shot,Jump Shot,1,2,406
+1022600290,580,PT00M23.40S,4,1611661322,WAS,1642792,Iriafen,K. Iriafen,0,0,0,,0,,,0,v,Iriafen REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,407
+1022600290,581,PT00M00.80S,4,0,,1611661322,,,0,0,0,,0,,,0,v,Mystics Turnover: Shot Clock (T#17),Turnover,Shot Clock Turnover,1,0,408
+1022600290,582,PT00M00.00S,4,0,,0,,,0,0,0,,0,73,80,153,,End of 4th Period (12:12 AM EST),period,end,1,0,409

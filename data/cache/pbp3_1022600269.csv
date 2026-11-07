@@ -1,0 +1,432 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+1022600269,2,PT10M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:07 PM EST),period,start,1,0,1
+1022600269,4,PT10M00.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Jump Ball Kuier vs. Timpson: Tip to Bueckers,Jump Ball,,1,0,2
+1022600269,7,PT09M43.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,148,104,18,Missed,1,,,0,h,MISS Bueckers 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,3
+1022600269,8,PT09M41.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+1022600269,9,PT09M29.00S,1,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,Smith S.FOUL (P1.T1),Foul,Shooting,1,0,5
+1022600269,11,PT09M29.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,0,1,1,v,Mitchell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,6
+1022600269,12,PT09M29.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,0,2,2,v,Mitchell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,7
+1022600269,13,PT09M16.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,17,16,2,Made,1,2,2,4,h,Kuier 2' Driving Finger Roll Layup (2 PTS) (Bueckers 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,8
+1022600269,15,PT09M06.00S,1,1611661325,IND,1642286,Clark,C. Clark,-77,317,33,Made,1,2,5,7,v,Clark 33' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,9
+1022600269,16,PT08M37.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,84,141,16,Missed,1,,,0,h,MISS Shepard 16' Jump Shot,Missed Shot,Jump Shot,1,2,10
+1022600269,17,PT08M36.00S,1,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,11
+1022600269,18,PT08M36.00S,1,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,12
+1022600269,19,PT08M26.00S,1,1611661325,IND,1642286,Clark,C. Clark,-83,281,29,Missed,1,,,0,v,MISS Clark 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,13
+1022600269,20,PT08M25.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+1022600269,21,PT08M16.00S,1,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,15
+1022600269,22,PT08M04.00S,1,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,Smith S.FOUL (P2.T2),Foul,Shooting,1,0,16
+1022600269,24,PT08M04.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,2,6,8,v,Boston Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,17
+1022600269,25,PT08M04.00S,1,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,SUB: Sims FOR Smith,Substitution,,0,0,18
+1022600269,27,PT08M04.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,2,7,9,v,Boston Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,19
+1022600269,28,PT07M46.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,31,61,7,Made,1,4,7,11,h,Shepard 7' Turnaround Fadeaway (2 PTS) (Sims 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,20
+1022600269,30,PT07M31.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,21
+1022600269,30,PT07M31.00S,1,1611661321,DAL,203824,Sims,O. Sims,0,0,0,,0,,,0,h,Sims STEAL (1 STL),,,1,0,22
+1022600269,32,PT07M25.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-214,61,0,Missed,1,,,0,h,MISS Ogunbowale 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,23
+1022600269,33,PT07M24.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,24
+1022600269,34,PT07M20.00S,1,1611661321,DAL,203824,Sims,O. Sims,195,129,0,Missed,1,,,0,h,MISS Sims 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+1022600269,35,PT07M19.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+1022600269,36,PT07M12.00S,1,1611661325,IND,1631086,Hull,L. Hull,174,4,17,Made,1,4,9,13,v,Hull 17' Running Jump Shot (2 PTS) (Clark 1 AST),Made Shot,Running Jump Shot,1,2,27
+1022600269,38,PT06M55.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,29,111,11,Made,1,6,9,15,h,Bueckers 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,28
+1022600269,39,PT06M32.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale S.FOUL (P1.T3),Foul,Shooting,1,0,29
+1022600269,41,PT06M32.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,6,10,16,v,Hull Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,30
+1022600269,42,PT06M32.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,6,11,17,v,Hull Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,31
+1022600269,43,PT06M18.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,10,56,6,Made,1,8,11,19,h,Shepard 6' Floating Jump Shot (4 PTS) (Kuier 1 AST),Made Shot,Floating Jump shot,1,2,32
+1022600269,46,PT06M05.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-16,30,3,Missed,1,,,0,v,MISS Mitchell 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,33
+1022600269,46,PT06M05.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier BLOCK (1 BLK),,,1,2,34
+1022600269,48,PT06M04.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,35
+1022600269,50,PT06M02.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-159,81,18,Made,1,8,13,21,v,Mitchell 18' Step Back Jump Shot (4 PTS) (Clark 2 AST),Made Shot,Step Back Jump shot,1,2,36
+1022600269,52,PT05M48.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P1.T1),Foul,Personal,1,0,37
+1022600269,54,PT05M45.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,65,231,24,Missed,1,,,0,h,MISS Kuier 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+1022600269,55,PT05M44.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+1022600269,56,PT05M32.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,29,14,3,Missed,1,,,0,v,MISS Timpson 3' Layup,Missed Shot,Layup Shot,1,2,40
+1022600269,57,PT05M31.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+1022600269,58,PT05M27.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell S.FOUL (P1.T2),Foul,Shooting,1,0,42
+1022600269,60,PT05M27.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,9,13,22,h,Kuier Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,43
+1022600269,61,PT05M27.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,MISS Kuier Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,44
+1022600269,62,PT05M26.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,45
+1022600269,63,PT05M14.00S,1,1611661325,IND,1641648,Boston,A. Boston,-29,58,6,Missed,1,,,0,v,MISS Boston 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,46
+1022600269,64,PT05M10.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+1022600269,65,PT04M56.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-147,174,0,Missed,1,,,0,h,MISS Ogunbowale 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,48
+1022600269,66,PT04M55.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,49
+1022600269,67,PT04M55.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull S.FOUL (P2.T3),Foul,Shooting,1,0,50
+1022600269,69,PT04M55.00S,1,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,51
+1022600269,70,PT04M55.00S,1,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Cunningham FOR Hull,Substitution,,0,0,52
+1022600269,72,PT04M55.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,10,13,23,h,Shepard Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,53
+1022600269,73,PT04M55.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,MISS Shepard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,54
+1022600269,74,PT04M54.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,55
+1022600269,75,PT04M43.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,115,221,25,Made,1,10,16,26,v,Mitchell 25' 3PT Pullup Jump Shot (7 PTS) (Boston 1 AST),Made Shot,Pullup Jump shot,1,3,56
+1022600269,77,PT04M24.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,-45,80,9,Missed,1,,,0,h,MISS Bueckers 9' Jump Shot,Missed Shot,Jump Shot,1,2,57
+1022600269,78,PT04M23.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,58
+1022600269,79,PT04M17.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers P.FOUL (P1.T4),Foul,Personal,1,0,59
+1022600269,81,PT04M12.00S,1,1611661325,IND,1642286,Clark,C. Clark,-127,176,22,Made,1,10,18,28,v,Clark 22' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2,60
+1022600269,82,PT04M04.00S,1,1611661321,DAL,203824,Sims,O. Sims,-44,23,5,Missed,1,,,0,h,MISS Sims 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,61
+1022600269,83,PT04M03.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,62
+1022600269,84,PT03M52.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,-230,12,0,Missed,1,,,0,v,MISS Mitchell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+1022600269,85,PT03M50.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,64
+1022600269,86,PT03M36.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,66,36,8,Made,1,12,18,30,h,Shepard 8' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,65
+1022600269,87,PT03M19.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,66
+1022600269,87,PT03M19.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale STEAL (1 STL),,,1,0,67
+1022600269,89,PT03M15.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,-16,13,2,Made,1,14,18,32,h,Shepard 2' Running Finger Roll Layup (9 PTS) (Ogunbowale 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,68
+1022600269,91,PT02M52.00S,1,1611661325,IND,1642815,Timpson,M. Timpson,-27,12,3,Made,1,14,20,34,v,Timpson 3' Cutting Layup Shot (2 PTS) (Clark 3 AST),Made Shot,Cutting Layup Shot,1,2,69
+1022600269,93,PT02M36.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-26,113,12,Made,1,16,20,36,h,Ogunbowale 12' Pullup Jump Shot (2 PTS) (Sims 2 AST),Made Shot,Pullup Jump shot,1,2,70
+1022600269,95,PT02M21.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale P.FOUL (P2.PN),Foul,Personal,1,0,71
+1022600269,124,PT02M21.00S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale T.FOUL (P2.PN),Foul,Technical,1,0,72
+1022600269,98,PT02M21.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,MISS Clark Free Throw Technical,Free Throw,Free Throw Technical,1,0,73
+1022600269,99,PT02M21.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Normal Rebound,0,0,74
+1022600269,101,PT02M21.00S,1,0,,95,Bryant,M. Bryant,0,0,0,,0,16,20,36,,Instant Replay1st Period (8:25 PM EST),Instant Replay,Support Ruling,0,0,75
+1022600269,103,PT02M21.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,16,21,37,v,Mitchell Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,76
+1022600269,104,PT02M21.00S,1,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,SUB: Siegrist FOR Kuier,Substitution,,0,0,77
+1022600269,105,PT02M21.00S,1,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,78
+1022600269,106,PT02M21.00S,1,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Harris FOR Clark,Substitution,,0,0,79
+1022600269,110,PT02M21.00S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,16,22,38,v,Mitchell Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,80
+1022600269,111,PT02M03.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,-24,111,11,Missed,1,,,0,h,MISS Bueckers 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,81
+1022600269,112,PT02M01.00S,1,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,82
+1022600269,114,PT01M43.00S,1,1611661325,IND,1628881,Billings,M. Billings,108,9,11,Missed,1,,,0,v,MISS Billings 11' Jump Shot,Missed Shot,Jump Shot,1,2,83
+1022600269,115,PT01M42.00S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,84
+1022600269,116,PT01M24.00S,1,1611661321,DAL,1629491,Shepard,J. Shepard,1,44,4,Made,1,18,22,40,h,Shepard 4' Turnaround Hook Shot (11 PTS),Made Shot,Turnaround Hook Shot,1,2,85
+1022600269,117,PT01M05.00S,1,1611661325,IND,1629482,Cunningham,S. Cunningham,-228,13,0,Missed,1,,,0,v,MISS Cunningham 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+1022600269,118,PT01M01.00S,1,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+1022600269,119,PT00M52.90S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-27,76,8,Missed,1,,,0,h,MISS Ogunbowale 8' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,88
+1022600269,120,PT00M51.90S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,89
+1022600269,121,PT00M39.50S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson OFF.Foul (P1),Foul,Offensive,1,0,90
+1022600269,123,PT00M39.50S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,91
+1022600269,125,PT00M17.80S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson S.FOUL (P2.T4),Foul,Shooting,1,0,92
+1022600269,127,PT00M17.80S,1,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,93
+1022600269,128,PT00M17.80S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,MISS Shepard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,94
+1022600269,129,PT00M17.80S,1,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Normal Rebound,0,0,95
+1022600269,130,PT00M17.80S,1,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,SUB: Clark FOR Bueckers,Substitution,,0,0,96
+1022600269,131,PT00M17.80S,1,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,SUB: Sutton FOR Ogunbowale,Substitution,,0,0,97
+1022600269,134,PT00M17.80S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,MISS Shepard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,98
+1022600269,135,PT00M15.40S,1,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,99
+1022600269,136,PT00M05.60S,1,1611661325,IND,1628909,Mitchell,K. Mitchell,115,219,25,Missed,1,,,0,v,MISS Mitchell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,100
+1022600269,137,PT00M02.70S,1,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,101
+1022600269,140,PT00M00.00S,1,0,,0,,,0,0,0,,0,18,22,40,,End of 1st Period (8:31 PM EST),period,end,1,0,102
+1022600269,145,PT10M00.00S,2,0,,0,,,0,0,0,,0,18,22,40,,Start of 2nd Period (8:34 PM EST),period,start,0,0,103
+1022600269,146,PT09M49.00S,2,1611661325,IND,1642286,Clark,C. Clark,-196,160,25,Missed,1,,,0,v,MISS Clark 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+1022600269,147,PT09M47.00S,2,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,,,0,h,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+1022600269,148,PT09M23.00S,2,1611661321,DAL,203824,Sims,O. Sims,-29,18,3,Missed,1,,,0,h,MISS Sims 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,106
+1022600269,149,PT09M21.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,107
+1022600269,151,PT09M18.00S,2,1611661321,DAL,203824,Sims,O. Sims,0,0,0,,0,,,0,h,Sims Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,108
+1022600269,151,PT09M18.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings STEAL (1 STL),,,1,0,109
+1022600269,153,PT09M05.00S,2,1611661325,IND,1628881,Billings,M. Billings,-121,50,13,Missed,1,,,0,v,MISS Billings 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,110
+1022600269,154,PT09M04.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,111
+1022600269,155,PT08M57.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,112
+1022600269,155,PT08M57.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (1 STL),,,1,0,113
+1022600269,157,PT08M44.00S,2,1611661325,IND,1641648,Boston,A. Boston,-29,55,6,Made,1,18,24,42,v,Boston 6' Turnaround Hook Shot (4 PTS) (Clark 4 AST),Made Shot,Turnaround Hook Shot,1,2,114
+1022600269,159,PT08M16.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,85,215,0,Made,1,21,24,45,h,Shepard 3PT Jump Shot (14 PTS) (Sutton 1 AST),Made Shot,Jump Shot,1,3,115
+1022600269,161,PT08M06.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,116
+1022600269,161,PT08M06.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard STEAL (1 STL),,,1,0,117
+1022600269,163,PT08M01.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,-24,-5,2,Made,1,23,24,47,h,Shepard 2' Running Finger Roll Layup (16 PTS) (Sims 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,118
+1022600269,165,PT08M01.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,119
+1022600269,166,PT08M01.00S,2,1611661321,DAL,1630134,Sutton,S. Sutton,0,0,0,,0,,,0,h,SUB: Smith FOR Sutton,Substitution,,0,0,120
+1022600269,167,PT08M01.00S,2,1611661321,DAL,203824,Sims,O. Sims,0,0,0,,0,,,0,h,SUB: Ogunbowale FOR Sims,Substitution,,0,0,121
+1022600269,168,PT08M01.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,SUB: Kuier FOR Siegrist,Substitution,,0,0,122
+1022600269,169,PT08M01.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,SUB: Bueckers FOR Shepard,Substitution,,0,0,123
+1022600269,174,PT07M40.00S,2,1611661325,IND,1642286,Clark,C. Clark,22,25,3,Missed,1,,,0,v,MISS Clark 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,124
+1022600269,174,PT07M40.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier BLOCK (2 BLK),,,1,2,125
+1022600269,175,PT07M40.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,126
+1022600269,177,PT07M38.00S,2,1611661325,IND,1630112,Harris,T. Harris,169,46,18,Missed,1,,,0,v,MISS Harris 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,127
+1022600269,178,PT07M37.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,1,0,128
+1022600269,179,PT07M37.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,1,0,129
+1022600269,181,PT07M14.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,-155,82,18,Missed,1,,,0,h,MISS Bueckers 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,130
+1022600269,182,PT07M13.00S,2,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,131
+1022600269,183,PT07M08.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,Cunningham S.FOUL (P1.T1),Foul,Shooting,1,0,132
+1022600269,185,PT07M08.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,24,24,48,h,Bueckers Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+1022600269,186,PT07M08.00S,2,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,SUB: Timpson FOR Cunningham,Substitution,,0,0,134
+1022600269,187,PT07M08.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Mitchell FOR Billings,Substitution,,0,0,135
+1022600269,188,PT07M08.00S,2,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Hull FOR Harris,Substitution,,0,0,136
+1022600269,192,PT07M08.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,MISS Bueckers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,137
+1022600269,193,PT07M07.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,138
+1022600269,194,PT06M57.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,116,126,17,Made,1,24,26,50,v,Mitchell 17' Pullup Jump Shot (11 PTS) (Clark 5 AST),Made Shot,Pullup Jump shot,1,2,139
+1022600269,196,PT06M33.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,55,91,11,Missed,1,,,0,h,MISS Ogunbowale 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,140
+1022600269,197,PT06M31.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,141
+1022600269,199,PT06M31.00S,2,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,,,0,h,SUB: Shepard FOR Clark,Substitution,,0,0,142
+1022600269,201,PT06M30.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,4,74,7,Missed,1,,,0,h,MISS Ogunbowale 7' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,143
+1022600269,202,PT06M29.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+1022600269,203,PT06M17.00S,2,1611661325,IND,1641648,Boston,A. Boston,112,218,25,Missed,1,,,0,v,MISS Boston 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+1022600269,204,PT06M15.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,146
+1022600269,206,PT06M08.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,-34,29,4,Made,1,24,28,52,v,Timpson 4' Layup (4 PTS) (Mitchell 1 AST),Made Shot,Layup Shot,1,2,147
+1022600269,208,PT05M41.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,-39,135,14,Made,1,26,28,54,h,Shepard 14' Jump Shot (18 PTS) (Bueckers 2 AST),Made Shot,Jump Shot,1,2,148
+1022600269,210,PT05M25.00S,2,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,Smith S.FOUL (P3.T1),Foul,Shooting,1,0,149
+1022600269,212,PT05M25.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,26,29,55,v,Mitchell Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,150
+1022600269,213,PT05M25.00S,2,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,SUB: Siegrist FOR Smith,Substitution,,0,0,151
+1022600269,215,PT05M25.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,26,30,56,v,Mitchell Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,152
+1022600269,216,PT05M08.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,26,72,8,Missed,1,,,0,h,MISS Siegrist 8' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,153
+1022600269,217,PT05M08.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,154
+1022600269,218,PT05M08.00S,2,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark L.B.FOUL (P1.T2),Foul,Loose Ball,1,0,155
+1022600269,220,PT04M59.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,24,11,3,Made,1,28,30,58,h,Shepard 3' Layup (20 PTS) (Kuier 2 AST),Made Shot,Layup Shot,1,2,156
+1022600269,222,PT04M43.00S,2,1611661325,IND,1641648,Boston,A. Boston,22,46,5,Made,1,28,32,60,v,Boston 5' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,157
+1022600269,223,PT04M29.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-5,5,1,Made,1,30,32,62,h,Ogunbowale 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,158
+1022600269,224,PT04M15.00S,2,1611661325,IND,1641648,Boston,A. Boston,-12,52,5,Missed,1,,,0,v,MISS Boston 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,159
+1022600269,224,PT04M15.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier BLOCK (3 BLK),,,1,2,160
+1022600269,226,PT04M14.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,161
+1022600269,227,PT04M14.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston L.B.FOUL (P1.T3),Foul,Loose Ball,1,0,162
+1022600269,229,PT03M54.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,-208,91,0,Made,1,33,32,65,h,Kuier 3PT Jump Shot (6 PTS) (Ogunbowale 2 AST),Made Shot,Jump Shot,1,3,163
+1022600269,231,PT03M47.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale P.FOUL (P3.T2),Foul,Personal,1,0,164
+1022600269,233,PT03M40.00S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,-107,232,26,Made,1,33,35,68,v,Mitchell 26' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,165
+1022600269,234,PT03M27.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,26,18,3,Made,1,35,35,70,h,Ogunbowale 3' Layup (6 PTS) (Shepard 1 AST),Made Shot,Layup Shot,1,2,166
+1022600269,236,PT03M27.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston S.FOUL (P2.T4),Foul,Shooting,1,0,167
+1022600269,238,PT03M27.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,36,35,71,h,Ogunbowale Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,168
+1022600269,239,PT03M09.00S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist P.FOUL (P1.T3),Foul,Personal,1,0,169
+1022600269,241,PT03M09.00S,2,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,SUB: Sims FOR Ogunbowale,Substitution,,0,0,170
+1022600269,243,PT03M04.00S,2,1611661325,IND,1642286,Clark,C. Clark,-90,265,28,Missed,1,,,0,v,MISS Clark 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,171
+1022600269,244,PT03M00.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,172
+1022600269,245,PT02M58.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,44,33,6,Missed,1,,,0,v,MISS Timpson 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,173
+1022600269,245,PT02M58.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier BLOCK (4 BLK),,,1,2,174
+1022600269,247,PT02M56.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,1,0,175
+1022600269,249,PT02M56.00S,2,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,176
+1022600269,252,PT02M56.00S,2,0,,248,Lynch,G. Lynch,0,0,0,,0,36,35,71,,Instant Replay2nd Period (8:52 PM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,177
+1022600269,253,PT02M56.00S,2,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,178
+1022600269,255,PT02M47.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson Violation:Kicked Ball,Violation,Kicked Ball,0,0,179
+1022600269,256,PT02M33.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,115,63,13,Missed,1,,,0,h,MISS Bueckers 13' Jump Shot,Missed Shot,Jump Shot,1,2,180
+1022600269,257,PT02M31.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,181
+1022600269,258,PT02M31.00S,2,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings L.B.FOUL (P1.PN),Foul,Loose Ball,1,0,182
+1022600269,260,PT02M31.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,MISS Shepard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,183
+1022600269,261,PT02M31.00S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Normal Rebound,0,0,184
+1022600269,262,PT02M31.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,MISS Shepard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,185
+1022600269,263,PT02M30.00S,2,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,186
+1022600269,264,PT02M08.00S,2,1611661325,IND,1642286,Clark,C. Clark,24,46,5,Missed,1,,,0,v,MISS Clark 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,187
+1022600269,264,PT02M08.00S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier BLOCK (5 BLK),,,1,2,188
+1022600269,266,PT02M07.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,189
+1022600269,267,PT01M54.00S,2,1611661321,DAL,1629491,Shepard,J. Shepard,29,15,3,Made,1,38,35,73,h,Shepard 3' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,2,190
+1022600269,268,PT01M40.00S,2,1611661325,IND,1628881,Billings,M. Billings,-31,160,16,Made,1,38,37,75,v,Billings 16' Jump Shot (2 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,1,2,191
+1022600269,271,PT01M17.00S,2,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Cunningham FOR Hull,Substitution,,0,0,192
+1022600269,273,PT01M11.00S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,27,58,6,Made,1,40,37,77,h,Bueckers 6' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,193
+1022600269,274,PT00M52.80S,2,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,WINGS T.Foul (Def. 3 Sec Kuier ),Foul,Defense 3 Second,1,0,194
+1022600269,275,PT00M52.80S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,40,38,78,v,Mitchell Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,1,0,195
+1022600269,276,PT00M40.50S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,4,57,6,Made,1,40,40,80,v,Mitchell 6' Driving Reverse Layup (19 PTS),Made Shot,Driving Reverse Layup Shot,1,2,196
+1022600269,277,PT00M27.60S,2,1611661321,DAL,1641652,Siegrist,M. Siegrist,20,168,17,Made,1,42,40,82,h,Siegrist 17' Jump Shot (2 PTS),Made Shot,Jump Shot,1,2,197
+1022600269,278,PT00M05.40S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers P.FOUL (P2.T4),Foul,Personal,1,0,198
+1022600269,280,PT00M04.40S,2,1611661325,IND,1628909,Mitchell,K. Mitchell,8,55,6,Made,1,42,42,84,v,Mitchell 6' Cutting Layup Shot (21 PTS) (Clark 6 AST),Made Shot,Cutting Layup Shot,1,2,199
+1022600269,282,PT00M00.30S,2,1611661321,DAL,1642784,Bueckers,P. Bueckers,78,289,30,Missed,1,,,0,h,MISS Bueckers 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,200
+1022600269,283,PT00M00.30S,2,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,201
+1022600269,284,PT00M00.00S,2,0,,0,,,0,0,0,,0,42,42,84,,End of 2nd Period (9:00 PM EST),period,end,1,0,202
+1022600269,293,PT10M00.00S,3,0,,0,,,0,0,0,,0,42,42,84,,Start of 3rd Period (9:16 PM EST),period,start,0,0,203
+1022600269,294,PT09M45.00S,3,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,Smith S.FOUL (P4.T1),Foul,Shooting,1,0,204
+1022600269,296,PT09M45.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,42,43,85,v,Boston Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,205
+1022600269,297,PT09M45.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,42,44,86,v,Boston Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,206
+1022600269,299,PT09M29.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,207
+1022600269,299,PT09M29.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark STEAL (1 STL),,,1,0,208
+1022600269,301,PT09M14.00S,3,1611661325,IND,1641648,Boston,A. Boston,22,22,3,Missed,1,,,0,v,MISS Boston 3' Layup,Missed Shot,Layup Shot,1,2,209
+1022600269,302,PT09M11.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,210
+1022600269,303,PT09M05.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,211
+1022600269,304,PT09M05.00S,3,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,SUB: Siegrist FOR Smith,Substitution,,0,0,212
+1022600269,306,PT08M51.00S,3,1611661325,IND,1642286,Clark,C. Clark,81,232,25,Missed,1,,,0,v,MISS Clark 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+1022600269,307,PT08M49.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,214
+1022600269,308,PT08M34.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,33,265,27,Made,1,45,44,89,h,Kuier 27' 3PT Jump Shot (9 PTS) (Bueckers 3 AST),Made Shot,Jump Shot,1,3,215
+1022600269,310,PT08M15.00S,3,1611661325,IND,1641648,Boston,A. Boston,49,21,5,Made,1,45,46,91,v,Boston 5' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,216
+1022600269,311,PT08M02.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,-133,60,15,Missed,1,,,0,h,MISS Bueckers 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,217
+1022600269,312,PT08M02.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,218
+1022600269,313,PT07M55.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers P.FOUL (P3.T2),Foul,Personal,1,0,219
+1022600269,315,PT07M55.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers T.FOUL (P3.T2),Foul,Technical,1,0,220
+1022600269,316,PT07M55.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,45,47,92,v,Mitchell Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,1,0,221
+1022600269,317,PT07M48.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,-21,18,3,Missed,1,,,0,v,MISS Timpson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,222
+1022600269,317,PT07M48.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard BLOCK (1 BLK),,,1,2,223
+1022600269,319,PT07M47.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,224
+1022600269,322,PT07M43.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull Jump Ball Violation Turnover (P1.T6),Turnover,Jump Ball Violation,1,0,225
+1022600269,323,PT07M23.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,-26,77,8,Missed,1,,,0,h,MISS Shepard 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,226
+1022600269,324,PT07M22.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,227
+1022600269,325,PT07M10.00S,3,1611661325,IND,1642286,Clark,C. Clark,-78,166,18,Missed,1,,,0,v,MISS Clark 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,228
+1022600269,326,PT07M08.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,229
+1022600269,327,PT07M02.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P2.T1),Foul,Personal,1,0,230
+1022600269,329,PT06M51.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,-129,25,13,Missed,1,,,0,h,MISS Siegrist 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,231
+1022600269,330,PT06M51.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,232
+1022600269,331,PT06M50.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,-6,1,Missed,1,,,0,h,MISS Shepard 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,233
+1022600269,331,PT06M50.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson BLOCK (1 BLK),,,1,2,234
+1022600269,333,PT06M49.00S,3,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,235
+1022600269,335,PT06M46.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-26,29,4,Made,1,47,47,94,h,Ogunbowale 4' Layup (9 PTS) (Bueckers 4 AST),Made Shot,Layup Shot,0,2,236
+1022600269,337,PT06M31.00S,3,1611661325,IND,1642286,Clark,C. Clark,-34,163,17,Made,1,47,49,96,v,Clark 17' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,237
+1022600269,338,PT06M15.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,-193,153,25,Missed,1,,,0,h,MISS Siegrist 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+1022600269,339,PT06M12.00S,3,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,239
+1022600269,341,PT06M08.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,34,115,12,Missed,1,,,0,h,MISS Shepard 12' Jump Shot,Missed Shot,Jump Shot,1,2,240
+1022600269,341,PT06M08.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston BLOCK (1 BLK),,,1,2,241
+1022600269,343,PT06M06.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,242
+1022600269,344,PT05M59.00S,3,1611661325,IND,1642286,Clark,C. Clark,174,170,24,Missed,1,,,0,v,MISS Clark 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,243
+1022600269,345,PT05M57.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,Siegrist REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,244
+1022600269,346,PT05M54.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,-26,39,5,Missed,1,,,0,h,MISS Siegrist 5' Running Layup,Missed Shot,Running Layup Shot,1,2,245
+1022600269,346,PT05M54.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark BLOCK (1 BLK),,,1,2,246
+1022600269,348,PT05M53.00S,3,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,247
+1022600269,350,PT05M53.00S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,248
+1022600269,352,PT05M48.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-162,95,19,Made,1,49,49,98,h,Ogunbowale 19' Step Back Jump Shot (11 PTS) (Bueckers 5 AST),Made Shot,Step Back Jump shot,1,2,249
+1022600269,354,PT05M29.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,172,106,20,Missed,1,,,0,v,MISS Mitchell 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,250
+1022600269,355,PT05M27.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,251
+1022600269,356,PT05M17.00S,3,1611661325,IND,1631086,Hull,L. Hull,150,203,25,Missed,1,,,0,v,MISS Hull 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+1022600269,357,PT05M14.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,253
+1022600269,358,PT05M12.00S,3,1611661325,IND,1631086,Hull,L. Hull,37,17,4,Made,1,49,51,100,v,Hull 4' Cutting Layup Shot (6 PTS) (Billings 1 AST),Made Shot,Cutting Layup Shot,1,2,254
+1022600269,360,PT05M00.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,-23,30,4,Missed,1,,,0,h,MISS Bueckers 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,255
+1022600269,361,PT04M59.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,256
+1022600269,362,PT04M55.00S,3,1611661325,IND,1631086,Hull,L. Hull,42,20,5,Missed,1,,,0,v,MISS Hull 5' Running Layup,Missed Shot,Running Layup Shot,1,2,257
+1022600269,362,PT04M55.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier BLOCK (6 BLK),,,1,2,258
+1022600269,364,PT04M54.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,259
+1022600269,365,PT04M47.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-177,217,28,Made,1,52,51,103,h,Ogunbowale 28' 3PT Running Jump Shot (14 PTS) (Bueckers 6 AST),Made Shot,Running Jump Shot,1,3,260
+1022600269,367,PT04M32.00S,3,1611661325,IND,1631086,Hull,L. Hull,233,31,24,Made,1,52,54,106,v,Hull 24' 3PT Jump Shot (9 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,3,261
+1022600269,369,PT04M07.00S,3,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings P.FOUL (P2.T2),Foul,Personal,1,0,262
+1022600269,371,PT04M07.00S,3,0,,0,,,0,0,0,,0,,,0,,Timeout: Official,Timeout,Official,0,0,263
+1022600269,373,PT03M57.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-82,63,10,Made,1,54,54,108,h,Ogunbowale 10' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,2,264
+1022600269,375,PT03M29.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,265
+1022600269,376,PT03M16.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-10,133,13,Made,1,56,54,110,h,Ogunbowale 13' Turnaround Fadeaway (18 PTS) (Kuier 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,266
+1022600269,378,PT03M04.00S,3,1611661325,IND,1642286,Clark,C. Clark,-167,63,18,Missed,1,,,0,v,MISS Clark 18' Jump Shot,Missed Shot,Jump Shot,1,2,267
+1022600269,379,PT03M03.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,268
+1022600269,380,PT02M53.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-123,9,12,Made,1,58,54,112,h,Ogunbowale 12' Fadeaway Jumper (20 PTS),Made Shot,Fadeaway Jump Shot,1,2,269
+1022600269,381,PT02M53.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell S.FOUL (P3.T3),Foul,Shooting,1,0,270
+1022600269,383,PT02M53.00S,3,1611661321,DAL,1641652,Siegrist,M. Siegrist,0,0,0,,0,,,0,h,SUB: Clark FOR Siegrist,Substitution,,0,0,271
+1022600269,384,PT02M53.00S,3,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Harris FOR Hull,Substitution,,0,0,272
+1022600269,385,PT02M53.00S,3,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,SUB: Cunningham FOR Clark,Substitution,,0,0,273
+1022600269,389,PT02M53.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,59,54,113,h,Ogunbowale Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,274
+1022600269,390,PT02M40.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-83,253,27,Missed,1,,,0,v,MISS Mitchell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,275
+1022600269,391,PT02M39.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,276
+1022600269,392,PT02M34.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,-29,54,6,Made,1,59,56,115,v,Timpson 6' Hook Shot (6 PTS),Made Shot,Hook Shot,1,2,277
+1022600269,393,PT02M15.00S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-27,192,19,Missed,1,,,0,h,MISS Ogunbowale 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,278
+1022600269,394,PT02M14.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,279
+1022600269,395,PT01M54.00S,3,1611661325,IND,1628881,Billings,M. Billings,-35,18,4,Missed,1,,,0,v,MISS Billings 4' Layup,Missed Shot,Layup Shot,1,2,280
+1022600269,396,PT01M53.00S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,281
+1022600269,397,PT01M42.00S,3,1611661321,DAL,1630386,Kuier,A. Kuier,26,18,3,Made,1,61,56,117,h,Kuier 3' Driving Finger Roll Layup (11 PTS) (Bueckers 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,282
+1022600269,399,PT01M29.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers S.FOUL (P4.T3),Foul,Shooting,1,0,283
+1022600269,401,PT01M29.00S,3,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,284
+1022600269,402,PT01M29.00S,3,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Violation: Delay of game Violation,Violation,Delay Of Game,0,0,285
+1022600269,403,PT01M29.00S,3,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Boston FOR Timpson,Substitution,,0,0,286
+1022600269,405,PT01M29.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,61,57,118,v,Mitchell Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,287
+1022600269,406,PT01M29.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,61,58,119,v,Mitchell Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,288
+1022600269,407,PT01M10.00S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,33,135,14,Made,1,63,58,121,h,Bueckers 14' Driving Floating Jump Shot (7 PTS) (Ogunbowale 3 AST),Made Shot,Driving Floating Jump Shot,1,2,289
+1022600269,410,PT01M00.00S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-86,216,0,Made,1,63,61,124,v,Mitchell 3PT Jump Shot (27 PTS) (Harris 1 AST),Made Shot,Jump Shot,1,3,290
+1022600269,412,PT00M38.20S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston S.FOUL (P3.T4),Foul,Shooting,1,0,291
+1022600269,414,PT00M38.20S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,64,61,125,h,Shepard Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,292
+1022600269,415,PT00M38.20S,3,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,SUB: Sims FOR Bueckers,Substitution,,0,0,293
+1022600269,417,PT00M38.20S,3,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,65,61,126,h,Shepard Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+1022600269,418,PT00M27.50S,3,1611661325,IND,1628909,Mitchell,K. Mitchell,-34,21,4,Missed,1,,,0,v,MISS Mitchell 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,295
+1022600269,419,PT00M25.30S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,296
+1022600269,420,PT00M08.10S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Fever T.Foul (Def. 3 Sec Boston ),Foul,Defense 3 Second,1,0,297
+1022600269,421,PT00M08.10S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,66,61,127,h,Ogunbowale Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,1,0,298
+1022600269,422,PT00M02.70S,3,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-60,191,20,Missed,1,,,0,h,MISS Ogunbowale 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,299
+1022600269,423,PT00M02.70S,3,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,300
+1022600269,424,PT00M00.00S,3,0,,0,,,0,0,0,,0,66,61,127,,End of 3rd Period (9:40 PM EST),period,end,1,0,301
+1022600269,427,PT10M00.00S,4,0,,0,,,0,0,0,,0,66,61,127,,Start of 4th Period (9:43 PM EST),period,start,0,0,302
+1022600269,428,PT09M41.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,133,17,13,Made,1,68,61,129,h,Shepard 13' Jump Shot (26 PTS) (Kuier 4 AST),Made Shot,Jump Shot,1,2,303
+1022600269,430,PT09M25.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,85,254,27,Missed,1,,,0,v,MISS Cunningham 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,304
+1022600269,431,PT09M23.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,305
+1022600269,432,PT09M07.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,228,17,0,Missed,1,,,0,h,MISS Kuier 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+1022600269,433,PT09M06.00S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,,,0,h,Clark REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,307
+1022600269,434,PT09M05.00S,4,1611661321,DAL,202252,Clark,A. Clark,-31,11,3,Made,1,70,61,131,h,Clark 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,308
+1022600269,435,PT08M54.00S,4,1611661325,IND,1642286,Clark,C. Clark,-184,181,26,Made,1,70,64,134,v,Clark 26' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,309
+1022600269,436,PT08M42.00S,4,1611661321,DAL,203824,Sims,O. Sims,0,0,0,,0,,,0,h,Sims Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,310
+1022600269,436,PT08M42.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,Billings STEAL (2 STL),,,1,0,311
+1022600269,438,PT08M35.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,312
+1022600269,438,PT08M35.00S,4,1611661321,DAL,203824,Sims,O. Sims,0,0,0,,0,,,0,h,Sims STEAL (2 STL),,,1,0,313
+1022600269,440,PT08M31.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P2.T1),Foul,Shooting,1,0,314
+1022600269,443,PT08M31.00S,4,1611661321,DAL,203824,Sims,O. Sims,0,0,0,,0,71,64,135,h,Sims Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,315
+1022600269,444,PT08M31.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,SUB: Smith FOR Shepard,Substitution,,0,0,316
+1022600269,446,PT08M31.00S,4,1611661321,DAL,203824,Sims,O. Sims,0,0,0,,0,72,64,136,h,Sims Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,317
+1022600269,447,PT08M23.00S,4,1611661321,DAL,203824,Sims,O. Sims,0,0,0,,0,,,0,h,Sims P.FOUL (P1.T1),Foul,Personal,1,0,318
+1022600269,449,PT08M23.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Timpson FOR Billings,Substitution,,0,0,319
+1022600269,451,PT08M09.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,140,206,25,Missed,1,,,0,v,MISS Cunningham 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+1022600269,452,PT08M07.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,321
+1022600269,453,PT08M00.00S,4,1611661325,IND,1641648,Boston,A. Boston,72,231,24,Missed,1,,,0,v,MISS Boston 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+1022600269,454,PT07M58.00S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,,,0,h,Clark REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,323
+1022600269,455,PT07M37.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,52,285,29,Missed,1,,,0,h,MISS Ogunbowale 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,324
+1022600269,456,PT07M35.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,1,0,325
+1022600269,457,PT07M35.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson L.B.FOUL (P3.T2),Foul,Loose Ball,1,0,326
+1022600269,459,PT07M35.00S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,0,0,0,,0,,,0,v,SUB: Hull FOR Cunningham,Substitution,,0,0,327
+1022600269,460,PT07M35.00S,4,1611661325,IND,1630112,Harris,T. Harris,0,0,0,,0,,,0,v,SUB: Mitchell FOR Harris,Substitution,,0,0,328
+1022600269,463,PT07M35.00S,4,1611661321,DAL,203824,Sims,O. Sims,0,0,0,,0,,,0,h,SUB: Bueckers FOR Sims,Substitution,,0,0,329
+1022600269,465,PT07M29.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,-70,104,13,Made,1,74,64,138,h,Bueckers 13' Pullup Jump Shot (9 PTS) (Clark 1 AST),Made Shot,Pullup Jump shot,1,2,330
+1022600269,467,PT07M17.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-212,69,0,Made,1,74,67,141,v,Mitchell 3PT Jump Shot (30 PTS) (Clark 7 AST),Made Shot,Jump Shot,1,3,331
+1022600269,469,PT06M53.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,38,270,27,Missed,1,,,0,h,MISS Kuier 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,332
+1022600269,470,PT06M52.00S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,,,0,h,Clark REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,333
+1022600269,471,PT06M47.00S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P3.T3),Foul,Personal,1,0,334
+1022600269,473,PT06M43.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,-13,125,13,Made,1,76,67,143,h,Bueckers 13' Fadeaway Jumper (11 PTS) (Clark 2 AST),Made Shot,Fadeaway Jump Shot,1,2,335
+1022600269,475,PT06M42.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,336
+1022600269,476,PT06M30.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,32,16,4,Made,1,76,69,145,v,Timpson 4' Cutting Layup Shot (8 PTS) (Mitchell 4 AST),Made Shot,Cutting Layup Shot,1,2,337
+1022600269,478,PT06M10.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,113,18,11,Missed,1,,,0,h,MISS Bueckers 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,338
+1022600269,479,PT06M08.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,339
+1022600269,481,PT06M01.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,83,47,10,Missed,1,,,0,h,MISS Ogunbowale 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,340
+1022600269,482,PT05M59.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,341
+1022600269,483,PT05M49.00S,4,1611661325,IND,1641648,Boston,A. Boston,49,23,5,Missed,1,,,0,v,MISS Boston 5' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,342
+1022600269,484,PT05M47.00S,4,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,343
+1022600269,486,PT05M30.00S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,,,0,h,SUB: Shepard FOR Clark,Substitution,,0,0,344
+1022600269,487,PT05M30.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,SUB: Billings FOR Boston,Substitution,,0,0,345
+1022600269,490,PT05M26.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-194,172,26,Made,1,79,69,148,h,Ogunbowale 26' 3PT Pullup Jump Shot (25 PTS) (Bueckers 8 AST),Made Shot,Pullup Jump shot,1,3,346
+1022600269,492,PT05M16.00S,4,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,Smith S.FOUL (P5.T2),Foul,Shooting,1,0,347
+1022600269,494,PT05M16.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,MISS Timpson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,348
+1022600269,495,PT05M16.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Normal Rebound,0,0,349
+1022600269,496,PT05M16.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,79,70,149,v,Timpson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,350
+1022600269,497,PT05M00.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-126,17,13,Made,1,81,70,151,h,Ogunbowale 13' Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,1,2,351
+1022600269,498,PT04M46.00S,4,1611661325,IND,1642286,Clark,C. Clark,131,96,16,Missed,1,,,0,v,MISS Clark 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,352
+1022600269,499,PT04M45.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,353
+1022600269,500,PT04M37.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,-124,130,18,Missed,1,,,0,h,MISS Bueckers 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,354
+1022600269,501,PT04M35.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,355
+1022600269,502,PT04M30.00S,4,1611661325,IND,1628881,Billings,M. Billings,-10,16,2,Made,1,81,72,153,v,Billings 2' Running Layup (4 PTS) (Clark 8 AST),Made Shot,Running Layup Shot,1,2,356
+1022600269,504,PT04M20.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,357
+1022600269,506,PT04M20.00S,4,1611661321,DAL,1629501,Smith,A. Smith,0,0,0,,0,,,0,h,SUB: Clark FOR Smith,Substitution,,0,0,358
+1022600269,507,PT04M20.00S,4,1611661325,IND,1628881,Billings,M. Billings,0,0,0,,0,,,0,v,SUB: Boston FOR Billings,Substitution,,0,0,359
+1022600269,510,PT04M10.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-218,81,0,Missed,1,,,0,h,MISS Ogunbowale 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,360
+1022600269,511,PT04M09.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,361
+1022600269,512,PT03M56.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,-34,185,19,Missed,1,,,0,h,MISS Shepard 19' Jump Shot,Missed Shot,Jump Shot,1,2,362
+1022600269,513,PT03M55.00S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,363
+1022600269,514,PT03M49.00S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,,,0,h,Jump Ball Clark vs. Clark: Tip to Boston,Jump Ball,,1,0,364
+1022600269,517,PT03M43.00S,4,1611661325,IND,1642286,Clark,C. Clark,-99,254,27,Missed,1,,,0,v,MISS Clark 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,365
+1022600269,518,PT03M41.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,366
+1022600269,519,PT03M17.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,-232,3,0,Missed,1,,,0,h,MISS Kuier 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+1022600269,520,PT03M14.00S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Unknown,0,0,368
+1022600269,522,PT03M08.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,-37,56,7,Made,1,83,72,155,h,Ogunbowale 7' Driving Finger Roll Layup (29 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,369
+1022600269,523,PT02M58.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-17,32,4,Missed,1,,,0,v,MISS Mitchell 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,370
+1022600269,523,PT02M58.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier BLOCK (7 BLK),,,1,2,371
+1022600269,525,PT02M57.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,372
+1022600269,527,PT02M57.00S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,373
+1022600269,528,PT02M54.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,374
+1022600269,528,PT02M54.00S,4,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier STEAL (1 STL),,,1,0,375
+1022600269,530,PT02M31.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,376
+1022600269,530,PT02M31.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston STEAL (2 STL),,,1,0,377
+1022600269,545,PT02M31.00S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale Violation:Jump Ball,Violation,Jump Ball,0,0,378
+1022600269,532,PT02M13.00S,4,1611661325,IND,1641648,Boston,A. Boston,-19,17,3,Made,1,83,74,157,v,Boston 3' Driving Layup (12 PTS) (Mitchell 5 AST),Made Shot,Driving Layup Shot,1,2,379
+1022600269,534,PT01M49.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,-72,243,25,Missed,1,,,0,h,MISS Bueckers 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,380
+1022600269,535,PT01M48.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,381
+1022600269,536,PT01M48.00S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard P.FOUL (P1.T3),Foul,Personal,1,0,382
+1022600269,538,PT01M38.00S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,17,23,3,Missed,1,,,0,v,MISS Mitchell 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,383
+1022600269,539,PT01M36.00S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,384
+1022600269,541,PT01M14.00S,4,1611661321,DAL,202252,Clark,A. Clark,-174,174,25,Missed,1,,,0,h,MISS Clark 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,385
+1022600269,542,PT01M12.00S,4,1611661325,IND,1641648,Boston,A. Boston,0,0,0,,0,,,0,v,Boston REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,386
+1022600269,543,PT01M08.00S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,,,0,h,Clark P.FOUL (P1.PN),Foul,Personal,1,0,387
+1022600269,546,PT01M08.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,83,75,158,v,Timpson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,388
+1022600269,547,PT01M08.00S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,83,76,159,v,Timpson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,389
+1022600269,548,PT01M02.00S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P4.T4),Foul,Personal,1,0,390
+1022600269,550,PT00M55.70S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark S.FOUL (P3.PN),Foul,Shooting,1,0,391
+1022600269,552,PT00M55.70S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,84,76,160,h,Clark Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,392
+1022600269,553,PT00M55.70S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,85,76,161,h,Clark Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,393
+1022600269,554,PT00M50.60S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,-4,44,4,Made,1,85,78,163,v,Mitchell 4' Driving Floating Jump Shot (32 PTS),Made Shot,Driving Floating Jump Shot,1,2,394
+1022600269,555,PT00M50.60S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard S.FOUL (P2.PN),Foul,Shooting,1,0,395
+1022600269,557,PT00M50.60S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,85,79,164,v,Mitchell Free Throw 1 of 1 (33 PTS),Free Throw,Free Throw 1 of 1,1,0,396
+1022600269,558,PT00M50.60S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Timeout: Reset (Full 2 Short 0),Timeout,Reset,0,0,397
+1022600269,559,PT00M46.80S,4,1611661321,DAL,1629491,Shepard,J. Shepard,0,0,0,,0,,,0,h,Shepard Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,398
+1022600269,559,PT00M46.80S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell STEAL (1 STL),,,1,0,399
+1022600269,561,PT00M44.20S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,5,16,2,Missed,1,,,0,v,MISS Mitchell 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,400
+1022600269,562,PT00M41.40S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,,,0,h,Bueckers REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,401
+1022600269,563,PT00M41.40S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,Hull P.FOUL (P5.PN),Foul,Personal,1,0,402
+1022600269,565,PT00M41.40S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,86,79,165,h,Bueckers Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,403
+1022600269,566,PT00M41.40S,4,1611661321,DAL,1642784,Bueckers,P. Bueckers,0,0,0,,0,87,79,166,h,Bueckers Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,404
+1022600269,567,PT00M41.40S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Timeout: Reset (Reg.4 Short 0),Timeout,Reset,0,0,405
+1022600269,568,PT00M41.40S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Cunningham FOR Timpson,Substitution,,0,0,406
+1022600269,570,PT00M40.20S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,Ogunbowale P.FOUL (P4.PN),Foul,Personal,1,0,407
+1022600269,572,PT00M40.20S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,87,80,167,v,Mitchell Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,0,408
+1022600269,573,PT00M40.20S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Timpson FOR Hull,Substitution,,0,0,409
+1022600269,575,PT00M40.20S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,87,81,168,v,Mitchell Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,0,410
+1022600269,576,PT00M40.20S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,411
+1022600269,577,PT00M35.20S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,Timpson Personal Take Foul (P4.PN),Foul,Personal Take,1,0,412
+1022600269,579,PT00M35.20S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,,,0,h,MISS Clark Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,413
+1022600269,580,PT00M35.20S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Normal Rebound,0,0,414
+1022600269,581,PT00M35.20S,4,1611661321,DAL,202252,Clark,A. Clark,0,0,0,,0,88,81,169,h,Clark Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,415
+1022600269,582,PT00M26.30S,4,1611661325,IND,1629482,Cunningham,S. Cunningham,205,140,25,Missed,1,,,0,v,MISS Cunningham 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+1022600269,583,PT00M23.40S,4,0,,1611661325,,,0,0,0,,0,,,0,v,Fever Rebound,Rebound,Unknown,0,0,417
+1022600269,585,PT00M23.40S,4,1611661325,IND,1642815,Timpson,M. Timpson,0,0,0,,0,,,0,v,SUB: Hull FOR Timpson,Substitution,,0,0,418
+1022600269,587,PT00M21.40S,4,1611661325,IND,1641648,Boston,A. Boston,26,26,4,Made,1,88,83,171,v,Boston 4' Layup (14 PTS) (Clark 9 AST),Made Shot,Layup Shot,1,2,419
+1022600269,589,PT00M18.90S,4,1611661325,IND,1642286,Clark,C. Clark,0,0,0,,0,,,0,v,Clark Personal Take Foul (P4.PN),Foul,Personal Take,1,0,420
+1022600269,591,PT00M18.90S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,89,83,172,h,Ogunbowale Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0,421
+1022600269,592,PT00M18.90S,4,1611661325,IND,1631086,Hull,L. Hull,0,0,0,,0,,,0,v,SUB: Timpson FOR Hull,Substitution,,0,0,422
+1022600269,594,PT00M18.90S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,90,83,173,h,Ogunbowale Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,423
+1022600269,595,PT00M12.80S,4,1611661321,DAL,1630386,Kuier,A. Kuier,0,0,0,,0,,,0,h,Kuier P.FOUL (P1.PN),Foul,Personal,1,0,424
+1022600269,597,PT00M12.80S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,90,84,174,v,Mitchell Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,0,425
+1022600269,598,PT00M12.80S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,90,85,175,v,Mitchell Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0,426
+1022600269,599,PT00M05.80S,4,1611661325,IND,1628909,Mitchell,K. Mitchell,0,0,0,,0,,,0,v,Mitchell P.FOUL (P4.PN),Foul,Personal,1,0,427
+1022600269,601,PT00M05.80S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,,,0,h,MISS Ogunbowale Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,428
+1022600269,602,PT00M05.80S,4,0,,1611661321,,,0,0,0,,0,,,0,h,WINGS Rebound,Rebound,Normal Rebound,0,0,429
+1022600269,603,PT00M05.80S,4,1611661321,DAL,1629481,Ogunbowale,A. Ogunbowale,0,0,0,,0,91,85,176,h,Ogunbowale Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0,430
+1022600269,604,PT00M00.00S,4,0,,0,,,0,0,0,,0,91,85,176,,End of 4th Period (10:18 PM EST),period,end,1,0,431

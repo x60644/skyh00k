@@ -19,6 +19,77 @@ export function verdictFor(fair, book) {
   return 'PASS'
 }
 
+function amerFromProb(p) {
+  if (!p || p <= 0) return '—'
+  return p < 0.5 ? `+${Math.round(100 * (1 / p - 1))}` : `-${Math.round(100 * p / (1 - p))}`
+}
+
+// Compare the model to DK's "1st Points Scorer" board: normalize the model's
+// per-game probabilities to 100% (they sum to ~35-47% as emitted) and de-vig
+// the DK prices the user types (they sum to ~118%), so edge = model − market
+// is apples-to-apples. Compare-only — nothing is logged to the Line Book.
+function DkCompare({ roster }) {
+  const [dk, setDk] = useState({})   // playerId -> raw DK price string
+  const players = roster.filter((p) => p.fairOdds)
+  const modelSum = players.reduce((s, p) => s + oddsToProb(p.fairOdds), 0) || 1
+
+  const parsed = players.map((p) => {
+    const raw = (dk[p.playerId] || '').trim()
+    const norm = raw && /^[+-]?\d{2,5}$/.test(raw)
+      ? (raw.startsWith('-') ? raw : '+' + raw.replace('+', '')) : null
+    return { ...p, dkProb: norm ? oddsToProb(norm) : null }
+  })
+  const dkSum = parsed.reduce((s, p) => s + (p.dkProb || 0), 0)
+  const anyDk = dkSum > 0
+
+  const rows = parsed.map((p) => {
+    const modelNorm = oddsToProb(p.fairOdds) / modelSum
+    const mktNoVig = p.dkProb != null && dkSum > 0 ? p.dkProb / dkSum : null
+    return { ...p, modelNorm, mktNoVig, edge: mktNoVig != null ? modelNorm - mktNoVig : null }
+  }).sort((a, b) => b.modelNorm - a.modelNorm)
+
+  const modelTop = rows[0]
+  const mktTop = anyDk
+    ? rows.filter((r) => r.mktNoVig != null).sort((a, b) => b.mktNoVig - a.mktNoVig)[0] : null
+  const diverge = mktTop && modelTop && mktTop.playerId !== modelTop.playerId
+
+  return (
+    <div className="card dkcmp">
+      <div className="dkhead">
+        <span>Compare vs DK — 1st Points Scorer</span>
+        <span className={'dkstate' + (anyDk ? ' on' : '')}>{anyDk ? 'VS DK' : 'MODEL ONLY'}</span>
+      </div>
+      <div className="dknote">
+        {anyDk
+          ? `Market de-vigged across the ${rows.filter((r) => r.mktNoVig != null).length} price(s) you entered. Edge = model − market, in points.`
+          : 'Type each player’s DK price to de-vig the market and see the edge. Until then, this is the model’s normalized board.'}
+      </div>
+      {diverge && (
+        <div className="dkflag">⚠ Model’s #1 <b>{modelTop.name}</b> ≠ market favorite <b>{mktTop.name}</b> — the model is fighting the DK line.</div>
+      )}
+      <div className="dktable">
+        <div className="dkr dkhdr"><span>player</span><span>model</span><span>DK</span><span>edge</span></div>
+        {rows.map((r) => (
+          <div className="dkr" key={r.playerId}>
+            <span className="dknm">{r.name}</span>
+            <span className="dkmodel">{amerFromProb(r.modelNorm)}</span>
+            <input className="dkin" inputMode="numeric" placeholder="+350"
+              value={dk[r.playerId] || ''}
+              onChange={(e) => setDk((m) => ({ ...m, [r.playerId]: e.target.value }))} />
+            <span className={'dkedge' + (r.edge == null ? '' : r.edge >= 0 ? ' pos' : ' neg')}
+              title={r.mktNoVig != null ? `DK no-vig ${amerFromProb(r.mktNoVig)}` : ''}>
+              {r.edge != null ? `${r.edge >= 0 ? '+' : ''}${(r.edge * 100).toFixed(1)}` : '—'}
+            </span>
+          </div>
+        ))}
+      </div>
+      {anyDk && (
+        <button type="button" className="linebtn" onClick={() => setDk({})}>Clear DK prices</button>
+      )}
+    </div>
+  )
+}
+
 function RosterRow({ league, p, tint, isModel, isSelected, onSelect }) {
   return (
     <button type="button" aria-pressed={isSelected}
@@ -45,6 +116,7 @@ function RosterRow({ league, p, tint, isModel, isSelected, onSelect }) {
 
 export default function GameCard({ game, slateDate }) {
   const [open, setOpen] = useState(false)
+  const [cmp, setCmp] = useState(false)
   const [showPlayer, setShowPlayer] = useState(true)
   const [showTeam, setShowTeam] = useState(false)
   const [showMisses, setShowMisses] = useState(false)
@@ -215,14 +287,19 @@ export default function GameCard({ game, slateDate }) {
           the team's opening shot (last 10) · MAKE = how often their own first shot
           of a game goes in · * = small sample</div>
 
-        {hasDetail && (
-          <div className="foot">
+        <div className="foot">
+          <button type="button" onClick={() => setCmp(!cmp)}>
+            {cmp ? 'Hide DK compare ▴' : 'Compare vs DK market ▾'}
+          </button>
+          {hasDetail && (
             <button type="button" onClick={() => setOpen(!open)}>
-              {open ? 'Collapse detail ▴' : 'Why this pick — shot chart, factors & badges ▾'}
+              {open ? 'Collapse detail ▴' : 'Why this pick ▾'}
             </button>
-          </div>
-        )}
+          )}
+        </div>
       </div>
+
+      {cmp && <DkCompare roster={roster} />}
 
       {open && hasDetail && (
         <div className="card detail">

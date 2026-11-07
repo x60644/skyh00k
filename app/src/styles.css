@@ -373,6 +373,32 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 .detailintro .tag.in{background:#123326; color:#4FE0A6;}
 .detailintro .tag.watch{background:#332A12; color:#E0BB4F;}
 
+/* --- v0.11: compare vs DK panel --- */
+.dkcmp{padding:12px 14px 14px;}
+.dkhead{display:flex; align-items:center; justify-content:space-between;
+  font-family:'Bungee'; font-size:12px; letter-spacing:.5px; color:var(--chalk);}
+.dkstate{font-family:'Barlow Condensed',sans-serif; font-size:10px; font-weight:700;
+  letter-spacing:1px; padding:2px 8px; border-radius:4px; background:#23232E; color:var(--dim);}
+.dkstate.on{background:#123326; color:#4FE0A6;}
+.dknote{font-size:12px; color:var(--dim); line-height:1.4; margin:7px 0 9px;}
+.dkflag{font-size:12px; color:var(--amber); background:#2A2110; border:1px solid #5C4A12;
+  border-radius:8px; padding:7px 10px; margin-bottom:9px; line-height:1.4;}
+.dkflag b{color:var(--chalk);}
+.dktable{display:flex; flex-direction:column; gap:2px;}
+.dkr{display:grid; grid-template-columns:1fr 54px 66px 50px; align-items:center;
+  gap:6px; padding:3px 0;}
+.dkr.dkhdr{font-size:9px; letter-spacing:1px; text-transform:uppercase; color:var(--dim);
+  border-bottom:1px solid var(--line); padding-bottom:5px; margin-bottom:2px;}
+.dkr.dkhdr span{text-align:right;} .dkr.dkhdr span:first-child{text-align:left;}
+.dknm{font-size:13px; font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+.dkmodel{font-family:'Bungee'; font-size:11px; color:var(--amber); text-align:right;}
+.dkin{background:var(--panel2); border:1px solid var(--line); border-radius:6px;
+  color:var(--chalk); font-family:'Barlow Condensed',sans-serif; font-size:13px;
+  padding:3px 6px; width:100%; text-align:right; min-width:0;}
+.dkin:focus{outline:none; border-color:var(--you);}
+.dkedge{font-family:'Bungee'; font-size:11px; text-align:right; color:var(--dim);}
+.dkedge.pos{color:#4FE0A6;} .dkedge.neg{color:#FF8A5C;}
+
 /* desktop: widen the shell so the dashboard chips sit in 2–3 rows,
    keep the card column at phone width and centered */
 @media (min-width:760px){

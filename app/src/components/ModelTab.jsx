@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import Mug from './Mug.jsx'
-import { DEFAULT_TINTS } from '../config.js'
+import { DEFAULT_TINTS, AUDIT_SINCE } from '../config.js'
 
 const fmtDate = (d) => {
   const [, m, day] = d.split('-')
@@ -25,12 +25,26 @@ export default function ModelTab({ league }) {
 
   const games = audit && audit.games
     ? Object.entries(audit.games).map(([id, g]) => ({ id, ...g }))
-      .filter((g) => g.league === league)
+      .filter((g) => g.league === league && (!AUDIT_SINCE || g.date >= AUDIT_SINCE))
       .sort((a, b) => b.date.localeCompare(a.date) || a.matchup.localeCompare(b.matchup))
     : []
 
   if (!loaded) return <div className="empty">Loading model log…</div>
-  if (!games.length) return <div className="empty">No graded games yet for {league.toUpperCase()}.</div>
+  if (!games.length) {
+    const hasPreFix = AUDIT_SINCE && audit && audit.games &&
+      Object.values(audit.games).some((g) => g.league === league && g.date < AUDIT_SINCE)
+    return (
+      <div className="empty">
+        {hasPreFix ? (
+          <>Model tracking reset to the roster fix ({fmtDate(AUDIT_SINCE)}).<br />
+            Earlier boards graded picks off stale rosters, so they're excluded.
+            First clean grades land once games built with the fix settle.</>
+        ) : (
+          <>No graded games yet for {league.toUpperCase()}.</>
+        )}
+      </div>
+    )
+  }
 
   const n = games.length
   const hits = games.filter((g) => g.pickHit).length

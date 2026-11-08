@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T00:01:39Z",
+ "generated": "2026-11-08T02:31:29Z",
  "date": "2026-11-07",
  "league": "nba",
  "games": [
@@ -20,7 +20,7 @@
    "tip": {
     "homePlayer": "Huff",
     "awayPlayer": "Holmes II",
-    "homeWinPct": 46
+    "homeWinPct": 47
    },
    "topPick": {
     "playerId": 1627750,
@@ -28,11 +28,11 @@
     "pos": "G",
     "side": "away",
     "bookOdds": null,
-    "fairOdds": "+543",
+    "fairOdds": "+549",
     "rank": 1,
     "share": 30,
     "verdict": null,
-    "why": "DEN controls the jump 54% here and scores the game's first point in 56% of its games; Murray takes 30% of its opening shots and makes 52% of his own first look."
+    "why": "DEN controls the jump 53% here and scores the game's first point in 56% of its games; Murray takes 30% of its opening shots and makes 52% of his own first look."
    },
    "rosters": {
     "home": [
@@ -42,59 +42,59 @@
       "pos": "G-F",
       "share": 20,
       "fg": 45,
-      "att": 64,
+      "att": 65,
       "thin": false,
       "hot": false,
       "rank": 4,
-      "fairOdds": "+2345"
+      "fairOdds": "+2440"
      },
      {
       "playerId": 1627783,
       "name": "Siakam",
       "pos": "F",
       "share": 20,
-      "fg": 53,
-      "att": 68,
+      "fg": 54,
+      "att": 69,
       "thin": false,
       "hot": false,
       "rank": 2,
-      "fairOdds": "+1137"
+      "fairOdds": "+1060"
      },
      {
       "playerId": 1630174,
       "name": "Nesmith",
       "pos": "G-F",
       "share": 10,
-      "fg": 43,
-      "att": 51,
+      "fg": 42,
+      "att": 52,
       "thin": false,
       "hot": false,
       "rank": 7,
-      "fairOdds": "+5230"
+      "fairOdds": "+5213"
      },
      {
       "playerId": 1627826,
       "name": "Zubac",
       "pos": "C",
       "share": 10,
-      "fg": 44,
-      "att": 9,
+      "fg": 50,
+      "att": 10,
       "thin": false,
       "hot": false,
       "rank": 6,
-      "fairOdds": "+4562"
+      "fairOdds": "+4544"
      },
      {
       "playerId": 1631245,
       "name": "Jackson",
       "pos": "G",
       "share": 0,
-      "fg": 48,
-      "att": 56,
+      "fg": 47,
+      "att": 57,
       "thin": false,
       "hot": false,
       "rank": 10,
-      "fairOdds": "+18100"
+      "fairOdds": "+18300"
      }
     ],
     "away": [
@@ -104,84 +104,84 @@
       "pos": "G",
       "share": 30,
       "fg": 52,
-      "att": 81,
+      "att": 82,
       "thin": false,
       "hot": true,
       "rank": 1,
-      "fairOdds": "+543"
+      "fairOdds": "+549"
      },
      {
       "playerId": 203999,
       "name": "Jokić",
       "pos": "C",
       "share": 10,
-      "fg": 62,
-      "att": 71,
+      "fg": 61,
+      "att": 72,
       "thin": false,
       "hot": false,
       "rank": 3,
-      "fairOdds": "+2061"
+      "fairOdds": "+2080"
      },
      {
       "playerId": 1629661,
       "name": "Johnson",
       "pos": "F",
       "share": 0,
-      "fg": 37,
-      "att": 51,
+      "fg": 38,
+      "att": 52,
       "thin": false,
       "hot": false,
       "rank": 5,
-      "fairOdds": "+3460"
+      "fairOdds": "+3500"
      },
      {
       "playerId": 203932,
       "name": "Gordon",
       "pos": "F",
       "share": 0,
-      "fg": 48,
-      "att": 42,
+      "fg": 47,
+      "att": 43,
       "thin": false,
       "hot": false,
       "rank": 8,
-      "fairOdds": "+8800"
+      "fairOdds": "+8900"
      },
      {
       "playerId": 1626145,
       "name": "Jones",
       "pos": "G",
       "share": 0,
-      "fg": 31,
-      "att": 45,
+      "fg": 30,
+      "att": 46,
       "thin": false,
       "hot": false,
       "rank": 9,
-      "fairOdds": "+17700"
+      "fairOdds": "+17900"
      }
     ]
    },
    "profile": {
     "home": {
      "tri": "IND",
-     "games": 91,
+     "games": 92,
      "jumper": "Huff",
      "jumperTipPct": 49,
      "jumperTips": 51,
      "teamTipPct": 48,
      "firstShotPct": 52,
-     "firstScorePct": 46,
-     "firstAttFgPct": 41,
+     "firstScorePct": 47,
+     "firstAttFgPct": 40,
      "fgaToFirstFg": 2.0,
      "h2h": null
     },
     "away": {
      "tri": "DEN",
-     "games": 89,
+     "games": 90,
      "jumper": "Holmes II",
      "jumperTipPct": 33,
      "jumperTips": 6,
-     "teamTipPct": 55,
-     "firstShotPct": 51,
+     "teamTipPct": 54,
+     "firstShotPct": 50,
      "firstScorePct": 56,
      "firstAttFgPct": 58,
      "fgaToFirstFg": 2.0,
@@ -190,6 +190,14 @@
    },
    "last10": {
     "home": [
+     {
+      "date": "2026-11-07",
+      "opp": "DEN",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Siakam",
+      "fbUs": true
+     },
      {
       "date": "2026-11-04",
       "opp": "MEM",
@@ -261,17 +269,17 @@
       "firstShotUs": false,
       "fb": "Adebayo",
       "fbUs": false
-     },
-     {
-      "date": "2025-12-14",
-      "opp": "WAS",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Bagley III",
-      "fbUs": false
      }
     ],
     "away": [
+     {
+      "date": "2026-11-07",
+      "opp": "IND",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Siakam",
+      "fbUs": false
+     },
      {
       "date": "2026-11-04",
       "opp": "TOR",
@@ -343,14 +351,6 @@
       "firstShotUs": false,
       "fb": "Murray",
       "fbUs": false
-     },
-     {
-      "date": "2026-04-12",
-      "opp": "SAS",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Fox",
-      "fbUs": false
      }
     ]
    },
@@ -361,7 +361,7 @@
     },
     {
      "tag": "IN",
-     "text": "IND wins parsed opening tips at 48%, DEN at 55%"
+     "text": "IND wins parsed opening tips at 48%, DEN at 54%"
     },
     {
      "tag": "WATCH",
@@ -400,7 +400,7 @@
       {
        "icon": "🧹",
        "label": "Glass First",
-       "note": "7 second-chance first points",
+       "note": "8 second-chance first points",
        "tier": ""
       }
      ]
@@ -411,7 +411,7 @@
       {
        "icon": "🪝",
        "label": "Tip Titan",
-       "note": "67% jump wins",
+       "note": "70% jump wins",
        "tier": "gold"
       }
      ]
@@ -460,10 +460,6 @@
     "team": {
      "makes": [
       [
-       256,
-       393
-      ],
-      [
        288,
        413
       ],
@@ -498,17 +494,13 @@
       [
        271,
        388
+      ],
+      [
+       235,
+       415
       ]
      ],
      "misses": [
-      [
-       108,
-       174
-      ],
-      [
-       65,
-       230
-      ],
       [
        17,
        349
@@ -544,6 +536,18 @@
       [
        222,
        364
+      ],
+      [
+       300,
+       177
+      ],
+      [
+       24,
+       417
+      ],
+      [
+       448,
+       273
       ]
      ]
     }

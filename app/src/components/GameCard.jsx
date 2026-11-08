@@ -28,8 +28,11 @@ function amerFromProb(p) {
 // per-game probabilities to 100% (they sum to ~35-47% as emitted) and de-vig
 // the DK prices the user types (they sum to ~118%), so edge = model − market
 // is apples-to-apples. Compare-only — nothing is logged to the Line Book.
-function DkCompare({ roster }) {
-  const [dk, setDk] = useState({})   // playerId -> raw DK price string
+function DkCompare({ roster, initialDk }) {
+  // Pre-fill from a DK snapshot (app/public/dk.json, keyed by playerId) when
+  // one exists for this game, so the edges show the moment you expand.
+  const [dk, setDk] = useState(() => (initialDk ? { ...initialDk } : {}))
+  const prefilled = !!(initialDk && Object.keys(initialDk).length)
   const players = roster.filter((p) => p.fairOdds)
   const modelSum = players.reduce((s, p) => s + oddsToProb(p.fairOdds), 0) || 1
 
@@ -61,7 +64,7 @@ function DkCompare({ roster }) {
       </div>
       <div className="dknote">
         {anyDk
-          ? `Market de-vigged across the ${rows.filter((r) => r.mktNoVig != null).length} price(s) you entered. Edge = model − market, in points.`
+          ? `${prefilled ? 'Pre-filled from tonight’s DK snapshot' : 'Market'}, de-vigged across ${rows.filter((r) => r.mktNoVig != null).length} price(s). Edge = model − market, in points. Edit any price to refresh.`
           : 'Type each player’s DK price to de-vig the market and see the edge. Until then, this is the model’s normalized board.'}
       </div>
       {diverge && (
@@ -114,7 +117,7 @@ function RosterRow({ league, p, tint, isModel, isSelected, onSelect }) {
   )
 }
 
-export default function GameCard({ game, slateDate }) {
+export default function GameCard({ game, slateDate, dkForGame }) {
   const [open, setOpen] = useState(false)
   const [cmp, setCmp] = useState(false)
   const [showPlayer, setShowPlayer] = useState(true)
@@ -299,7 +302,7 @@ export default function GameCard({ game, slateDate }) {
         </div>
       </div>
 
-      {cmp && <DkCompare roster={roster} />}
+      {cmp && <DkCompare roster={roster} initialDk={dkForGame} />}
 
       {open && hasDetail && (
         <div className="card detail">

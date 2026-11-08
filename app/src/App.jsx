@@ -22,11 +22,16 @@ export default function App() {
   const [live, setLive] = useState(null)
   const [lines, setLines] = useState([])
   const [auditGen, setAuditGen] = useState(null)
+  const [dkMarket, setDkMarket] = useState(null)
 
   useEffect(() => {
     fetch('/audit.json')
       .then((r) => (r.ok ? r.json() : null))
       .then((a) => { if (a && a.generated) setAuditGen(a.generated) })
+      .catch(() => {})
+    fetch('/dk.json')
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (d && d.games) setDkMarket(d) })
       .catch(() => {})
     fetch('/slate.json')
       .then((r) => (r.ok ? r.json() : null))
@@ -111,7 +116,8 @@ export default function App() {
               <div className="empty">No games on the {LEAGUES[league].label} board.</div>
             ) : (
               games.map((g) => (
-                <GameCard key={g.id} game={g} slateDate={isLive ? live.date : null} />
+                <GameCard key={g.id} game={g} slateDate={isLive ? live.date : null}
+                  dkForGame={dkMarket && dkMarket.games ? dkMarket.games[g.id] : null} />
               ))
             )}
           </main>

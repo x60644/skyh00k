@@ -359,6 +359,14 @@ svg.half{width:100%; display:block; background:var(--wood); border:1px solid var
 .selecthint{text-align:center; font-size:11px; color:var(--dim); letter-spacing:.5px;
   margin:-4px 12px 2px; padding:0 4px;}
 .selecthint .modeldot{margin:0 2px;}
+.outbanner{margin-top:8px; font-size:12px; color:var(--amber); background:#2A2110;
+  border:1px solid #5C4A12; border-radius:8px; padding:7px 10px; line-height:1.4;}
+.outbanner b{color:var(--chalk);}
+.prow.out{opacity:.5;}
+.prow.out .rodds{color:var(--dim);}
+.outtag{font-style:normal; font-size:9px; font-weight:700; letter-spacing:.5px;
+  color:#FF8A5C; border:1px solid #5C2A1A; border-radius:3px; padding:0 4px; margin-left:5px;
+  vertical-align:1px;}
 
 .detailintro{padding:12px 16px 4px;}
 .dihead{font-size:11px; letter-spacing:1.5px; text-transform:uppercase;

@@ -93,10 +93,10 @@ function DkCompare({ roster, initialDk }) {
   )
 }
 
-function RosterRow({ league, p, tint, isModel, isSelected, onSelect }) {
+function RosterRow({ league, p, tint, isModel, isSelected, isOut, onSelect }) {
   return (
     <button type="button" aria-pressed={isSelected}
-      className={'prow' + (p.hot ? ' hot' : '') + (isSelected ? ' sel' : '')}
+      className={'prow' + (p.hot ? ' hot' : '') + (isSelected ? ' sel' : '') + (isOut ? ' out' : '')}
       onClick={onSelect}>
       <Mug league={league} playerId={p.playerId} name={p.name} size={30} tint={tint} ring={p.hot} />
       <div className="pbody">
@@ -104,6 +104,7 @@ function RosterRow({ league, p, tint, isModel, isSelected, onSelect }) {
           <span className="pn">
             {p.name}{p.pos ? <em className="pos">{p.pos}</em> : null}
             {isModel && <em className="modeldot" title="Model's pick">★</em>}
+            {isOut && <em className="outtag" title="Not on tonight's DK board">OUT</em>}
           </span>
           <span className={'stats' + (p.thin ? ' thin' : '')}
             title={p.att != null ? `${p.att} games with a first shot` : undefined}>
@@ -137,8 +138,22 @@ export default function GameCard({ game, slateDate, dkForGame }) {
     ...game.rosters.home.map((p) => ({ ...p, side: 'home' })),
     ...game.rosters.away.map((p) => ({ ...p, side: 'away' })),
   ]
-  const [selId, setSelId] = useState(model.playerId)
+  // Availability from tonight's DK board: a rostered player DK doesn't list is
+  // treated as likely out/inactive. Fail open when there's no snapshot yet.
+  const dkIds = dkForGame ? new Set(Object.keys(dkForGame)) : null
+  const isAvail = (p) => !dkIds || dkIds.has(String(p.playerId))
+  const modelOut = !isAvail(model)
+  const bestAvail = modelOut
+    ? roster.filter(isAvail)
+        .sort((a, b) => (oddsToProb(b.fairOdds) || 0) - (oddsToProb(a.fairOdds) || 0))[0]
+    : null
+  // Default to the model's pick; if it's out, fall to the best available
+  // player. A tap (userSel) overrides until the user resets.
+  const [userSel, setUserSel] = useState(null)
+  const selId = userSel != null ? userSel
+    : (modelOut && bestAvail ? bestAvail.playerId : model.playerId)
   const isModel = selId === model.playerId
+  const showingBest = !userSel && modelOut && !!bestAvail && selId === bestAvail.playerId
   const selP = roster.find((p) => p.playerId === selId) ||
     roster.find((p) => p.playerId === model.playerId) || roster[0]
 
@@ -200,7 +215,7 @@ export default function GameCard({ game, slateDate, dkForGame }) {
         </div>
 
         <div className={'pick' + (isModel ? '' : ' userpick')}>
-          <div className="picktag">{isModel ? 'Top pick' : 'Your pick'}</div>
+          <div className="picktag">{isModel ? 'Top pick' : showingBest ? 'Top available' : 'Your pick'}</div>
           <Mug league={lg} playerId={selP.playerId} name={selP.name} size={56} tint={selTint} ring />
           <div className="pickbody">
             <div className="pickrow">
@@ -219,12 +234,17 @@ export default function GameCard({ game, slateDate, dkForGame }) {
               {verdict &&
                 <span className={'verdict ' + verdict.toLowerCase()}>{verdict}</span>}
             </div>
-            {!isModel && (
+            {modelOut ? (
+              <div className="outbanner">
+                ⚠ Model's call <b>{model.name}</b> isn't on tonight's DK board — likely <b>OUT</b>.
+                {bestAvail ? ' Showing best available.' : ''}
+              </div>
+            ) : (!isModel && (
               <div className="modelnote">
                 Model's pick: <b>{model.name}</b> {model.fairOdds}
-                <button type="button" onClick={() => setSelId(model.playerId)}>↺ back to model</button>
+                <button type="button" onClick={() => setUserSel(model.playerId)}>↺ back to model</button>
               </div>
-            )}
+            ))}
             {why && <div className="whyline">{why}</div>}
             {!selFair && (
               <div className="linemsg">Per-player model odds refresh on the next slate build.</div>
@@ -268,7 +288,8 @@ export default function GameCard({ game, slateDate, dkForGame }) {
               <RosterRow key={p.playerId} league={lg} p={p} tint={homeTint}
                 isModel={p.playerId === model.playerId}
                 isSelected={p.playerId === selId}
-                onSelect={() => setSelId(p.playerId)} />
+                isOut={!isAvail(p)}
+                onSelect={() => setUserSel(p.playerId)} />
             ))}
           </div>
           <div className="side">
@@ -281,7 +302,8 @@ export default function GameCard({ game, slateDate, dkForGame }) {
               <RosterRow key={p.playerId} league={lg} p={p} tint={awayTint}
                 isModel={p.playerId === model.playerId}
                 isSelected={p.playerId === selId}
-                onSelect={() => setSelId(p.playerId)} />
+                isOut={!isAvail(p)}
+                onSelect={() => setUserSel(p.playerId)} />
             ))}
           </div>
         </div>

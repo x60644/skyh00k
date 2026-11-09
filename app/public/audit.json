@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T02:30:07Z",
+ "generated": "2026-11-09T00:00:13Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -1716,6 +1716,90 @@
    "pickName": "Fox",
    "pickHit": 1,
    "actualBoardRank": 3
+  },
+  "0022600189": {
+   "date": "2026-11-07",
+   "league": "nba",
+   "matchup": "DEN@IND",
+   "actualPlayerId": 1627783,
+   "actualName": "P. Siakam",
+   "actualTeam": "IND",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600190": {
+   "date": "2026-11-07",
+   "league": "nba",
+   "matchup": "BKN@ATL",
+   "actualPlayerId": 1642849,
+   "actualName": "N. Traore",
+   "actualTeam": "BKN",
+   "pickPlayerId": 1629008,
+   "pickName": "Porter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600191": {
+   "date": "2026-11-07",
+   "league": "nba",
+   "matchup": "NYK@CLE",
+   "actualPlayerId": 1630596,
+   "actualName": "E. Mobley",
+   "actualTeam": "CLE",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600192": {
+   "date": "2026-11-07",
+   "league": "nba",
+   "matchup": "WAS@OKC",
+   "actualPlayerId": 1643530,
+   "actualName": "A. Mara",
+   "actualTeam": "OKC",
+   "pickPlayerId": 1641717,
+   "pickName": "Wallace",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600193": {
+   "date": "2026-11-07",
+   "league": "nba",
+   "matchup": "ORL@GSW",
+   "actualPlayerId": 201939,
+   "actualName": "S. Curry",
+   "actualTeam": "GSW",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600194": {
+   "date": "2026-11-07",
+   "league": "nba",
+   "matchup": "HOU@PHX",
+   "actualPlayerId": 1630578,
+   "actualName": "A. Sengun",
+   "actualTeam": "HOU",
+   "pickPlayerId": 1630224,
+   "pickName": "Green",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600195": {
+   "date": "2026-11-07",
+   "league": "nba",
+   "matchup": "SAS@POR",
+   "actualPlayerId": 1641705,
+   "actualName": "V. Wembanyama",
+   "actualTeam": "SAS",
+   "pickPlayerId": 1628368,
+   "pickName": "Fox",
+   "pickHit": 0,
+   "actualBoardRank": 6
   }
  }
 }

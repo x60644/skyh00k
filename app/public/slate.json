@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T00:01:42Z",
+ "generated": "2026-11-09T02:31:26Z",
  "date": "2026-11-08",
  "league": "nba",
  "games": [
@@ -553,7 +553,7 @@
    "tip": {
     "homePlayer": "Duren",
     "awayPlayer": "Ayton",
-    "homeWinPct": 47
+    "homeWinPct": 48
    },
    "topPick": {
     "playerId": 1629029,
@@ -561,11 +561,11 @@
     "pos": "F-G",
     "side": "away",
     "bookOdds": null,
-    "fairOdds": "+1289",
+    "fairOdds": "+1304",
     "rank": 1,
     "share": 30,
     "verdict": null,
-    "why": "LAL controls the jump 53% here and scores the game's first point in 59% of its games; Dončić takes 30% of its opening shots and makes 44% of his own first look."
+    "why": "LAL controls the jump 52% here and scores the game's first point in 59% of its games; Dončić takes 30% of its opening shots and makes 44% of his own first look."
    },
    "rosters": {
     "home": [
@@ -574,36 +574,36 @@
       "name": "Collins",
       "pos": "F-C",
       "share": 20,
-      "fg": 43,
-      "att": 7,
+      "fg": 38,
+      "att": 8,
       "thin": false,
       "hot": false,
-      "rank": 3,
-      "fairOdds": "+2214"
+      "rank": 2,
+      "fairOdds": "+2200"
+     },
+     {
+      "playerId": 1630595,
+      "name": "Cunningham",
+      "pos": "G",
+      "share": 10,
+      "fg": 49,
+      "att": 73,
+      "thin": false,
+      "hot": false,
+      "rank": 4,
+      "fairOdds": "+2704"
      },
      {
       "playerId": 1629130,
       "name": "Robinson",
       "pos": "F",
       "share": 10,
-      "fg": 43,
-      "att": 84,
+      "fg": 42,
+      "att": 85,
       "thin": false,
       "hot": false,
-      "rank": 4,
-      "fairOdds": "+2282"
-     },
-     {
-      "playerId": 1630595,
-      "name": "Cunningham",
-      "pos": "G",
-      "share": 0,
-      "fg": 50,
-      "att": 72,
-      "thin": false,
-      "hot": false,
-      "rank": 10,
-      "fairOdds": "+17900"
+      "rank": 3,
+      "fairOdds": "+2276"
      },
      {
       "playerId": 1631105,
@@ -615,19 +615,19 @@
       "thin": false,
       "hot": false,
       "rank": 5,
-      "fairOdds": "+2900"
+      "fairOdds": "+2933"
      },
      {
       "playerId": 1641709,
       "name": "Thompson",
       "pos": "G-F",
       "share": 0,
-      "fg": 40,
-      "att": 67,
+      "fg": 41,
+      "att": 68,
       "thin": false,
       "hot": false,
-      "rank": 8,
-      "fairOdds": "+5900"
+      "rank": 9,
+      "fairOdds": "+5967"
      }
     ],
     "away": [
@@ -641,68 +641,68 @@
       "thin": false,
       "hot": true,
       "rank": 1,
-      "fairOdds": "+1289"
+      "fairOdds": "+1304"
      },
      {
       "playerId": 1631117,
       "name": "Kessler",
       "pos": "C",
-      "share": 20,
-      "fg": 60,
-      "att": 10,
+      "share": 10,
+      "fg": 55,
+      "att": 11,
       "thin": false,
       "hot": false,
-      "rank": 2,
-      "fairOdds": "+1903"
+      "rank": 8,
+      "fairOdds": "+3949"
      },
      {
       "playerId": 1629680,
       "name": "Thybulle",
       "pos": "G-F",
       "share": 10,
-      "fg": 67,
-      "att": 9,
+      "fg": 70,
+      "att": 10,
       "thin": false,
       "hot": false,
-      "rank": 6,
-      "fairOdds": "+3333"
+      "rank": 7,
+      "fairOdds": "+3371"
      },
      {
       "playerId": 1630559,
       "name": "Reaves",
       "pos": "G",
       "share": 0,
-      "fg": 37,
-      "att": 59,
+      "fg": 38,
+      "att": 60,
       "thin": false,
       "hot": false,
-      "rank": 7,
-      "fairOdds": "+3580"
+      "rank": 6,
+      "fairOdds": "+3000"
      },
      {
       "playerId": 1631222,
       "name": "LaRavia",
       "pos": "F",
       "share": 0,
-      "fg": 53,
-      "att": 66,
+      "fg": 54,
+      "att": 67,
       "thin": false,
       "hot": false,
-      "rank": 9,
-      "fairOdds": "+6033"
+      "rank": 10,
+      "fairOdds": "+6100"
      }
     ]
    },
    "profile": {
     "home": {
      "tri": "DET",
-     "games": 90,
+     "games": 91,
      "jumper": "Duren",
      "jumperTipPct": 41,
      "jumperTips": 68,
      "teamTipPct": 43,
      "firstShotPct": 47,
-     "firstScorePct": 49,
+     "firstScorePct": 48,
      "firstAttFgPct": 54,
      "fgaToFirstFg": 2.0,
      "h2h": {
@@ -712,14 +712,14 @@
     },
     "away": {
      "tri": "LAL",
-     "games": 92,
+     "games": 93,
      "jumper": "Ayton",
      "jumperTipPct": 40,
      "jumperTips": 72,
      "teamTipPct": 48,
-     "firstShotPct": 62,
+     "firstShotPct": 61,
      "firstScorePct": 59,
-     "firstAttFgPct": 54,
+     "firstAttFgPct": 55,
      "fgaToFirstFg": 1.9,
      "h2h": {
       "w": 1,
@@ -729,6 +729,14 @@
    },
    "last10": {
     "home": [
+     {
+      "date": "2026-11-08",
+      "opp": "LAL",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Reaves",
+      "fbUs": false
+     },
      {
       "date": "2026-11-04",
       "opp": "PHI",
@@ -800,17 +808,17 @@
       "firstShotUs": false,
       "fb": "Brown",
       "fbUs": false
-     },
-     {
-      "date": "2025-12-12",
-      "opp": "ATL",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Alexander-Walker",
-      "fbUs": false
      }
     ],
     "away": [
+     {
+      "date": "2026-11-08",
+      "opp": "DET",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Reaves",
+      "fbUs": true
+     },
      {
       "date": "2026-11-04",
       "opp": "SAC",
@@ -882,14 +890,6 @@
       "firstShotUs": false,
       "fb": "Podziemski",
       "fbUs": false
-     },
-     {
-      "date": "2026-10-21",
-      "opp": "GSW",
-      "tip": null,
-      "firstShotUs": true,
-      "fb": "Kessler",
-      "fbUs": true
      }
     ]
    },
@@ -904,7 +904,7 @@
     },
     {
      "tag": "IN",
-     "text": "DET concedes first baskets to opposing forwards at 1.3× league rate (n=46)"
+     "text": "DET concedes first baskets to opposing forwards at 1.3× league rate (n=47)"
     },
     {
      "tag": "WATCH",
@@ -993,10 +993,6 @@
     "team": {
      "makes": [
       [
-       243,
-       384
-      ],
-      [
        24,
        351
       ],
@@ -1031,6 +1027,10 @@
       [
        425,
        216
+      ],
+      [
+       281,
+       418
       ]
      ],
      "misses": [

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T02:30:05Z",
+ "generated": "2026-11-10T02:42:35Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -1800,6 +1800,90 @@
    "pickName": "Fox",
    "pickHit": 0,
    "actualBoardRank": 6
+  },
+  "0022600196": {
+   "date": "2026-11-08",
+   "league": "nba",
+   "matchup": "PHI@CHI",
+   "actualPlayerId": 1630171,
+   "actualName": "I. Okoro",
+   "actualTeam": "CHI",
+   "pickPlayerId": 203954,
+   "pickName": "Embiid",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600197": {
+   "date": "2026-11-08",
+   "league": "nba",
+   "matchup": "LAL@DET",
+   "actualPlayerId": 1630559,
+   "actualName": "A. Reaves",
+   "actualTeam": "LAL",
+   "pickPlayerId": 1629029,
+   "pickName": "Don\u010di\u0107",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600198": {
+   "date": "2026-11-08",
+   "league": "nba",
+   "matchup": "UTA@MIN",
+   "actualPlayerId": 1630163,
+   "actualName": "L. Ball",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1628374,
+   "pickName": "Markkanen",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "0022600199": {
+   "date": "2026-11-08",
+   "league": "nba",
+   "matchup": "BKN@DAL",
+   "actualPlayerId": 1628997,
+   "actualName": "C. Martin",
+   "actualTeam": "DAL",
+   "pickPlayerId": 1629008,
+   "pickName": "Porter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600200": {
+   "date": "2026-11-08",
+   "league": "nba",
+   "matchup": "BOS@MIL",
+   "actualPlayerId": 1643415,
+   "actualName": "B. Burries",
+   "actualTeam": "MIL",
+   "pickPlayerId": 202331,
+   "pickName": "George",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "0022600201": {
+   "date": "2026-11-08",
+   "league": "nba",
+   "matchup": "NOP@LAC",
+   "actualPlayerId": 1630530,
+   "actualName": "T. Murphy III",
+   "actualTeam": "NOP",
+   "pickPlayerId": 1629636,
+   "pickName": "Garland",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "0022600202": {
+   "date": "2026-11-08",
+   "league": "nba",
+   "matchup": "MIA@SAC",
+   "actualPlayerId": 1643411,
+   "actualName": "D. Acuff Jr.",
+   "actualTeam": "SAC",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 0,
+   "actualBoardRank": null
   }
  }
 }

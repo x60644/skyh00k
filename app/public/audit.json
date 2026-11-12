@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T02:30:06Z",
+ "generated": "2026-11-12T00:00:14Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -1980,6 +1980,78 @@
    "pickName": "Murphy III",
    "pickHit": 0,
    "actualBoardRank": 2
+  },
+  "0022600211": {
+   "date": "2026-11-10",
+   "league": "nba",
+   "matchup": "MIL@NYK",
+   "actualPlayerId": 1626167,
+   "actualName": "M. Turner",
+   "actualTeam": "MIL",
+   "pickPlayerId": 1628973,
+   "pickName": "Brunson",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600212": {
+   "date": "2026-11-10",
+   "league": "nba",
+   "matchup": "BOS@PHI",
+   "actualPlayerId": 202331,
+   "actualName": "P. George",
+   "actualTeam": "BOS",
+   "pickPlayerId": 203954,
+   "pickName": "Embiid",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "0022600213": {
+   "date": "2026-11-10",
+   "league": "nba",
+   "matchup": "LAC@PHX",
+   "actualPlayerId": 1642345,
+   "actualName": "O. Ighodaro",
+   "actualTeam": "PHX",
+   "pickPlayerId": 1630224,
+   "pickName": "Green",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600214": {
+   "date": "2026-11-10",
+   "league": "nba",
+   "matchup": "MIA@UTA",
+   "actualPlayerId": 1642846,
+   "actualName": "A. Bailey",
+   "actualTeam": "UTA",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600215": {
+   "date": "2026-11-10",
+   "league": "nba",
+   "matchup": "ORL@SAC",
+   "actualPlayerId": 1643411,
+   "actualName": "D. Acuff Jr.",
+   "actualTeam": "SAC",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600216": {
+   "date": "2026-11-10",
+   "league": "nba",
+   "matchup": "OKC@POR",
+   "actualPlayerId": 203081,
+   "actualName": "D. Lillard",
+   "actualTeam": "POR",
+   "pickPlayerId": 1642270,
+   "pickName": "Clingan",
+   "pickHit": 0,
+   "actualBoardRank": 1
   }
  }
 }

@@ -9,6 +9,13 @@ const fmtET = (iso) => iso
 // Queues a pipeline run in Supabase; the laptop's run_watch task (every
 // ~15 min) picks it up. The button can't run the pipeline itself —
 // stats.nba.com blocks cloud IPs, so the run must happen on the laptop.
+
+// A queued/running request older than this is treated as dead — the laptop
+// was asleep when it was tapped, or a run died before marking itself done.
+// The watcher sweeps leftover pending/running rows on its next awake pass, so
+// the UI just needs to stop showing a stuck QUEUED state and free the button.
+const STALE_MS = 30 * 60 * 1000
+
 export default function RunNow() {
   const [state, setState] = useState('idle')   // idle|queued|running|err
   const [at, setAt] = useState(null)
@@ -20,10 +27,12 @@ export default function RunNow() {
       .in('status', ['pending', 'running'])
       .order('created_at', { ascending: false }).limit(1)
       .then(({ data }) => {
-        if (alive && data && data.length) {
-          setState(data[0].status === 'running' ? 'running' : 'queued')
-          setAt(data[0].created_at)
-        }
+        if (!alive || !data || !data.length) return
+        const row = data[0]
+        const age = Date.now() - new Date(row.created_at).getTime()
+        if (age > STALE_MS) return   // stale -> leave idle so the button frees up
+        setState(row.status === 'running' ? 'running' : 'queued')
+        setAt(row.created_at)
       })
     return () => { alive = false }
   }, [])

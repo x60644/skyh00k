@@ -45,6 +45,7 @@ except ImportError:
 
 CACHE_DIR = "cache"
 OUT_PATH = os.path.join("..", "app", "public", "slate.json")
+DK_PATH = os.path.join("..", "app", "public", "dk.json")
 SLEEP_SECONDS = 0.8
 LEAGUE_IDS = {"nba": "00", "wnba": "10"}
 DEFAULT_SEASONS = {"nba": "2026-27", "wnba": "2026"}
@@ -157,6 +158,29 @@ def get_roster_ids(team_id, season, league):
         return {int(x) for x in df["PLAYER_ID"]} if "PLAYER_ID" in df.columns else set()
     except (OSError, ValueError, KeyError):
         return set()
+
+
+def load_dk_board(date_str):
+    """game_id -> set(int playerId) listed on the manual DK 1st-points snapshot
+    (app/public/dk.json). Books drop scratched players, so a rostered player
+    absent from his game's board is treated as OUT and kept off the model's
+    ranking (the Jarrett Allen case). Returns {} unless the snapshot's date
+    matches the slate — a stale dk.json must never mis-flag a live game. A game
+    with no snapshot is simply absent from the dict, so availability is unknown
+    and the game's players are all kept (fail open)."""
+    try:
+        d = json.load(open(DK_PATH, encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    if str(d.get("date")) != str(date_str):
+        return {}
+    out = {}
+    for gid, prices in (d.get("games") or {}).items():
+        try:
+            out[str(gid)] = {int(pid) for pid in prices}
+        except (ValueError, TypeError):
+            continue
+    return out
 
 
 # ---------------- factor computation ----------------
@@ -476,7 +500,8 @@ def fair_odds(p):
 
 def build_game_card(g, players, team_games, team_tips, league,
                     pos_map, conc_team, conc_league, conc_total, lines,
-                    team_stats=None, team_log=None, h2h=None, roster_ids=None):
+                    team_stats=None, team_log=None, h2h=None, roster_ids=None,
+                    dk_ids=None):
     team_stats = team_stats or {}
     team_log = team_log or {}
     h2h = h2h or {}
@@ -560,7 +585,20 @@ def build_game_card(g, players, team_games, team_tips, league,
     n_h = len(set(team_games.get(h_tri, []))) or 1
     n_a = len(set(team_games.get(a_tri, []))) or 1
     h_rows, a_rows = team_players(h_tri), team_players(a_tri)
-    scored = score_side(h_rows, p_shot_h, n_h) + score_side(a_rows, 1 - p_shot_h, n_a)
+
+    # Availability gate: when a DK first-points snapshot exists for this game,
+    # a current-roster player absent from the board is scratched. Drop him from
+    # the ranking pool so the model's top pick is never an OUT player. If the
+    # filter wipes the board (bad/partial snapshot), fail open so a game is
+    # never blanked. No snapshot (dk_ids is None) -> keep everyone.
+    out_ids = set()
+    if dk_ids is not None:
+        out_ids = {r["personId"] for r in h_rows + a_rows if r["personId"] not in dk_ids}
+    avail = lambda rows: [r for r in rows if r["personId"] not in out_ids]
+    scored = score_side(avail(h_rows), p_shot_h, n_h) + score_side(avail(a_rows), 1 - p_shot_h, n_a)
+    if not scored:
+        out_ids = set()
+        scored = score_side(h_rows, p_shot_h, n_h) + score_side(a_rows, 1 - p_shot_h, n_a)
     if not scored:
         return None
     scored.sort(key=lambda x: x[0], reverse=True)
@@ -587,6 +625,7 @@ def build_game_card(g, players, team_games, team_tips, league,
             "fg": round(100 * r["own_makes"] / r["own_att"]) if r["own_att"] else None,
             "att": int(r["own_att"]), "thin": bool(r["own_att"] < 3),
             "hot": r is top,
+            "out": r["personId"] in out_ids,
             "rank": rank_map.get(r["personId"], (None, None))[0],
             "fairOdds": rank_map.get(r["personId"], (None, None))[1],
         } for r in rows]
@@ -730,11 +769,16 @@ def main():
     if lines:
         print(f"Merged {len(lines)} entered line(s) from Supabase.")
 
+    dk_boards = load_dk_board(date_str)   # game_id -> available playerIds (OUT gate)
+    if dk_boards:
+        print(f"DK snapshot matches {date_str}: gating {len(dk_boards)} game(s) on availability.")
+
     cards = [c for g in todays
              if (c := build_game_card(g, players, team_games, team_tips, league,
                                       pos_map, conc_team, conc_league, conc_total,
                                       lines, team_stats, team_log, h2h,
-                                      roster_ids=roster_ids))]
+                                      roster_ids=roster_ids,
+                                      dk_ids=dk_boards.get(str(g["gameId"]))))]
 
     # carry forward book odds from an earlier same-date build (e.g. odds
     # injected by hand) when no Supabase line replaced them — a rebuild

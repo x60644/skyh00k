@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T02:30:14Z",
+ "generated": "2026-11-13T00:00:23Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -2052,6 +2052,126 @@
    "pickName": "Clingan",
    "pickHit": 0,
    "actualBoardRank": 1
+  },
+  "0022600217": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "WAS@IND",
+   "actualPlayerId": 1626162,
+   "actualName": "K. Oubre Jr.",
+   "actualTeam": "IND",
+   "pickPlayerId": 1627783,
+   "pickName": "Siakam",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600218": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "CLE@NYK",
+   "actualPlayerId": 1628973,
+   "actualName": "J. Brunson",
+   "actualTeam": "NYK",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": 1
+  },
+  "0022600219": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "BOS@TOR",
+   "actualPlayerId": 1628401,
+   "actualName": "D. White",
+   "actualTeam": "BOS",
+   "pickPlayerId": 1630567,
+   "pickName": "Barnes",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "0022600220": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "SAS@CHI",
+   "actualPlayerId": 1628368,
+   "actualName": "D. Fox",
+   "actualTeam": "SAS",
+   "pickPlayerId": 1641705,
+   "pickName": "Wembanyama",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "0022600221": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "DEN@MEM",
+   "actualPlayerId": 1631128,
+   "actualName": "C. Braun",
+   "actualTeam": "DEN",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600222": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "LAL@MIL",
+   "actualPlayerId": 1629639,
+   "actualName": "T. Herro",
+   "actualTeam": "MIL",
+   "pickPlayerId": 1629029,
+   "pickName": "Don\u010di\u0107",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600223": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "BKN@NOP",
+   "actualPlayerId": 1629627,
+   "actualName": "Z. Williamson",
+   "actualTeam": "NOP",
+   "pickPlayerId": 1629008,
+   "pickName": "Porter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 7
+  },
+  "0022600224": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "ORL@UTA",
+   "actualPlayerId": 1641718,
+   "actualName": "K. George",
+   "actualTeam": "UTA",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 7
+  },
+  "0022600225": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "GSW@HOU",
+   "actualPlayerId": 1631095,
+   "actualName": "J. Smith Jr.",
+   "actualTeam": "HOU",
+   "pickPlayerId": 1641764,
+   "pickName": "Podziemski",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "0022600226": {
+   "date": "2026-11-11",
+   "league": "nba",
+   "matchup": "OKC@POR",
+   "actualPlayerId": 1643530,
+   "actualName": "A. Mara",
+   "actualTeam": "OKC",
+   "pickPlayerId": 1630166,
+   "pickName": "Avdija",
+   "pickHit": 0,
+   "actualBoardRank": null
   }
  }
 }

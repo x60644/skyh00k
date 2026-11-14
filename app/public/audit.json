@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T02:30:06Z",
+ "generated": "2026-11-14T00:00:22Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -2172,6 +2172,54 @@
    "pickName": "Avdija",
    "pickHit": 0,
    "actualBoardRank": null
+  },
+  "0022600227": {
+   "date": "2026-11-12",
+   "league": "nba",
+   "matchup": "TOR@PHI",
+   "actualPlayerId": 1627751,
+   "actualName": "J. Poeltl",
+   "actualTeam": "TOR",
+   "pickPlayerId": 1642266,
+   "pickName": "Walter",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600228": {
+   "date": "2026-11-12",
+   "league": "nba",
+   "matchup": "DET@WAS",
+   "actualPlayerId": 1642450,
+   "actualName": "D. Jenkins",
+   "actualTeam": "DET",
+   "pickPlayerId": 1628381,
+   "pickName": "Collins",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600229": {
+   "date": "2026-11-12",
+   "league": "nba",
+   "matchup": "DAL@MIN",
+   "actualPlayerId": 1630228,
+   "actualName": "J. Kuminga",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1642843,
+   "pickName": "Flagg",
+   "pickHit": 0,
+   "actualBoardRank": 1
+  },
+  "0022600230": {
+   "date": "2026-11-12",
+   "league": "nba",
+   "matchup": "CHA@PHX",
+   "actualPlayerId": 1630224,
+   "actualName": "J. Green",
+   "actualTeam": "PHX",
+   "pickPlayerId": 1630224,
+   "pickName": "Green",
+   "pickHit": 1,
+   "actualBoardRank": 2
   }
  }
 }

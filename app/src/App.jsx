@@ -4,6 +4,7 @@ import SummaryBar from './components/SummaryBar.jsx'
 import LogTab from './components/LogTab.jsx'
 import ModelTab from './components/ModelTab.jsx'
 import ModelExplainer from './components/ModelExplainer.jsx'
+import UpdatesTab from './components/UpdatesTab.jsx'
 import RunNow from './components/RunNow.jsx'
 
 const fmtET = (iso) => iso
@@ -89,7 +90,7 @@ export default function App() {
       </header>
       <div className="topdock">
       <nav className="tabs" role="tablist" aria-label="View">
-        {[['slate', 'SLATE'], ['log', 'LOG'], ['audit', 'AUDIT'], ['model', 'MODEL']].map(([key, label]) => (
+        {[['slate', 'SLATE'], ['log', 'LOG'], ['audit', 'AUDIT'], ['model', 'MODEL'], ['updates', 'UPDATES']].map(([key, label]) => (
           <button key={key} role="tab" aria-selected={tab === key}
             className={'tab' + (tab === key ? ' on' : '')}
             onClick={() => setTab(key)}>
@@ -126,6 +127,7 @@ export default function App() {
       {tab === 'log' && <LogTab league={league} />}
       {tab === 'audit' && <ModelTab league={league} />}
       {tab === 'model' && <ModelExplainer league={league} slate={live} />}
+      {tab === 'updates' && <UpdatesTab />}
       <footer className="appfoot">
         {APP_VERSION}{isLive ? ` · live slate generated ${live.generated.slice(0, 16)}Z` : ' · demo data'}
       </footer>

@@ -6,7 +6,11 @@ REM runs the full daily loop. Silent and cheap when there's nothing to do.
 set REPO=C:\Users\wangm\OneDrive\Documents\GitHub\skyh00k
 cd /d "%REPO%" || exit /b 1
 
-if exist data\supabase.env for /f "usebackq tokens=1,* delims==" %%a in ("data\supabase.env") do set %%a=%%b
+if exist data\supabase.env (
+  for /f "usebackq tokens=1,* delims==" %%a in ("data\supabase.env") do set %%a=%%b
+) else (
+  echo %date% %time% WARN: data\supabase.env missing - RUN NOW button cannot be processed ^(see data\supabase.env.example^) >> data\task_log.txt
+)
 
 python data\check_run_requests.py >nul 2>&1
 if %errorlevel% EQU 3 (

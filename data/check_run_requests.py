@@ -53,9 +53,26 @@ def rest(url, key, method, path, body=None):
         return json.loads(r.read().decode() or "[]")
 
 
+# A pending request older than this is abandoned (the laptop was asleep when
+# it was tapped) — retire it instead of firing a surprise pipeline run hours
+# or days later. Mirrors the app's own stale-request handling.
+STALE_MINUTES = 60
+
+
+def parse_ts(s):
+    try:
+        return dt.datetime.fromisoformat(s)
+    except (ValueError, TypeError):
+        return None
+
+
 def main():
     url, key = load_creds()
     if not (url and key):
+        # loud on purpose — a missing data/supabase.env is why the RUN NOW
+        # button silently never gets picked up (run_watch redirects us to nul,
+        # so it also checks for the file and logs the warning itself).
+        print("check_run_requests: no Supabase creds (data/supabase.env missing)")
         return 0
     try:
         if "--complete" in sys.argv:
@@ -63,17 +80,32 @@ def main():
                  {"status": "done"})
             return 0
         pending = rest(url, key, "GET",
-                       "run_requests?status=eq.pending&select=id&limit=1")
+                       "run_requests?status=eq.pending&select=id,created_at"
+                       "&order=created_at.asc")
         if not pending:
             return 0
-        now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-        rest(url, key, "PATCH", "run_requests?status=eq.pending",
-             {"status": "running", "picked_up_at": now})
-        print(f"run request claimed at {now}")
+        now = dt.datetime.now(dt.timezone.utc)
+        fresh, stale = [], []
+        for r in pending:
+            ts = parse_ts(r.get("created_at", ""))
+            age_min = (now - ts).total_seconds() / 60 if ts else 1e9
+            (stale if age_min > STALE_MINUTES else fresh).append(r["id"])
+        if stale:
+            ids = ",".join(str(i) for i in stale)
+            rest(url, key, "PATCH", f"run_requests?id=in.({ids})",
+                 {"status": "done"})
+            print(f"retired {len(stale)} stale run request(s)")
+        if not fresh:
+            return 0
+        ids = ",".join(str(i) for i in fresh)
+        stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+        rest(url, key, "PATCH", f"run_requests?id=in.({ids})",
+             {"status": "running", "picked_up_at": stamp})
+        print(f"claimed {len(fresh)} run request(s) at {stamp}")
         return 3
     except Exception as e:
         # never block the scheduler on a network hiccup
-        print(f"check_run_requests: skipped ({e.__class__.__name__})")
+        print(f"check_run_requests: skipped ({e.__class__.__name__}: {e})")
         return 0
 
 

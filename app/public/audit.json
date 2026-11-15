@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T02:30:09Z",
+ "generated": "2026-11-15T00:00:24Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -2220,6 +2220,114 @@
    "pickName": "Green",
    "pickHit": 1,
    "actualBoardRank": 2
+  },
+  "0022600034": {
+   "date": "2026-11-13",
+   "league": "nba",
+   "matchup": "NYK@IND",
+   "actualPlayerId": 1629614,
+   "actualName": "A. Nembhard",
+   "actualTeam": "IND",
+   "pickPlayerId": 1628973,
+   "pickName": "Brunson",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600035": {
+   "date": "2026-11-13",
+   "league": "nba",
+   "matchup": "MIL@ORL",
+   "actualPlayerId": 1630532,
+   "actualName": "F. Wagner",
+   "actualTeam": "ORL",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600036": {
+   "date": "2026-11-13",
+   "league": "nba",
+   "matchup": "CLE@MIA",
+   "actualPlayerId": 203507,
+   "actualName": "G. Antetokounmpo",
+   "actualTeam": "MIA",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600037": {
+   "date": "2026-11-13",
+   "league": "nba",
+   "matchup": "ATL@CHI",
+   "actualPlayerId": 1630552,
+   "actualName": "J. Johnson",
+   "actualTeam": "ATL",
+   "pickPlayerId": 1643412,
+   "pickName": "Flemings",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600038": {
+   "date": "2026-11-13",
+   "league": "nba",
+   "matchup": "MEM@NOP",
+   "actualPlayerId": 1629627,
+   "actualName": "Z. Williamson",
+   "actualTeam": "NOP",
+   "pickPlayerId": 1630530,
+   "pickName": "Murphy III",
+   "pickHit": 0,
+   "actualBoardRank": 1
+  },
+  "0022600039": {
+   "date": "2026-11-13",
+   "league": "nba",
+   "matchup": "UTA@HOU",
+   "actualPlayerId": 1629006,
+   "actualName": "J. Okogie",
+   "actualTeam": "UTA",
+   "pickPlayerId": 1642846,
+   "pickName": "Bailey",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600040": {
+   "date": "2026-11-13",
+   "league": "nba",
+   "matchup": "GSW@SAS",
+   "actualPlayerId": 1642264,
+   "actualName": "S. Castle",
+   "actualTeam": "SAS",
+   "pickPlayerId": 1628368,
+   "pickName": "Fox",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600041": {
+   "date": "2026-11-13",
+   "league": "nba",
+   "matchup": "POR@SAC",
+   "actualPlayerId": 1631321,
+   "actualName": "S. Cissoko",
+   "actualTeam": "POR",
+   "pickPlayerId": 203897,
+   "pickName": "LaVine",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600042": {
+   "date": "2026-11-13",
+   "league": "nba",
+   "matchup": "OKC@LAC",
+   "actualPlayerId": 1629636,
+   "actualName": "D. Garland",
+   "actualTeam": "LAC",
+   "pickPlayerId": 1627884,
+   "pickName": "Jones Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 3
   }
  }
 }

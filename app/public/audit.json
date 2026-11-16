@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T02:30:16Z",
+ "generated": "2026-11-16T00:00:19Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -2328,6 +2328,66 @@
    "pickName": "Jones Jr.",
    "pickHit": 0,
    "actualBoardRank": 3
+  },
+  "0022600231": {
+   "date": "2026-11-14",
+   "league": "nba",
+   "matchup": "DEN@NOP",
+   "actualPlayerId": 1642847,
+   "actualName": "J. Fears",
+   "actualTeam": "NOP",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600232": {
+   "date": "2026-11-14",
+   "league": "nba",
+   "matchup": "DAL@CLE",
+   "actualPlayerId": 1643509,
+   "actualName": "M. Thomas",
+   "actualTeam": "CLE",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600233": {
+   "date": "2026-11-14",
+   "league": "nba",
+   "matchup": "DET@MIA",
+   "actualPlayerId": 1641709,
+   "actualName": "A. Thompson",
+   "actualTeam": "DET",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 0,
+   "actualBoardRank": 6
+  },
+  "0022600234": {
+   "date": "2026-11-14",
+   "league": "nba",
+   "matchup": "BKN@MEM",
+   "actualPlayerId": 203944,
+   "actualName": "J. Randle",
+   "actualTeam": "BKN",
+   "pickPlayerId": 1629008,
+   "pickName": "Porter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 7
+  },
+  "0022600235": {
+   "date": "2026-11-14",
+   "league": "nba",
+   "matchup": "CHI@MIN",
+   "actualPlayerId": 1630163,
+   "actualName": "L. Ball",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1630228,
+   "pickName": "Kuminga",
+   "pickHit": 0,
+   "actualBoardRank": null
   }
  }
 }

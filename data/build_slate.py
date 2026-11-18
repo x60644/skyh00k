@@ -474,7 +474,9 @@ def verdict_for(fair_str, book_str):
 def today_games(league, date_str):
     sb = with_retry("schedule", lambda: scoreboardv2.ScoreboardV2(
         game_date=date_str, league_id=LEAGUE_IDS[league], timeout=TIMEOUT))
-    hdr = sb.game_header.get_data_frame()
+    # ScoreboardV2's GameHeader result set intermittently repeats a game's row,
+    # which would emit the same card twice — dedupe on GAME_ID at the source.
+    hdr = sb.game_header.get_data_frame().drop_duplicates(subset="GAME_ID")
     lines = sb.line_score.get_data_frame()
     games = []
     for _, g in hdr.iterrows():
@@ -779,6 +781,17 @@ def main():
                                       lines, team_stats, team_log, h2h,
                                       roster_ids=roster_ids,
                                       dk_ids=dk_boards.get(str(g["gameId"]))))]
+
+    # guard: never write the same game twice (keeps the SLATE board and the
+    # archive the audit grades off one-card-per-game, even if the schedule
+    # feed hands us a duplicate)
+    seen, deduped = set(), []
+    for c in cards:
+        if c["id"] in seen:
+            continue
+        seen.add(c["id"])
+        deduped.append(c)
+    cards = deduped
 
     # carry forward book odds from an earlier same-date build (e.g. odds
     # injected by hand) when no Supabase line replaced them — a rebuild

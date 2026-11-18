@@ -57,7 +57,13 @@ export default function App() {
     return { ...g, topPick: { ...g.topPick, bookOdds: latest.odds } }
   }
 
-  const liveGames = live && live.games.filter((g) => g.league === league).map(merge)
+  // dedupe by game id — a schedule-feed hiccup can double a game in slate.json,
+  // which would render the card (and its summary chip) twice
+  const seenIds = new Set()
+  const liveGames = live && live.games
+    .filter((g) => g.league === league &&
+      !seenIds.has(g.id) && seenIds.add(g.id))
+    .map(merge)
   const isLive = !!(liveGames && liveGames.length > 0)
   const games = isLive ? liveGames : demoSlate.filter((g) => g.league === league)
 

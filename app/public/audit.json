@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T02:30:06Z",
+ "generated": "2026-11-18T00:00:23Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -2496,6 +2496,102 @@
    "pickName": "LaVine",
    "pickHit": 0,
    "actualBoardRank": 6
+  },
+  "0022600245": {
+   "date": "2026-11-16",
+   "league": "nba",
+   "matchup": "ORL@BOS",
+   "actualPlayerId": 202331,
+   "actualName": "P. George",
+   "actualTeam": "BOS",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 1
+  },
+  "0022600246": {
+   "date": "2026-11-16",
+   "league": "nba",
+   "matchup": "CHI@CLE",
+   "actualPlayerId": 1628378,
+   "actualName": "D. Mitchell",
+   "actualTeam": "CLE",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": 7
+  },
+  "0022600247": {
+   "date": "2026-11-16",
+   "league": "nba",
+   "matchup": "MEM@WAS",
+   "actualPlayerId": 1641744,
+   "actualName": "Z. Edey",
+   "actualTeam": "MEM",
+   "pickPlayerId": 1641744,
+   "pickName": "Edey",
+   "pickHit": 1,
+   "actualBoardRank": 6
+  },
+  "0022600248": {
+   "date": "2026-11-16",
+   "league": "nba",
+   "matchup": "PHI@BKN",
+   "actualPlayerId": 1630178,
+   "actualName": "T. Maxey",
+   "actualTeam": "PHI",
+   "pickPlayerId": 1630178,
+   "pickName": "Maxey",
+   "pickHit": 1,
+   "actualBoardRank": 2
+  },
+  "0022600249": {
+   "date": "2026-11-16",
+   "league": "nba",
+   "matchup": "HOU@MIA",
+   "actualPlayerId": 1628389,
+   "actualName": "B. Adebayo",
+   "actualTeam": "MIA",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "0022600250": {
+   "date": "2026-11-16",
+   "league": "nba",
+   "matchup": "POR@MIN",
+   "actualPlayerId": 1630183,
+   "actualName": "J. McDaniels",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1630228,
+   "pickName": "Kuminga",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600251": {
+   "date": "2026-11-16",
+   "league": "nba",
+   "matchup": "GSW@NOP",
+   "actualPlayerId": 1642847,
+   "actualName": "J. Fears",
+   "actualTeam": "NOP",
+   "pickPlayerId": 1629627,
+   "pickName": "Williamson",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600252": {
+   "date": "2026-11-16",
+   "league": "nba",
+   "matchup": "PHX@DEN",
+   "actualPlayerId": 1628970,
+   "actualName": "M. Bridges",
+   "actualTeam": "PHX",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
+   "pickHit": 0,
+   "actualBoardRank": null
   }
  }
 }

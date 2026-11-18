@@ -8,6 +8,20 @@
 // date: 'YYYY-MM-DD', or 'next' for not-yet-shipped work.
 export const MODEL_UPDATES = [
   {
+    date: '2026-11-17', tag: 'CALIBRATION', version: 'v0.14.0',
+    title: 'Audit-calibrated fair odds',
+    detail: 'Fair odds are no longer read straight off the raw formula, which ' +
+      'under-summed per game and ran far too long — a clear favorite priced ' +
+      '+1200 when the book had +450. Each player’s board rank is now ' +
+      'mapped to how often the actual first scorer has historically landed at ' +
+      'that rank (86 graded games since the roster fix), smoothed to a ' +
+      'monotone curve. Ranking is unchanged; the modeled board now sums to the ' +
+      '~73% empirical on-board coverage, with the rest as the off-board field.',
+    result: 'Top-pick fair odds now land near the DK line (Garland +473 vs DK ' +
+      '+464). Recomputed nightly as more picks grade. Still flat on favorite ' +
+      'strength — the model can rank a favorite but not yet size one.',
+  },
+  {
     date: '2026-11-13', tag: 'FIX', version: 'v0.13.0',
     title: 'Model stops picking OUT players',
     detail: 'The availability guard moved from the card display into the ' +

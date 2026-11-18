@@ -43,9 +43,12 @@ try:
 except ImportError:
     sys.exit("Missing dependency. Run:  pip install nba_api pandas")
 
+from calibration import load_calibration, calibrated_prob
+
 CACHE_DIR = "cache"
 OUT_PATH = os.path.join("..", "app", "public", "slate.json")
 DK_PATH = os.path.join("..", "app", "public", "dk.json")
+CAL_PATH = "calibration.json"   # audit-derived rank -> fair-odds table (data/)
 SLEEP_SECONDS = 0.8
 LEAGUE_IDS = {"nba": "00", "wnba": "10"}
 DEFAULT_SEASONS = {"nba": "2026-27", "wnba": "2026"}
@@ -503,7 +506,7 @@ def fair_odds(p):
 def build_game_card(g, players, team_games, team_tips, league,
                     pos_map, conc_team, conc_league, conc_total, lines,
                     team_stats=None, team_log=None, h2h=None, roster_ids=None,
-                    dk_ids=None):
+                    dk_ids=None, calib=None):
     team_stats = team_stats or {}
     team_log = team_log or {}
     h2h = h2h or {}
@@ -610,7 +613,12 @@ def build_game_card(g, players, team_games, team_tips, league,
     # Per-player model odds + overall rank (across both teams), from this same
     # scored list — so the SLATE card can swap to any roster player the user
     # taps without ever recomputing the (frozen) formula client-side.
-    rank_map = {r["personId"]: (i + 1, fair_odds(p))
+    # fair_for uses the audit-calibrated prob for the player's rank when a
+    # calibration table is available, else the raw formula probability.
+    def fair_for(rank, p):
+        cp = calibrated_prob(rank, calib)
+        return fair_odds(cp if cp else p)
+    rank_map = {r["personId"]: (i + 1, fair_for(i + 1, p))
                 for i, (p, r) in enumerate(scored)}
 
     def pos_of(r):
@@ -697,7 +705,7 @@ def build_game_card(g, players, team_games, team_tips, league,
         if str(ln.get("game_id")) == str(g["gameId"]) and \
            int(ln.get("player_id") or -1) == (top["personId"] or -2):
             book = ln.get("odds")
-    fair = fair_odds(p_top)
+    fair = fair_for(1, p_top)
     if book:
         verdict = verdict_for(fair, book)
 
@@ -775,12 +783,20 @@ def main():
     if dk_boards:
         print(f"DK snapshot matches {date_str}: gating {len(dk_boards)} game(s) on availability.")
 
+    calib = load_calibration(CAL_PATH, league)   # audit-calibrated fair odds by rank
+    if calib:
+        print(f"Calibration loaded: rank-1 fair = {fair_odds(calib[1])} "
+              f"(coverage {round(100 * sum(calib.values()))}%).")
+    else:
+        print("No calibration table — using raw formula fair odds.")
+
     cards = [c for g in todays
              if (c := build_game_card(g, players, team_games, team_tips, league,
                                       pos_map, conc_team, conc_league, conc_total,
                                       lines, team_stats, team_log, h2h,
                                       roster_ids=roster_ids,
-                                      dk_ids=dk_boards.get(str(g["gameId"]))))]
+                                      dk_ids=dk_boards.get(str(g["gameId"])),
+                                      calib=calib))]
 
     # guard: never write the same game twice (keeps the SLATE board and the
     # archive the audit grades off one-card-per-game, even if the schedule

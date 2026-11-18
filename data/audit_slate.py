@@ -224,6 +224,16 @@ def main():
         print("=" * 52)
         print("Judge nothing before ~50 picks — variance owns small samples.")
         publish_audit_json(log)
+        # refresh the rank -> fair-odds calibration off the freshly graded log
+        # (build_slate reads data/calibration.json on its next run tonight)
+        try:
+            from calibration import build_calibration
+            tbl = build_calibration(LOG_PATH, "calibration.json")
+            for lg, t in tbl.items():
+                print(f"  calibration[{lg}]: n={t['n']} rank-1 "
+                      f"{t['ranks']['1'] * 100:.1f}% coverage {t['coverage'] * 100:.0f}%")
+        except Exception as e:
+            print(f"  calibration skipped ({e.__class__.__name__}: {e})")
 
 
 if __name__ == "__main__":

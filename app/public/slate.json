@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T03:22:30Z",
+ "generated": "2026-11-18T03:47:03Z",
  "date": "2026-11-17",
  "league": "nba",
  "games": [
@@ -20,7 +20,7 @@
    "tip": {
     "homePlayer": "Poeltl",
     "awayPlayer": "Towns",
-    "homeWinPct": 50
+    "homeWinPct": 51
    },
    "topPick": {
     "playerId": 1628973,
@@ -28,39 +28,39 @@
     "pos": "G",
     "side": "away",
     "bookOdds": null,
-    "fairOdds": "+577",
+    "fairOdds": "+473",
     "rank": 1,
     "share": 40,
     "verdict": null,
-    "why": "NYK controls the jump 50% here and scores the game's first point in 60% of its games; Brunson takes 40% of its opening shots and makes 46% of his own first look."
+    "why": "NYK controls the jump 49% here and scores the game's first point in 60% of its games; Brunson takes 40% of its opening shots and makes 45% of his own first look."
    },
    "rosters": {
     "home": [
+     {
+      "playerId": 1630567,
+      "name": "Barnes",
+      "pos": "F-G",
+      "share": 30,
+      "fg": 51,
+      "att": 88,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 2,
+      "fairOdds": "+719"
+     },
      {
       "playerId": 1642266,
       "name": "Walter",
       "pos": "G",
       "share": 30,
-      "fg": 40,
-      "att": 60,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 2,
-      "fairOdds": "+1259"
-     },
-     {
-      "playerId": 1630567,
-      "name": "Barnes",
-      "pos": "F-G",
-      "share": 20,
-      "fg": 52,
-      "att": 87,
+      "fg": 41,
+      "att": 61,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 3,
-      "fairOdds": "+1435"
+      "fairOdds": "+719"
      },
      {
       "playerId": 1629628,
@@ -68,12 +68,12 @@
       "pos": "F-G",
       "share": 0,
       "fg": 46,
-      "att": 69,
+      "att": 70,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 7,
-      "fairOdds": "+6233"
+      "fairOdds": "+1621"
      },
      {
       "playerId": 1627751,
@@ -81,25 +81,25 @@
       "pos": "C",
       "share": 0,
       "fg": 67,
-      "att": 45,
+      "att": 46,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 9,
-      "fairOdds": "+9400"
+      "rank": 10,
+      "fairOdds": "+2765"
      },
      {
       "playerId": 1630193,
       "name": "Quickley",
       "pos": "G",
       "share": 0,
-      "fg": 53,
-      "att": 79,
+      "fg": 54,
+      "att": 80,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 8,
-      "fairOdds": "+6233"
+      "fairOdds": "+2765"
      }
     ],
     "away": [
@@ -108,13 +108,13 @@
       "name": "Brunson",
       "pos": "G",
       "share": 40,
-      "fg": 46,
-      "att": 87,
+      "fg": 45,
+      "att": 88,
       "thin": false,
       "hot": true,
       "out": false,
       "rank": 1,
-      "fairOdds": "+577"
+      "fairOdds": "+473"
      },
      {
       "playerId": 1626157,
@@ -122,12 +122,12 @@
       "pos": "C-F",
       "share": 10,
       "fg": 45,
-      "att": 83,
+      "att": 84,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 4,
-      "fairOdds": "+1759"
+      "fairOdds": "+1333"
      },
      {
       "playerId": 1628384,
@@ -135,12 +135,12 @@
       "pos": "F-G",
       "share": 10,
       "fg": 49,
-      "att": 78,
+      "att": 79,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 5,
-      "fairOdds": "+2273"
+      "fairOdds": "+1621"
      },
      {
       "playerId": 1628969,
@@ -148,12 +148,12 @@
       "pos": "G-F",
       "share": 0,
       "fg": 58,
-      "att": 92,
+      "att": 93,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
-      "fairOdds": "+9400"
+      "rank": 9,
+      "fairOdds": "+2765"
      },
      {
       "playerId": 1628404,
@@ -161,26 +161,26 @@
       "pos": "G",
       "share": 0,
       "fg": 33,
-      "att": 69,
+      "att": 70,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 6,
-      "fairOdds": "+4650"
+      "fairOdds": "+1621"
      }
     ]
    },
    "profile": {
     "home": {
      "tri": "TOR",
-     "games": 95,
+     "games": 96,
      "jumper": "Poeltl",
      "jumperTipPct": 63,
      "jumperTips": 52,
-     "teamTipPct": 49,
+     "teamTipPct": 50,
      "firstShotPct": 52,
-     "firstScorePct": 51,
-     "firstAttFgPct": 52,
+     "firstScorePct": 50,
+     "firstAttFgPct": 51,
      "fgaToFirstFg": 2.0,
      "h2h": {
       "w": 2,
@@ -189,14 +189,14 @@
     },
     "away": {
      "tri": "NYK",
-     "games": 95,
+     "games": 96,
      "jumper": "Towns",
-     "jumperTipPct": 43,
-     "jumperTips": 72,
-     "teamTipPct": 49,
-     "firstShotPct": 55,
+     "jumperTipPct": 42,
+     "jumperTips": 73,
+     "teamTipPct": 48,
+     "firstShotPct": 54,
      "firstScorePct": 60,
-     "firstAttFgPct": 46,
+     "firstAttFgPct": 47,
      "fgaToFirstFg": 2.1,
      "h2h": {
       "w": 1,
@@ -206,6 +206,14 @@
    },
    "last10": {
     "home": [
+     {
+      "date": "2026-11-17",
+      "opp": "NYK",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Bridges",
+      "fbUs": false
+     },
      {
       "date": "2026-11-15",
       "opp": "NYK",
@@ -277,17 +285,17 @@
       "firstShotUs": true,
       "fb": "Gobert",
       "fbUs": false
-     },
-     {
-      "date": "2026-10-23",
-      "opp": "WAS",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Barrett",
-      "fbUs": true
      }
     ],
     "away": [
+     {
+      "date": "2026-11-17",
+      "opp": "TOR",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Bridges",
+      "fbUs": true
+     },
      {
       "date": "2026-11-15",
       "opp": "TOR",
@@ -359,14 +367,6 @@
       "firstShotUs": false,
       "fb": "Brunson",
       "fbUs": true
-     },
-     {
-      "date": "2026-11-13",
-      "opp": "IND",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Nembhard",
-      "fbUs": false
      }
     ]
    },
@@ -377,7 +377,7 @@
     },
     {
      "tag": "IN",
-     "text": "TOR wins parsed opening tips at 49%, NYK at 49%"
+     "text": "TOR wins parsed opening tips at 50%, NYK at 48%"
     },
     {
      "tag": "WATCH",
@@ -485,10 +485,6 @@
      "makes": [
       [
        246,
-       403
-      ],
-      [
-       246,
        254
       ],
       [
@@ -522,17 +518,13 @@
       [
        180,
        301
+      ],
+      [
+       252,
+       299
       ]
      ],
      "misses": [
-      [
-       313,
-       239
-      ],
-      [
-       168,
-       148
-      ],
       [
        250,
        407
@@ -568,7 +560,7 @@
   {
    "id": "0022600254",
    "league": "nba",
-   "tipEt": "3rd Qtr             ",
+   "tipEt": "4th Qtr             ",
    "home": {
     "tri": "MIN",
     "name": "Minnesota Timberwolves",
@@ -590,7 +582,7 @@
     "pos": "F",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+1367",
+    "fairOdds": "+473",
     "rank": 1,
     "share": 20,
     "verdict": null,
@@ -609,7 +601,7 @@
       "hot": false,
       "out": false,
       "rank": 2,
-      "fairOdds": "+1534"
+      "fairOdds": "+719"
      },
      {
       "playerId": 1630183,
@@ -622,7 +614,7 @@
       "hot": true,
       "out": false,
       "rank": 1,
-      "fairOdds": "+1367"
+      "fairOdds": "+473"
      },
      {
       "playerId": 1630163,
@@ -635,7 +627,7 @@
       "hot": false,
       "out": false,
       "rank": 6,
-      "fairOdds": "+2865"
+      "fairOdds": "+1621"
      },
      {
       "playerId": 1628978,
@@ -648,7 +640,7 @@
       "hot": false,
       "out": false,
       "rank": 8,
-      "fairOdds": "+3740"
+      "fairOdds": "+2765"
      },
      {
       "playerId": 1630162,
@@ -661,7 +653,7 @@
       "hot": false,
       "out": false,
       "rank": 5,
-      "fairOdds": "+2643"
+      "fairOdds": "+1621"
      }
     ],
     "away": [
@@ -676,7 +668,7 @@
       "hot": false,
       "out": false,
       "rank": 4,
-      "fairOdds": "+2124"
+      "fairOdds": "+1333"
      },
      {
       "playerId": 1641739,
@@ -689,7 +681,7 @@
       "hot": false,
       "out": false,
       "rank": 7,
-      "fairOdds": "+3370"
+      "fairOdds": "+1621"
      },
      {
       "playerId": 1630166,
@@ -702,7 +694,7 @@
       "hot": false,
       "out": false,
       "rank": 3,
-      "fairOdds": "+1893"
+      "fairOdds": "+719"
      },
      {
       "playerId": 201950,
@@ -715,7 +707,7 @@
       "hot": false,
       "out": false,
       "rank": 10,
-      "fairOdds": "+9400"
+      "fairOdds": "+2765"
      },
      {
       "playerId": 1642270,
@@ -728,7 +720,7 @@
       "hot": false,
       "out": false,
       "rank": 9,
-      "fairOdds": "+4650"
+      "fairOdds": "+2765"
      }
     ]
    },
@@ -1152,7 +1144,7 @@
   {
    "id": "0022600255",
    "league": "nba",
-   "tipEt": "End of 3rd Qtr      ",
+   "tipEt": "4th Qtr             ",
    "home": {
     "tri": "SAS",
     "name": "San Antonio Spurs",
@@ -1174,7 +1166,7 @@
     "pos": "F-C",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+889",
+    "fairOdds": "+473",
     "rank": 1,
     "share": 20,
     "verdict": null,
@@ -1193,7 +1185,7 @@
       "hot": true,
       "out": false,
       "rank": 1,
-      "fairOdds": "+889"
+      "fairOdds": "+473"
      },
      {
       "playerId": 1628368,
@@ -1206,7 +1198,7 @@
       "hot": false,
       "out": false,
       "rank": 2,
-      "fairOdds": "+920"
+      "fairOdds": "+719"
      },
      {
       "playerId": 1630170,
@@ -1219,7 +1211,7 @@
       "hot": false,
       "out": false,
       "rank": 3,
-      "fairOdds": "+1121"
+      "fairOdds": "+719"
      },
      {
       "playerId": 1642264,
@@ -1232,7 +1224,7 @@
       "hot": false,
       "out": false,
       "rank": 4,
-      "fairOdds": "+1236"
+      "fairOdds": "+1333"
      },
      {
       "playerId": 1630577,
@@ -1245,7 +1237,7 @@
       "hot": false,
       "out": false,
       "rank": 10,
-      "fairOdds": "+19100"
+      "fairOdds": "+2765"
      }
     ],
     "away": [
@@ -1260,7 +1252,7 @@
       "hot": false,
       "out": false,
       "rank": 5,
-      "fairOdds": "+1517"
+      "fairOdds": "+1621"
      },
      {
       "playerId": 1630595,
@@ -1273,7 +1265,7 @@
       "hot": false,
       "out": false,
       "rank": 7,
-      "fairOdds": "+3224"
+      "fairOdds": "+1621"
      },
      {
       "playerId": 1629130,
@@ -1286,7 +1278,7 @@
       "hot": false,
       "out": false,
       "rank": 6,
-      "fairOdds": "+2604"
+      "fairOdds": "+1621"
      },
      {
       "playerId": 1642450,
@@ -1299,7 +1291,7 @@
       "hot": false,
       "out": false,
       "rank": 9,
-      "fairOdds": "+4528"
+      "fairOdds": "+2765"
      },
      {
       "playerId": 1628381,
@@ -1312,7 +1304,7 @@
       "hot": false,
       "out": false,
       "rank": 8,
-      "fairOdds": "+3313"
+      "fairOdds": "+2765"
      }
     ]
    },
@@ -1726,7 +1718,7 @@
     "pos": "G",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+1497",
+    "fairOdds": "+473",
     "rank": 1,
     "share": 20,
     "verdict": null,
@@ -1745,7 +1737,7 @@
       "hot": true,
       "out": false,
       "rank": 1,
-      "fairOdds": "+1497"
+      "fairOdds": "+473"
      },
      {
       "playerId": 1627884,
@@ -1758,7 +1750,7 @@
       "hot": false,
       "out": false,
       "rank": 2,
-      "fairOdds": "+1712"
+      "fairOdds": "+719"
      },
      {
       "playerId": 1642920,
@@ -1797,7 +1789,7 @@
       "hot": false,
       "out": false,
       "rank": 4,
-      "fairOdds": "+4028"
+      "fairOdds": "+1333"
      }
     ],
     "away": [
@@ -1812,7 +1804,7 @@
       "hot": false,
       "out": false,
       "rank": 3,
-      "fairOdds": "+2019"
+      "fairOdds": "+719"
      },
      {
       "playerId": 1628374,
@@ -1851,7 +1843,7 @@
       "hot": false,
       "out": false,
       "rank": 5,
-      "fairOdds": "+4700"
+      "fairOdds": "+1621"
      },
      {
       "playerId": 203994,
@@ -2320,7 +2312,7 @@
     "pos": "F-G",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+1226",
+    "fairOdds": "+473",
     "rank": 1,
     "share": 30,
     "verdict": null,
@@ -2339,7 +2331,7 @@
       "hot": true,
       "out": false,
       "rank": 1,
-      "fairOdds": "+1226"
+      "fairOdds": "+473"
      },
      {
       "playerId": 1630559,
@@ -2378,7 +2370,7 @@
       "hot": false,
       "out": false,
       "rank": 3,
-      "fairOdds": "+3308"
+      "fairOdds": "+719"
      },
      {
       "playerId": 1631117,
@@ -2406,7 +2398,7 @@
       "hot": false,
       "out": false,
       "rank": 2,
-      "fairOdds": "+2109"
+      "fairOdds": "+719"
      },
      {
       "playerId": 1629675,
@@ -2419,7 +2411,7 @@
       "hot": false,
       "out": false,
       "rank": 4,
-      "fairOdds": "+4093"
+      "fairOdds": "+1333"
      },
      {
       "playerId": 1628960,
@@ -2445,7 +2437,7 @@
       "hot": false,
       "out": false,
       "rank": 5,
-      "fairOdds": "+6233"
+      "fairOdds": "+1621"
      },
      {
       "playerId": 1642851,

@@ -18,6 +18,7 @@ app-side only.
 
 import argparse
 import datetime as dt
+import functools
 import json
 import os
 import re
@@ -61,8 +62,24 @@ TIP_TO_FIRST_SHOT = 0.85
 TIMEOUT = 75          # stats.nba.com throttles cloud IPs; default 30s is too tight
 RETRIES = 3
 L10 = 10
+RECENT_K = 3          # missed a team's last RECENT_K completed games -> treat as OUT
 FG_PRIOR, FG_PRIOR_N = 0.47, 5
 VERDICT_BET, VERDICT_VALUE = 0.03, 0.01
+
+
+@functools.lru_cache(maxsize=None)
+def pbp_personids(gid):
+    """Every personId that appears anywhere in a cached game's play-by-play.
+    Used by the availability guard: a current-roster player absent from his
+    team's last RECENT_K completed games is almost certainly injured/out."""
+    path = os.path.join(CACHE_DIR, f"pbp3_{gid}.csv")
+    if not os.path.exists(path):
+        return frozenset()
+    try:
+        df = pd.read_csv(path, usecols=["personId"])
+    except (OSError, ValueError, pd.errors.EmptyDataError):
+        return frozenset()
+    return frozenset(int(x) for x in df["personId"].dropna().unique())
 
 
 def with_retry(label, fn):
@@ -512,19 +529,32 @@ def build_game_card(g, players, team_games, team_tips, league,
     h2h = h2h or {}
     roster_ids = roster_ids or {}
     def team_players(tri):
-        # Only players on the team's CURRENT roster — stale play-by-play keeps
-        # traded players on their old team otherwise. Fail open (keep all) if a
-        # team's roster couldn't be fetched, so a hiccup never blanks a game.
+        # Candidate pool = every CURRENT-roster player who has taken a shot in
+        # the window (own_att>0), not just players who took a game's literal
+        # opening shot. The old first_shots>0 filter hid real first-point threats
+        # — a star who scores early but rarely takes the tip-off possession
+        # (Tatum) vanished entirely. Widening lifts actual-scorer board coverage
+        # from ~71% to ~99% (backtest, 91 graded games). Roster filter still drops
+        # traded players lingering via stale play-by-play; fail open if a roster
+        # couldn't be fetched, so a hiccup never blanks a game.
         ids = roster_ids.get(tri) or set()
         rows = [r for (nm, t), r in players.items()
-                if t == tri and r["first_shots"] > 0
+                if t == tri and r["own_att"] > 0
                 and (not ids or r["personId"] in ids)]
-        n_l10 = min(len(set(team_games.get(tri, []))), L10) or 1
+        n_team = len(set(team_games.get(tri, []))) or 1
+        n_l10 = min(n_team, L10)
         for r in rows:
             r["share_l10"] = r["first_shots_l10"] / n_l10
+            r["share_season"] = r["first_shots"] / n_team
+            # blend last-10 and season first-shot share: L10 is sharpest at the
+            # top, season steadies the tail (0-for-77 diagnostic: L10 alone is
+            # noisy). This is the model-surgery share blend.
+            r["share_blend"] = 0.5 * r["share_l10"] + 0.5 * r["share_season"]
             r["fg1"] = (r["first_att_makes"] + FG_PRIOR * FG_PRIOR_N) / (r["first_att"] + FG_PRIOR_N)
-        rows.sort(key=lambda r: (r["first_shots_l10"], r["first_shots"]), reverse=True)
-        return rows[:5]
+        # own_att breaks ties among players with no opening-shot history, so the
+        # display tail orders by early-shot volume rather than arbitrarily.
+        rows.sort(key=lambda r: (r["share_blend"], r["own_att"]), reverse=True)
+        return rows
 
     def team_tipwin(tri):
         won, tot = team_tips.get(tri, [0, 0])
@@ -584,21 +614,34 @@ def build_game_card(g, players, team_games, team_tips, league,
                 for e in team_log.get(tri, [])[-10:]][::-1]   # newest first
 
     def score_side(rows, p_team_shot, n_games):
-        return [(p_team_shot * r["share_l10"] * r["fg1"]
-                 + (r["second_chance"] / max(n_games, 1)) * 0.5, r) for r in rows]
+        # P(first point) ~ P(team takes first shot | tip) x blended first-shot
+        # share x first-attempt FG%. The second-chance/putback term was removed
+        # in the v0.15 surgery: the backtest showed it anti-selects toward
+        # centers and drags top-pick hit rate (14.3% -> 9.9% with it added).
+        return [(p_team_shot * r["share_blend"] * r["fg1"], r) for r in rows]
 
     n_h = len(set(team_games.get(h_tri, []))) or 1
     n_a = len(set(team_games.get(a_tri, []))) or 1
     h_rows, a_rows = team_players(h_tri), team_players(a_tri)
 
-    # Availability gate: when a DK first-points snapshot exists for this game,
-    # a current-roster player absent from the board is scratched. Drop him from
-    # the ranking pool so the model's top pick is never an OUT player. If the
-    # filter wipes the board (bad/partial snapshot), fail open so a game is
-    # never blanked. No snapshot (dk_ids is None) -> keep everyone.
-    out_ids = set()
+    # Availability guard. Two complementary OUT signals:
+    #  (1) recent-absence: a current-roster player who has NOT appeared in his
+    #      team's last RECENT_K completed games is almost certainly a multi-game
+    #      injury (Markkanen missed 6 straight yet still ranked #1). Data-only,
+    #      no feed needed; backtest wrongly benches a real first scorer ~1%.
+    #  (2) DK snapshot: when a dated first-points board exists, a roster player
+    #      absent from it is scratched — catches same-day actives the recent
+    #      window can't. If either filter wipes the board, fail open.
+    def absentees(tri, rows):
+        gids = sorted(set(team_games.get(tri, [])))[-RECENT_K:]
+        if len(gids) < RECENT_K:
+            return set()        # too few games to judge availability; don't guess
+        seen = set().union(*(pbp_personids(g) for g in gids))
+        return {r["personId"] for r in rows if r["personId"] not in seen}
+
+    out_ids = absentees(h_tri, h_rows) | absentees(a_tri, a_rows)
     if dk_ids is not None:
-        out_ids = {r["personId"] for r in h_rows + a_rows if r["personId"] not in dk_ids}
+        out_ids |= {r["personId"] for r in h_rows + a_rows if r["personId"] not in dk_ids}
     avail = lambda rows: [r for r in rows if r["personId"] not in out_ids]
     scored = score_side(avail(h_rows), p_shot_h, n_h) + score_side(avail(a_rows), 1 - p_shot_h, n_a)
     if not scored:
@@ -625,9 +668,14 @@ def build_game_card(g, players, team_games, team_tips, league,
         return pos_map.get(r["personId"] or -1, "")
 
     def roster_json(rows):
-        # fg shown = player's OWN first-shot conversion (n ≈ games played),
-        # not the team-first-attempt conversion the formula still uses —
-        # far bigger samples, and it matches what the number reads as.
+        # Pool is now wide (every current-roster shooter), so show only the top
+        # of the board: OUT players (no rank — excluded from scoring) are dropped,
+        # and the rest are capped at the 8 highest-ranked per side. 8/side covers
+        # the actual first scorer ~81% of the time (backtest) while keeping the
+        # card readable. fg shown = player's OWN first-shot conversion (n ≈ games
+        # played), not the team-first-attempt conversion the formula uses.
+        shown = [r for r in rows if r["personId"] in rank_map]
+        shown.sort(key=lambda r: rank_map[r["personId"]][0])
         return [{
             "playerId": r["personId"], "name": r["name"].split(". ")[-1],
             "pos": pos_of(r),
@@ -635,10 +683,10 @@ def build_game_card(g, players, team_games, team_tips, league,
             "fg": round(100 * r["own_makes"] / r["own_att"]) if r["own_att"] else None,
             "att": int(r["own_att"]), "thin": bool(r["own_att"] < 3),
             "hot": r is top,
-            "out": r["personId"] in out_ids,
-            "rank": rank_map.get(r["personId"], (None, None))[0],
-            "fairOdds": rank_map.get(r["personId"], (None, None))[1],
-        } for r in rows]
+            "out": False,
+            "rank": rank_map[r["personId"]][0],
+            "fairOdds": rank_map[r["personId"]][1],
+        } for r in shown[:8]]
 
     callouts = [{"tag": "IN", "text":
                  f"{top['name']} takes {round(100 * top['share_l10'])}% of "

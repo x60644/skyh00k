@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T02:31:32Z",
+ "generated": "2026-11-19T02:34:39Z",
  "date": "2026-11-18",
  "league": "nba",
  "games": [
@@ -37,19 +37,6 @@
    "rosters": {
     "home": [
      {
-      "playerId": 1631212,
-      "name": "Watson",
-      "pos": "G",
-      "share": 30,
-      "fg": 42,
-      "att": 12,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 3,
-      "fairOdds": "+691"
-     },
-     {
       "playerId": 1630596,
       "name": "Mobley",
       "pos": "C",
@@ -73,6 +60,19 @@
       "hot": false,
       "out": false,
       "rank": 2,
+      "fairOdds": "+691"
+     },
+     {
+      "playerId": 1631212,
+      "name": "Watson",
+      "pos": "G",
+      "share": 30,
+      "fg": 42,
+      "att": 12,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 3,
       "fairOdds": "+691"
      },
      {
@@ -100,6 +100,45 @@
       "out": false,
       "rank": 5,
       "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1642281,
+      "name": "Tyson",
+      "pos": "G-F",
+      "share": 0,
+      "fg": 42,
+      "att": 67,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 9,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 201935,
+      "name": "Harden",
+      "pos": "G",
+      "share": 0,
+      "fg": 52,
+      "att": 40,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1628418,
+      "name": "Bryant",
+      "pos": "C-F",
+      "share": 0,
+      "fg": 56,
+      "att": 39,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 15,
+      "fairOdds": "+2497"
      }
     ],
     "away": [
@@ -113,7 +152,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
+      "rank": 6,
       "fairOdds": "+1721"
      },
      {
@@ -126,7 +165,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
+      "rank": 7,
       "fairOdds": "+1721"
      },
      {
@@ -139,7 +178,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 9,
+      "rank": 8,
       "fairOdds": "+2497"
      },
      {
@@ -152,7 +191,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
+      "rank": 10,
       "fairOdds": "+2497"
      },
      {
@@ -165,7 +204,46 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1641713,
+      "name": "Jackson",
+      "pos": "F",
+      "share": 0,
+      "fg": 51,
+      "att": 51,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1641765,
+      "name": "Prosper",
+      "pos": "F",
+      "share": 0,
+      "fg": 55,
+      "att": 38,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642914,
+      "name": "Small",
+      "pos": "G",
+      "share": 0,
+      "fg": 41,
+      "att": 39,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 20,
       "fairOdds": "+2497"
      }
     ]
@@ -607,8 +685,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1721"
+      "rank": 3,
+      "fairOdds": "+691"
      },
      {
       "playerId": 1630174,
@@ -624,19 +702,6 @@
       "fairOdds": "+2497"
      },
      {
-      "playerId": 1631245,
-      "name": "Jackson",
-      "pos": "G",
-      "share": 0,
-      "fg": 48,
-      "att": 60,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 9,
-      "fairOdds": "+2497"
-     },
-     {
       "playerId": 1641716,
       "name": "Walker",
       "pos": "F",
@@ -646,11 +711,76 @@
       "thin": false,
       "hot": false,
       "out": false,
+      "rank": 9,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1630643,
+      "name": "Huff",
+      "pos": "C",
+      "share": 0,
+      "fg": 56,
+      "att": 72,
+      "thin": false,
+      "hot": false,
+      "out": false,
       "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631245,
+      "name": "Jackson",
+      "pos": "G",
+      "share": 0,
+      "fg": 48,
+      "att": 60,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1627826,
+      "name": "Zubac",
+      "pos": "C",
+      "share": 0,
+      "fg": 43,
+      "att": 14,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1641738,
+      "name": "Brown",
+      "pos": "F",
+      "share": 0,
+      "fg": 56,
+      "att": 25,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
       "fairOdds": "+2497"
      }
     ],
     "away": [
+     {
+      "playerId": 201142,
+      "name": "Durant",
+      "pos": "F",
+      "share": 10,
+      "fg": 41,
+      "att": 92,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 2,
+      "fairOdds": "+691"
+     },
      {
       "playerId": 1627832,
       "name": "VanVleet",
@@ -661,8 +791,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 5,
-      "fairOdds": "+1721"
+      "rank": 4,
+      "fairOdds": "+1417"
      },
      {
       "playerId": 1630578,
@@ -674,21 +804,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 4,
-      "fairOdds": "+1417"
-     },
-     {
-      "playerId": 201142,
-      "name": "Durant",
-      "pos": "F",
-      "share": 10,
-      "fg": 41,
-      "att": 92,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 3,
-      "fairOdds": "+691"
+      "rank": 5,
+      "fairOdds": "+1721"
      },
      {
       "playerId": 1631095,
@@ -713,8 +830,47 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 2,
-      "fairOdds": "+691"
+      "rank": 7,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1642263,
+      "name": "Sheppard",
+      "pos": "G",
+      "share": 0,
+      "fg": 41,
+      "att": 91,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631106,
+      "name": "Eason",
+      "pos": "F",
+      "share": 0,
+      "fg": 39,
+      "att": 67,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 21,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 203500,
+      "name": "Adams",
+      "pos": "C",
+      "share": 0,
+      "fg": 54,
+      "att": 26,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 22,
+      "fairOdds": "+2497"
      }
     ]
    },
@@ -953,24 +1109,24 @@
      ]
     },
     {
-     "player": "Sengun",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "6 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Durant",
+     "player": "Huff",
      "items": [
       {
        "icon": "🧹",
        "label": "Glass First",
        "note": "5 second-chance first points",
        "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Zubac",
+     "items": [
+      {
+       "icon": "🪝",
+       "label": "Tip Titan",
+       "note": "69% jump wins",
+       "tier": "gold"
       }
      ]
     }
@@ -1179,19 +1335,6 @@
       "fairOdds": "+691"
      },
      {
-      "playerId": 202691,
-      "name": "Thompson",
-      "pos": "G-F",
-      "share": 20,
-      "fg": 15,
-      "att": 13,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 4,
-      "fairOdds": "+1417"
-     },
-     {
       "playerId": 1630558,
       "name": "Mitchell",
       "pos": "G",
@@ -1205,6 +1348,19 @@
       "fairOdds": "+691"
      },
      {
+      "playerId": 202691,
+      "name": "Thompson",
+      "pos": "G-F",
+      "share": 20,
+      "fg": 15,
+      "att": 13,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 4,
+      "fairOdds": "+1417"
+     },
+     {
       "playerId": 1641796,
       "name": "Larsson",
       "pos": "G",
@@ -1214,24 +1370,50 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 9,
+      "rank": 7,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 203507,
+      "name": "Antetokounmpo",
+      "pos": "F",
+      "share": 0,
+      "fg": 36,
+      "att": 14,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631323,
+      "name": "Fontecchio",
+      "pos": "F",
+      "share": 0,
+      "fg": 47,
+      "att": 45,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 15,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631107,
+      "name": "Jović",
+      "pos": "F",
+      "share": 0,
+      "fg": 36,
+      "att": 33,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 16,
       "fairOdds": "+2497"
      }
     ],
     "away": [
-     {
-      "playerId": 1643415,
-      "name": "Burries",
-      "pos": "G",
-      "share": 20,
-      "fg": 25,
-      "att": 12,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 5,
-      "fairOdds": "+1721"
-     },
      {
       "playerId": 1628398,
       "name": "Kuzma",
@@ -1239,6 +1421,19 @@
       "share": 10,
       "fg": 44,
       "att": 72,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 5,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1643415,
+      "name": "Burries",
+      "pos": "G",
+      "share": 20,
+      "fg": 25,
+      "att": 12,
       "thin": false,
       "hot": false,
       "out": false,
@@ -1255,8 +1450,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1721"
+      "rank": 8,
+      "fairOdds": "+2497"
      },
      {
       "playerId": 1631260,
@@ -1268,7 +1463,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
+      "rank": 9,
       "fairOdds": "+2497"
      },
      {
@@ -1282,6 +1477,45 @@
       "hot": false,
       "out": false,
       "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629018,
+      "name": "Trent Jr.",
+      "pos": "G",
+      "share": 0,
+      "fg": 42,
+      "att": 52,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631250,
+      "name": "Nance",
+      "pos": "F",
+      "share": 0,
+      "fg": 65,
+      "att": 17,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631170,
+      "name": "Jaquez Jr.",
+      "pos": "G",
+      "share": 0,
+      "fg": 77,
+      "att": 13,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
       "fairOdds": "+2497"
      }
     ]
@@ -1729,8 +1963,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 5,
-      "fairOdds": "+1721"
+      "rank": 3,
+      "fairOdds": "+691"
      },
      {
       "playerId": 1630532,
@@ -1742,8 +1976,21 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 4,
-      "fairOdds": "+1417"
+      "rank": 5,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1630217,
+      "name": "Bane",
+      "pos": "G",
+      "share": 0,
+      "fg": 59,
+      "att": 91,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 6,
+      "fairOdds": "+1721"
      },
      {
       "playerId": 1631457,
@@ -1759,16 +2006,42 @@
       "fairOdds": "+2497"
      },
      {
-      "playerId": 1630217,
-      "name": "Bane",
+      "playerId": 1630591,
+      "name": "Suggs",
       "pos": "G",
       "share": 0,
-      "fg": 59,
-      "att": 91,
+      "fg": 43,
+      "att": 61,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
+      "rank": 9,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1641783,
+      "name": "da Silva",
+      "pos": "F",
+      "share": 0,
+      "fg": 46,
+      "att": 79,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629048,
+      "name": "Bitadze",
+      "pos": "C-F",
+      "share": 0,
+      "fg": 69,
+      "att": 42,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
       "fairOdds": "+2497"
      }
     ],
@@ -1796,8 +2069,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
-      "fairOdds": "+1721"
+      "rank": 4,
+      "fairOdds": "+1417"
      },
      {
       "playerId": 203954,
@@ -1809,21 +2082,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 3,
-      "fairOdds": "+691"
-     },
-     {
-      "playerId": 2544,
-      "name": "James",
-      "pos": "F",
-      "share": 10,
-      "fg": 36,
-      "att": 11,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 9,
-      "fairOdds": "+2497"
+      "rank": 7,
+      "fairOdds": "+1721"
      },
      {
       "playerId": 1627759,
@@ -1835,8 +2095,60 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1721"
+      "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 2544,
+      "name": "James",
+      "pos": "F",
+      "share": 10,
+      "fg": 36,
+      "att": 11,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629731,
+      "name": "Wade",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 50,
+      "att": 8,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631133,
+      "name": "Walker",
+      "pos": "F",
+      "share": 0,
+      "fg": 41,
+      "att": 34,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 19,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642348,
+      "name": "Edwards",
+      "pos": "F",
+      "share": 0,
+      "fg": 53,
+      "att": 30,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 20,
+      "fairOdds": "+2497"
      }
     ]
    },
@@ -2078,12 +2390,12 @@
      ]
     },
     {
-     "player": "Maxey",
+     "player": "Suggs",
      "items": [
       {
        "icon": "🧹",
        "label": "Glass First",
-       "note": "4 second-chance first points",
+       "note": "6 second-chance first points",
        "tier": ""
       }
      ]
@@ -2265,32 +2577,19 @@
     "homeWinPct": 60
    },
    "topPick": {
-    "playerId": 1630549,
-    "name": "Sharpe",
-    "pos": "C",
+    "playerId": 1629008,
+    "name": "Porter Jr.",
+    "pos": "F",
     "side": "home",
     "bookOdds": null,
     "fairOdds": "+507",
     "rank": 1,
-    "share": 20,
+    "share": 10,
     "verdict": null,
-    "why": "BKN controls the jump 60% here and scores the game's first point in 41% of its games; Sharpe takes 20% of its opening shots and makes 52% of his own first look."
+    "why": "BKN controls the jump 60% here and scores the game's first point in 41% of its games; Porter Jr. takes 10% of its opening shots and makes 39% of his own first look."
    },
    "rosters": {
     "home": [
-     {
-      "playerId": 1630549,
-      "name": "Sharpe",
-      "pos": "C",
-      "share": 20,
-      "fg": 52,
-      "att": 67,
-      "thin": false,
-      "hot": true,
-      "out": false,
-      "rank": 1,
-      "fairOdds": "+507"
-     },
      {
       "playerId": 1629008,
       "name": "Porter Jr.",
@@ -2299,23 +2598,23 @@
       "fg": 39,
       "att": 64,
       "thin": false,
+      "hot": true,
+      "out": false,
+      "rank": 1,
+      "fairOdds": "+507"
+     },
+     {
+      "playerId": 1630549,
+      "name": "Sharpe",
+      "pos": "C",
+      "share": 20,
+      "fg": 52,
+      "att": 67,
+      "thin": false,
       "hot": false,
       "out": false,
       "rank": 2,
       "fairOdds": "+691"
-     },
-     {
-      "playerId": 1641730,
-      "name": "Clowney",
-      "pos": "F-C",
-      "share": 0,
-      "fg": 29,
-      "att": 72,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 9,
-      "fairOdds": "+2497"
      },
      {
       "playerId": 1642856,
@@ -2327,8 +2626,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
-      "fairOdds": "+2497"
+      "rank": 6,
+      "fairOdds": "+1721"
      },
      {
       "playerId": 1629611,
@@ -2340,8 +2639,60 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
-      "fairOdds": "+1721"
+      "rank": 9,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1641730,
+      "name": "Clowney",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 29,
+      "att": 72,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642849,
+      "name": "Traore",
+      "pos": "G",
+      "share": 0,
+      "fg": 38,
+      "att": 61,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 203944,
+      "name": "Randle",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 54,
+      "att": 13,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642874,
+      "name": "Wolf",
+      "pos": "F",
+      "share": 0,
+      "fg": 26,
+      "att": 50,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
+      "fairOdds": "+2497"
      }
     ],
     "away": [
@@ -2355,8 +2706,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 4,
-      "fairOdds": "+1417"
+      "rank": 3,
+      "fairOdds": "+691"
      },
      {
       "playerId": 1630581,
@@ -2368,8 +2719,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 3,
-      "fairOdds": "+691"
+      "rank": 4,
+      "fairOdds": "+1417"
      },
      {
       "playerId": 1641824,
@@ -2385,19 +2736,6 @@
       "fairOdds": "+1721"
      },
      {
-      "playerId": 1630171,
-      "name": "Okoro",
-      "pos": "F-G",
-      "share": 0,
-      "fg": 42,
-      "att": 71,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 7,
-      "fairOdds": "+1721"
-     },
-     {
       "playerId": 1630200,
       "name": "Jones",
       "pos": "G",
@@ -2407,7 +2745,59 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
+      "rank": 7,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1630171,
+      "name": "Okoro",
+      "pos": "F-G",
+      "share": 0,
+      "fg": 42,
+      "att": 71,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 8,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631159,
+      "name": "Miller",
+      "pos": "F",
+      "share": 0,
+      "fg": 26,
+      "att": 27,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1630172,
+      "name": "Williams",
+      "pos": "F",
+      "share": 0,
+      "fg": 55,
+      "att": 62,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 21,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1628380,
+      "name": "Collins",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 36,
+      "att": 11,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 22,
       "fairOdds": "+2497"
      }
     ]
@@ -2615,7 +3005,7 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "D. Sharpe takes 20% of BKN first shots over the last 10 games"
+     "text": "M. Porter Jr. takes 10% of BKN first shots over the last 10 games"
     },
     {
      "tag": "IN",
@@ -2670,34 +3060,22 @@
     }
    ],
    "shots": {
-    "playerLabel": "Sharpe L10",
+    "playerLabel": "Porter Jr. L10",
     "player": {
      "makes": [
       [
-       445,
-       266
-      ],
-      [
-       250,
-       416
-      ],
-      [
-       236,
-       408
+       152,
+       282
       ]
      ],
      "misses": [
       [
-       482,
-       407
+       446,
+       329
       ],
       [
-       251,
-       378
-      ],
-      [
-       250,
-       416
+       124,
+       211
       ]
      ]
     },
@@ -2866,21 +3244,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
-      "fairOdds": "+1721"
-     },
-     {
-      "playerId": 1627751,
-      "name": "Poeltl",
-      "pos": "C",
-      "share": 0,
-      "fg": 67,
-      "att": 46,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 9,
-      "fairOdds": "+2497"
+      "rank": 4,
+      "fairOdds": "+1417"
      },
      {
       "playerId": 1630193,
@@ -2892,8 +3257,60 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1721"
+      "rank": 9,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1627751,
+      "name": "Poeltl",
+      "pos": "C",
+      "share": 0,
+      "fg": 67,
+      "att": 46,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642867,
+      "name": "Murray-Boyles",
+      "pos": "F",
+      "share": 0,
+      "fg": 64,
+      "att": 53,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 15,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642347,
+      "name": "Shead",
+      "pos": "G",
+      "share": 0,
+      "fg": 32,
+      "att": 77,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 16,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642419,
+      "name": "Battle",
+      "pos": "F",
+      "share": 0,
+      "fg": 43,
+      "att": 23,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 18,
+      "fairOdds": "+2497"
      }
     ],
     "away": [
@@ -2911,19 +3328,6 @@
       "fairOdds": "+691"
      },
      {
-      "playerId": 203076,
-      "name": "Davis",
-      "pos": "F-C",
-      "share": 10,
-      "fg": 54,
-      "att": 13,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 8,
-      "fairOdds": "+2497"
-     },
-     {
       "playerId": 1643407,
       "name": "Dybantsa",
       "pos": "F",
@@ -2937,17 +3341,30 @@
       "fairOdds": "+1721"
      },
      {
-      "playerId": 1642259,
-      "name": "Sarr",
-      "pos": "C",
-      "share": 0,
-      "fg": 52,
-      "att": 61,
+      "playerId": 203076,
+      "name": "Davis",
+      "pos": "F-C",
+      "share": 10,
+      "fg": 54,
+      "att": 13,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 4,
-      "fairOdds": "+1417"
+      "rank": 6,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1641731,
+      "name": "Coulibaly",
+      "pos": "G",
+      "share": 0,
+      "fg": 36,
+      "att": 66,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
+      "fairOdds": "+1721"
      },
      {
       "playerId": 1642267,
@@ -2959,7 +3376,46 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
+      "rank": 8,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 203114,
+      "name": "Middleton",
+      "pos": "F",
+      "share": 0,
+      "fg": 44,
+      "att": 36,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642860,
+      "name": "Riley",
+      "pos": "F",
+      "share": 0,
+      "fg": 44,
+      "att": 50,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642273,
+      "name": "George",
+      "pos": "F",
+      "share": 0,
+      "fg": 50,
+      "att": 62,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
       "fairOdds": "+2497"
      }
     ]
@@ -3206,13 +3662,13 @@
      ]
     },
     {
-     "player": "Sarr",
+     "player": "Shead",
      "items": [
       {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "5 second-chance first points",
-       "tier": ""
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
       }
      ]
     }
@@ -3380,21 +3836,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 2,
-      "fairOdds": "+691"
-     },
-     {
-      "playerId": 1630530,
-      "name": "Murphy III",
-      "pos": "F",
-      "share": 10,
-      "fg": 51,
-      "att": 74,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 3,
-      "fairOdds": "+691"
+      "rank": 4,
+      "fairOdds": "+1417"
      },
      {
       "playerId": 1630529,
@@ -3406,8 +3849,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 9,
-      "fairOdds": "+2497"
+      "rank": 7,
+      "fairOdds": "+1721"
      },
      {
       "playerId": 1627749,
@@ -3419,7 +3862,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
+      "rank": 9,
       "fairOdds": "+2497"
      },
      {
@@ -3432,7 +3875,59 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
+      "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629673,
+      "name": "Poole",
+      "pos": "G",
+      "share": 0,
+      "fg": 35,
+      "att": 43,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642852,
+      "name": "Queen",
+      "pos": "C",
+      "share": 0,
+      "fg": 46,
+      "att": 79,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631121,
+      "name": "McGowens",
+      "pos": "G",
+      "share": 0,
+      "fg": 50,
+      "att": 28,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642847,
+      "name": "Fears",
+      "pos": "G",
+      "share": 0,
+      "fg": 44,
+      "att": 96,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
       "fairOdds": "+2497"
      }
     ],
@@ -3460,8 +3955,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 5,
-      "fairOdds": "+1721"
+      "rank": 2,
+      "fairOdds": "+691"
      },
      {
       "playerId": 1629130,
@@ -3473,8 +3968,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 4,
-      "fairOdds": "+1417"
+      "rank": 3,
+      "fairOdds": "+691"
      },
      {
       "playerId": 1642450,
@@ -3486,7 +3981,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
+      "rank": 5,
       "fairOdds": "+1721"
      },
      {
@@ -3501,6 +3996,45 @@
       "out": false,
       "rank": 6,
       "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1630194,
+      "name": "Reed",
+      "pos": "F",
+      "share": 0,
+      "fg": 70,
+      "att": 43,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 8,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1641842,
+      "name": "Holland II",
+      "pos": "F",
+      "share": 0,
+      "fg": 42,
+      "att": 74,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 19,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629750,
+      "name": "Green",
+      "pos": "G",
+      "share": 0,
+      "fg": 52,
+      "att": 33,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 20,
+      "fairOdds": "+2497"
      }
     ]
    },
@@ -3709,7 +4243,7 @@
     },
     {
      "tag": "WATCH",
-     "text": "S. Bey has 6 second-chance first baskets — putback pathway"
+     "text": "J. Fears has 8 second-chance first baskets — putback pathway"
     }
    ],
    "badges": [
@@ -3883,32 +4417,19 @@
     "homeWinPct": 49
    },
    "topPick": {
-    "playerId": 1629638,
-    "name": "Alexander-Walker",
+    "playerId": 1643412,
+    "name": "Flemings",
     "pos": "G",
     "side": "away",
     "bookOdds": null,
     "fairOdds": "+507",
     "rank": 1,
-    "share": 10,
+    "share": 20,
     "verdict": null,
-    "why": "ATL controls the jump 51% here and scores the game's first point in 51% of its games; Alexander-Walker takes 10% of its opening shots and makes 46% of his own first look."
+    "why": "ATL controls the jump 51% here and scores the game's first point in 51% of its games; Flemings takes 20% of its opening shots and makes 38% of his own first look."
    },
    "rosters": {
     "home": [
-     {
-      "playerId": 1642272,
-      "name": "McCain",
-      "pos": "G",
-      "share": 20,
-      "fg": 34,
-      "att": 29,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 6,
-      "fairOdds": "+1721"
-     },
      {
       "playerId": 1628392,
       "name": "Hartenstein",
@@ -3919,7 +4440,33 @@
       "thin": false,
       "hot": false,
       "out": false,
+      "rank": 3,
+      "fairOdds": "+691"
+     },
+     {
+      "playerId": 1642272,
+      "name": "McCain",
+      "pos": "G",
+      "share": 20,
+      "fg": 34,
+      "att": 29,
+      "thin": false,
+      "hot": false,
+      "out": false,
       "rank": 5,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1642349,
+      "name": "Mitchell",
+      "pos": "G",
+      "share": 10,
+      "fg": 56,
+      "att": 61,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 6,
       "fairOdds": "+1721"
      },
      {
@@ -3932,33 +4479,59 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 3,
-      "fairOdds": "+691"
-     },
-     {
-      "playerId": 1642349,
-      "name": "Mitchell",
-      "pos": "G",
-      "share": 10,
-      "fg": 56,
-      "att": 61,
-      "thin": false,
-      "hot": false,
-      "out": false,
       "rank": 7,
       "fairOdds": "+1721"
      },
      {
-      "playerId": 1641717,
-      "name": "Wallace",
-      "pos": "G",
+      "playerId": 1629026,
+      "name": "Williams",
+      "pos": "G-F",
       "share": 0,
-      "fg": 38,
-      "att": 73,
+      "fg": 47,
+      "att": 88,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 9,
+      "rank": 8,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1627936,
+      "name": "Caruso",
+      "pos": "G",
+      "share": 0,
+      "fg": 48,
+      "att": 46,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1643530,
+      "name": "Mara",
+      "pos": "C",
+      "share": 0,
+      "fg": 58,
+      "att": 12,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642892,
+      "name": "Stirtz",
+      "pos": "G",
+      "share": 0,
+      "fg": 44,
+      "att": 9,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 15,
       "fairOdds": "+2497"
      }
     ],
@@ -3971,10 +4544,10 @@
       "fg": 38,
       "att": 8,
       "thin": false,
-      "hot": false,
+      "hot": true,
       "out": false,
-      "rank": 2,
-      "fairOdds": "+691"
+      "rank": 1,
+      "fairOdds": "+507"
      },
      {
       "playerId": 1629638,
@@ -3984,10 +4557,10 @@
       "fg": 46,
       "att": 91,
       "thin": false,
-      "hot": true,
+      "hot": false,
       "out": false,
-      "rank": 1,
-      "fairOdds": "+507"
+      "rank": 2,
+      "fairOdds": "+691"
      },
      {
       "playerId": 1630168,
@@ -4012,7 +4585,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
+      "rank": 9,
       "fairOdds": "+2497"
      },
      {
@@ -4026,6 +4599,45 @@
       "hot": false,
       "out": false,
       "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1630700,
+      "name": "Daniels",
+      "pos": "G",
+      "share": 0,
+      "fg": 51,
+      "att": 86,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1630557,
+      "name": "Kispert",
+      "pos": "F",
+      "share": 0,
+      "fg": 30,
+      "att": 23,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629111,
+      "name": "Landale",
+      "pos": "C",
+      "share": 0,
+      "fg": 44,
+      "att": 25,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 18,
       "fairOdds": "+2497"
      }
     ]
@@ -4227,14 +4839,14 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "N. Alexander-Walker takes 10% of ATL first shots over the last 10 games"
+     "text": "K. Flemings takes 20% of ATL first shots over the last 10 games"
     },
     {
      "tag": "IN",
      "text": "OKC wins parsed opening tips at 49%, ATL at 51%"
     },
     {
-     "tag": "IN",
+     "tag": "WATCH",
      "text": "ATL concedes first baskets to opposing centers at 1.4× league rate (n=46)"
     },
     {
@@ -4255,17 +4867,6 @@
      ]
     },
     {
-     "player": "Gilgeous-Alexander",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "5 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
      "player": "Wallace",
      "items": [
       {
@@ -4275,29 +4876,32 @@
        "tier": ""
       }
      ]
+    },
+    {
+     "player": "Gilgeous-Alexander",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 second-chance first points",
+       "tier": ""
+      }
+     ]
     }
    ],
    "shots": {
-    "playerLabel": "Alexander-Walker L10",
+    "playerLabel": "Flemings L10",
     "player": {
      "makes": [
       [
-       72,
-       218
-      ],
-      [
-       242,
-       418
-      ],
-      [
-       19,
-       392
+       284,
+       168
       ]
      ],
      "misses": [
       [
-       349,
-       181
+       202,
+       314
       ]
      ]
     },
@@ -4397,19 +5001,32 @@
     "homeWinPct": 49
    },
    "topPick": {
-    "playerId": 203110,
-    "name": "Green",
-    "pos": "F-C",
+    "playerId": 1641764,
+    "name": "Podziemski",
+    "pos": "G",
     "side": "away",
     "bookOdds": null,
     "fairOdds": "+507",
     "rank": 1,
     "share": 10,
     "verdict": null,
-    "why": "GSW controls the jump 51% here and scores the game's first point in 45% of its games; Green takes 10% of its opening shots and makes 45% of his own first look."
+    "why": "GSW controls the jump 51% here and scores the game's first point in 45% of its games; Podziemski takes 10% of its opening shots and makes 43% of his own first look."
    },
    "rosters": {
     "home": [
+     {
+      "playerId": 1631108,
+      "name": "Christie",
+      "pos": "G",
+      "share": 10,
+      "fg": 52,
+      "att": 81,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 2,
+      "fairOdds": "+691"
+     },
      {
       "playerId": 1642843,
       "name": "Flagg",
@@ -4424,17 +5041,17 @@
       "fairOdds": "+1417"
      },
      {
-      "playerId": 1631108,
-      "name": "Christie",
-      "pos": "G",
-      "share": 10,
-      "fg": 52,
-      "att": 81,
+      "playerId": 1629655,
+      "name": "Gafford",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 67,
+      "att": 55,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 3,
-      "fairOdds": "+691"
+      "rank": 8,
+      "fairOdds": "+2497"
      },
      {
       "playerId": 1629023,
@@ -4446,21 +5063,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
-      "fairOdds": "+1721"
-     },
-     {
-      "playerId": 1629655,
-      "name": "Gafford",
-      "pos": "F-C",
-      "share": 0,
-      "fg": 67,
-      "att": 55,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 7,
-      "fairOdds": "+1721"
+      "rank": 10,
+      "fairOdds": "+2497"
      },
      {
       "playerId": 1630230,
@@ -4472,24 +5076,50 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1628997,
+      "name": "Martin",
+      "pos": "F",
+      "share": 0,
+      "fg": 43,
+      "att": 37,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 16,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642258,
+      "name": "Risacher",
+      "pos": "F",
+      "share": 0,
+      "fg": 42,
+      "att": 12,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 17,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 202681,
+      "name": "Irving",
+      "pos": "G",
+      "share": 0,
+      "fg": 64,
+      "att": 11,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 18,
       "fairOdds": "+2497"
      }
     ],
     "away": [
-     {
-      "playerId": 203110,
-      "name": "Green",
-      "pos": "F-C",
-      "share": 10,
-      "fg": 45,
-      "att": 73,
-      "thin": false,
-      "hot": true,
-      "out": false,
-      "rank": 1,
-      "fairOdds": "+507"
-     },
      {
       "playerId": 1641764,
       "name": "Podziemski",
@@ -4498,23 +5128,23 @@
       "fg": 43,
       "att": 90,
       "thin": false,
-      "hot": false,
+      "hot": true,
       "out": false,
-      "rank": 2,
-      "fairOdds": "+691"
+      "rank": 1,
+      "fairOdds": "+507"
      },
      {
-      "playerId": 1643018,
-      "name": "Cryer",
-      "pos": "G",
+      "playerId": 203110,
+      "name": "Green",
+      "pos": "F-C",
       "share": 10,
-      "fg": 31,
-      "att": 16,
+      "fg": 45,
+      "att": 73,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
-      "fairOdds": "+2497"
+      "rank": 3,
+      "fairOdds": "+691"
      },
      {
       "playerId": 1642865,
@@ -4530,6 +5160,19 @@
       "fairOdds": "+1721"
      },
      {
+      "playerId": 1643018,
+      "name": "Cryer",
+      "pos": "G",
+      "share": 10,
+      "fg": 31,
+      "att": 16,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 6,
+      "fairOdds": "+1721"
+     },
+     {
       "playerId": 1627777,
       "name": "Niang",
       "pos": "F",
@@ -4539,7 +5182,46 @@
       "thin": false,
       "hot": false,
       "out": false,
+      "rank": 7,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 201939,
+      "name": "Curry",
+      "pos": "G",
+      "share": 0,
+      "fg": 49,
+      "att": 55,
+      "thin": false,
+      "hot": false,
+      "out": false,
       "rank": 9,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1630611,
+      "name": "Santos",
+      "pos": "F",
+      "share": 0,
+      "fg": 44,
+      "att": 50,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629001,
+      "name": "Melton",
+      "pos": "G",
+      "share": 0,
+      "fg": 45,
+      "att": 58,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
       "fairOdds": "+2497"
      }
     ]
@@ -4741,7 +5423,7 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "D. Green takes 10% of GSW first shots over the last 10 games"
+     "text": "B. Podziemski takes 10% of GSW first shots over the last 10 games"
     },
     {
      "tag": "IN",
@@ -4788,21 +5470,38 @@
     }
    ],
    "shots": {
-    "playerLabel": "Green L10",
+    "playerLabel": "Podziemski L10",
     "player": {
-     "makes": [],
+     "makes": [
+      [
+       0,
+       406
+      ],
+      [
+       203,
+       399
+      ],
+      [
+       11,
+       402
+      ]
+     ],
      "misses": [
       [
-       256,
-       398
+       122,
+       188
       ],
       [
-       241,
-       238
+       119,
+       195
       ],
       [
-       400,
-       216
+       396,
+       166
+      ],
+      [
+       254,
+       161
       ]
      ]
     },
@@ -4986,8 +5685,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 4,
-      "fairOdds": "+1417"
+      "rank": 2,
+      "fairOdds": "+691"
      },
      {
       "playerId": 1629661,
@@ -4999,8 +5698,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 3,
-      "fairOdds": "+691"
+      "rank": 5,
+      "fairOdds": "+1721"
      },
      {
       "playerId": 1631128,
@@ -5012,8 +5711,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
-      "fairOdds": "+2497"
+      "rank": 6,
+      "fairOdds": "+1721"
      },
      {
       "playerId": 203932,
@@ -5026,6 +5725,45 @@
       "hot": false,
       "out": false,
       "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642461,
+      "name": "Jones",
+      "pos": "F",
+      "share": 0,
+      "fg": 32,
+      "att": 50,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642350,
+      "name": "Brazile",
+      "pos": "F",
+      "share": 0,
+      "fg": 67,
+      "att": 12,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 16,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 201942,
+      "name": "DeRozan",
+      "pos": "G-F",
+      "share": 0,
+      "fg": 50,
+      "att": 10,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 17,
       "fairOdds": "+2497"
      }
     ],
@@ -5040,7 +5778,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 2,
+      "rank": 3,
       "fairOdds": "+691"
      },
      {
@@ -5053,7 +5791,20 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 5,
+      "rank": 4,
+      "fairOdds": "+1417"
+     },
+     {
+      "playerId": 1629674,
+      "name": "Queta",
+      "pos": "C",
+      "share": 0,
+      "fg": 65,
+      "att": 80,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
       "fairOdds": "+1721"
      },
      {
@@ -5066,21 +5817,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1721"
-     },
-     {
-      "playerId": 1629674,
-      "name": "Queta",
-      "pos": "C",
-      "share": 0,
-      "fg": 65,
-      "att": 80,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 6,
-      "fairOdds": "+1721"
+      "rank": 8,
+      "fairOdds": "+2497"
      },
      {
       "playerId": 1630573,
@@ -5093,6 +5831,45 @@
       "hot": false,
       "out": false,
       "rank": 9,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1630202,
+      "name": "Pritchard",
+      "pos": "G",
+      "share": 0,
+      "fg": 42,
+      "att": 90,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1630568,
+      "name": "Garza",
+      "pos": "C",
+      "share": 0,
+      "fg": 66,
+      "att": 53,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1628369,
+      "name": "Tatum",
+      "pos": "F-G",
+      "share": 0,
+      "fg": 41,
+      "att": 29,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
       "fairOdds": "+2497"
      }
     ]
@@ -5341,13 +6118,13 @@
      ]
     },
     {
-     "player": "White",
+     "player": "Jones",
      "items": [
       {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "4 second-chance first points",
-       "tier": ""
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
       }
      ]
     }
@@ -5476,16 +6253,16 @@
     "homeWinPct": 48
    },
    "topPick": {
-    "playerId": 1628374,
-    "name": "Markkanen",
-    "pos": "F-C",
-    "side": "away",
+    "playerId": 1629029,
+    "name": "Dončić",
+    "pos": "F-G",
+    "side": "home",
     "bookOdds": null,
     "fairOdds": "+507",
     "rank": 1,
-    "share": 10,
+    "share": 20,
     "verdict": null,
-    "why": "UTA controls the jump 52% here and scores the game's first point in 55% of its games; Markkanen takes 10% of its opening shots and makes 42% of his own first look."
+    "why": "LAL controls the jump 48% here and scores the game's first point in 59% of its games; Dončić takes 20% of its opening shots and makes 45% of his own first look."
    },
    "rosters": {
     "home": [
@@ -5497,10 +6274,10 @@
       "fg": 45,
       "att": 77,
       "thin": false,
-      "hot": false,
+      "hot": true,
       "out": false,
-      "rank": 3,
-      "fairOdds": "+691"
+      "rank": 1,
+      "fairOdds": "+507"
      },
      {
       "playerId": 1630559,
@@ -5512,21 +6289,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 2,
+      "rank": 3,
       "fairOdds": "+691"
-     },
-     {
-      "playerId": 1630533,
-      "name": "Williams",
-      "pos": "F",
-      "share": 10,
-      "fg": 44,
-      "att": 9,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 9,
-      "fairOdds": "+2497"
      },
      {
       "playerId": 1629680,
@@ -5538,7 +6302,20 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 5,
+      "rank": 4,
+      "fairOdds": "+1417"
+     },
+     {
+      "playerId": 1630533,
+      "name": "Williams",
+      "pos": "F",
+      "share": 10,
+      "fg": 44,
+      "att": 9,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 6,
       "fairOdds": "+1721"
      },
      {
@@ -5551,7 +6328,46 @@
       "thin": false,
       "hot": false,
       "out": false,
+      "rank": 9,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631222,
+      "name": "LaRavia",
+      "pos": "F",
+      "share": 0,
+      "fg": 55,
+      "att": 71,
+      "thin": false,
+      "hot": false,
+      "out": false,
       "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629020,
+      "name": "Vanderbilt",
+      "pos": "F",
+      "share": 0,
+      "fg": 60,
+      "att": 42,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1630572,
+      "name": "Mamukelashvili",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 43,
+      "att": 14,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 15,
       "fairOdds": "+2497"
      }
     ],
@@ -5566,21 +6382,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 4,
-      "fairOdds": "+1417"
-     },
-     {
-      "playerId": 1628374,
-      "name": "Markkanen",
-      "pos": "F-C",
-      "share": 10,
-      "fg": 42,
-      "att": 50,
-      "thin": false,
-      "hot": true,
-      "out": false,
-      "rank": 1,
-      "fairOdds": "+507"
+      "rank": 2,
+      "fairOdds": "+691"
      },
      {
       "playerId": 1629637,
@@ -5592,8 +6395,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
-      "fairOdds": "+2497"
+      "rank": 5,
+      "fairOdds": "+1721"
      },
      {
       "playerId": 1641718,
@@ -5605,21 +6408,73 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
+      "rank": 7,
       "fairOdds": "+1721"
      },
      {
-      "playerId": 203994,
-      "name": "Nurkić",
-      "pos": "C",
+      "playerId": 1642268,
+      "name": "Collier",
+      "pos": "G",
       "share": 0,
-      "fg": 52,
-      "att": 40,
+      "fg": 56,
+      "att": 62,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1721"
+      "rank": 8,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1641729,
+      "name": "Sensabaugh",
+      "pos": "F",
+      "share": 0,
+      "fg": 42,
+      "att": 72,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629004,
+      "name": "Mykhailiuk",
+      "pos": "G-F",
+      "share": 0,
+      "fg": 46,
+      "att": 56,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1629006,
+      "name": "Okogie",
+      "pos": "G",
+      "share": 0,
+      "fg": 50,
+      "att": 10,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1643408,
+      "name": "Peterson",
+      "pos": "G",
+      "share": 0,
+      "fg": 33,
+      "att": 15,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 21,
+      "fairOdds": "+2497"
      }
     ]
    },
@@ -5820,7 +6675,7 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "L. Markkanen takes 10% of UTA first shots over the last 10 games"
+     "text": "L. Dončić takes 20% of LAL first shots over the last 10 games"
     },
     {
      "tag": "IN",
@@ -5828,7 +6683,7 @@
     },
     {
      "tag": "WATCH",
-     "text": "L. Markkanen has 6 second-chance first baskets — putback pathway"
+     "text": "A. Reaves has 6 second-chance first baskets — putback pathway"
     }
    ],
    "badges": [
@@ -5873,99 +6728,120 @@
     }
    ],
    "shots": {
-    "playerLabel": "Markkanen L10",
+    "playerLabel": "Dončić L10",
     "player": {
      "makes": [
       [
-       406,
-       417
+       34,
+       282
       ],
       [
-       250,
-       409
-      ]
-     ],
-     "misses": []
-    },
-    "team": {
-     "makes": [
-      [
-       244,
-       360
+       235,
+       270
       ],
       [
-       321,
-       336
+       242,
+       262
       ],
       [
-       355,
-       189
-      ],
-      [
-       406,
-       417
-      ],
-      [
-       250,
-       409
-      ],
-      [
-       425,
-       246
-      ],
-      [
-       487,
-       314
-      ],
-      [
-       219,
-       389
-      ],
-      [
-       292,
-       165
-      ],
-      [
-       199,
-       338
+       10,
+       448
       ]
      ],
      "misses": [
       [
-       243,
-       365
+       334,
+       284
       ],
       [
-       316,
-       354
+       382,
+       174
       ],
       [
-       350,
-       169
+       267,
+       383
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       119,
+       217
       ],
       [
-       210,
-       336
+       92,
+       226
       ],
       [
-       191,
-       166
+       34,
+       282
       ],
       [
-       150,
-       260
+       126,
+       200
       ],
       [
-       257,
-       393
+       425,
+       216
       ],
       [
-       461,
-       291
+       281,
+       418
       ],
       [
-       298,
-       356
+       235,
+       270
+      ],
+      [
+       242,
+       262
+      ],
+      [
+       10,
+       448
+      ],
+      [
+       250,
+       416
+      ]
+     ],
+     "misses": [
+      [
+       334,
+       284
+      ],
+      [
+       408,
+       211
+      ],
+      [
+       229,
+       414
+      ],
+      [
+       444,
+       236
+      ],
+      [
+       251,
+       405
+      ],
+      [
+       22,
+       418
+      ],
+      [
+       376,
+       186
+      ],
+      [
+       382,
+       174
+      ],
+      [
+       267,
+       383
       ]
      ]
     }
@@ -6005,19 +6881,6 @@
    "rosters": {
     "home": [
      {
-      "playerId": 1630173,
-      "name": "Achiuwa",
-      "pos": "F",
-      "share": 20,
-      "fg": 44,
-      "att": 73,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 4,
-      "fairOdds": "+1417"
-     },
-     {
       "playerId": 203897,
       "name": "LaVine",
       "pos": "G",
@@ -6044,17 +6907,17 @@
       "fairOdds": "+691"
      },
      {
-      "playerId": 1642875,
-      "name": "Raynaud",
-      "pos": "C",
-      "share": 0,
-      "fg": 56,
-      "att": 62,
+      "playerId": 1630173,
+      "name": "Achiuwa",
+      "pos": "F",
+      "share": 20,
+      "fg": 44,
+      "att": 73,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1721"
+      "rank": 4,
+      "fairOdds": "+1417"
      },
      {
       "playerId": 1627734,
@@ -6066,7 +6929,59 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
+      "rank": 9,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631342,
+      "name": "Plowden",
+      "pos": "G-F",
+      "share": 0,
+      "fg": 43,
+      "att": 30,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 11,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642363,
+      "name": "Clifford",
+      "pos": "G",
+      "share": 0,
+      "fg": 33,
+      "att": 61,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 12,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1631099,
+      "name": "Murray",
+      "pos": "F",
+      "share": 0,
+      "fg": 52,
+      "att": 29,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 13,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1628370,
+      "name": "Monk",
+      "pos": "G",
+      "share": 0,
+      "fg": 42,
+      "att": 67,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 14,
       "fairOdds": "+2497"
      }
     ],
@@ -6094,19 +7009,6 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
-      "fairOdds": "+1721"
-     },
-     {
-      "playerId": 1626164,
-      "name": "Booker",
-      "pos": "G",
-      "share": 0,
-      "fg": 39,
-      "att": 77,
-      "thin": false,
-      "hot": false,
-      "out": false,
       "rank": 5,
       "fairOdds": "+1721"
      },
@@ -6120,20 +7022,72 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 9,
+      "rank": 6,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1626164,
+      "name": "Booker",
+      "pos": "G",
+      "share": 0,
+      "fg": 39,
+      "att": 77,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
+      "fairOdds": "+1721"
+     },
+     {
+      "playerId": 1642345,
+      "name": "Ighodaro",
+      "pos": "F",
+      "share": 0,
+      "fg": 71,
+      "att": 65,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 8,
       "fairOdds": "+2497"
      },
      {
-      "playerId": 1631109,
-      "name": "Williams",
-      "pos": "C",
+      "playerId": 1630692,
+      "name": "Goodwin",
+      "pos": "G",
       "share": 0,
-      "fg": 51,
-      "att": 55,
+      "fg": 33,
+      "att": 63,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 10,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642346,
+      "name": "Dunn",
+      "pos": "F",
+      "share": 0,
+      "fg": 58,
+      "att": 57,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 21,
+      "fairOdds": "+2497"
+     },
+     {
+      "playerId": 1642863,
+      "name": "Maluach",
+      "pos": "C",
+      "share": 0,
+      "fg": 48,
+      "att": 21,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 22,
       "fairOdds": "+2497"
      }
     ]
@@ -6354,6 +7308,17 @@
    ],
    "badges": [
     {
+     "player": "Clifford",
+     "items": [
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
      "player": "Green",
      "items": [
       {
@@ -6371,17 +7336,6 @@
        "icon": "🧹",
        "label": "Glass First",
        "note": "3 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Booker",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "7 second-chance first points",
        "tier": ""
       }
      ]

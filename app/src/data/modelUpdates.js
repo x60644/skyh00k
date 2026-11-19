@@ -4,9 +4,28 @@
 // (what the graded picks actually showed). Edit from the phone via the GitHub
 // web UI — Vercel auto-deploys.
 //
-// tag ∈ FIX | DATA | MARKET | CALIBRATION | DIAGNOSTIC | PENDING
+// tag ∈ SURGERY | FIX | DATA | MARKET | CALIBRATION | DIAGNOSTIC | PENDING
 // date: 'YYYY-MM-DD', or 'next' for not-yet-shipped work.
 export const MODEL_UPDATES = [
+  {
+    date: '2026-11-18', tag: 'SURGERY', version: 'v0.15.0',
+    title: 'Model surgery: wider board, injury guard, putback dropped',
+    detail: 'Three changes, each backtested on 91 graded games. (1) The ' +
+      'candidate pool widened from “took a game’s literal opening shot” to ' +
+      '“any current-roster player who shoots”, so a star who scores early but ' +
+      'rarely takes the tip-off possession (Tatum) no longer vanishes — ' +
+      'actual-scorer coverage rose from ~71% to ~99% in-pool. (2) First-shot ' +
+      'share now blends last-10 with season-long: L10 is sharp at the top, ' +
+      'season steadies the tail. (3) The second-chance/putback term was removed ' +
+      '— it anti-selected toward centers and dragged top-pick hit rate ' +
+      '(14.3% → 9.9% with it on). Added an availability guard: a player who has ' +
+      'missed his team’s last three games is treated as OUT.',
+    result: 'Both of today’s flagged bugs are gone. Lauri Markkanen — ranked #1 ' +
+      'while injured six straight games — is dropped, and both #1 picks now ' +
+      'match the DK favorite (Dončić, Murray). Hit-rate change is within ' +
+      'small-sample noise; the solid wins are board coverage and no longer ' +
+      'leading with players who aren’t active.',
+  },
   {
     date: '2026-11-17', tag: 'CALIBRATION', version: 'v0.14.0',
     title: 'Audit-calibrated fair odds',
@@ -69,10 +88,12 @@ export const MODEL_UPDATES = [
   },
   {
     date: 'next', tag: 'PENDING',
-    title: 'Model surgery (awaiting sign-off)',
-    detail: 'On deck once approved: demote or reweight the putback term, blend ' +
-      'season-long and last-10 first-shot share, and switch to ' +
-      'audit-calibrated fair odds once ~50 graded picks per league are in. No ' +
-      'edge claims before that sample.',
+    title: 'Live lineups + sizing favorites',
+    detail: 'Two gaps the surgery leaves open. Same-day scratches: the injury ' +
+      'guard only catches multi-game absences, so a player ruled out on game ' +
+      'day still shows unless a fresh DK snapshot is loaded for the slate. And ' +
+      'sizing: the model can now rank a favorite but still can’t price one — a ' +
+      'heavy chalk scorer who rarely takes the opening shot (Tatum, DK’s #2) ' +
+      'lands low on the board. A usage/role input is the candidate fix.',
   },
 ]

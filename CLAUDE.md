@@ -47,11 +47,20 @@ activates late October 2026.
    "MAKE%" display = player's OWN first shot of the game (n ≈ games);
    the formula's fg1 term still uses team-first-attempt conversion.
    **Model = structured three-term, not ML.** P(first basket) ≈
-   P(team first shot | tip) × first-shot share (L10) × first-attempt FG%
-   (shrunk to league mean 0.47, prior n=5) + damped second-chance term.
-   Phase-0 constants: tip winner shoots first ~85%, tip team scores first
-   ~64-66% (NBA/WNBA nearly identical). Don't add factors without
-   measuring effect size first (docs/phase0-findings.md).
+   P(team first shot | tip) × first-shot share × first-attempt FG%
+   (shrunk to league mean 0.47, prior n=5). As of v0.15 (model surgery,
+   2026-11-18, backtested on 91 graded games): first-shot share is a
+   0.5/0.5 blend of L10 and season-long (was L10 only); the second-chance
+   /putback term is REMOVED (it anti-selected toward centers, 14.3%→9.9%
+   hit with it on); the candidate pool is every current-roster player who
+   shoots (own_att>0, was first_shots>0 — so stars who rarely take the
+   opening shot like Tatum no longer vanish, coverage ~71%→~99% in-pool);
+   and an availability guard drops anyone who missed his team's last
+   RECENT_K=3 completed games (caught Markkanen, out 6 straight yet ranked
+   #1). Display caps at 8 players/side by model rank. Phase-0 constants:
+   tip winner shoots first ~85%, tip team scores first ~64-66% (NBA/WNBA
+   nearly identical). Don't add factors without measuring effect size
+   first (docs/phase0-findings.md).
 5. **Book rules:** both DK ("1st Points Scorer") and FanDuel settle first
    POINTS — FTs count — and so does the model (see 4). DK still lists
    separate first-FG markets ("1st Team FG"); don't mix them. BOOK_RULES
@@ -98,10 +107,16 @@ activates late October 2026.
   config.js — flip to false to bring it back; pipeline still supports it.
 - Diagnostic verdict (0-for-77, data/diagnose_rank_bias.py): L10 share has
   no live signal; putback term anti-selects (54% of picks pulled off the
-  top-share player, toward centers). Formula unchanged pending Matt's call;
-  team-level profile stats are the candidate replacement inputs.
+  top-share player, toward centers). ACTED ON in the v0.15 surgery
+  (2026-11-18): putback removed, share blended season+L10, pool widened,
+  injury guard added — see constraint #4. UPDATES tab logs it.
 
 ## Roadmap
-- Model surgery (pending approval): putback reweight/demotion, season+L10
-  share blend, audit-calibrated fair odds once n≈50 per league.
-- Scratch/lineup check near tip time. Raspberry Pi as always-on runner.
+- Live lineups: the v0.15 injury guard catches multi-game absences only; a
+  same-day scratch still shows unless a fresh DK snapshot is loaded. A
+  near-tip scratch/lineup check is the next availability layer.
+- Sizing favorites: the model ranks a favorite but can't price one — a
+  heavy chalk scorer who rarely takes the opening shot (Tatum, DK's #2)
+  lands low. A usage/role input is the candidate fix. Measure effect size
+  on the audit log before shipping (same discipline as the v0.15 surgery).
+- Raspberry Pi as always-on runner.

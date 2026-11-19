@@ -179,8 +179,14 @@ def main():
 
         pick = g["topPick"]
         hit = int(actual["personId"] == pick["playerId"])
+        # Rank the actual scorer by the model's own board order (the emitted
+        # "rank", = composite-score order since v0.15). Falling back to first-shot
+        # share only for pre-v0.15 archives that never emitted a rank. This keeps
+        # actual_board_rank — which feeds the fair-odds calibration — consistent
+        # with what the board actually displayed.
         roster = g["rosters"]["home"] + g["rosters"]["away"]
-        ranked = sorted(roster, key=lambda r: r.get("share", 0), reverse=True)
+        ranked = sorted(roster, key=lambda r: (
+            r["rank"] if r.get("rank") is not None else 1e9, -(r.get("share") or 0)))
         actual_rank = next((i + 1 for i, r in enumerate(ranked)
                             if r["playerId"] == actual["personId"]), None)
 

@@ -2,6 +2,7 @@ import { MODEL_UPDATES } from '../data/modelUpdates.js'
 
 // tag -> display label + style class (colors defined in styles.css)
 const TAGS = {
+  SURGERY:     'u-surg',
   FIX:         'u-fix',
   DATA:        'u-data',
   MARKET:      'u-market',

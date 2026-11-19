@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T02:30:06Z",
+ "generated": "2026-11-19T00:00:16Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -2590,6 +2590,66 @@
    "actualTeam": "PHX",
    "pickPlayerId": 1627750,
    "pickName": "Murray",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600253": {
+   "date": "2026-11-17",
+   "league": "nba",
+   "matchup": "NYK@TOR",
+   "actualPlayerId": 1628969,
+   "actualName": "M. Bridges",
+   "actualTeam": "NYK",
+   "pickPlayerId": 1628973,
+   "pickName": "Brunson",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600254": {
+   "date": "2026-11-17",
+   "league": "nba",
+   "matchup": "POR@MIN",
+   "actualPlayerId": 1630183,
+   "actualName": "J. McDaniels",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1630183,
+   "pickName": "McDaniels",
+   "pickHit": 1,
+   "actualBoardRank": 2
+  },
+  "0022600255": {
+   "date": "2026-11-17",
+   "league": "nba",
+   "matchup": "DET@SAS",
+   "actualPlayerId": 1630170,
+   "actualName": "D. Vassell",
+   "actualTeam": "SAS",
+   "pickPlayerId": 1641705,
+   "pickName": "Wembanyama",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600257": {
+   "date": "2026-11-17",
+   "league": "nba",
+   "matchup": "UTA@LAC",
+   "actualPlayerId": 1630182,
+   "actualName": "J. Green",
+   "actualTeam": "UTA",
+   "pickPlayerId": 1629636,
+   "pickName": "Garland",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600256": {
+   "date": "2026-11-17",
+   "league": "nba",
+   "matchup": "CHA@LAL",
+   "actualPlayerId": 1626172,
+   "actualName": "K. Looney",
+   "actualTeam": "LAL",
+   "pickPlayerId": 1629029,
+   "pickName": "Don\u010di\u0107",
    "pickHit": 0,
    "actualBoardRank": null
   }

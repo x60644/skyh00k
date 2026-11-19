@@ -4,9 +4,27 @@
 // (what the graded picks actually showed). Edit from the phone via the GitHub
 // web UI — Vercel auto-deploys.
 //
-// tag ∈ SURGERY | FIX | DATA | MARKET | CALIBRATION | DIAGNOSTIC | PENDING
+// tag ∈ LINEUP | SURGERY | FIX | DATA | MARKET | CALIBRATION | DIAGNOSTIC | PENDING
 // date: 'YYYY-MM-DD', or 'next' for not-yet-shipped work.
 export const MODEL_UPDATES = [
+  {
+    date: '2026-11-18', tag: 'LINEUP', version: 'v0.16.0',
+    title: 'Starters-only board + same-day scratch coverage',
+    detail: 'The board now shows only each team’s starting five, projected from ' +
+      'their most recent game’s box score (START_POSITION). The first point is ' +
+      'always scored by someone on the floor at the opening tip, so bench names ' +
+      'no longer clutter the board, and a star who starts but rarely takes the ' +
+      'literal opening shot now appears among the five instead of buried at #14. ' +
+      'On top of that, a same-day OUT/Doubtful feed (ESPN injuries) drops anyone ' +
+      'ruled out tonight even if they played last game — the gap the multi-game ' +
+      'injury guard couldn’t cover. Austin Reaves (Out) and Kingston Flemings ' +
+      '(Out, the old ATL #1 pick) are now off the board.',
+    result: 'The trade-off: the tighter starters-only board shows the actual ' +
+      'first scorer ~76% of games (the wider v0.15 board reached ~99% but buried ' +
+      'the pick among bench players). The win is a clean five-per-side board with ' +
+      'OUT players gone. When a projected starter is ruled out, that side shows ' +
+      'four until tip-time lineups confirm the replacement.',
+  },
   {
     date: '2026-11-18', tag: 'SURGERY', version: 'v0.15.0',
     title: 'Model surgery: wider board, injury guard, putback dropped',
@@ -88,12 +106,13 @@ export const MODEL_UPDATES = [
   },
   {
     date: 'next', tag: 'PENDING',
-    title: 'Live lineups + sizing favorites',
-    detail: 'Two gaps the surgery leaves open. Same-day scratches: the injury ' +
-      'guard only catches multi-game absences, so a player ruled out on game ' +
-      'day still shows unless a fresh DK snapshot is loaded for the slate. And ' +
-      'sizing: the model can now rank a favorite but still can’t price one — a ' +
-      'heavy chalk scorer who rarely takes the opening shot (Tatum, DK’s #2) ' +
-      'lands low on the board. A usage/role input is the candidate fix.',
+    title: 'Confirmed lineups + sizing favorites',
+    detail: 'Two gaps left. Projected vs confirmed starters: the five come from ' +
+      'last game’s box score, so a tip-time lineup change (a promotion, a ' +
+      'surprise start) is missed until official lineups post ~30 min before ' +
+      'tip — a near-tip refresh would close it. And sizing: the model ranks a ' +
+      'favorite but still can’t price one — a heavy chalk scorer who rarely ' +
+      'takes the opening shot (Tatum) lands low among the five. A usage/role ' +
+      'input is the candidate fix.',
   },
 ]

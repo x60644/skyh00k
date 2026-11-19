@@ -12,6 +12,8 @@ activates late October 2026.
 - `data/` — Python pipeline (nba_api). `build_slate.py` computes factors and
   writes `app/public/slate.json` + archives to `data/slates/`.
   `audit_slate.py` grades past slates into `data/audit_log.csv` (append-only).
+  `lineups.py` pulls same-day OUT players (ESPN) + each team's last-game
+  starting five (nba_api box scores) — the starters-only board (constraint #7).
 - `data/cache/` — play-by-play CSVs, ~1,500 files / 110MB. NOTE: these ARE
   tracked in git (the gitignore line was lost at some point) — do NOT
   `git rm --cached` them casually: a pull of that commit would delete the
@@ -57,10 +59,16 @@ activates late October 2026.
    opening shot like Tatum no longer vanish, coverage ~71%→~99% in-pool);
    and an availability guard drops anyone who missed his team's last
    RECENT_K=3 completed games (caught Markkanen, out 6 straight yet ranked
-   #1). Display caps at 8 players/side by model rank. Phase-0 constants:
-   tip winner shoots first ~85%, tip team scores first ~64-66% (NBA/WNBA
-   nearly identical). Don't add factors without measuring effect size
-   first (docs/phase0-findings.md).
+   #1). As of v0.16 (2026-11-18): the board is STARTERS-ONLY — pool +
+   display restricted to each team's five from their most recent game's box
+   score (data/lineups.py last_game_starters, START_POSITION=G/F/C), minus
+   same-day OUT. The first point is always scored by a player on the floor
+   at the tip, so this is correct, not just cosmetic; coverage of the actual
+   scorer is ~76% (vs ~99% for the v0.15 wide board — the trade for a clean
+   five-per-side board). Fails open to the wide pool if a box score can't be
+   fetched. Phase-0 constants: tip winner shoots first ~85%, tip team scores
+   first ~64-66% (NBA/WNBA nearly identical). Don't add factors without
+   measuring effect size first (docs/phase0-findings.md).
 5. **Book rules:** both DK ("1st Points Scorer") and FanDuel settle first
    POINTS — FTs count — and so does the model (see 4). DK still lists
    separate first-FG markets ("1st Team FG"); don't mix them. BOOK_RULES
@@ -68,6 +76,12 @@ activates late October 2026.
 6. **PlayByPlayV3 only** (V2 endpoint is dead). Jump-ball descriptions use
    bare last names ("Tip to Thompson") — parser maps playerName→team with
    an ambiguity guard.
+7. **Same-day availability = ESPN injuries feed** (data/lineups.py
+   fetch_out_players, public site.api.espn.com, no creds/PII, stdlib urllib).
+   Status Out/Doubtful → dropped from tonight's board; matched to nba_api
+   personIds by (first initial, accent-folded last name). Runs only when
+   building TODAY's NBA slate. Fails open (no gate) on any network/parse
+   error. nba_api box scores cache under data/cache/box/box_{gid}.csv.
 
 ## Conventions
 - Verdicts: BET (edge ≥ 3pts of implied prob), VALUE (≥ 1pt), PASS.
@@ -112,9 +126,10 @@ activates late October 2026.
   injury guard added — see constraint #4. UPDATES tab logs it.
 
 ## Roadmap
-- Live lineups: the v0.15 injury guard catches multi-game absences only; a
-  same-day scratch still shows unless a fresh DK snapshot is loaded. A
-  near-tip scratch/lineup check is the next availability layer.
+- Confirmed lineups: v0.16 projects the starting five from last game's box
+  score + ESPN same-day OUT. A tip-time lineup change (promotion, surprise
+  start) is still missed until official lineups post ~30 min pre-tip; a
+  near-tip refresh (on RUN NOW close to tip) would close the ~24% coverage gap.
 - Sizing favorites: the model ranks a favorite but can't price one — a
   heavy chalk scorer who rarely takes the opening shot (Tatum, DK's #2)
   lands low. A usage/role input is the candidate fix. Measure effect size

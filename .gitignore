@@ -1,2 +1,6 @@
 app/node_modules/
 data/supabase.env
+
+# box-score cache (laptop-only pipeline cache; last-game starters). Unlike the
+# pbp cache this is NOT tracked — the nightly build refetches only ~30/night.
+data/cache/box/

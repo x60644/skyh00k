@@ -45,6 +45,7 @@ except ImportError:
     sys.exit("Missing dependency. Run:  pip install nba_api pandas")
 
 from calibration import load_calibration, calibrated_prob
+from lineups import fetch_out_players, last_game_starters, name_key
 
 CACHE_DIR = "cache"
 OUT_PATH = os.path.join("..", "app", "public", "slate.json")
@@ -523,11 +524,12 @@ def fair_odds(p):
 def build_game_card(g, players, team_games, team_tips, league,
                     pos_map, conc_team, conc_league, conc_total, lines,
                     team_stats=None, team_log=None, h2h=None, roster_ids=None,
-                    dk_ids=None, calib=None):
+                    dk_ids=None, calib=None, out_map=None):
     team_stats = team_stats or {}
     team_log = team_log or {}
     h2h = h2h or {}
     roster_ids = roster_ids or {}
+    out_map = out_map or {}
     def team_players(tri):
         # Candidate pool = every CURRENT-roster player who has taken a shot in
         # the window (own_att>0), not just players who took a game's literal
@@ -624,14 +626,15 @@ def build_game_card(g, players, team_games, team_tips, league,
     n_a = len(set(team_games.get(a_tri, []))) or 1
     h_rows, a_rows = team_players(h_tri), team_players(a_tri)
 
-    # Availability guard. Two complementary OUT signals:
+    # ---- availability: who is OUT tonight (removed from the pool) ----
     #  (1) recent-absence: a current-roster player who has NOT appeared in his
     #      team's last RECENT_K completed games is almost certainly a multi-game
-    #      injury (Markkanen missed 6 straight yet still ranked #1). Data-only,
-    #      no feed needed; backtest wrongly benches a real first scorer ~1%.
-    #  (2) DK snapshot: when a dated first-points board exists, a roster player
-    #      absent from it is scratched — catches same-day actives the recent
-    #      window can't. If either filter wipes the board, fail open.
+    #      injury (Markkanen missed 6 straight yet still ranked #1). Data-only.
+    #  (2) ESPN same-day OUT/Doubtful list (out_map): catches a player who suited
+    #      up last game but is ruled out tonight — e.g. Austin Reaves — which the
+    #      recent-absence window can't see.
+    #  (3) DK snapshot (legacy): when a dated first-points board exists, a roster
+    #      player absent from it is scratched.
     def absentees(tri, rows):
         gids = sorted(set(team_games.get(tri, [])))[-RECENT_K:]
         if len(gids) < RECENT_K:
@@ -639,11 +642,35 @@ def build_game_card(g, players, team_games, team_tips, league,
         seen = set().union(*(pbp_personids(g) for g in gids))
         return {r["personId"] for r in rows if r["personId"] not in seen}
 
-    out_ids = absentees(h_tri, h_rows) | absentees(a_tri, a_rows)
+    def espn_out(tri, rows):
+        keys = out_map.get(tri) or set()
+        if not keys:
+            return set()
+        return {r["personId"] for r in rows
+                if name_key(r["name"].split(". ")[0], r["name"].split(". ")[-1]) in keys}
+
+    out_ids = (absentees(h_tri, h_rows) | absentees(a_tri, a_rows)
+               | espn_out(h_tri, h_rows) | espn_out(a_tri, a_rows))
     if dk_ids is not None:
         out_ids |= {r["personId"] for r in h_rows + a_rows if r["personId"] not in dk_ids}
-    avail = lambda rows: [r for r in rows if r["personId"] not in out_ids]
-    scored = score_side(avail(h_rows), p_shot_h, n_h) + score_side(avail(a_rows), 1 - p_shot_h, n_a)
+
+    # ---- starters: restrict the board to each team's starting five ----
+    # The first point is always scored by someone on the floor at the opening
+    # tip, so the board should show only starters. We project tonight's five from
+    # each team's most recent completed game (START_POSITION); minus anyone now
+    # OUT. Backtest: the actual first scorer is a prior-game starter ~76% of the
+    # time. Fail open to the full available pool when starters can't be fetched.
+    def pool(tri, rows):
+        base = [r for r in rows if r["personId"] not in out_ids]
+        last = max(team_games.get(tri, []), default=None)
+        starters = last_game_starters(last).get(tri) if last else None
+        if not starters:
+            return base                                  # fail open: wide pool
+        keep = [r for r in base if r["personId"] in starters]
+        return keep or base                              # fail open if none match
+
+    scored = (score_side(pool(h_tri, h_rows), p_shot_h, n_h)
+              + score_side(pool(a_tri, a_rows), 1 - p_shot_h, n_a))
     if not scored:
         out_ids = set()
         scored = score_side(h_rows, p_shot_h, n_h) + score_side(a_rows, 1 - p_shot_h, n_a)
@@ -831,6 +858,17 @@ def main():
     if dk_boards:
         print(f"DK snapshot matches {date_str}: gating {len(dk_boards)} game(s) on availability.")
 
+    # same-day OUT/Doubtful list (ESPN) — only meaningful when building today's
+    # slate; a backfilled past date would gate on the wrong day's injuries.
+    out_map = {}
+    if date_str == et_today.isoformat() and league == "nba":
+        out_map = fetch_out_players()
+        n_out = sum(len(v) for v in out_map.values())
+        print(f"ESPN injuries: {n_out} player(s) OUT/Doubtful across "
+              f"{len(out_map)} team(s).")
+    else:
+        print("Skipping same-day OUT gate (not building today's NBA slate).")
+
     calib = load_calibration(CAL_PATH, league)   # audit-calibrated fair odds by rank
     if calib:
         print(f"Calibration loaded: rank-1 fair = {fair_odds(calib[1])} "
@@ -844,7 +882,7 @@ def main():
                                       lines, team_stats, team_log, h2h,
                                       roster_ids=roster_ids,
                                       dk_ids=dk_boards.get(str(g["gameId"])),
-                                      calib=calib))]
+                                      calib=calib, out_map=out_map))]
 
     # guard: never write the same game twice (keeps the SLATE board and the
     # archive the audit grades off one-card-per-game, even if the schedule

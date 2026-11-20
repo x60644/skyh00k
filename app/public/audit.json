@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T02:35:31Z",
+ "generated": "2026-11-20T00:00:23Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -2652,6 +2652,150 @@
    "pickName": "Don\u010di\u0107",
    "pickHit": 0,
    "actualBoardRank": null
+  },
+  "0022600258": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "MEM@CLE",
+   "actualPlayerId": 1643409,
+   "actualName": "C. Boozer",
+   "actualTeam": "MEM",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "0022600259": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "HOU@IND",
+   "actualPlayerId": 1631245,
+   "actualName": "Q. Jackson",
+   "actualTeam": "IND",
+   "pickPlayerId": 1627783,
+   "pickName": "Siakam",
+   "pickHit": 0,
+   "actualBoardRank": 6
+  },
+  "0022600260": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "MIL@MIA",
+   "actualPlayerId": 202691,
+   "actualName": "K. Thompson",
+   "actualTeam": "MIA",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600261": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "PHI@ORL",
+   "actualPlayerId": 2544,
+   "actualName": "L. James",
+   "actualTeam": "PHI",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600262": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "CHI@BKN",
+   "actualPlayerId": 1642849,
+   "actualName": "N. Traore",
+   "actualTeam": "BKN",
+   "pickPlayerId": 1629008,
+   "pickName": "Porter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 8
+  },
+  "0022600263": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "WAS@TOR",
+   "actualPlayerId": 203076,
+   "actualName": "A. Davis",
+   "actualTeam": "WAS",
+   "pickPlayerId": 1642266,
+   "pickName": "Walter",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "0022600264": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "DET@NOP",
+   "actualPlayerId": 1628989,
+   "actualName": "K. Huerter",
+   "actualTeam": "DET",
+   "pickPlayerId": 1641709,
+   "pickName": "Thompson",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600265": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "ATL@OKC",
+   "actualPlayerId": 1643530,
+   "actualName": "A. Mara",
+   "actualTeam": "OKC",
+   "pickPlayerId": 1629638,
+   "pickName": "Alexander-Walker",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600267": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "GSW@DAL",
+   "actualPlayerId": 1641764,
+   "actualName": "B. Podziemski",
+   "actualTeam": "GSW",
+   "pickPlayerId": 1641764,
+   "pickName": "Podziemski",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "0022600266": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "BOS@DEN",
+   "actualPlayerId": 1628369,
+   "actualName": "J. Tatum",
+   "actualTeam": "BOS",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
+   "pickHit": 0,
+   "actualBoardRank": 10
+  },
+  "0022600268": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "UTA@LAL",
+   "actualPlayerId": 1629029,
+   "actualName": "L. Don\u010di\u0107",
+   "actualTeam": "LAL",
+   "pickPlayerId": 1629029,
+   "pickName": "Don\u010di\u0107",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "0022600269": {
+   "date": "2026-11-18",
+   "league": "nba",
+   "matchup": "PHX@SAC",
+   "actualPlayerId": 1628415,
+   "actualName": "D. Brooks",
+   "actualTeam": "PHX",
+   "pickPlayerId": 1630224,
+   "pickName": "Green",
+   "pickHit": 0,
+   "actualBoardRank": 2
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T02:30:15Z",
+ "generated": "2026-11-21T00:00:18Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -2796,6 +2796,54 @@
    "pickName": "Green",
    "pickHit": 0,
    "actualBoardRank": 2
+  },
+  "0022600270": {
+   "date": "2026-11-19",
+   "league": "nba",
+   "matchup": "GSW@MEM",
+   "actualPlayerId": 1642377,
+   "actualName": "J. Wells",
+   "actualTeam": "MEM",
+   "pickPlayerId": 1641764,
+   "pickName": "Podziemski",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600271": {
+   "date": "2026-11-19",
+   "league": "nba",
+   "matchup": "POR@MIL",
+   "actualPlayerId": 203081,
+   "actualName": "D. Lillard",
+   "actualTeam": "POR",
+   "pickPlayerId": 1642270,
+   "pickName": "Clingan",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "0022600272": {
+   "date": "2026-11-19",
+   "league": "nba",
+   "matchup": "NYK@MIN",
+   "actualPlayerId": 1630245,
+   "actualName": "A. Dosunmu",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1628973,
+   "pickName": "Brunson",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600273": {
+   "date": "2026-11-19",
+   "league": "nba",
+   "matchup": "LAC@SAS",
+   "actualPlayerId": 1629636,
+   "actualName": "D. Garland",
+   "actualTeam": "LAC",
+   "pickPlayerId": 1630170,
+   "pickName": "Vassell",
+   "pickHit": 0,
+   "actualBoardRank": 5
   }
  }
 }

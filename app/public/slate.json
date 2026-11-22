@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T00:02:05Z",
+ "generated": "2026-11-22T02:31:52Z",
  "date": "2026-11-21",
  "league": "nba",
  "games": [
@@ -550,7 +550,7 @@
   {
    "id": "0022600275",
    "league": "nba",
-   "tipEt": "7:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "NYK",
     "name": "New York Knicks",
@@ -1092,7 +1092,7 @@
   {
    "id": "0022600276",
    "league": "nba",
-   "tipEt": "8:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "DAL",
     "name": "Dallas Mavericks",
@@ -1659,7 +1659,7 @@
   {
    "id": "0022600277",
    "league": "nba",
-   "tipEt": "8:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "MIN",
     "name": "Minnesota Timberwolves",
@@ -2214,7 +2214,7 @@
   {
    "id": "0022600278",
    "league": "nba",
-   "tipEt": "8:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "SAS",
     "name": "San Antonio Spurs",
@@ -2306,24 +2306,11 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
-      "fairOdds": "+1558"
+      "rank": 5,
+      "fairOdds": "+1189"
      }
     ],
     "away": [
-     {
-      "playerId": 1629627,
-      "name": "Williamson",
-      "pos": "F",
-      "share": 10,
-      "fg": 62,
-      "att": 76,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 5,
-      "fairOdds": "+1189"
-     },
      {
       "playerId": 1630529,
       "name": "Jones",
@@ -2334,8 +2321,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1834"
+      "rank": 6,
+      "fairOdds": "+1558"
      },
      {
       "playerId": 1630180,
@@ -2347,8 +2334,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
-      "fairOdds": "+2010"
+      "rank": 7,
+      "fairOdds": "+1834"
      },
      {
       "playerId": 1642847,
@@ -2360,7 +2347,7 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 9,
+      "rank": 8,
       "fairOdds": "+2010"
      },
      {
@@ -2373,8 +2360,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
-      "fairOdds": "+5714"
+      "rank": 9,
+      "fairOdds": "+2010"
      }
     ]
    },

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T02:30:13Z",
+ "generated": "2026-11-22T00:00:24Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -2844,6 +2844,114 @@
    "pickName": "Vassell",
    "pickHit": 0,
    "actualBoardRank": 5
+  },
+  "0022600043": {
+   "date": "2026-11-20",
+   "league": "nba",
+   "matchup": "CHA@ATL",
+   "actualPlayerId": 1630552,
+   "actualName": "J. Johnson",
+   "actualTeam": "ATL",
+   "pickPlayerId": 1629638,
+   "pickName": "Alexander-Walker",
+   "pickHit": 0,
+   "actualBoardRank": 6
+  },
+  "0022600044": {
+   "date": "2026-11-20",
+   "league": "nba",
+   "matchup": "ORL@BKN",
+   "actualPlayerId": 1630217,
+   "actualName": "D. Bane",
+   "actualTeam": "ORL",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "0022600045": {
+   "date": "2026-11-20",
+   "league": "nba",
+   "matchup": "IND@CLE",
+   "actualPlayerId": 1626162,
+   "actualName": "K. Oubre Jr.",
+   "actualTeam": "IND",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": 10
+  },
+  "0022600046": {
+   "date": "2026-11-20",
+   "league": "nba",
+   "matchup": "TOR@DET",
+   "actualPlayerId": 1630567,
+   "actualName": "S. Barnes",
+   "actualTeam": "TOR",
+   "pickPlayerId": 1641709,
+   "pickName": "Thompson",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600047": {
+   "date": "2026-11-20",
+   "league": "nba",
+   "matchup": "WAS@CHI",
+   "actualPlayerId": 1626181,
+   "actualName": "N. Powell",
+   "actualTeam": "CHI",
+   "pickPlayerId": 1629027,
+   "pickName": "Young",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600048": {
+   "date": "2026-11-20",
+   "league": "nba",
+   "matchup": "NOP@OKC",
+   "actualPlayerId": 1628983,
+   "actualName": "S. Gilgeous-Alexander",
+   "actualTeam": "OKC",
+   "pickPlayerId": 1628392,
+   "pickName": "Hartenstein",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "0022600049": {
+   "date": "2026-11-20",
+   "league": "nba",
+   "matchup": "PHX@UTA",
+   "actualPlayerId": 1630224,
+   "actualName": "J. Green",
+   "actualTeam": "PHX",
+   "pickPlayerId": 1630224,
+   "pickName": "Green",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "0022600050": {
+   "date": "2026-11-20",
+   "league": "nba",
+   "matchup": "HOU@DEN",
+   "actualPlayerId": 1629661,
+   "actualName": "C. Johnson",
+   "actualTeam": "DEN",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "0022600051": {
+   "date": "2026-11-20",
+   "league": "nba",
+   "matchup": "SAC@LAL",
+   "actualPlayerId": 1629680,
+   "actualName": "M. Thybulle",
+   "actualTeam": "LAL",
+   "pickPlayerId": 1629029,
+   "pickName": "Don\u010di\u0107",
+   "pickHit": 0,
+   "actualBoardRank": 4
   }
  }
 }

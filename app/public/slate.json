@@ -1,414 +1,400 @@
 {
- "generated": "2026-11-22T02:31:52Z",
- "date": "2026-11-21",
+ "generated": "2026-11-23T00:01:54Z",
+ "date": "2026-11-22",
  "league": "nba",
  "games": [
   {
-   "id": "0022600274",
+   "id": "0022600280",
    "league": "nba",
    "tipEt": "Final",
    "home": {
-    "tri": "PHI",
-    "name": "Philadelphia 76ers",
-    "teamId": 1610612755
+    "tri": "ATL",
+    "name": "Atlanta Hawks",
+    "teamId": 1610612737
    },
    "away": {
-    "tri": "MIL",
-    "name": "Milwaukee Bucks",
-    "teamId": 1610612749
+    "tri": "DET",
+    "name": "Detroit Pistons",
+    "teamId": 1610612765
    },
    "tip": {
-    "homePlayer": "Embiid",
-    "awayPlayer": "Turner",
-    "homeWinPct": 65
+    "homePlayer": "Okongwu",
+    "awayPlayer": "Duren",
+    "homeWinPct": 54
    },
    "topPick": {
-    "playerId": 2544,
-    "name": "James",
-    "pos": "F",
-    "side": "home",
+    "playerId": 1641709,
+    "name": "Thompson",
+    "pos": "G-F",
+    "side": "away",
     "bookOdds": null,
-    "fairOdds": "+544",
+    "fairOdds": "+510",
     "rank": 1,
-    "share": 30,
+    "share": 20,
     "verdict": null,
-    "why": "PHI controls the jump 65% here and scores the game's first point in 54% of its games; James takes 30% of its opening shots and makes 46% of his own first look."
+    "why": "DET controls the jump 46% here and scores the game's first point in 49% of its games; Thompson takes 20% of its opening shots and makes 42% of his own first look."
    },
    "rosters": {
     "home": [
      {
-      "playerId": 2544,
-      "name": "James",
-      "pos": "F",
-      "share": 30,
-      "fg": 46,
-      "att": 13,
-      "thin": false,
-      "hot": true,
-      "out": false,
-      "rank": 1,
-      "fairOdds": "+544"
-     },
-     {
-      "playerId": 1630178,
-      "name": "Maxey",
+      "playerId": 1643412,
+      "name": "Flemings",
       "pos": "G",
       "share": 20,
-      "fg": 51,
-      "att": 86,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 2,
-      "fairOdds": "+792"
-     },
-     {
-      "playerId": 203954,
-      "name": "Embiid",
-      "pos": "C-F",
-      "share": 10,
-      "fg": 52,
-      "att": 52,
+      "fg": 33,
+      "att": 9,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 3,
-      "fairOdds": "+792"
+      "fairOdds": "+803"
      },
      {
-      "playerId": 1642845,
-      "name": "Edgecombe",
+      "playerId": 1629638,
+      "name": "Alexander-Walker",
       "pos": "G",
       "share": 10,
-      "fg": 50,
-      "att": 90,
+      "fg": 45,
+      "att": 94,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 4,
-      "fairOdds": "+1189"
+      "fairOdds": "+1184"
      },
      {
-      "playerId": 203484,
-      "name": "Caldwell-Pope",
-      "pos": "G",
-      "share": 0,
-      "fg": 33,
-      "att": 12,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 9,
-      "fairOdds": "+2010"
-     }
-    ],
-    "away": [
-     {
-      "playerId": 1628398,
-      "name": "Kuzma",
-      "pos": "F",
+      "playerId": 1630168,
+      "name": "Okongwu",
+      "pos": "F-C",
       "share": 10,
-      "fg": 45,
-      "att": 74,
+      "fg": 48,
+      "att": 87,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 5,
-      "fairOdds": "+1189"
+      "fairOdds": "+1184"
      },
      {
-      "playerId": 1631157,
-      "name": "Rollins",
-      "pos": "G",
-      "share": 0,
-      "fg": 41,
-      "att": 83,
+      "playerId": 1630552,
+      "name": "Johnson",
+      "pos": "F",
+      "share": 10,
+      "fg": 45,
+      "att": 86,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 6,
-      "fairOdds": "+1558"
+      "fairOdds": "+1642"
      },
      {
-      "playerId": 1626167,
-      "name": "Turner",
-      "pos": "C-F",
-      "share": 0,
-      "fg": 40,
-      "att": 84,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 7,
-      "fairOdds": "+1834"
-     },
-     {
-      "playerId": 1631170,
-      "name": "Jaquez Jr.",
+      "playerId": 1630700,
+      "name": "Daniels",
       "pos": "G",
       "share": 0,
-      "fg": 69,
-      "att": 16,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 8,
-      "fairOdds": "+2010"
-     },
-     {
-      "playerId": 1629639,
-      "name": "Herro",
-      "pos": "G",
-      "share": 0,
-      "fg": 31,
-      "att": 16,
+      "fg": 52,
+      "att": 89,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 10,
-      "fairOdds": "+5714"
+      "fairOdds": "+5998"
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1641709,
+      "name": "Thompson",
+      "pos": "G-F",
+      "share": 20,
+      "fg": 42,
+      "att": 74,
+      "thin": false,
+      "hot": true,
+      "out": false,
+      "rank": 1,
+      "fairOdds": "+510"
+     },
+     {
+      "playerId": 1630595,
+      "name": "Cunningham",
+      "pos": "G",
+      "share": 10,
+      "fg": 49,
+      "att": 79,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 2,
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 1642450,
+      "name": "Jenkins",
+      "pos": "G",
+      "share": 10,
+      "fg": 46,
+      "att": 63,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
+      "fairOdds": "+1933"
+     },
+     {
+      "playerId": 1628989,
+      "name": "Huerter",
+      "pos": "G-F",
+      "share": 10,
+      "fg": 50,
+      "att": 34,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 8,
+      "fairOdds": "+1933"
+     },
+     {
+      "playerId": 1628381,
+      "name": "Collins",
+      "pos": "F-C",
+      "share": 10,
+      "fg": 43,
+      "att": 14,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 9,
+      "fairOdds": "+1933"
      }
     ]
    },
    "profile": {
     "home": {
-     "tri": "PHI",
+     "tri": "ATL",
      "games": 99,
-     "jumper": "Embiid",
-     "jumperTipPct": 49,
-     "jumperTips": 37,
-     "teamTipPct": 53,
-     "firstShotPct": 49,
-     "firstScorePct": 54,
-     "firstAttFgPct": 61,
-     "fgaToFirstFg": 1.8,
+     "jumper": "Okongwu",
+     "jumperTipPct": 45,
+     "jumperTips": 76,
+     "teamTipPct": 51,
+     "firstShotPct": 52,
+     "firstScorePct": 52,
+     "firstAttFgPct": 47,
+     "fgaToFirstFg": 2.1,
      "h2h": {
-      "w": 3,
+      "w": 4,
       "l": 0
      }
     },
     "away": {
-     "tri": "MIL",
-     "games": 99,
-     "jumper": "Turner",
-     "jumperTipPct": 22,
-     "jumperTips": 81,
-     "teamTipPct": 28,
-     "firstShotPct": 34,
-     "firstScorePct": 41,
-     "firstAttFgPct": 42,
-     "fgaToFirstFg": 2.2,
+     "tri": "DET",
+     "games": 98,
+     "jumper": "Duren",
+     "jumperTipPct": 41,
+     "jumperTips": 68,
+     "teamTipPct": 43,
+     "firstShotPct": 48,
+     "firstScorePct": 49,
+     "firstAttFgPct": 55,
+     "fgaToFirstFg": 1.9,
      "h2h": {
       "w": 0,
-      "l": 3
+      "l": 4
      }
     }
    },
    "last10": {
     "home": [
      {
-      "date": "2026-11-21",
-      "opp": "MIL",
+      "date": "2026-11-22",
+      "opp": "DET",
       "tip": true,
       "firstShotUs": true,
-      "fb": "James",
+      "fb": "Johnson",
       "fbUs": true
      },
      {
       "date": "2026-11-18",
-      "opp": "ORL",
-      "tip": true,
+      "opp": "OKC",
+      "tip": null,
       "firstShotUs": true,
-      "fb": "James",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-16",
-      "opp": "BKN",
-      "tip": false,
-      "firstShotUs": true,
-      "fb": "Maxey",
-      "fbUs": true
+      "fb": "Mara",
+      "fbUs": false
      },
      {
       "date": "2026-11-15",
-      "opp": "IND",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Maxey",
+      "opp": "MIL",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Kuzma",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-09",
+      "opp": "LAL",
+      "tip": null,
+      "firstShotUs": false,
+      "fb": "Okongwu",
       "fbUs": true
      },
      {
-      "date": "2026-11-12",
-      "opp": "TOR",
+      "date": "2026-11-07",
+      "opp": "BKN",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Poeltl",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-10",
-      "opp": "BOS",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "George",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-08",
-      "opp": "CHI",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Okoro",
+      "fb": "Traore",
       "fbUs": false
      },
      {
       "date": "2026-11-04",
-      "opp": "DET",
+      "opp": "WAS",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Robinson",
-      "fbUs": false
+      "fb": "Flemings",
+      "fbUs": true
      },
      {
       "date": "2026-11-02",
-      "opp": "CHI",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Brown",
+      "opp": "IND",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Alexander-Walker",
       "fbUs": true
      },
      {
       "date": "2026-10-31",
-      "opp": "CHA",
+      "opp": "NOP",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Edgecombe",
+      "fb": "Alexander-Walker",
       "fbUs": true
+     },
+     {
+      "date": "2026-10-29",
+      "opp": "CLE",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Mobley",
+      "fbUs": false
+     },
+     {
+      "date": "2026-10-28",
+      "opp": "MIA",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Adebayo",
+      "fbUs": false
      }
     ],
     "away": [
      {
-      "date": "2026-11-21",
-      "opp": "PHI",
+      "date": "2026-11-22",
+      "opp": "ATL",
       "tip": false,
       "firstShotUs": false,
-      "fb": "James",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-19",
-      "opp": "POR",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Lillard",
+      "fb": "Johnson",
       "fbUs": false
      },
      {
       "date": "2026-11-18",
-      "opp": "MIA",
+      "opp": "NOP",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Huerter",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-17",
+      "opp": "SAS",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Thompson",
+      "fb": "Vassell",
       "fbUs": false
      },
      {
-      "date": "2026-11-15",
-      "opp": "ATL",
+      "date": "2026-11-14",
+      "opp": "MIA",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Kuzma",
+      "fb": "Thompson",
       "fbUs": true
      },
      {
-      "date": "2026-11-11",
-      "opp": "LAL",
+      "date": "2026-11-12",
+      "opp": "WAS",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Jenkins",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-09",
+      "opp": "WAS",
       "tip": false,
-      "firstShotUs": false,
-      "fb": "Herro",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-10",
-      "opp": "NYK",
-      "tip": true,
       "firstShotUs": true,
-      "fb": "Turner",
+      "fb": "Collins",
       "fbUs": true
      },
      {
       "date": "2026-11-08",
-      "opp": "BOS",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Burries",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-04",
-      "opp": "BOS",
+      "opp": "LAL",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Hauser",
+      "fb": "Reaves",
       "fbUs": false
      },
      {
-      "date": "2026-11-02",
-      "opp": "MIN",
+      "date": "2026-11-04",
+      "opp": "PHI",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Jaquez Jr.",
+      "fb": "Robinson",
       "fbUs": true
      },
      {
-      "date": "2026-10-31",
-      "opp": "CLE",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Turner",
-      "fbUs": true
+      "date": "2026-11-02",
+      "opp": "CHA",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Diabaté",
+      "fbUs": false
+     },
+     {
+      "date": "2026-10-28",
+      "opp": "CHA",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Reid",
+      "fbUs": false
      }
     ]
    },
    "callouts": [
     {
      "tag": "IN",
-     "text": "L. James takes 30% of PHI first shots over the last 10 games"
+     "text": "A. Thompson takes 20% of DET first shots over the last 10 games"
     },
     {
      "tag": "IN",
-     "text": "PHI wins parsed opening tips at 53%, MIL at 28%"
+     "text": "ATL wins parsed opening tips at 51%, DET at 43%"
     },
     {
      "tag": "WATCH",
-     "text": "J. Embiid has 6 second-chance first baskets — putback pathway"
+     "text": "ATL concedes first baskets to opposing centers at 1.5× league rate (n=47)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "DET concedes first baskets to opposing forwards at 1.3× league rate (n=50)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "N. Alexander-Walker has 5 second-chance first baskets — putback pathway"
     }
    ],
    "badges": [
     {
-     "player": "Maxey",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "4 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Embiid",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "6 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Brown",
+     "player": "Flemings",
      "items": [
       {
        "icon": "🧊",
@@ -417,534 +403,500 @@
        "tier": "cold"
       }
      ]
+    },
+    {
+     "player": "Alexander-Walker",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 second-chance first points",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Okongwu",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 second-chance first points",
+       "tier": ""
+      }
+     ]
     }
    ],
    "shots": {
-    "playerLabel": "James L10",
+    "playerLabel": "Thompson L10",
     "player": {
      "makes": [
       [
-       246,
-       408
+       250,
+       416
       ],
       [
-       340,
-       177
-      ],
-      [
-       252,
-       419
+       260,
+       411
       ]
      ],
      "misses": [
       [
-       261,
-       358
-      ],
-      [
-       275,
-       413
+       268,
+       411
       ]
      ]
     },
     "team": {
      "makes": [
       [
-       56,
-       259
+       250,
+       410
       ],
       [
-       246,
-       408
+       357,
+       192
       ],
       [
-       273,
-       414
+       39,
+       291
       ],
       [
-       256,
-       330
+       250,
+       416
       ],
       [
-       29,
-       270
+       479,
+       395
       ],
       [
-       229,
-       357
+       162,
+       160
       ],
       [
-       251,
-       432
+       260,
+       411
       ],
       [
-       249,
-       386
+       287,
+       326
       ],
       [
-       340,
-       177
+       485,
+       424
       ],
       [
-       252,
-       419
+       243,
+       369
       ]
      ],
      "misses": [
       [
-       145,
-       192
-      ],
-      [
-       237,
-       392
-      ],
-      [
-       261,
-       358
-      ],
-      [
-       204,
-       167
-      ],
-      [
-       192,
-       385
-      ],
-      [
-       275,
-       413
-      ],
-      [
-       452,
-       251
-      ],
-      [
-       491,
-       414
-      ],
-      [
-       192,
-       245
-      ],
-      [
-       366,
-       193
-      ],
-      [
-       440,
-       237
-      ],
-      [
-       269,
+       467,
        282
       ],
       [
-       236,
-       412
+       202,
+       401
+      ],
+      [
+       423,
+       221
+      ],
+      [
+       278,
+       396
+      ],
+      [
+       358,
+       164
+      ],
+      [
+       15,
+       353
+      ],
+      [
+       211,
+       316
+      ],
+      [
+       357,
+       395
+      ],
+      [
+       268,
+       411
+      ],
+      [
+       139,
+       178
       ]
      ]
     }
    }
   },
   {
-   "id": "0022600275",
+   "id": "0022600281",
    "league": "nba",
-   "tipEt": "2nd Qtr             ",
+   "tipEt": "1st Qtr             ",
    "home": {
-    "tri": "NYK",
-    "name": "New York Knicks",
-    "teamId": 1610612752
+    "tri": "MIA",
+    "name": "Miami Heat",
+    "teamId": 1610612748
    },
    "away": {
-    "tri": "POR",
-    "name": "Portland Trail Blazers",
-    "teamId": 1610612757
+    "tri": "OKC",
+    "name": "Oklahoma City Thunder",
+    "teamId": 1610612760
    },
    "tip": {
-    "homePlayer": "Towns",
-    "awayPlayer": "Clingan",
-    "homeWinPct": 46
+    "homePlayer": "Adebayo",
+    "awayPlayer": "Holmgren",
+    "homeWinPct": 56
    },
    "topPick": {
-    "playerId": 1628973,
-    "name": "Brunson",
-    "pos": "G",
+    "playerId": 1628389,
+    "name": "Adebayo",
+    "pos": "C-F",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+544",
+    "fairOdds": "+510",
     "rank": 1,
-    "share": 40,
+    "share": 30,
     "verdict": null,
-    "why": "NYK controls the jump 46% here and scores the game's first point in 60% of its games; Brunson takes 40% of its opening shots and makes 45% of his own first look."
+    "why": "MIA controls the jump 56% here and scores the game's first point in 62% of its games; Adebayo takes 30% of its opening shots and makes 45% of his own first look."
    },
    "rosters": {
     "home": [
      {
-      "playerId": 1628973,
-      "name": "Brunson",
-      "pos": "G",
-      "share": 40,
+      "playerId": 1628389,
+      "name": "Adebayo",
+      "pos": "C-F",
+      "share": 30,
       "fg": 45,
-      "att": 89,
+      "att": 86,
       "thin": false,
       "hot": true,
       "out": false,
       "rank": 1,
-      "fairOdds": "+544"
+      "fairOdds": "+510"
      },
      {
-      "playerId": 1628969,
-      "name": "Bridges",
-      "pos": "G-F",
-      "share": 0,
-      "fg": 59,
-      "att": 94,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 5,
-      "fairOdds": "+1189"
-     },
-     {
-      "playerId": 1628404,
-      "name": "Hart",
+      "playerId": 1630558,
+      "name": "Mitchell",
       "pos": "G",
-      "share": 0,
-      "fg": 34,
-      "att": 71,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 7,
-      "fairOdds": "+1834"
-     }
-    ],
-    "away": [
-     {
-      "playerId": 1642270,
-      "name": "Clingan",
-      "pos": "C",
       "share": 10,
-      "fg": 44,
-      "att": 86,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 2,
-      "fairOdds": "+792"
-     },
-     {
-      "playerId": 1641739,
-      "name": "Camara",
-      "pos": "F",
-      "share": 10,
-      "fg": 46,
-      "att": 96,
+      "fg": 50,
+      "att": 80,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 3,
-      "fairOdds": "+792"
+      "fairOdds": "+803"
      },
      {
-      "playerId": 203081,
-      "name": "Lillard",
-      "pos": "G",
-      "share": 10,
-      "fg": 13,
-      "att": 15,
+      "playerId": 202691,
+      "name": "Thompson",
+      "pos": "G-F",
+      "share": 20,
+      "fg": 21,
+      "att": 14,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 4,
-      "fairOdds": "+1189"
+      "fairOdds": "+1184"
      },
      {
-      "playerId": 1631321,
-      "name": "Cissoko",
+      "playerId": 1641796,
+      "name": "Larsson",
       "pos": "G",
       "share": 0,
-      "fg": 37,
-      "att": 57,
+      "fg": 49,
+      "att": 67,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
+      "fairOdds": "+1933"
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1628392,
+      "name": "Hartenstein",
+      "pos": "C-F",
+      "share": 10,
+      "fg": 64,
+      "att": 53,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 2,
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 1642272,
+      "name": "McCain",
+      "pos": "G",
+      "share": 20,
+      "fg": 35,
+      "att": 31,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 5,
+      "fairOdds": "+1184"
+     },
+     {
+      "playerId": 1642349,
+      "name": "Mitchell",
+      "pos": "G",
+      "share": 10,
+      "fg": 56,
+      "att": 63,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 6,
-      "fairOdds": "+1558"
-     },
-     {
-      "playerId": 1643257,
-      "name": "Kent",
-      "pos": "F",
-      "share": 0,
-      "fg": 50,
-      "att": 2,
-      "thin": true,
-      "hot": false,
-      "out": false,
-      "rank": 8,
-      "fairOdds": "+2010"
+      "fairOdds": "+1642"
      }
     ]
    },
    "profile": {
     "home": {
-     "tri": "NYK",
+     "tri": "MIA",
      "games": 97,
-     "jumper": "Towns",
-     "jumperTipPct": 43,
-     "jumperTips": 74,
-     "teamTipPct": 49,
-     "firstShotPct": 55,
-     "firstScorePct": 60,
+     "jumper": "Adebayo",
+     "jumperTipPct": 64,
+     "jumperTips": 61,
+     "teamTipPct": 64,
+     "firstShotPct": 63,
+     "firstScorePct": 62,
      "firstAttFgPct": 46,
-     "fgaToFirstFg": 2.1,
+     "fgaToFirstFg": 2.2,
      "h2h": {
-      "w": 1,
-      "l": 1
+      "w": 2,
+      "l": 0
      }
     },
     "away": {
-     "tri": "POR",
-     "games": 97,
-     "jumper": "Clingan",
-     "jumperTipPct": 56,
-     "jumperTips": 91,
-     "teamTipPct": 57,
-     "firstShotPct": 55,
-     "firstScorePct": 44,
-     "firstAttFgPct": 34,
-     "fgaToFirstFg": 2.6,
+     "tri": "OKC",
+     "games": 98,
+     "jumper": "Holmgren",
+     "jumperTipPct": 45,
+     "jumperTips": 69,
+     "teamTipPct": 49,
+     "firstShotPct": 54,
+     "firstScorePct": 57,
+     "firstAttFgPct": 46,
+     "fgaToFirstFg": 2.0,
      "h2h": {
-      "w": 1,
-      "l": 1
+      "w": 0,
+      "l": 2
      }
     }
    },
    "last10": {
     "home": [
      {
-      "date": "2026-11-19",
-      "opp": "MIN",
+      "date": "2026-11-18",
+      "opp": "MIL",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Dosunmu",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-17",
-      "opp": "TOR",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Bridges",
+      "fb": "Thompson",
       "fbUs": true
      },
      {
-      "date": "2026-11-15",
-      "opp": "TOR",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Barnes",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-11",
-      "opp": "CLE",
+      "date": "2026-11-16",
+      "opp": "HOU",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Brunson",
+      "fb": "Adebayo",
       "fbUs": true
+     },
+     {
+      "date": "2026-11-14",
+      "opp": "DET",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Thompson",
+      "fbUs": false
      },
      {
       "date": "2026-11-10",
-      "opp": "MIL",
+      "opp": "UTA",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Turner",
+      "fb": "Bailey",
       "fbUs": false
      },
      {
-      "date": "2026-11-07",
-      "opp": "CLE",
+      "date": "2026-11-08",
+      "opp": "SAC",
       "tip": false,
       "firstShotUs": true,
-      "fb": "Mobley",
+      "fb": "Acuff Jr.",
       "fbUs": false
+     },
+     {
+      "date": "2026-11-05",
+      "opp": "GSW",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Wiggins",
+      "fbUs": true
      },
      {
       "date": "2026-11-04",
-      "opp": "CHI",
+      "opp": "LAC",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Shamet",
+      "fb": "Antetokounmpo",
       "fbUs": true
      },
      {
       "date": "2026-11-02",
-      "opp": "BKN",
+      "opp": "LAL",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Porter Jr.",
-      "fbUs": false
+      "fb": "Antetokounmpo",
+      "fbUs": true
      },
      {
       "date": "2026-10-28",
-      "opp": "CHI",
+      "opp": "ATL",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Anunoby",
+      "fb": "Adebayo",
       "fbUs": true
      },
      {
-      "date": "2026-10-27",
-      "opp": "DET",
+      "date": "2026-10-26",
+      "opp": "DAL",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Towns",
-      "fbUs": true
+      "fb": "Washington",
+      "fbUs": false
      }
     ],
     "away": [
      {
-      "date": "2026-11-19",
-      "opp": "MIL",
-      "tip": false,
+      "date": "2026-11-18",
+      "opp": "ATL",
+      "tip": null,
       "firstShotUs": false,
-      "fb": "Lillard",
+      "fb": "Mara",
       "fbUs": true
      },
      {
-      "date": "2026-11-17",
-      "opp": "MIN",
+      "date": "2026-11-15",
+      "opp": "SAC",
       "tip": true,
       "firstShotUs": true,
-      "fb": "McDaniels",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-16",
-      "opp": "MIN",
-      "tip": true,
-      "firstShotUs": false,
-      "fb": "McDaniels",
-      "fbUs": false
+      "fb": "Mitchell",
+      "fbUs": true
      },
      {
       "date": "2026-11-11",
-      "opp": "OKC",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Mara",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-10",
-      "opp": "OKC",
+      "opp": "POR",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Lillard",
+      "fb": "Mara",
       "fbUs": true
      },
      {
-      "date": "2026-11-07",
-      "opp": "SAS",
+      "date": "2026-11-10",
+      "opp": "POR",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Wembanyama",
+      "fb": "Lillard",
       "fbUs": false
      },
      {
-      "date": "2026-11-04",
-      "opp": "PHX",
+      "date": "2026-11-07",
+      "opp": "WAS",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Lillard",
+      "fb": "Mara",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-04",
+      "opp": "CLE",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Williams",
       "fbUs": true
      },
      {
       "date": "2026-11-02",
-      "opp": "DEN",
-      "tip": true,
+      "opp": "CLE",
+      "tip": false,
       "firstShotUs": false,
-      "fb": "Murray",
+      "fb": "Mobley",
       "fbUs": false
      },
      {
       "date": "2026-10-31",
-      "opp": "UTA",
+      "opp": "HOU",
       "tip": true,
-      "firstShotUs": false,
-      "fb": "Lillard",
+      "firstShotUs": true,
+      "fb": "Hartenstein",
       "fbUs": true
      },
      {
-      "date": "2026-10-29",
-      "opp": "MEM",
+      "date": "2026-10-28",
+      "opp": "DAL",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Edey",
+      "fb": "Flagg",
       "fbUs": false
+     },
+     {
+      "date": "2026-10-26",
+      "opp": "PHX",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Gilgeous-Alexander",
+      "fbUs": true
      }
     ]
    },
    "callouts": [
     {
      "tag": "IN",
-     "text": "J. Brunson takes 40% of NYK first shots over the last 10 games"
+     "text": "B. Adebayo takes 30% of MIA first shots over the last 10 games"
     },
     {
      "tag": "IN",
-     "text": "NYK wins parsed opening tips at 49%, POR at 57%"
+     "text": "MIA wins parsed opening tips at 64%, OKC at 49%"
     },
     {
      "tag": "WATCH",
-     "text": "J. Brunson has 7 second-chance first baskets — putback pathway"
+     "text": "B. Adebayo has 9 second-chance first baskets — putback pathway"
     }
    ],
    "badges": [
     {
-     "player": "Brunson",
+     "player": "Adebayo",
      "items": [
-      {
-       "icon": "🎯",
-       "label": "First Look",
-       "note": "40% first-shot share",
-       "tier": "gold"
-      },
       {
        "icon": "⚡",
        "label": "Instant Offense",
-       "note": "17 first points",
+       "note": "21 first points",
        "tier": "gold"
       },
       {
        "icon": "🧹",
        "label": "Glass First",
-       "note": "7 second-chance first points",
+       "note": "9 second-chance first points",
        "tier": ""
       }
      ]
     },
     {
-     "player": "Hart",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "4 second-chance first points",
-       "tier": ""
-      },
-      {
-       "icon": "🧊",
-       "label": "Cold Open",
-       "note": "<35% on own first shots",
-       "tier": "cold"
-      }
-     ]
-    },
-    {
-     "player": "Lillard",
+     "player": "Antetokounmpo",
      "items": [
       {
        "icon": "🧹",
@@ -959,181 +911,1341 @@
        "tier": "cold"
       }
      ]
+    },
+    {
+     "player": "Wiggins",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 second-chance first points",
+       "tier": ""
+      }
+     ]
     }
    ],
    "shots": {
-    "playerLabel": "Brunson L10",
+    "playerLabel": "Adebayo L10",
     "player": {
      "makes": [
       [
-       333,
-       240
+       231,
+       324
       ],
       [
-       142,
-       299
+       250,
+       416
       ],
       [
-       251,
-       413
-      ],
-      [
-       180,
-       301
+       290,
+       399
       ]
      ],
      "misses": [
       [
-       250,
-       407
+       206,
+       174
       ],
       [
-       140,
-       179
+       69,
+       248
       ],
       [
-       233,
-       412
-      ],
-      [
-       180,
-       311
-      ],
-      [
-       308,
-       344
+       161,
+       272
       ]
      ]
     },
     "team": {
      "makes": [
       [
-       244,
-       403
-      ],
-      [
-       333,
-       240
-      ],
-      [
-       15,
-       420
-      ],
-      [
        246,
-       426
+       399
       ],
       [
-       142,
-       299
+       231,
+       324
       ],
       [
-       260,
-       419
+       381,
+       173
       ],
       [
-       251,
-       413
+       250,
+       416
       ],
       [
-       180,
-       301
+       247,
+       345
       ],
       [
-       252,
-       299
+       425,
+       221
       ],
       [
-       202,
-       327
+       97,
+       230
+      ],
+      [
+       485,
+       417
+      ],
+      [
+       290,
+       399
+      ],
+      [
+       112,
+       178
       ]
      ],
      "misses": [
       [
+       482,
+       434
+      ],
+      [
+       257,
+       373
+      ],
+      [
+       206,
+       174
+      ],
+      [
+       488,
+       350
+      ],
+      [
+       20,
+       408
+      ],
+      [
+       261,
+       397
+      ],
+      [
        250,
-       407
-      ],
-      [
-       244,
-       399
-      ],
-      [
-       474,
        416
       ],
       [
-       140,
-       179
+       469,
+       282
       ],
       [
-       112,
-       205
+       250,
+       388
       ],
       [
-       233,
-       412
+       69,
+       248
       ],
       [
-       180,
-       311
+       15,
+       438
       ],
       [
-       248,
-       392
+       71,
+       246
       ],
       [
-       308,
-       344
+       55,
+       252
+      ],
+      [
+       161,
+       272
       ]
      ]
     }
    }
   },
   {
-   "id": "0022600276",
+   "id": "0022600282",
    "league": "nba",
-   "tipEt": "1st Qtr             ",
+   "tipEt": "7:00 pm ET",
    "home": {
-    "tri": "DAL",
-    "name": "Dallas Mavericks",
-    "teamId": 1610612742
+    "tri": "WAS",
+    "name": "Washington Wizards",
+    "teamId": 1610612764
    },
    "away": {
-    "tri": "LAC",
-    "name": "LA Clippers",
-    "teamId": 1610612746
+    "tri": "ORL",
+    "name": "Orlando Magic",
+    "teamId": 1610612753
    },
    "tip": {
-    "homePlayer": "Gafford",
-    "awayPlayer": "Lopez",
-    "homeWinPct": 44
+    "homePlayer": "Sarr",
+    "awayPlayer": "Carter Jr.",
+    "homeWinPct": 35
    },
    "topPick": {
-    "playerId": 1629636,
-    "name": "Garland",
-    "pos": "G",
+    "playerId": 1628976,
+    "name": "Carter Jr.",
+    "pos": "C-F",
     "side": "away",
     "bookOdds": null,
-    "fairOdds": "+544",
+    "fairOdds": "+510",
     "rank": 1,
-    "share": 10,
+    "share": 30,
     "verdict": null,
-    "why": "LAC controls the jump 56% here and scores the game's first point in 49% of its games; Garland takes 10% of its opening shots and makes 52% of his own first look."
+    "why": "ORL controls the jump 65% here and scores the game's first point in 55% of its games; Carter Jr. takes 30% of its opening shots and makes 53% of his own first look."
    },
    "rosters": {
     "home": [
      {
-      "playerId": 1642843,
-      "name": "Flagg",
+      "playerId": 1629027,
+      "name": "Young",
+      "pos": "G",
+      "share": 20,
+      "fg": 48,
+      "att": 21,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 4,
+      "fairOdds": "+1184"
+     },
+     {
+      "playerId": 1643407,
+      "name": "Dybantsa",
       "pos": "F",
       "share": 10,
       "fg": 46,
-      "att": 84,
+      "att": 13,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 6,
+      "fairOdds": "+1642"
+     },
+     {
+      "playerId": 203076,
+      "name": "Davis",
+      "pos": "F-C",
+      "share": 10,
+      "fg": 47,
+      "att": 15,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
+      "fairOdds": "+1933"
+     },
+     {
+      "playerId": 1642273,
+      "name": "George",
+      "pos": "F",
+      "share": 0,
+      "fg": 48,
+      "att": 64,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 9,
+      "fairOdds": "+1933"
+     },
+     {
+      "playerId": 1642259,
+      "name": "Sarr",
+      "pos": "C",
+      "share": 0,
+      "fg": 51,
+      "att": 63,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 10,
+      "fairOdds": "+5998"
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1628976,
+      "name": "Carter Jr.",
+      "pos": "C-F",
+      "share": 30,
+      "fg": 53,
+      "att": 87,
+      "thin": false,
+      "hot": true,
+      "out": false,
+      "rank": 1,
+      "fairOdds": "+510"
+     },
+     {
+      "playerId": 1641710,
+      "name": "Black",
+      "pos": "G",
+      "share": 20,
+      "fg": 38,
+      "att": 74,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 2,
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 1630217,
+      "name": "Bane",
+      "pos": "G",
+      "share": 0,
+      "fg": 59,
+      "att": 93,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 3,
-      "fairOdds": "+792"
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 1630591,
+      "name": "Suggs",
+      "pos": "G",
+      "share": 0,
+      "fg": 43,
+      "att": 63,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 5,
+      "fairOdds": "+1184"
+     },
+     {
+      "playerId": 1630532,
+      "name": "Wagner",
+      "pos": "F",
+      "share": 0,
+      "fg": 50,
+      "att": 66,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 8,
+      "fairOdds": "+1933"
+     }
+    ]
+   },
+   "profile": {
+    "home": {
+     "tri": "WAS",
+     "games": 99,
+     "jumper": "Sarr",
+     "jumperTipPct": 40,
+     "jumperTips": 52,
+     "teamTipPct": 39,
+     "firstShotPct": 42,
+     "firstScorePct": 33,
+     "firstAttFgPct": 33,
+     "fgaToFirstFg": 2.5,
+     "h2h": {
+      "w": 0,
+      "l": 3
+     }
+    },
+    "away": {
+     "tri": "ORL",
+     "games": 97,
+     "jumper": "Carter Jr.",
+     "jumperTipPct": 69,
+     "jumperTips": 90,
+     "teamTipPct": 73,
+     "firstShotPct": 60,
+     "firstScorePct": 55,
+     "firstAttFgPct": 56,
+     "fgaToFirstFg": 2.0,
+     "h2h": {
+      "w": 3,
+      "l": 0
+     }
+    }
+   },
+   "last10": {
+    "home": [
+     {
+      "date": "2026-11-18",
+      "opp": "TOR",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Davis",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-16",
+      "opp": "MEM",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Edey",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-15",
+      "opp": "HOU",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Thompson",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-12",
+      "opp": "DET",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Jenkins",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-11",
+      "opp": "IND",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Oubre Jr.",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-09",
+      "opp": "DET",
+      "tip": true,
+      "firstShotUs": false,
+      "fb": "Collins",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-07",
+      "opp": "OKC",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Mara",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-04",
+      "opp": "ATL",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Flemings",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-02",
+      "opp": "ORL",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Wagner",
+      "fbUs": false
+     },
+     {
+      "date": "2026-10-28",
+      "opp": "CLE",
+      "tip": true,
+      "firstShotUs": false,
+      "fb": "Dybantsa",
+      "fbUs": true
+     }
+    ],
+    "away": [
+     {
+      "date": "2026-11-18",
+      "opp": "PHI",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "James",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-16",
+      "opp": "BOS",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "George",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-11",
+      "opp": "UTA",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "George",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-10",
+      "opp": "SAC",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Acuff Jr.",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-07",
+      "opp": "GSW",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Curry",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-05",
+      "opp": "PHX",
+      "tip": true,
+      "firstShotUs": false,
+      "fb": "Wagner",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-02",
+      "opp": "WAS",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Wagner",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-01",
+      "opp": "BOS",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Carter Jr.",
+      "fbUs": true
+     },
+     {
+      "date": "2026-10-28",
+      "opp": "TOR",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Carter Jr.",
+      "fbUs": true
+     },
+     {
+      "date": "2026-10-25",
+      "opp": "NYK",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Brunson",
+      "fbUs": false
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "W. Carter Jr. takes 30% of ORL first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "WAS wins parsed opening tips at 39%, ORL at 73%"
+    },
+    {
+     "tag": "IN",
+     "text": "WAS concedes first baskets to opposing centers at 1.6× league rate (n=65)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "J. Suggs has 6 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Davis",
+     "items": [
+      {
+       "icon": "🪝",
+       "label": "Tip Titan",
+       "note": "69% jump wins",
+       "tier": "gold"
+      }
+     ]
+    },
+    {
+     "player": "Sarr",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "5 second-chance first points",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "George",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 second-chance first points",
+       "tier": ""
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Carter Jr. L10",
+    "player": {
+     "makes": [
+      [
+       253,
+       433
+      ],
+      [
+       21,
+       409
+      ],
+      [
+       262,
+       360
+      ],
+      [
+       21,
+       392
+      ]
+     ],
+     "misses": [
+      [
+       342,
+       290
+      ],
+      [
+       236,
+       405
+      ]
+     ]
+    },
+    "team": {
+     "makes": [
+      [
+       18,
+       303
+      ],
+      [
+       253,
+       433
+      ],
+      [
+       21,
+       409
+      ],
+      [
+       213,
+       410
+      ],
+      [
+       482,
+       432
+      ],
+      [
+       236,
+       366
+      ],
+      [
+       300,
+       399
+      ],
+      [
+       262,
+       360
+      ],
+      [
+       256,
+       423
+      ],
+      [
+       21,
+       392
+      ]
+     ],
+     "misses": [
+      [
+       342,
+       290
+      ],
+      [
+       371,
+       432
+      ],
+      [
+       75,
+       231
+      ],
+      [
+       309,
+       338
+      ],
+      [
+       337,
+       388
+      ],
+      [
+       123,
+       204
+      ],
+      [
+       115,
+       195
+      ],
+      [
+       3,
+       421
+      ],
+      [
+       308,
+       332
+      ],
+      [
+       13,
+       396
+      ],
+      [
+       188,
+       390
+      ],
+      [
+       486,
+       337
+      ],
+      [
+       10,
+       411
+      ],
+      [
+       352,
+       337
+      ],
+      [
+       20,
+       429
+      ],
+      [
+       236,
+       405
+      ],
+      [
+       179,
+       399
+      ],
+      [
+       318,
+       350
+      ],
+      [
+       381,
+       172
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600283",
+   "league": "nba",
+   "tipEt": "7:00 pm ET",
+   "home": {
+    "tri": "CHI",
+    "name": "Chicago Bulls",
+    "teamId": 1610612741
+   },
+   "away": {
+    "tri": "DEN",
+    "name": "Denver Nuggets",
+    "teamId": 1610612743
+   },
+   "tip": {
+    "homePlayer": "Smith",
+    "awayPlayer": "Holmes II",
+    "homeWinPct": 39
+   },
+   "topPick": {
+    "playerId": 1627750,
+    "name": "Murray",
+    "pos": "G",
+    "side": "away",
+    "bookOdds": null,
+    "fairOdds": "+510",
+    "rank": 1,
+    "share": 20,
+    "verdict": null,
+    "why": "DEN controls the jump 61% here and scores the game's first point in 55% of its games; Murray takes 20% of its opening shots and makes 52% of his own first look."
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1630581,
+      "name": "Giddey",
+      "pos": "G",
+      "share": 10,
+      "fg": 41,
+      "att": 69,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 6,
+      "fairOdds": "+1642"
+     },
+     {
+      "playerId": 1641824,
+      "name": "Buzelis",
+      "pos": "F",
+      "share": 0,
+      "fg": 51,
+      "att": 87,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
+      "fairOdds": "+1933"
+     },
+     {
+      "playerId": 1630171,
+      "name": "Okoro",
+      "pos": "F-G",
+      "share": 0,
+      "fg": 44,
+      "att": 73,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 8,
+      "fairOdds": "+1933"
+     },
+     {
+      "playerId": 1630188,
+      "name": "Smith",
+      "pos": "F-C",
+      "share": 0,
+      "fg": 48,
+      "att": 62,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 9,
+      "fairOdds": "+1933"
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1627750,
+      "name": "Murray",
+      "pos": "G",
+      "share": 20,
+      "fg": 52,
+      "att": 88,
+      "thin": false,
+      "hot": true,
+      "out": false,
+      "rank": 1,
+      "fairOdds": "+510"
+     },
+     {
+      "playerId": 203999,
+      "name": "Jokić",
+      "pos": "C",
+      "share": 10,
+      "fg": 59,
+      "att": 78,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 2,
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 1629661,
+      "name": "Johnson",
+      "pos": "F",
+      "share": 10,
+      "fg": 40,
+      "att": 58,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 3,
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 203932,
+      "name": "Gordon",
+      "pos": "F",
+      "share": 10,
+      "fg": 45,
+      "att": 49,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 4,
+      "fairOdds": "+1184"
+     },
+     {
+      "playerId": 1631128,
+      "name": "Braun",
+      "pos": "G",
+      "share": 10,
+      "fg": 52,
+      "att": 56,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 5,
+      "fairOdds": "+1184"
+     }
+    ]
+   },
+   "profile": {
+    "home": {
+     "tri": "CHI",
+     "games": 97,
+     "jumper": "Smith",
+     "jumperTipPct": 26,
+     "jumperTips": 23,
+     "teamTipPct": 36,
+     "firstShotPct": 36,
+     "firstScorePct": 31,
+     "firstAttFgPct": 43,
+     "fgaToFirstFg": 2.3,
+     "h2h": null
+    },
+    "away": {
+     "tri": "DEN",
+     "games": 96,
+     "jumper": "Holmes II",
+     "jumperTipPct": 33,
+     "jumperTips": 6,
+     "teamTipPct": 56,
+     "firstShotPct": 51,
+     "firstScorePct": 55,
+     "firstAttFgPct": 56,
+     "fgaToFirstFg": 2.0,
+     "h2h": null
+    }
+   },
+   "last10": {
+    "home": [
+     {
+      "date": "2026-11-18",
+      "opp": "BKN",
+      "tip": true,
+      "firstShotUs": false,
+      "fb": "Traore",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-16",
+      "opp": "CLE",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Mitchell",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-14",
+      "opp": "MIN",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Ball",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-11",
+      "opp": "SAS",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Fox",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-08",
+      "opp": "PHI",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Okoro",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-04",
+      "opp": "NYK",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Shamet",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-02",
+      "opp": "PHI",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Brown",
+      "fbUs": false
+     },
+     {
+      "date": "2026-10-28",
+      "opp": "NYK",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Anunoby",
+      "fbUs": false
+     },
+     {
+      "date": "2026-10-26",
+      "opp": "BOS",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "George",
+      "fbUs": false
+     },
+     {
+      "date": "2026-10-24",
+      "opp": "WAS",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Young",
+      "fbUs": false
+     }
+    ],
+    "away": [
+     {
+      "date": "2026-11-18",
+      "opp": "BOS",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Tatum",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-16",
+      "opp": "PHX",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Bridges",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-14",
+      "opp": "NOP",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Fears",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-11",
+      "opp": "MEM",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Braun",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-09",
+      "opp": "HOU",
+      "tip": true,
+      "firstShotUs": false,
+      "fb": "Murray",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-07",
+      "opp": "IND",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Siakam",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-04",
+      "opp": "TOR",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Jokić",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-02",
+      "opp": "POR",
+      "tip": false,
+      "firstShotUs": true,
+      "fb": "Murray",
+      "fbUs": true
+     },
+     {
+      "date": "2026-10-28",
+      "opp": "NOP",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Murray",
+      "fbUs": true
+     },
+     {
+      "date": "2026-10-26",
+      "opp": "GSW",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Jokić",
+      "fbUs": true
+     }
+    ]
+   },
+   "callouts": [
+    {
+     "tag": "IN",
+     "text": "J. Murray takes 20% of DEN first shots over the last 10 games"
+    },
+    {
+     "tag": "IN",
+     "text": "CHI wins parsed opening tips at 36%, DEN at 56%"
+    },
+    {
+     "tag": "WATCH",
+     "text": "CHI concedes first baskets to opposing forwards at 1.3× league rate (n=66)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "J. Murray has 9 second-chance first baskets — putback pathway"
+    }
+   ],
+   "badges": [
+    {
+     "player": "Murray",
+     "items": [
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "20 first points",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "9 second-chance first points",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Buzelis",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 second-chance first points",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Miller",
+     "items": [
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
+      }
+     ]
+    }
+   ],
+   "shots": {
+    "playerLabel": "Murray L10",
+    "player": {
+     "makes": [
+      [
+       425,
+       222
+      ],
+      [
+       213,
+       403
+      ]
+     ],
+     "misses": []
+    },
+    "team": {
+     "makes": [
+      [
+       499,
+       382
+      ],
+      [
+       425,
+       222
+      ],
+      [
+       213,
+       403
+      ],
+      [
+       271,
+       388
+      ],
+      [
+       235,
+       415
+      ],
+      [
+       264,
+       397
+      ],
+      [
+       267,
+       403
+      ],
+      [
+       244,
+       162
+      ],
+      [
+       269,
+       413
+      ],
+      [
+       236,
+       416
+      ]
+     ],
+     "misses": [
+      [
+       300,
+       177
+      ],
+      [
+       24,
+       417
+      ],
+      [
+       448,
+       273
+      ],
+      [
+       316,
+       173
+      ],
+      [
+       484,
+       432
+      ],
+      [
+       67,
+       211
+      ],
+      [
+       224,
+       392
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "0022600284",
+   "league": "nba",
+   "tipEt": "7:00 pm ET",
+   "home": {
+    "tri": "UTA",
+    "name": "Utah Jazz",
+    "teamId": 1610612762
+   },
+   "away": {
+    "tri": "DAL",
+    "name": "Dallas Mavericks",
+    "teamId": 1610612742
+   },
+   "tip": {
+    "homePlayer": "Filipowski",
+    "awayPlayer": "Gafford",
+    "homeWinPct": 58
+   },
+   "topPick": {
+    "playerId": 1642843,
+    "name": "Flagg",
+    "pos": "F",
+    "side": "away",
+    "bookOdds": null,
+    "fairOdds": "+510",
+    "rank": 1,
+    "share": 20,
+    "verdict": null,
+    "why": "DAL controls the jump 42% here and scores the game's first point in 42% of its games; Flagg takes 20% of its opening shots and makes 47% of his own first look."
+   },
+   "rosters": {
+    "home": [
+     {
+      "playerId": 1642846,
+      "name": "Bailey",
+      "pos": "F",
+      "share": 20,
+      "fg": 31,
+      "att": 87,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 2,
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 1641718,
+      "name": "George",
+      "pos": "G",
+      "share": 0,
+      "fg": 43,
+      "att": 70,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 3,
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 1643408,
+      "name": "Peterson",
+      "pos": "G",
+      "share": 0,
+      "fg": 29,
+      "att": 17,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 5,
+      "fairOdds": "+1184"
+     },
+     {
+      "playerId": 1628964,
+      "name": "Bamba",
+      "pos": "C",
+      "share": 0,
+      "fg": 58,
+      "att": 12,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 6,
+      "fairOdds": "+1642"
+     },
+     {
+      "playerId": 1630182,
+      "name": "Green",
+      "pos": "G",
+      "share": 0,
+      "fg": 30,
+      "att": 10,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
+      "fairOdds": "+1933"
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1642843,
+      "name": "Flagg",
+      "pos": "F",
+      "share": 20,
+      "fg": 47,
+      "att": 85,
+      "thin": false,
+      "hot": true,
+      "out": false,
+      "rank": 1,
+      "fairOdds": "+510"
      },
      {
       "playerId": 1629655,
@@ -1145,132 +2257,78 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
-      "fairOdds": "+1558"
+      "rank": 4,
+      "fairOdds": "+1184"
      },
      {
       "playerId": 1628997,
       "name": "Martin",
       "pos": "F",
       "share": 0,
-      "fg": 42,
-      "att": 38,
+      "fg": 41,
+      "att": 39,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1834"
+      "rank": 8,
+      "fairOdds": "+1933"
+     },
+     {
+      "playerId": 1642258,
+      "name": "Risacher",
+      "pos": "F",
+      "share": 0,
+      "fg": 36,
+      "att": 14,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 9,
+      "fairOdds": "+1933"
      },
      {
       "playerId": 202681,
       "name": "Irving",
       "pos": "G",
       "share": 0,
-      "fg": 58,
-      "att": 12,
+      "fg": 54,
+      "att": 13,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
-      "fairOdds": "+2010"
-     }
-    ],
-    "away": [
-     {
-      "playerId": 1629636,
-      "name": "Garland",
-      "pos": "G",
-      "share": 10,
-      "fg": 52,
-      "att": 33,
-      "thin": false,
-      "hot": true,
-      "out": false,
-      "rank": 1,
-      "fairOdds": "+544"
-     },
-     {
-      "playerId": 201572,
-      "name": "Lopez",
-      "pos": "C",
-      "share": 10,
-      "fg": 37,
-      "att": 71,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 2,
-      "fairOdds": "+792"
-     },
-     {
-      "playerId": 1627884,
-      "name": "Jones Jr.",
-      "pos": "F",
-      "share": 10,
-      "fg": 53,
-      "att": 57,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 4,
-      "fairOdds": "+1189"
-     },
-     {
-      "playerId": 1629060,
-      "name": "Hachimura",
-      "pos": "F",
-      "share": 10,
-      "fg": 33,
-      "att": 12,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 5,
-      "fairOdds": "+1189"
-     },
-     {
-      "playerId": 1629622,
-      "name": "Strus",
-      "pos": "G-F",
-      "share": 0,
-      "fg": 14,
-      "att": 7,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 9,
-      "fairOdds": "+2010"
+      "rank": 10,
+      "fairOdds": "+5998"
      }
     ]
    },
    "profile": {
     "home": {
-     "tri": "DAL",
-     "games": 97,
-     "jumper": "Gafford",
-     "jumperTipPct": 31,
-     "jumperTips": 58,
-     "teamTipPct": 39,
-     "firstShotPct": 40,
-     "firstScorePct": 41,
-     "firstAttFgPct": 48,
-     "fgaToFirstFg": 2.2,
+     "tri": "UTA",
+     "games": 99,
+     "jumper": "Filipowski",
+     "jumperTipPct": 37,
+     "jumperTips": 27,
+     "teamTipPct": 54,
+     "firstShotPct": 54,
+     "firstScorePct": 54,
+     "firstAttFgPct": 32,
+     "fgaToFirstFg": 2.6,
      "h2h": {
       "w": 1,
       "l": 0
      }
     },
     "away": {
-     "tri": "LAC",
-     "games": 96,
-     "jumper": "Lopez",
-     "jumperTipPct": 56,
-     "jumperTips": 48,
-     "teamTipPct": 49,
-     "firstShotPct": 44,
-     "firstScorePct": 49,
-     "firstAttFgPct": 43,
-     "fgaToFirstFg": 2.1,
+     "tri": "DAL",
+     "games": 98,
+     "jumper": "Gafford",
+     "jumperTipPct": 32,
+     "jumperTips": 59,
+     "teamTipPct": 39,
+     "firstShotPct": 41,
+     "firstScorePct": 42,
+     "firstAttFgPct": 49,
+     "fgaToFirstFg": 2.2,
      "h2h": {
       "w": 0,
       "l": 1
@@ -1279,6 +2337,96 @@
    },
    "last10": {
     "home": [
+     {
+      "date": "2026-11-18",
+      "opp": "LAL",
+      "tip": null,
+      "firstShotUs": false,
+      "fb": "Dončić",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-17",
+      "opp": "LAC",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Green",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-15",
+      "opp": "SAS",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Wembanyama",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-11",
+      "opp": "ORL",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "George",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-10",
+      "opp": "MIA",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Bailey",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-08",
+      "opp": "MIN",
+      "tip": false,
+      "firstShotUs": true,
+      "fb": "Ball",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-04",
+      "opp": "NOP",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Markkanen",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-02",
+      "opp": "SAS",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Markkanen",
+      "fbUs": true
+     },
+     {
+      "date": "2026-10-31",
+      "opp": "POR",
+      "tip": false,
+      "firstShotUs": true,
+      "fb": "Lillard",
+      "fbUs": false
+     },
+     {
+      "date": "2026-10-28",
+      "opp": "SAS",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Fox",
+      "fbUs": false
+     }
+    ],
+    "away": [
+     {
+      "date": "2026-11-21",
+      "opp": "LAC",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Flagg",
+      "fbUs": true
+     },
      {
       "date": "2026-11-18",
       "opp": "GSW",
@@ -1350,142 +2498,54 @@
       "firstShotUs": false,
       "fb": "Flagg",
       "fbUs": true
-     },
-     {
-      "date": "2026-10-26",
-      "opp": "MIA",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Washington",
-      "fbUs": true
-     }
-    ],
-    "away": [
-     {
-      "date": "2026-11-19",
-      "opp": "SAS",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Garland",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-17",
-      "opp": "UTA",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Green",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-15",
-      "opp": "CHA",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Garland",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-10",
-      "opp": "PHX",
-      "tip": null,
-      "firstShotUs": true,
-      "fb": "Ighodaro",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-08",
-      "opp": "NOP",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Murphy III",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-04",
-      "opp": "MIA",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Antetokounmpo",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-02",
-      "opp": "TOR",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Sanders",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-01",
-      "opp": "GSW",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Hachimura",
-      "fbUs": true
-     },
-     {
-      "date": "2026-10-28",
-      "opp": "LAL",
-      "tip": null,
-      "firstShotUs": false,
-      "fb": "Thybulle",
-      "fbUs": false
-     },
-     {
-      "date": "2026-10-25",
-      "opp": "OKC",
-      "tip": false,
-      "firstShotUs": true,
-      "fb": "Jackson",
-      "fbUs": true
      }
     ]
    },
    "callouts": [
     {
      "tag": "IN",
-     "text": "D. Garland takes 10% of LAC first shots over the last 10 games"
+     "text": "C. Flagg takes 20% of DAL first shots over the last 10 games"
     },
     {
      "tag": "IN",
-     "text": "DAL wins parsed opening tips at 39%, LAC at 49%"
-    },
-    {
-     "tag": "IN",
-     "text": "LAC concedes first baskets to opposing forwards at 1.3× league rate (n=49)"
+     "text": "UTA wins parsed opening tips at 54%, DAL at 39%"
     },
     {
      "tag": "WATCH",
-     "text": "D. Jones Jr. has 7 second-chance first baskets — putback pathway"
+     "text": "A. Bailey has 4 second-chance first baskets — putback pathway"
     }
    ],
    "badges": [
     {
-     "player": "Flagg",
+     "player": "Bailey",
      "items": [
       {
        "icon": "🧹",
        "label": "Glass First",
-       "note": "3 second-chance first points",
+       "note": "4 second-chance first points",
+       "tier": ""
+      },
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
+     "player": "Markkanen",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "6 second-chance first points",
        "tier": ""
       }
      ]
     },
     {
-     "player": "Christie",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "3 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Washington",
+     "player": "George",
      "items": [
       {
        "icon": "🧹",
@@ -1497,515 +2557,514 @@
     }
    ],
    "shots": {
-    "playerLabel": "Garland L10",
+    "playerLabel": "Flagg L10",
     "player": {
      "makes": [
       [
-       241,
-       374
+       274,
+       410
       ],
       [
-       278,
-       274
+       126,
+       355
       ],
       [
-       296,
-       362
+       392,
+       204
       ],
       [
-       287,
-       381
+       384,
+       184
       ]
      ],
      "misses": [
       [
-       249,
-       295
+       124,
+       358
       ],
       [
-       77,
-       200
+       332,
+       339
       ],
       [
-       288,
-       283
+       303,
+       372
       ],
       [
-       101,
-       221
+       382,
+       289
       ],
       [
-       217,
-       222
+       89,
+       373
+      ],
+      [
+       310,
+       308
       ]
      ]
     },
     "team": {
      "makes": [
       [
-       173,
-       392
+       274,
+       410
       ],
       [
-       443,
-       271
+       269,
+       420
       ],
       [
-       351,
-       288
+       331,
+       182
       ],
       [
-       17,
-       384
+       74,
+       289
       ],
       [
-       396,
-       196
+       70,
+       248
       ],
       [
-       229,
-       328
+       271,
+       395
       ],
       [
-       241,
-       374
+       126,
+       355
       ],
       [
-       278,
-       274
+       55,
+       412
       ],
       [
-       296,
-       362
+       392,
+       204
       ],
       [
-       287,
-       381
+       384,
+       184
       ]
      ],
      "misses": [
       [
-       249,
-       295
+       124,
+       358
       ],
       [
-       259,
-       381
-      ],
-      [
-       237,
-       412
-      ],
-      [
-       77,
-       200
-      ],
-      [
-       288,
-       283
-      ],
-      [
-       28,
-       246
-      ],
-      [
-       451,
-       259
-      ],
-      [
-       250,
-       256
-      ],
-      [
-       392,
-       200
-      ],
-      [
-       297,
-       405
-      ],
-      [
-       101,
-       221
-      ],
-      [
-       229,
-       400
-      ],
-      [
-       75,
+       61,
        237
       ],
       [
-       351,
-       382
+       332,
+       339
       ],
       [
-       217,
-       222
+       276,
+       387
       ],
       [
-       274,
-       378
+       303,
+       372
       ],
       [
-       192,
-       164
+       382,
+       289
+      ],
+      [
+       27,
+       414
+      ],
+      [
+       246,
+       154
+      ],
+      [
+       89,
+       373
+      ],
+      [
+       386,
+       202
+      ],
+      [
+       96,
+       328
+      ],
+      [
+       20,
+       333
+      ],
+      [
+       310,
+       308
+      ],
+      [
+       436,
+       279
       ]
      ]
     }
    }
   },
   {
-   "id": "0022600277",
+   "id": "0022600285",
    "league": "nba",
-   "tipEt": "1st Qtr             ",
+   "tipEt": "8:00 pm ET",
    "home": {
-    "tri": "MIN",
-    "name": "Minnesota Timberwolves",
-    "teamId": 1610612750
+    "tri": "NYK",
+    "name": "New York Knicks",
+    "teamId": 1610612752
    },
    "away": {
-    "tri": "MEM",
-    "name": "Memphis Grizzlies",
-    "teamId": 1610612763
+    "tri": "IND",
+    "name": "Indiana Pacers",
+    "teamId": 1610612754
    },
    "tip": {
-    "homePlayer": "Gobert",
-    "awayPlayer": "Jackson Jr.",
-    "homeWinPct": 56
+    "homePlayer": "Towns",
+    "awayPlayer": "Huff",
+    "homeWinPct": 50
    },
    "topPick": {
-    "playerId": 1630183,
-    "name": "McDaniels",
-    "pos": "F",
+    "playerId": 1628973,
+    "name": "Brunson",
+    "pos": "G",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+544",
+    "fairOdds": "+510",
     "rank": 1,
-    "share": 20,
+    "share": 50,
     "verdict": null,
-    "why": "MIN controls the jump 56% here and scores the game's first point in 59% of its games; McDaniels takes 20% of its opening shots and makes 57% of his own first look."
+    "why": "NYK controls the jump 50% here and scores the game's first point in 60% of its games; Brunson takes 50% of its opening shots and makes 46% of his own first look."
    },
    "rosters": {
     "home": [
      {
-      "playerId": 1630183,
-      "name": "McDaniels",
-      "pos": "F",
-      "share": 20,
-      "fg": 57,
-      "att": 88,
+      "playerId": 1628973,
+      "name": "Brunson",
+      "pos": "G",
+      "share": 50,
+      "fg": 46,
+      "att": 90,
       "thin": false,
       "hot": true,
       "out": false,
       "rank": 1,
-      "fairOdds": "+544"
+      "fairOdds": "+510"
      },
      {
-      "playerId": 1630228,
-      "name": "Kuminga",
-      "pos": "F",
-      "share": 30,
-      "fg": 36,
-      "att": 14,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 2,
-      "fairOdds": "+792"
-     },
-     {
-      "playerId": 1630163,
-      "name": "Ball",
-      "pos": "G",
-      "share": 10,
-      "fg": 38,
-      "att": 16,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 3,
-      "fairOdds": "+792"
-     },
-     {
-      "playerId": 203497,
-      "name": "Gobert",
-      "pos": "C",
+      "playerId": 1628969,
+      "name": "Bridges",
+      "pos": "G-F",
       "share": 0,
-      "fg": 57,
-      "att": 77,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 6,
-      "fairOdds": "+1558"
-     },
-     {
-      "playerId": 1630245,
-      "name": "Dosunmu",
-      "pos": "G",
-      "share": 0,
-      "fg": 50,
-      "att": 36,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 8,
-      "fairOdds": "+2010"
-     }
-    ],
-    "away": [
-     {
-      "playerId": 1642377,
-      "name": "Wells",
-      "pos": "F",
-      "share": 10,
-      "fg": 48,
-      "att": 83,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 4,
-      "fairOdds": "+1189"
-     },
-     {
-      "playerId": 1642907,
-      "name": "Coward",
-      "pos": "G",
-      "share": 0,
-      "fg": 50,
-      "att": 72,
+      "fg": 59,
+      "att": 95,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 5,
-      "fairOdds": "+1189"
+      "fairOdds": "+1184"
      },
      {
-      "playerId": 1642285,
-      "name": "Spencer",
+      "playerId": 1628404,
+      "name": "Hart",
       "pos": "G",
       "share": 0,
-      "fg": 58,
-      "att": 69,
+      "fg": 33,
+      "att": 72,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 6,
+      "fairOdds": "+1642"
+     },
+     {
+      "playerId": 1629013,
+      "name": "Shamet",
+      "pos": "G",
+      "share": 0,
+      "fg": 54,
+      "att": 57,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 8,
+      "fairOdds": "+1933"
+     },
+     {
+      "playerId": 203083,
+      "name": "Drummond",
+      "pos": "C",
+      "share": 0,
+      "fg": 50,
+      "att": 12,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 10,
+      "fairOdds": "+5998"
+     }
+    ],
+    "away": [
+     {
+      "playerId": 1627783,
+      "name": "Siakam",
+      "pos": "F",
+      "share": 20,
+      "fg": 55,
+      "att": 75,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 2,
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 1631245,
+      "name": "Jackson",
+      "pos": "G",
+      "share": 10,
+      "fg": 50,
+      "att": 62,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 3,
+      "fairOdds": "+803"
+     },
+     {
+      "playerId": 1630174,
+      "name": "Nesmith",
+      "pos": "G-F",
+      "share": 10,
+      "fg": 43,
+      "att": 58,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 4,
+      "fairOdds": "+1184"
+     },
+     {
+      "playerId": 1627826,
+      "name": "Zubac",
+      "pos": "C",
+      "share": 0,
+      "fg": 50,
+      "att": 16,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 7,
-      "fairOdds": "+1834"
+      "fairOdds": "+1933"
      },
      {
-      "playerId": 1641707,
-      "name": "Hendricks",
-      "pos": "F",
+      "playerId": 1626162,
+      "name": "Oubre Jr.",
+      "pos": "F-G",
       "share": 0,
-      "fg": 47,
-      "att": 32,
+      "fg": 57,
+      "att": 14,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 9,
-      "fairOdds": "+2010"
+      "fairOdds": "+1933"
      }
     ]
    },
    "profile": {
     "home": {
-     "tri": "MIN",
+     "tri": "NYK",
      "games": 98,
-     "jumper": "Gobert",
-     "jumperTipPct": 52,
-     "jumperTips": 91,
-     "teamTipPct": 52,
-     "firstShotPct": 56,
-     "firstScorePct": 59,
-     "firstAttFgPct": 45,
-     "fgaToFirstFg": 2.2,
-     "h2h": {
-      "w": 0,
-      "l": 2
-     }
+     "jumper": "Towns",
+     "jumperTipPct": 43,
+     "jumperTips": 74,
+     "teamTipPct": 49,
+     "firstShotPct": 55,
+     "firstScorePct": 60,
+     "firstAttFgPct": 47,
+     "fgaToFirstFg": 2.1,
+     "h2h": null
     },
     "away": {
-     "tri": "MEM",
+     "tri": "IND",
      "games": 98,
-     "jumper": "Jackson Jr.",
-     "jumperTipPct": 55,
-     "jumperTips": 33,
-     "teamTipPct": 40,
-     "firstShotPct": 43,
-     "firstScorePct": 43,
-     "firstAttFgPct": 41,
-     "fgaToFirstFg": 2.2,
-     "h2h": {
-      "w": 2,
-      "l": 0
-     }
+     "jumper": "Huff",
+     "jumperTipPct": 49,
+     "jumperTips": 51,
+     "teamTipPct": 49,
+     "firstShotPct": 53,
+     "firstScorePct": 49,
+     "firstAttFgPct": 42,
+     "fgaToFirstFg": 1.9,
+     "h2h": null
     }
    },
    "last10": {
     "home": [
      {
-      "date": "2026-11-19",
-      "opp": "NYK",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Dosunmu",
+      "date": "2026-11-21",
+      "opp": "POR",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Brunson",
       "fbUs": true
+     },
+     {
+      "date": "2026-11-19",
+      "opp": "MIN",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Dosunmu",
+      "fbUs": false
      },
      {
       "date": "2026-11-17",
-      "opp": "POR",
+      "opp": "TOR",
       "tip": false,
       "firstShotUs": false,
-      "fb": "McDaniels",
+      "fb": "Bridges",
       "fbUs": true
      },
      {
-      "date": "2026-11-16",
-      "opp": "POR",
+      "date": "2026-11-15",
+      "opp": "TOR",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Barnes",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-11",
+      "opp": "CLE",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Brunson",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-10",
+      "opp": "MIL",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Turner",
+      "fbUs": false
+     },
+     {
+      "date": "2026-11-07",
+      "opp": "CLE",
       "tip": false,
       "firstShotUs": true,
-      "fb": "McDaniels",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-14",
-      "opp": "CHI",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Ball",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-12",
-      "opp": "DAL",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Kuminga",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-08",
-      "opp": "UTA",
-      "tip": true,
-      "firstShotUs": false,
-      "fb": "Ball",
-      "fbUs": true
+      "fb": "Mobley",
+      "fbUs": false
      },
      {
       "date": "2026-11-04",
-      "opp": "HOU",
+      "opp": "CHI",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Ball",
+      "fb": "Shamet",
       "fbUs": true
      },
      {
       "date": "2026-11-02",
-      "opp": "MIL",
+      "opp": "BKN",
       "tip": true,
       "firstShotUs": true,
-      "fb": "Jaquez Jr.",
-      "fbUs": false
-     },
-     {
-      "date": "2026-10-31",
-      "opp": "SAS",
-      "tip": false,
-      "firstShotUs": true,
-      "fb": "Fox",
+      "fb": "Porter Jr.",
       "fbUs": false
      },
      {
       "date": "2026-10-28",
-      "opp": "GSW",
+      "opp": "CHI",
       "tip": true,
-      "firstShotUs": false,
-      "fb": "McDaniels",
+      "firstShotUs": true,
+      "fb": "Anunoby",
       "fbUs": true
      }
     ],
     "away": [
      {
-      "date": "2026-11-19",
-      "opp": "GSW",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Wells",
-      "fbUs": true
-     },
-     {
       "date": "2026-11-18",
-      "opp": "CLE",
+      "opp": "HOU",
       "tip": false,
       "firstShotUs": true,
-      "fb": "Boozer",
+      "fb": "Jackson",
       "fbUs": true
      },
      {
-      "date": "2026-11-16",
-      "opp": "WAS",
+      "date": "2026-11-15",
+      "opp": "PHI",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Edey",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-14",
-      "opp": "BKN",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Randle",
+      "fb": "Maxey",
       "fbUs": false
      },
      {
       "date": "2026-11-11",
-      "opp": "DEN",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Braun",
-      "fbUs": false
+      "opp": "WAS",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Oubre Jr.",
+      "fbUs": true
      },
      {
       "date": "2026-11-09",
-      "opp": "TOR",
-      "tip": false,
+      "opp": "DAL",
+      "tip": true,
+      "firstShotUs": false,
+      "fb": "Zubac",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-07",
+      "opp": "DEN",
+      "tip": true,
       "firstShotUs": true,
-      "fb": "Walter",
-      "fbUs": false
+      "fb": "Siakam",
+      "fbUs": true
      },
      {
       "date": "2026-11-04",
-      "opp": "IND",
-      "tip": true,
-      "firstShotUs": false,
+      "opp": "MEM",
+      "tip": false,
+      "firstShotUs": true,
       "fb": "Smith",
-      "fbUs": false
+      "fbUs": true
      },
      {
       "date": "2026-11-02",
-      "opp": "NOP",
+      "opp": "ATL",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Williamson",
+      "fb": "Alexander-Walker",
       "fbUs": false
      },
      {
-      "date": "2026-10-31",
-      "opp": "SAC",
+      "date": "2026-11-01",
+      "opp": "BKN",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Hunter",
+      "fb": "Sharpe",
       "fbUs": false
      },
      {
-      "date": "2026-10-29",
-      "opp": "POR",
+      "date": "2026-10-28",
+      "opp": "PHI",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Edey",
+      "fb": "Siakam",
+      "fbUs": true
+     },
+     {
+      "date": "2026-10-26",
+      "opp": "MIL",
+      "tip": false,
+      "firstShotUs": true,
+      "fb": "Nesmith",
       "fbUs": true
      }
     ]
@@ -2013,20 +3072,68 @@
    "callouts": [
     {
      "tag": "IN",
-     "text": "J. McDaniels takes 20% of MIN first shots over the last 10 games"
+     "text": "J. Brunson takes 50% of NYK first shots over the last 10 games"
     },
     {
      "tag": "IN",
-     "text": "MIN wins parsed opening tips at 52%, MEM at 40%"
+     "text": "NYK wins parsed opening tips at 49%, IND at 49%"
     },
     {
      "tag": "WATCH",
-     "text": "J. McDaniels has 6 second-chance first baskets — putback pathway"
+     "text": "IND concedes first baskets to opposing forwards at 1.3× league rate (n=50)"
+    },
+    {
+     "tag": "IN",
+     "text": "IND concedes first baskets to opposing centers at 1.3× league rate (n=50)"
+    },
+    {
+     "tag": "WATCH",
+     "text": "P. Siakam has 8 second-chance first baskets — putback pathway"
     }
    ],
    "badges": [
     {
-     "player": "McDaniels",
+     "player": "Brunson",
+     "items": [
+      {
+       "icon": "🎯",
+       "label": "First Look",
+       "note": "50% first-shot share",
+       "tier": "gold"
+      },
+      {
+       "icon": "⚡",
+       "label": "Instant Offense",
+       "note": "18 first points",
+       "tier": "gold"
+      },
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "7 second-chance first points",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Hart",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "4 second-chance first points",
+       "tier": ""
+      },
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
+      }
+     ]
+    },
+    {
+     "player": "Towns",
      "items": [
       {
        "icon": "🧹",
@@ -2035,719 +3142,148 @@
        "tier": ""
       }
      ]
-    },
-    {
-     "player": "DiVincenzo",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "5 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Edwards",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "7 second-chance first points",
-       "tier": ""
-      }
-     ]
     }
    ],
    "shots": {
-    "playerLabel": "McDaniels L10",
+    "playerLabel": "Brunson L10",
     "player": {
      "makes": [
       [
-       210,
-       397
+       333,
+       240
       ],
       [
-       147,
-       312
+       142,
+       299
       ],
       [
-       346,
-       379
+       251,
+       413
+      ],
+      [
+       180,
+       301
+      ],
+      [
+       323,
+       160
       ]
      ],
      "misses": [
       [
-       122,
-       271
+       250,
+       407
       ],
       [
-       199,
-       302
+       140,
+       179
       ],
       [
-       234,
-       402
+       233,
+       412
       ],
       [
-       483,
-       402
+       180,
+       311
+      ],
+      [
+       308,
+       344
       ]
      ]
     },
     "team": {
      "makes": [
       [
-       210,
-       397
+       333,
+       240
       ],
       [
-       250,
-       416
+       15,
+       420
       ],
       [
-       250,
-       416
+       246,
+       426
       ],
       [
-       234,
-       149
-      ],
-      [
-       207,
-       379
-      ],
-      [
-       258,
-       392
-      ],
-      [
-       278,
-       400
-      ],
-      [
-       147,
-       312
-      ],
-      [
-       346,
-       379
-      ],
-      [
-       376,
-       211
-      ]
-     ],
-     "misses": [
-      [
-       213,
-       410
-      ],
-      [
-       324,
-       174
-      ],
-      [
-       122,
-       271
-      ],
-      [
-       293,
-       411
-      ],
-      [
-       236,
-       404
-      ],
-      [
-       224,
-       392
+       142,
+       299
       ],
       [
        260,
-       292
+       419
       ],
       [
-       199,
-       302
+       251,
+       413
       ],
       [
-       369,
-       159
-      ],
-      [
-       445,
-       246
-      ],
-      [
-       250,
-       384
-      ],
-      [
-       207,
-       156
-      ],
-      [
-       234,
-       402
-      ],
-      [
-       250,
-       416
-      ],
-      [
-       483,
-       402
-      ],
-      [
-       141,
-       174
-      ],
-      [
-       50,
-       241
-      ]
-     ]
-    }
-   }
-  },
-  {
-   "id": "0022600278",
-   "league": "nba",
-   "tipEt": "1st Qtr             ",
-   "home": {
-    "tri": "SAS",
-    "name": "San Antonio Spurs",
-    "teamId": 1610612759
-   },
-   "away": {
-    "tri": "NOP",
-    "name": "New Orleans Pelicans",
-    "teamId": 1610612740
-   },
-   "tip": {
-    "homePlayer": "Wembanyama",
-    "awayPlayer": "Queen",
-    "homeWinPct": 76
-   },
-   "topPick": {
-    "playerId": 1630170,
-    "name": "Vassell",
-    "pos": "G-F",
-    "side": "home",
-    "bookOdds": null,
-    "fairOdds": "+544",
-    "rank": 1,
-    "share": 40,
-    "verdict": null,
-    "why": "SAS controls the jump 76% here and scores the game's first point in 61% of its games; Vassell takes 40% of its opening shots and makes 43% of his own first look."
-   },
-   "rosters": {
-    "home": [
-     {
-      "playerId": 1630170,
-      "name": "Vassell",
-      "pos": "G-F",
-      "share": 40,
-      "fg": 43,
-      "att": 79,
-      "thin": false,
-      "hot": true,
-      "out": false,
-      "rank": 1,
-      "fairOdds": "+544"
-     },
-     {
-      "playerId": 1628368,
-      "name": "Fox",
-      "pos": "G",
-      "share": 20,
-      "fg": 57,
-      "att": 84,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 2,
-      "fairOdds": "+792"
-     },
-     {
-      "playerId": 1642264,
-      "name": "Castle",
-      "pos": "G",
-      "share": 20,
-      "fg": 39,
-      "att": 83,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 3,
-      "fairOdds": "+792"
-     },
-     {
-      "playerId": 1641705,
-      "name": "Wembanyama",
-      "pos": "F-C",
-      "share": 10,
-      "fg": 61,
-      "att": 76,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 4,
-      "fairOdds": "+1189"
-     },
-     {
-      "playerId": 1630577,
-      "name": "Champagnie",
-      "pos": "F",
-      "share": 0,
-      "fg": 44,
-      "att": 91,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 5,
-      "fairOdds": "+1189"
-     }
-    ],
-    "away": [
-     {
-      "playerId": 1630529,
-      "name": "Jones",
-      "pos": "F",
-      "share": 0,
-      "fg": 44,
-      "att": 68,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 6,
-      "fairOdds": "+1558"
-     },
-     {
-      "playerId": 1630180,
-      "name": "Bey",
-      "pos": "F",
-      "share": 0,
-      "fg": 37,
-      "att": 87,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 7,
-      "fairOdds": "+1834"
-     },
-     {
-      "playerId": 1642847,
-      "name": "Fears",
-      "pos": "G",
-      "share": 0,
-      "fg": 45,
-      "att": 98,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 8,
-      "fairOdds": "+2010"
-     },
-     {
-      "playerId": 1642274,
-      "name": "Missi",
-      "pos": "C",
-      "share": 0,
-      "fg": 60,
-      "att": 45,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 9,
-      "fairOdds": "+2010"
-     }
-    ]
-   },
-   "profile": {
-    "home": {
-     "tri": "SAS",
-     "games": 98,
-     "jumper": "Wembanyama",
-     "jumperTipPct": 91,
-     "jumperTips": 70,
-     "teamTipPct": 81,
-     "firstShotPct": 71,
-     "firstScorePct": 61,
-     "firstAttFgPct": 50,
-     "fgaToFirstFg": 2.0,
-     "h2h": {
-      "w": 1,
-      "l": 0
-     }
-    },
-    "away": {
-     "tri": "NOP",
-     "games": 99,
-     "jumper": "Queen",
-     "jumperTipPct": 21,
-     "jumperTips": 39,
-     "teamTipPct": 25,
-     "firstShotPct": 25,
-     "firstScorePct": 49,
-     "firstAttFgPct": 49,
-     "fgaToFirstFg": 2.0,
-     "h2h": {
-      "w": 0,
-      "l": 1
-     }
-    }
-   },
-   "last10": {
-    "home": [
-     {
-      "date": "2026-11-19",
-      "opp": "LAC",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Garland",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-17",
-      "opp": "DET",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Vassell",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-15",
-      "opp": "UTA",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Wembanyama",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-11",
-      "opp": "CHI",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Fox",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-09",
-      "opp": "PHX",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Fox",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-07",
-      "opp": "POR",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Wembanyama",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-04",
-      "opp": "DAL",
-      "tip": false,
-      "firstShotUs": true,
-      "fb": "Wembanyama",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-02",
-      "opp": "UTA",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Markkanen",
-      "fbUs": false
-     },
-     {
-      "date": "2026-10-31",
-      "opp": "MIN",
-      "tip": true,
-      "firstShotUs": false,
-      "fb": "Fox",
-      "fbUs": true
-     },
-     {
-      "date": "2026-10-28",
-      "opp": "UTA",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Fox",
-      "fbUs": true
-     }
-    ],
-    "away": [
-     {
-      "date": "2026-11-18",
-      "opp": "DET",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Huerter",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-16",
-      "opp": "GSW",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Fears",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-14",
-      "opp": "DEN",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Fears",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-11",
-      "opp": "BKN",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Williamson",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-09",
-      "opp": "GSW",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Podziemski",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-08",
-      "opp": "LAC",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Murphy III",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-04",
-      "opp": "UTA",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Markkanen",
-      "fbUs": false
-     },
-     {
-      "date": "2026-11-02",
-      "opp": "MEM",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Williamson",
-      "fbUs": true
-     },
-     {
-      "date": "2026-10-31",
-      "opp": "ATL",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Alexander-Walker",
-      "fbUs": false
-     },
-     {
-      "date": "2026-10-29",
-      "opp": "SAC",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Murphy III",
-      "fbUs": true
-     }
-    ]
-   },
-   "callouts": [
-    {
-     "tag": "IN",
-     "text": "D. Vassell takes 40% of SAS first shots over the last 10 games"
-    },
-    {
-     "tag": "IN",
-     "text": "SAS wins parsed opening tips at 81%, NOP at 25%"
-    },
-    {
-     "tag": "WATCH",
-     "text": "V. Wembanyama has 8 second-chance first baskets — putback pathway"
-    }
-   ],
-   "badges": [
-    {
-     "player": "Wembanyama",
-     "items": [
-      {
-       "icon": "🪝",
-       "label": "Tip Titan",
-       "note": "91% jump wins",
-       "tier": "gold"
-      },
-      {
-       "icon": "⚡",
-       "label": "Instant Offense",
-       "note": "19 first points",
-       "tier": "gold"
-      },
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "8 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Vassell",
-     "items": [
-      {
-       "icon": "🎯",
-       "label": "First Look",
-       "note": "40% first-shot share",
-       "tier": "gold"
-      },
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "3 second-chance first points",
-       "tier": ""
-      }
-     ]
-    },
-    {
-     "player": "Fox",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "5 second-chance first points",
-       "tier": ""
-      }
-     ]
-    }
-   ],
-   "shots": {
-    "playerLabel": "Vassell L10",
-    "player": {
-     "makes": [
-      [
-       257,
-       405
-      ]
-     ],
-     "misses": [
-      [
-       265,
-       171
-      ],
-      [
-       290,
-       393
-      ],
-      [
-       400,
-       403
-      ]
-     ]
-    },
-    "team": {
-     "makes": [
-      [
-       263,
-       354
-      ],
-      [
-       208,
-       239
-      ],
-      [
-       176,
-       188
+       180,
+       301
       ],
       [
        252,
-       397
+       299
       ],
       [
-       160,
-       181
+       202,
+       327
       ],
       [
-       236,
-       393
-      ],
-      [
-       470,
-       307
-      ],
-      [
-       250,
-       416
-      ],
-      [
-       257,
-       405
-      ],
-      [
-       331,
-       166
+       323,
+       160
       ]
      ],
      "misses": [
       [
-       366,
-       186
+       250,
+       407
       ],
       [
-       265,
-       171
+       244,
+       399
       ],
       [
-       334,
-       172
+       474,
+       416
       ],
       [
-       259,
-       379
+       140,
+       179
       ],
       [
-       336,
-       381
+       112,
+       205
       ],
       [
-       185,
-       167
+       233,
+       412
       ],
       [
-       318,
-       359
+       180,
+       311
       ],
       [
-       290,
-       393
+       248,
+       392
       ],
       [
-       400,
-       403
+       308,
+       344
       ]
      ]
     }
    }
   },
   {
-   "id": "0022600279",
+   "id": "0022600286",
    "league": "nba",
-   "tipEt": "10:00 pm ET",
+   "tipEt": "8:30 pm ET",
    "home": {
-    "tri": "SAC",
-    "name": "Sacramento Kings",
-    "teamId": 1610612758
+    "tri": "GSW",
+    "name": "Golden State Warriors",
+    "teamId": 1610612744
    },
    "away": {
     "tri": "BOS",
@@ -2755,250 +3291,265 @@
     "teamId": 1610612738
    },
    "tip": {
-    "homePlayer": "Raynaud",
+    "homePlayer": "Post",
     "awayPlayer": "Queta",
-    "homeWinPct": 53
+    "homeWinPct": 48
    },
    "topPick": {
-    "playerId": 203897,
-    "name": "LaVine",
+    "playerId": 1641764,
+    "name": "Podziemski",
     "pos": "G",
     "side": "home",
     "bookOdds": null,
-    "fairOdds": "+544",
+    "fairOdds": "+510",
     "rank": 1,
     "share": 20,
     "verdict": null,
-    "why": "SAC controls the jump 53% here and scores the game's first point in 44% of its games; LaVine takes 20% of its opening shots and makes 57% of his own first look."
+    "why": "GSW controls the jump 48% here and scores the game's first point in 45% of its games; Podziemski takes 20% of its opening shots and makes 43% of his own first look."
    },
    "rosters": {
     "home": [
      {
-      "playerId": 203897,
-      "name": "LaVine",
+      "playerId": 1641764,
+      "name": "Podziemski",
       "pos": "G",
       "share": 20,
-      "fg": 57,
-      "att": 51,
+      "fg": 43,
+      "att": 92,
       "thin": false,
       "hot": true,
       "out": false,
       "rank": 1,
-      "fairOdds": "+544"
+      "fairOdds": "+510"
      },
      {
-      "playerId": 1629631,
-      "name": "Hunter",
-      "pos": "F-G",
-      "share": 20,
-      "fg": 40,
-      "att": 15,
+      "playerId": 1630611,
+      "name": "Santos",
+      "pos": "F",
+      "share": 10,
+      "fg": 43,
+      "att": 51,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 2,
-      "fairOdds": "+792"
+      "rank": 4,
+      "fairOdds": "+1184"
      },
      {
-      "playerId": 1627734,
-      "name": "Sabonis",
-      "pos": "F-C",
+      "playerId": 1629001,
+      "name": "Melton",
+      "pos": "G",
       "share": 0,
-      "fg": 69,
-      "att": 29,
+      "fg": 43,
+      "att": 60,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 6,
-      "fairOdds": "+1558"
+      "fairOdds": "+1642"
      },
      {
-      "playerId": 1631099,
-      "name": "Murray",
+      "playerId": 1642865,
+      "name": "Lendeborg",
       "pos": "F",
       "share": 0,
-      "fg": 52,
-      "att": 31,
+      "fg": 43,
+      "att": 14,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 7,
-      "fairOdds": "+1834"
+      "fairOdds": "+1933"
      },
      {
-      "playerId": 1643411,
-      "name": "Acuff Jr.",
-      "pos": "G",
+      "playerId": 1629646,
+      "name": "Bassey",
+      "pos": "F-C",
       "share": 0,
-      "fg": 40,
-      "att": 15,
+      "fg": 73,
+      "att": 11,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
-      "fairOdds": "+2010"
+      "rank": 9,
+      "fairOdds": "+1933"
      }
     ],
     "away": [
      {
-      "playerId": 202331,
-      "name": "George",
-      "pos": "F",
-      "share": 20,
-      "fg": 62,
-      "att": 13,
+      "playerId": 1630202,
+      "name": "Pritchard",
+      "pos": "G",
+      "share": 10,
+      "fg": 43,
+      "att": 92,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 3,
-      "fairOdds": "+792"
+      "rank": 2,
+      "fairOdds": "+803"
      },
      {
       "playerId": 1629674,
       "name": "Queta",
       "pos": "C",
       "share": 0,
-      "fg": 64,
-      "att": 81,
+      "fg": 65,
+      "att": 82,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 4,
-      "fairOdds": "+1189"
+      "rank": 3,
+      "fairOdds": "+803"
      },
      {
-      "playerId": 1641775,
-      "name": "Walsh",
-      "pos": "G",
-      "share": 10,
-      "fg": 45,
-      "att": 47,
+      "playerId": 1630573,
+      "name": "Hauser",
+      "pos": "F",
+      "share": 0,
+      "fg": 51,
+      "att": 84,
       "thin": false,
       "hot": false,
       "out": false,
       "rank": 5,
-      "fairOdds": "+1189"
+      "fairOdds": "+1184"
+     },
+     {
+      "playerId": 1642864,
+      "name": "González",
+      "pos": "G",
+      "share": 0,
+      "fg": 48,
+      "att": 42,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 8,
+      "fairOdds": "+1933"
      }
     ]
    },
    "profile": {
     "home": {
-     "tri": "SAC",
-     "games": 97,
-     "jumper": "Raynaud",
-     "jumperTipPct": 62,
-     "jumperTips": 53,
-     "teamTipPct": 52,
-     "firstShotPct": 51,
-     "firstScorePct": 44,
-     "firstAttFgPct": 41,
-     "fgaToFirstFg": 2.1,
-     "h2h": {
-      "w": 0,
-      "l": 2
-     }
+     "tri": "GSW",
+     "games": 98,
+     "jumper": "Post",
+     "jumperTipPct": 44,
+     "jumperTips": 34,
+     "teamTipPct": 42,
+     "firstShotPct": 42,
+     "firstScorePct": 45,
+     "firstAttFgPct": 49,
+     "fgaToFirstFg": 2.4,
+     "h2h": null
     },
     "away": {
      "tri": "BOS",
-     "games": 97,
+     "games": 98,
      "jumper": "Queta",
      "jumperTipPct": 42,
-     "jumperTips": 84,
+     "jumperTips": 85,
      "teamTipPct": 46,
-     "firstShotPct": 45,
+     "firstShotPct": 46,
      "firstScorePct": 56,
-     "firstAttFgPct": 44,
-     "fgaToFirstFg": 2.2,
-     "h2h": {
-      "w": 2,
-      "l": 0
-     }
+     "firstAttFgPct": 45,
+     "fgaToFirstFg": 2.1,
+     "h2h": null
     }
    },
    "last10": {
     "home": [
      {
+      "date": "2026-11-19",
+      "opp": "MEM",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Wells",
+      "fbUs": false
+     },
+     {
       "date": "2026-11-18",
-      "opp": "PHX",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Brooks",
+      "opp": "DAL",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Podziemski",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-16",
+      "opp": "NOP",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Fears",
       "fbUs": false
      },
      {
-      "date": "2026-11-15",
-      "opp": "OKC",
+      "date": "2026-11-11",
+      "opp": "HOU",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Mitchell",
+      "fb": "Smith Jr.",
       "fbUs": false
      },
      {
-      "date": "2026-11-10",
+      "date": "2026-11-09",
+      "opp": "NOP",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Podziemski",
+      "fbUs": true
+     },
+     {
+      "date": "2026-11-07",
       "opp": "ORL",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Acuff Jr.",
-      "fbUs": true
-     },
-     {
-      "date": "2026-11-08",
-      "opp": "MIA",
-      "tip": true,
+      "tip": false,
       "firstShotUs": false,
-      "fb": "Acuff Jr.",
+      "fb": "Curry",
       "fbUs": true
      },
      {
-      "date": "2026-11-04",
-      "opp": "LAL",
-      "tip": null,
-      "firstShotUs": true,
-      "fb": "LaRavia",
+      "date": "2026-11-05",
+      "opp": "MIA",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Wiggins",
       "fbUs": false
      },
      {
       "date": "2026-11-02",
-      "opp": "DAL",
-      "tip": false,
-      "firstShotUs": true,
-      "fb": "Gafford",
-      "fbUs": false
-     },
-     {
-      "date": "2026-10-31",
-      "opp": "MEM",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Hunter",
-      "fbUs": true
-     },
-     {
-      "date": "2026-10-29",
-      "opp": "NOP",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Murphy III",
-      "fbUs": false
-     },
-     {
-      "date": "2026-10-27",
-      "opp": "SAS",
+      "opp": "PHX",
       "tip": false,
       "firstShotUs": false,
-      "fb": "Wembanyama",
+      "fb": "Booker",
       "fbUs": false
      },
      {
-      "date": "2026-10-25",
-      "opp": "MEM",
+      "date": "2026-11-01",
+      "opp": "LAC",
       "tip": true,
       "firstShotUs": true,
-      "fb": "LaVine",
-      "fbUs": true
+      "fb": "Hachimura",
+      "fbUs": false
+     },
+     {
+      "date": "2026-10-28",
+      "opp": "MIN",
+      "tip": false,
+      "firstShotUs": true,
+      "fb": "McDaniels",
+      "fbUs": false
      }
     ],
     "away": [
+     {
+      "date": "2026-11-21",
+      "opp": "SAC",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Pritchard",
+      "fbUs": true
+     },
      {
       "date": "2026-11-18",
       "opp": "DEN",
@@ -3070,29 +3621,17 @@
       "firstShotUs": false,
       "fb": "Carter Jr.",
       "fbUs": false
-     },
-     {
-      "date": "2026-10-27",
-      "opp": "BKN",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "George",
-      "fbUs": true
      }
     ]
    },
    "callouts": [
     {
      "tag": "IN",
-     "text": "Z. LaVine takes 20% of SAC first shots over the last 10 games"
+     "text": "B. Podziemski takes 20% of GSW first shots over the last 10 games"
     },
     {
      "tag": "IN",
-     "text": "SAC wins parsed opening tips at 52%, BOS at 46%"
-    },
-    {
-     "tag": "IN",
-     "text": "SAC concedes first baskets to opposing guards at 1.3× league rate (n=53)"
+     "text": "GSW wins parsed opening tips at 42%, BOS at 46%"
     },
     {
      "tag": "WATCH",
@@ -3101,29 +3640,18 @@
    ],
    "badges": [
     {
-     "player": "Clifford",
+     "player": "Podziemski",
      "items": [
       {
-       "icon": "🧊",
-       "label": "Cold Open",
-       "note": "<35% on own first shots",
-       "tier": "cold"
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "3 second-chance first points",
+       "tier": ""
       }
      ]
     },
     {
-     "player": "Sharp",
-     "items": [
-      {
-       "icon": "🧊",
-       "label": "Cold Open",
-       "note": "<35% on own first shots",
-       "tier": "cold"
-      }
-     ]
-    },
-    {
-     "player": "White",
+     "player": "Green",
      "items": [
       {
        "icon": "🧹",
@@ -3132,119 +3660,178 @@
        "tier": ""
       }
      ]
+    },
+    {
+     "player": "Cryer",
+     "items": [
+      {
+       "icon": "🧊",
+       "label": "Cold Open",
+       "note": "<35% on own first shots",
+       "tier": "cold"
+      }
+     ]
     }
    ],
    "shots": {
-    "playerLabel": "LaVine L10",
+    "playerLabel": "Podziemski L10",
     "player": {
      "makes": [
       [
-       388,
-       466
+       203,
+       399
       ],
       [
-       244,
-       394
+       11,
+       402
+      ],
+      [
+       282,
+       266
       ]
      ],
      "misses": [
       [
-       287,
-       373
+       122,
+       188
+      ],
+      [
+       119,
+       195
+      ],
+      [
+       396,
+       166
+      ],
+      [
+       254,
+       161
       ]
      ]
     },
     "team": {
      "makes": [
       [
-       388,
-       466
+       20,
+       418
       ],
       [
-       250,
-       407
+       497,
+       400
       ],
       [
-       253,
-       408
+       17,
+       284
       ],
       [
-       27,
-       319
+       254,
+       400
       ],
       [
-       281,
-       373
+       287,
+       396
       ],
       [
-       230,
-       408
+       203,
+       399
       ],
       [
-       455,
-       329
+       11,
+       402
       ],
       [
-       48,
-       395
+       14,
+       379
       ],
       [
-       250,
-       416
+       282,
+       266
       ],
       [
-       244,
+       233,
        394
       ]
      ],
      "misses": [
       [
-       124,
-       292
+       256,
+       398
       ],
       [
-       379,
-       350
+       24,
+       410
       ],
       [
-       259,
-       413
+       480,
+       422
       ],
       [
-       287,
-       373
+       215,
+       205
       ],
       [
-       211,
-       173
+       122,
+       188
       ],
       [
-       240,
-       392
+       119,
+       195
       ],
       [
-       155,
-       382
+       251,
+       383
       ],
       [
-       93,
-       388
+       92,
+       191
       ],
       [
-       271,
-       399
+       23,
+       426
       ],
       [
-       125,
-       184
+       396,
+       166
       ],
       [
-       440,
-       247
+       283,
+       158
       ],
       [
-       350,
-       185
+       241,
+       238
+      ],
+      [
+       328,
+       282
+      ],
+      [
+       397,
+       206
+      ],
+      [
+       59,
+       244
+      ],
+      [
+       400,
+       216
+      ],
+      [
+       254,
+       161
+      ],
+      [
+       176,
+       165
+      ],
+      [
+       472,
+       441
+      ],
+      [
+       175,
+       367
       ]
      ]
     }

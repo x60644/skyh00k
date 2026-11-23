@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T00:01:54Z",
+ "generated": "2026-11-23T02:31:40Z",
  "date": "2026-11-22",
  "league": "nba",
  "games": [
@@ -538,7 +538,7 @@
   {
    "id": "0022600281",
    "league": "nba",
-   "tipEt": "1st Qtr             ",
+   "tipEt": "Final",
    "home": {
     "tri": "MIA",
     "name": "Miami Heat",
@@ -552,7 +552,7 @@
    "tip": {
     "homePlayer": "Adebayo",
     "awayPlayer": "Holmgren",
-    "homeWinPct": 56
+    "homeWinPct": 57
    },
    "topPick": {
     "playerId": 1628389,
@@ -562,9 +562,9 @@
     "bookOdds": null,
     "fairOdds": "+510",
     "rank": 1,
-    "share": 30,
+    "share": 40,
     "verdict": null,
-    "why": "MIA controls the jump 56% here and scores the game's first point in 62% of its games; Adebayo takes 30% of its opening shots and makes 45% of his own first look."
+    "why": "MIA controls the jump 57% here and scores the game's first point in 62% of its games; Adebayo takes 40% of its opening shots and makes 46% of his own first look."
    },
    "rosters": {
     "home": [
@@ -572,9 +572,9 @@
       "playerId": 1628389,
       "name": "Adebayo",
       "pos": "C-F",
-      "share": 30,
-      "fg": 45,
-      "att": 86,
+      "share": 40,
+      "fg": 46,
+      "att": 87,
       "thin": false,
       "hot": true,
       "out": false,
@@ -586,8 +586,8 @@
       "name": "Mitchell",
       "pos": "G",
       "share": 10,
-      "fg": 50,
-      "att": 80,
+      "fg": 49,
+      "att": 81,
       "thin": false,
       "hot": false,
       "out": false,
@@ -598,14 +598,14 @@
       "playerId": 202691,
       "name": "Thompson",
       "pos": "G-F",
-      "share": 20,
-      "fg": 21,
-      "att": 14,
+      "share": 10,
+      "fg": 27,
+      "att": 15,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 4,
-      "fairOdds": "+1184"
+      "rank": 6,
+      "fairOdds": "+1642"
      },
      {
       "playerId": 1641796,
@@ -613,11 +613,24 @@
       "pos": "G",
       "share": 0,
       "fg": 49,
-      "att": 67,
+      "att": 68,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
+      "rank": 8,
+      "fairOdds": "+1933"
+     },
+     {
+      "playerId": 1626171,
+      "name": "Portis Jr.",
+      "pos": "F",
+      "share": 0,
+      "fg": 40,
+      "att": 15,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 9,
       "fairOdds": "+1933"
      }
     ],
@@ -627,8 +640,8 @@
       "name": "Hartenstein",
       "pos": "C-F",
       "share": 10,
-      "fg": 64,
-      "att": 53,
+      "fg": 63,
+      "att": 54,
       "thin": false,
       "hot": false,
       "out": false,
@@ -640,12 +653,12 @@
       "name": "McCain",
       "pos": "G",
       "share": 20,
-      "fg": 35,
-      "att": 31,
+      "fg": 34,
+      "att": 32,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 5,
+      "rank": 4,
       "fairOdds": "+1184"
      },
      {
@@ -654,27 +667,40 @@
       "pos": "G",
       "share": 10,
       "fg": 56,
-      "att": 63,
+      "att": 64,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
-      "fairOdds": "+1642"
+      "rank": 5,
+      "fairOdds": "+1184"
+     },
+     {
+      "playerId": 1629026,
+      "name": "Williams",
+      "pos": "G-F",
+      "share": 0,
+      "fg": 45,
+      "att": 91,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
+      "fairOdds": "+1933"
      }
     ]
    },
    "profile": {
     "home": {
      "tri": "MIA",
-     "games": 97,
+     "games": 98,
      "jumper": "Adebayo",
-     "jumperTipPct": 64,
-     "jumperTips": 61,
+     "jumperTipPct": 65,
+     "jumperTips": 62,
      "teamTipPct": 64,
      "firstShotPct": 63,
      "firstScorePct": 62,
-     "firstAttFgPct": 46,
-     "fgaToFirstFg": 2.2,
+     "firstAttFgPct": 47,
+     "fgaToFirstFg": 2.1,
      "h2h": {
       "w": 2,
       "l": 0
@@ -682,14 +708,14 @@
     },
     "away": {
      "tri": "OKC",
-     "games": 98,
+     "games": 99,
      "jumper": "Holmgren",
      "jumperTipPct": 45,
      "jumperTips": 69,
      "teamTipPct": 49,
      "firstShotPct": 54,
      "firstScorePct": 57,
-     "firstAttFgPct": 46,
+     "firstAttFgPct": 45,
      "fgaToFirstFg": 2.0,
      "h2h": {
       "w": 0,
@@ -699,6 +725,14 @@
    },
    "last10": {
     "home": [
+     {
+      "date": "2026-11-22",
+      "opp": "OKC",
+      "tip": true,
+      "firstShotUs": true,
+      "fb": "Adebayo",
+      "fbUs": true
+     },
      {
       "date": "2026-11-18",
       "opp": "MIL",
@@ -770,17 +804,17 @@
       "firstShotUs": true,
       "fb": "Adebayo",
       "fbUs": true
-     },
-     {
-      "date": "2026-10-26",
-      "opp": "DAL",
-      "tip": true,
-      "firstShotUs": true,
-      "fb": "Washington",
-      "fbUs": false
      }
     ],
     "away": [
+     {
+      "date": "2026-11-22",
+      "opp": "MIA",
+      "tip": false,
+      "firstShotUs": false,
+      "fb": "Adebayo",
+      "fbUs": false
+     },
      {
       "date": "2026-11-18",
       "opp": "ATL",
@@ -852,21 +886,13 @@
       "firstShotUs": true,
       "fb": "Flagg",
       "fbUs": false
-     },
-     {
-      "date": "2026-10-26",
-      "opp": "PHX",
-      "tip": false,
-      "firstShotUs": false,
-      "fb": "Gilgeous-Alexander",
-      "fbUs": true
      }
     ]
    },
    "callouts": [
     {
      "tag": "IN",
-     "text": "B. Adebayo takes 30% of MIA first shots over the last 10 games"
+     "text": "B. Adebayo takes 40% of MIA first shots over the last 10 games"
     },
     {
      "tag": "IN",
@@ -882,9 +908,15 @@
      "player": "Adebayo",
      "items": [
       {
+       "icon": "🎯",
+       "label": "First Look",
+       "note": "40% first-shot share",
+       "tier": "gold"
+      },
+      {
        "icon": "⚡",
        "label": "Instant Offense",
-       "note": "21 first points",
+       "note": "22 first points",
        "tier": "gold"
       },
       {
@@ -939,13 +971,13 @@
       [
        290,
        399
+      ],
+      [
+       240,
+       343
       ]
      ],
      "misses": [
-      [
-       206,
-       174
-      ],
       [
        69,
        248
@@ -958,10 +990,6 @@
     },
     "team": {
      "makes": [
-      [
-       246,
-       399
-      ],
       [
        231,
        324
@@ -997,21 +1025,13 @@
       [
        112,
        178
+      ],
+      [
+       240,
+       343
       ]
      ],
      "misses": [
-      [
-       482,
-       434
-      ],
-      [
-       257,
-       373
-      ],
-      [
-       206,
-       174
-      ],
       [
        488,
        350
@@ -1063,7 +1083,7 @@
   {
    "id": "0022600282",
    "league": "nba",
-   "tipEt": "7:00 pm ET",
+   "tipEt": "Final",
    "home": {
     "tri": "WAS",
     "name": "Washington Wizards",
@@ -1639,7 +1659,7 @@
   {
    "id": "0022600283",
    "league": "nba",
-   "tipEt": "7:00 pm ET",
+   "tipEt": "4th Qtr             ",
    "home": {
     "tri": "CHI",
     "name": "Chicago Bulls",
@@ -2137,7 +2157,7 @@
   {
    "id": "0022600284",
    "league": "nba",
-   "tipEt": "7:00 pm ET",
+   "tipEt": "4th Qtr             ",
    "home": {
     "tri": "UTA",
     "name": "Utah Jazz",
@@ -2711,7 +2731,7 @@
   {
    "id": "0022600285",
    "league": "nba",
-   "tipEt": "8:00 pm ET",
+   "tipEt": "Halftime            ",
    "home": {
     "tri": "NYK",
     "name": "New York Knicks",
@@ -3279,7 +3299,7 @@
   {
    "id": "0022600286",
    "league": "nba",
-   "tipEt": "8:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "GSW",
     "name": "Golden State Warriors",

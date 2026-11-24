@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T02:30:10Z",
+ "generated": "2026-11-24T00:00:21Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -3022,6 +3022,90 @@
    "actualTeam": "BOS",
    "pickPlayerId": 203897,
    "pickName": "LaVine",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600280": {
+   "date": "2026-11-22",
+   "league": "nba",
+   "matchup": "DET@ATL",
+   "actualPlayerId": 1630552,
+   "actualName": "J. Johnson",
+   "actualTeam": "ATL",
+   "pickPlayerId": 1641709,
+   "pickName": "Thompson",
+   "pickHit": 0,
+   "actualBoardRank": 6
+  },
+  "0022600281": {
+   "date": "2026-11-22",
+   "league": "nba",
+   "matchup": "OKC@MIA",
+   "actualPlayerId": 1628389,
+   "actualName": "B. Adebayo",
+   "actualTeam": "MIA",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 1,
+   "actualBoardRank": 1
+  },
+  "0022600282": {
+   "date": "2026-11-22",
+   "league": "nba",
+   "matchup": "ORL@WAS",
+   "actualPlayerId": 203076,
+   "actualName": "A. Davis",
+   "actualTeam": "WAS",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 7
+  },
+  "0022600283": {
+   "date": "2026-11-22",
+   "league": "nba",
+   "matchup": "DEN@CHI",
+   "actualPlayerId": 1627741,
+   "actualName": "B. Hield",
+   "actualTeam": "CHI",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600284": {
+   "date": "2026-11-22",
+   "league": "nba",
+   "matchup": "DAL@UTA",
+   "actualPlayerId": 1641718,
+   "actualName": "K. George",
+   "actualTeam": "UTA",
+   "pickPlayerId": 1642843,
+   "pickName": "Flagg",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600285": {
+   "date": "2026-11-22",
+   "league": "nba",
+   "matchup": "IND@NYK",
+   "actualPlayerId": 1627826,
+   "actualName": "I. Zubac",
+   "actualTeam": "IND",
+   "pickPlayerId": 1628973,
+   "pickName": "Brunson",
+   "pickHit": 0,
+   "actualBoardRank": 7
+  },
+  "0022600286": {
+   "date": "2026-11-22",
+   "league": "nba",
+   "matchup": "BOS@GSW",
+   "actualPlayerId": 203110,
+   "actualName": "D. Green",
+   "actualTeam": "GSW",
+   "pickPlayerId": 1641764,
+   "pickName": "Podziemski",
    "pickHit": 0,
    "actualBoardRank": null
   }

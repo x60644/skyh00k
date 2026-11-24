@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-24T00:01:54Z",
+ "generated": "2026-11-24T02:31:40Z",
  "date": "2026-11-23",
  "league": "nba",
  "games": [
   {
    "id": "0022600287",
    "league": "nba",
-   "tipEt": "7:00 pm ET",
+   "tipEt": "3rd Qtr             ",
    "home": {
     "tri": "CHA",
     "name": "Charlotte Hornets",
@@ -579,7 +579,7 @@
   {
    "id": "0022600288",
    "league": "nba",
-   "tipEt": "7:00 pm ET",
+   "tipEt": "Halftime            ",
    "home": {
     "tri": "PHI",
     "name": "Philadelphia 76ers",
@@ -1110,7 +1110,7 @@
   {
    "id": "0022600289",
    "league": "nba",
-   "tipEt": "7:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "IND",
     "name": "Indiana Pacers",
@@ -1630,7 +1630,7 @@
   {
    "id": "0022600290",
    "league": "nba",
-   "tipEt": "7:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "TOR",
     "name": "Toronto Raptors",
@@ -2170,7 +2170,7 @@
   {
    "id": "0022600291",
    "league": "nba",
-   "tipEt": "7:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "MIN",
     "name": "Minnesota Timberwolves",
@@ -2725,7 +2725,7 @@
   {
    "id": "0022600292",
    "league": "nba",
-   "tipEt": "8:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "CHI",
     "name": "Chicago Bulls",
@@ -3274,7 +3274,7 @@
   {
    "id": "0022600293",
    "league": "nba",
-   "tipEt": "8:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "NOP",
     "name": "New Orleans Pelicans",
@@ -4945,8 +4945,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 5,
-      "fairOdds": "+1259"
+      "rank": 3,
+      "fairOdds": "+822"
      },
      {
       "playerId": 203897,
@@ -4958,8 +4958,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 6,
-      "fairOdds": "+1513"
+      "rank": 4,
+      "fairOdds": "+1259"
      },
      {
       "playerId": 1627734,
@@ -4971,8 +4971,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
-      "fairOdds": "+2051"
+      "rank": 6,
+      "fairOdds": "+1513"
      },
      {
       "playerId": 1631099,
@@ -4984,8 +4984,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 9,
-      "fairOdds": "+2051"
+      "rank": 7,
+      "fairOdds": "+1513"
      },
      {
       "playerId": 1643411,
@@ -4997,8 +4997,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
-      "fairOdds": "+6352"
+      "rank": 8,
+      "fairOdds": "+2051"
      }
     ],
     "away": [
@@ -5029,32 +5029,6 @@
       "fairOdds": "+822"
      },
      {
-      "playerId": 1628368,
-      "name": "Fox",
-      "pos": "G",
-      "share": 10,
-      "fg": 57,
-      "att": 84,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 3,
-      "fairOdds": "+822"
-     },
-     {
-      "playerId": 1641705,
-      "name": "Wembanyama",
-      "pos": "F-C",
-      "share": 10,
-      "fg": 60,
-      "att": 77,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 4,
-      "fairOdds": "+1259"
-     },
-     {
       "playerId": 1630577,
       "name": "Champagnie",
       "pos": "F",
@@ -5064,8 +5038,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1513"
+      "rank": 5,
+      "fairOdds": "+1259"
      }
     ]
    },
@@ -5284,7 +5258,7 @@
     },
     {
      "tag": "WATCH",
-     "text": "V. Wembanyama has 8 second-chance first baskets — putback pathway"
+     "text": "D. Vassell has 3 second-chance first baskets — putback pathway"
     }
    ],
    "badges": [

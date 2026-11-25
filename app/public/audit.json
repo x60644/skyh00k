@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:30:13Z",
+ "generated": "2026-11-25T00:00:28Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -3108,6 +3108,126 @@
    "pickName": "Podziemski",
    "pickHit": 0,
    "actualBoardRank": null
+  },
+  "0022600287": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "MEM@CHA",
+   "actualPlayerId": 1629632,
+   "actualName": "C. White",
+   "actualTeam": "CHA",
+   "pickPlayerId": 1641706,
+   "pickName": "Miller",
+   "pickHit": 0,
+   "actualBoardRank": 8
+  },
+  "0022600288": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "POR@PHI",
+   "actualPlayerId": 1630178,
+   "actualName": "T. Maxey",
+   "actualTeam": "PHI",
+   "pickPlayerId": 2544,
+   "pickName": "James",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "0022600289": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "OKC@IND",
+   "actualPlayerId": 1628983,
+   "actualName": "S. Gilgeous-Alexander",
+   "actualTeam": "OKC",
+   "pickPlayerId": 1627783,
+   "pickName": "Siakam",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600290": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "MIL@TOR",
+   "actualPlayerId": 1627751,
+   "actualName": "J. Poeltl",
+   "actualTeam": "TOR",
+   "pickPlayerId": 1642266,
+   "pickName": "Walter",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "0022600291": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "BKN@MIN",
+   "actualPlayerId": 1630228,
+   "actualName": "J. Kuminga",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1630183,
+   "pickName": "McDaniels",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "0022600292": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "CLE@CHI",
+   "actualPlayerId": 1631212,
+   "actualName": "P. Watson",
+   "actualTeam": "CLE",
+   "pickPlayerId": 1628386,
+   "pickName": "Allen",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600293": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "PHX@NOP",
+   "actualPlayerId": 1630529,
+   "actualName": "H. Jones",
+   "actualTeam": "NOP",
+   "pickPlayerId": 1630224,
+   "pickName": "Green",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "0022600294": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "LAC@HOU",
+   "actualPlayerId": 1641708,
+   "actualName": "A. Thompson",
+   "actualTeam": "HOU",
+   "pickPlayerId": 201142,
+   "pickName": "Durant",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600295": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "UTA@LAL",
+   "actualPlayerId": 1643408,
+   "actualName": "D. Peterson",
+   "actualTeam": "UTA",
+   "pickPlayerId": 1629029,
+   "pickName": "Don\u010di\u0107",
+   "pickHit": 0,
+   "actualBoardRank": 8
+  },
+  "0022600296": {
+   "date": "2026-11-23",
+   "league": "nba",
+   "matchup": "SAS@SAC",
+   "actualPlayerId": 1629631,
+   "actualName": "D. Hunter",
+   "actualTeam": "SAC",
+   "pickPlayerId": 1630170,
+   "pickName": "Vassell",
+   "pickHit": 0,
+   "actualBoardRank": 3
   }
  }
 }

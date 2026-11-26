@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T02:30:14Z",
+ "generated": "2026-11-26T00:00:17Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -3226,6 +3226,42 @@
    "actualTeam": "SAC",
    "pickPlayerId": 1630170,
    "pickName": "Vassell",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600052": {
+   "date": "2026-11-24",
+   "league": "nba",
+   "matchup": "DET@ORL",
+   "actualPlayerId": 1630198,
+   "actualName": "I. Joe",
+   "actualTeam": "DET",
+   "pickPlayerId": 1628976,
+   "pickName": "Carter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600053": {
+   "date": "2026-11-24",
+   "league": "nba",
+   "matchup": "BOS@WAS",
+   "actualPlayerId": 1643407,
+   "actualName": "A. Dybantsa",
+   "actualTeam": "WAS",
+   "pickPlayerId": 1628401,
+   "pickName": "White",
+   "pickHit": 0,
+   "actualBoardRank": 4
+  },
+  "0022600054": {
+   "date": "2026-11-24",
+   "league": "nba",
+   "matchup": "DAL@DEN",
+   "actualPlayerId": 1629661,
+   "actualName": "C. Johnson",
+   "actualTeam": "DEN",
+   "pickPlayerId": 1627750,
+   "pickName": "Murray",
    "pickHit": 0,
    "actualBoardRank": 3
   }

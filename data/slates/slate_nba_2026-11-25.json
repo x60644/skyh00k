@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-26T00:02:02Z",
+ "generated": "2026-11-26T02:31:45Z",
  "date": "2026-11-25",
  "league": "nba",
  "games": [
   {
    "id": "0022600055",
    "league": "nba",
-   "tipEt": "Halftime            ",
+   "tipEt": "Final",
    "home": {
     "tri": "PHI",
     "name": "Philadelphia 76ers",
@@ -32,7 +32,7 @@
     "rank": 1,
     "share": 40,
     "verdict": null,
-    "why": "MIA controls the jump 55% here and scores the game's first point in 62% of its games; Adebayo takes 40% of its opening shots and makes 46% of his own first look."
+    "why": "MIA controls the jump 55% here and scores the game's first point in 63% of its games; Adebayo takes 40% of its opening shots and makes 45% of his own first look."
    },
    "rosters": {
     "home": [
@@ -42,7 +42,7 @@
       "pos": "G",
       "share": 30,
       "fg": 52,
-      "att": 87,
+      "att": 88,
       "thin": false,
       "hot": false,
       "out": false,
@@ -54,8 +54,8 @@
       "name": "James",
       "pos": "F",
       "share": 30,
-      "fg": 50,
-      "att": 14,
+      "fg": 47,
+      "att": 15,
       "thin": false,
       "hot": false,
       "out": false,
@@ -63,12 +63,12 @@
       "fairOdds": "+787"
      },
      {
-      "playerId": 1642845,
-      "name": "Edgecombe",
-      "pos": "G",
-      "share": 0,
-      "fg": 49,
-      "att": 91,
+      "playerId": 1627759,
+      "name": "Brown",
+      "pos": "G-F",
+      "share": 10,
+      "fg": 31,
+      "att": 16,
       "thin": false,
       "hot": false,
       "out": false,
@@ -76,16 +76,29 @@
       "fairOdds": "+1676"
      },
      {
+      "playerId": 1642845,
+      "name": "Edgecombe",
+      "pos": "G",
+      "share": 0,
+      "fg": 49,
+      "att": 92,
+      "thin": false,
+      "hot": false,
+      "out": false,
+      "rank": 7,
+      "fairOdds": "+1676"
+     },
+     {
       "playerId": 1631133,
       "name": "Walker",
       "pos": "F",
       "share": 0,
-      "fg": 41,
-      "att": 37,
+      "fg": 42,
+      "att": 38,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 8,
+      "rank": 9,
       "fairOdds": "+1794"
      }
     ],
@@ -95,8 +108,8 @@
       "name": "Adebayo",
       "pos": "C-F",
       "share": 40,
-      "fg": 46,
-      "att": 87,
+      "fg": 45,
+      "att": 88,
       "thin": false,
       "hot": true,
       "out": false,
@@ -108,8 +121,8 @@
       "name": "Mitchell",
       "pos": "G",
       "share": 10,
-      "fg": 49,
-      "att": 81,
+      "fg": 50,
+      "att": 82,
       "thin": false,
       "hot": false,
       "out": false,
@@ -121,8 +134,8 @@
       "name": "Thompson",
       "pos": "G-F",
       "share": 10,
-      "fg": 27,
-      "att": 15,
+      "fg": 25,
+      "att": 16,
       "thin": false,
       "hot": false,
       "out": false,
@@ -135,52 +148,52 @@
       "pos": "G",
       "share": 0,
       "fg": 49,
-      "att": 68,
+      "att": 69,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 7,
-      "fairOdds": "+1676"
+      "rank": 8,
+      "fairOdds": "+1794"
      },
      {
       "playerId": 1626171,
       "name": "Portis Jr.",
       "pos": "F",
       "share": 0,
-      "fg": 40,
-      "att": 15,
+      "fg": 44,
+      "att": 16,
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 9,
-      "fairOdds": "+1794"
+      "rank": 10,
+      "fairOdds": "+6992"
      }
     ]
    },
    "profile": {
     "home": {
      "tri": "PHI",
-     "games": 100,
+     "games": 101,
      "jumper": "Embiid",
      "jumperTipPct": 49,
      "jumperTips": 37,
      "teamTipPct": 53,
      "firstShotPct": 50,
-     "firstScorePct": 54,
-     "firstAttFgPct": 61,
+     "firstScorePct": 53,
+     "firstAttFgPct": 60,
      "fgaToFirstFg": 1.8,
      "h2h": null
     },
     "away": {
      "tri": "MIA",
-     "games": 98,
+     "games": 99,
      "jumper": "Adebayo",
      "jumperTipPct": 65,
-     "jumperTips": 62,
-     "teamTipPct": 64,
-     "firstShotPct": 63,
-     "firstScorePct": 62,
-     "firstAttFgPct": 47,
+     "jumperTips": 63,
+     "teamTipPct": 65,
+     "firstShotPct": 64,
+     "firstScorePct": 63,
+     "firstAttFgPct": 46,
      "fgaToFirstFg": 2.1,
      "h2h": null
     }
@@ -358,7 +371,7 @@
     },
     {
      "tag": "IN",
-     "text": "PHI wins parsed opening tips at 53%, MIA at 64%"
+     "text": "PHI wins parsed opening tips at 53%, MIA at 65%"
     },
     {
      "tag": "WATCH",
@@ -369,6 +382,12 @@
     {
      "player": "Adebayo",
      "items": [
+      {
+       "icon": "🪝",
+       "label": "Tip Titan",
+       "note": "65% jump wins",
+       "tier": "gold"
+      },
       {
        "icon": "🎯",
        "label": "First Look",
@@ -390,29 +409,23 @@
      ]
     },
     {
-     "player": "Antetokounmpo",
-     "items": [
-      {
-       "icon": "🧹",
-       "label": "Glass First",
-       "note": "3 second-chance first points",
-       "tier": ""
-      },
-      {
-       "icon": "🧊",
-       "label": "Cold Open",
-       "note": "<35% on own first shots",
-       "tier": "cold"
-      }
-     ]
-    },
-    {
      "player": "Maxey",
      "items": [
       {
        "icon": "🧹",
        "label": "Glass First",
        "note": "4 second-chance first points",
+       "tier": ""
+      }
+     ]
+    },
+    {
+     "player": "Embiid",
+     "items": [
+      {
+       "icon": "🧹",
+       "label": "Glass First",
+       "note": "6 second-chance first points",
        "tier": ""
       }
      ]
@@ -545,7 +558,7 @@
   {
    "id": "0022600056",
    "league": "nba",
-   "tipEt": "7:00 pm ET",
+   "tipEt": "3rd Qtr             ",
    "home": {
     "tri": "CHA",
     "name": "Charlotte Hornets",
@@ -1126,7 +1139,7 @@
   {
    "id": "0022600057",
    "league": "nba",
-   "tipEt": "7:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "NYK",
     "name": "New York Knicks",
@@ -1692,7 +1705,7 @@
   {
    "id": "0022600058",
    "league": "nba",
-   "tipEt": "7:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "OKC",
     "name": "Oklahoma City Thunder",
@@ -2195,7 +2208,7 @@
   {
    "id": "0022600059",
    "league": "nba",
-   "tipEt": "8:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "MEM",
     "name": "Memphis Grizzlies",
@@ -2749,7 +2762,7 @@
   {
    "id": "0022600060",
    "league": "nba",
-   "tipEt": "8:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "MIL",
     "name": "Milwaukee Bucks",

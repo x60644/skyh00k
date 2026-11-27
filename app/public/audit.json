@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T02:30:10Z",
+ "generated": "2026-11-27T00:00:22Z",
  "games": {
   "1022600248": {
    "date": "2026-08-12",
@@ -3264,6 +3264,114 @@
    "pickName": "Murray",
    "pickHit": 0,
    "actualBoardRank": 3
+  },
+  "0022600055": {
+   "date": "2026-11-25",
+   "league": "nba",
+   "matchup": "MIA@PHI",
+   "actualPlayerId": 203507,
+   "actualName": "G. Antetokounmpo",
+   "actualTeam": "MIA",
+   "pickPlayerId": 1628389,
+   "pickName": "Adebayo",
+   "pickHit": 0,
+   "actualBoardRank": null
+  },
+  "0022600056": {
+   "date": "2026-11-25",
+   "league": "nba",
+   "matchup": "CHI@CHA",
+   "actualPlayerId": 1641824,
+   "actualName": "M. Buzelis",
+   "actualTeam": "CHI",
+   "pickPlayerId": 1641706,
+   "pickName": "Miller",
+   "pickHit": 0,
+   "actualBoardRank": 5
+  },
+  "0022600057": {
+   "date": "2026-11-25",
+   "league": "nba",
+   "matchup": "CLE@NYK",
+   "actualPlayerId": 1629013,
+   "actualName": "L. Shamet",
+   "actualTeam": "NYK",
+   "pickPlayerId": 1628973,
+   "pickName": "Brunson",
+   "pickHit": 0,
+   "actualBoardRank": 9
+  },
+  "0022600058": {
+   "date": "2026-11-25",
+   "league": "nba",
+   "matchup": "MIN@OKC",
+   "actualPlayerId": 203497,
+   "actualName": "R. Gobert",
+   "actualTeam": "MIN",
+   "pickPlayerId": 1630183,
+   "pickName": "McDaniels",
+   "pickHit": 0,
+   "actualBoardRank": 2
+  },
+  "0022600059": {
+   "date": "2026-11-25",
+   "league": "nba",
+   "matchup": "LAC@MEM",
+   "actualPlayerId": 1642377,
+   "actualName": "J. Wells",
+   "actualTeam": "MEM",
+   "pickPlayerId": 1629636,
+   "pickName": "Garland",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600060": {
+   "date": "2026-11-25",
+   "league": "nba",
+   "matchup": "BKN@MIL",
+   "actualPlayerId": 1631170,
+   "actualName": "J. Jaquez Jr.",
+   "actualTeam": "MIL",
+   "pickPlayerId": 1629008,
+   "pickName": "Porter Jr.",
+   "pickHit": 0,
+   "actualBoardRank": 8
+  },
+  "0022600061": {
+   "date": "2026-11-25",
+   "league": "nba",
+   "matchup": "PHX@HOU",
+   "actualPlayerId": 201142,
+   "actualName": "K. Durant",
+   "actualTeam": "HOU",
+   "pickPlayerId": 1628415,
+   "pickName": "Brooks",
+   "pickHit": 0,
+   "actualBoardRank": 3
+  },
+  "0022600062": {
+   "date": "2026-11-25",
+   "league": "nba",
+   "matchup": "SAC@GSW",
+   "actualPlayerId": 1629646,
+   "actualName": "C. Bassey",
+   "actualTeam": "GSW",
+   "pickPlayerId": 1641764,
+   "pickName": "Podziemski",
+   "pickHit": 0,
+   "actualBoardRank": 8
+  },
+  "0022600063": {
+   "date": "2026-11-25",
+   "league": "nba",
+   "matchup": "SAS@POR",
+   "actualPlayerId": 1630577,
+   "actualName": "J. Champagnie",
+   "actualTeam": "SAS",
+   "pickPlayerId": 1630170,
+   "pickName": "Vassell",
+   "pickHit": 0,
+   "actualBoardRank": 7
   }
  }
 }

@@ -568,9 +568,15 @@ def build_game_card(g, players, team_games, team_tips, league,
     p_shot_h = h_norm * TIP_TO_FIRST_SHOT + (1 - h_norm) * (1 - TIP_TO_FIRST_SHOT)
 
     def jumper_rec(tri):
-        """(parse-key name, record) of the team's most frequent jumper."""
+        """(parse-key name, record) of the team's most frequent jumper,
+        restricted to the current roster — the same guard team_players uses —
+        so a tip-taker traded away (JJJ dealt MEM->UTA) doesn't linger as the
+        team's named jumper via prior-season play-by-play. Fails open when a
+        roster couldn't be fetched (not ids), so a hiccup never blanks the tip."""
+        ids = roster_ids.get(tri) or set()
         cands = [(nm, r) for (nm, t), r in players.items()
-                 if t == tri and r["jumps_total"] >= 2]
+                 if t == tri and r["jumps_total"] >= 2
+                 and (not ids or r["personId"] in ids)]
         if not cands:
             return None, None
         return max(cands, key=lambda x: x[1]["jumps_total"])

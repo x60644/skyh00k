@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-28T00:01:45Z",
+ "generated": "2026-11-28T02:31:49Z",
  "date": "2026-11-27",
  "league": "nba",
  "games": [
   {
    "id": "0022600064",
    "league": "nba",
-   "tipEt": "7:00 pm ET",
+   "tipEt": "Halftime            ",
    "home": {
     "tri": "NYK",
     "name": "New York Knicks",
@@ -576,7 +576,7 @@
   {
    "id": "0022600065",
    "league": "nba",
-   "tipEt": "7:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "DET",
     "name": "Detroit Pistons",
@@ -1091,7 +1091,7 @@
   {
    "id": "0022600066",
    "league": "nba",
-   "tipEt": "7:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "IND",
     "name": "Indiana Pacers",
@@ -1638,7 +1638,7 @@
   {
    "id": "0022600067",
    "league": "nba",
-   "tipEt": "7:30 pm ET",
+   "tipEt": "2nd Qtr             ",
    "home": {
     "tri": "TOR",
     "name": "Toronto Raptors",
@@ -1651,7 +1651,7 @@
    },
    "tip": {
     "homePlayer": "Poeltl",
-    "awayPlayer": "Claxton",
+    "awayPlayer": "Sharpe",
     "homeWinPct": 49
    },
    "topPick": {
@@ -1814,26 +1814,20 @@
      "firstScorePct": 51,
      "firstAttFgPct": 51,
      "fgaToFirstFg": 2.0,
-     "h2h": {
-      "w": 0,
-      "l": 2
-     }
+     "h2h": null
     },
     "away": {
      "tri": "BKN",
      "games": 99,
-     "jumper": "Claxton",
-     "jumperTipPct": 54,
-     "jumperTips": 65,
+     "jumper": "Sharpe",
+     "jumperTipPct": 29,
+     "jumperTips": 24,
      "teamTipPct": 51,
      "firstShotPct": 53,
      "firstScorePct": 40,
      "firstAttFgPct": 43,
      "fgaToFirstFg": 2.4,
-     "h2h": {
-      "w": 2,
-      "l": 0
-     }
+     "h2h": null
     }
    },
    "last10": {
@@ -2178,7 +2172,7 @@
   {
    "id": "0022600068",
    "league": "nba",
-   "tipEt": "8:00 pm ET",
+   "tipEt": "1st Qtr             ",
    "home": {
     "tri": "BOS",
     "name": "Boston Celtics",
@@ -2723,7 +2717,7 @@
    },
    "tip": {
     "homePlayer": "Gobert",
-    "awayPlayer": "Jackson Jr.",
+    "awayPlayer": "Edey",
     "homeWinPct": 57
    },
    "topPick": {
@@ -2874,24 +2868,24 @@
      "firstAttFgPct": 47,
      "fgaToFirstFg": 2.1,
      "h2h": {
-      "w": 0,
-      "l": 2
+      "w": 1,
+      "l": 0
      }
     },
     "away": {
      "tri": "MEM",
      "games": 101,
-     "jumper": "Jackson Jr.",
-     "jumperTipPct": 55,
-     "jumperTips": 33,
+     "jumper": "Edey",
+     "jumperTipPct": 58,
+     "jumperTips": 26,
      "teamTipPct": 40,
      "firstShotPct": 43,
      "firstScorePct": 43,
      "firstAttFgPct": 42,
      "fgaToFirstFg": 2.2,
      "h2h": {
-      "w": 2,
-      "l": 0
+      "w": 0,
+      "l": 1
      }
     }
    },
@@ -3361,19 +3355,6 @@
       "out": false,
       "rank": 9,
       "fairOdds": "+1627"
-     },
-     {
-      "playerId": 202681,
-      "name": "Irving",
-      "pos": "G",
-      "share": 0,
-      "fg": 47,
-      "att": 15,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 10,
-      "fairOdds": "+7476"
      }
     ]
    },
@@ -3788,7 +3769,7 @@
    },
    "tip": {
     "homePlayer": "Wembanyama",
-    "awayPlayer": "Ayton",
+    "awayPlayer": "Kessler",
     "homeWinPct": 62
    },
    "topPick": {
@@ -3951,26 +3932,20 @@
      "firstScorePct": 61,
      "firstAttFgPct": 49,
      "fgaToFirstFg": 2.0,
-     "h2h": {
-      "w": 1,
-      "l": 0
-     }
+     "h2h": null
     },
     "away": {
      "tri": "LAL",
      "games": 100,
-     "jumper": "Ayton",
-     "jumperTipPct": 40,
-     "jumperTips": 72,
+     "jumper": "Kessler",
+     "jumperTipPct": 13,
+     "jumperTips": 15,
      "teamTipPct": 50,
      "firstShotPct": 63,
      "firstScorePct": 59,
      "firstAttFgPct": 54,
      "fgaToFirstFg": 2.0,
-     "h2h": {
-      "w": 0,
-      "l": 1
-     }
+     "h2h": null
     }
    },
    "last10": {
@@ -4415,19 +4390,6 @@
       "fairOdds": "+1627"
      },
      {
-      "playerId": 1628964,
-      "name": "Bamba",
-      "pos": "C",
-      "share": 0,
-      "fg": 57,
-      "att": 14,
-      "thin": false,
-      "hot": false,
-      "out": false,
-      "rank": 9,
-      "fairOdds": "+1627"
-     },
-     {
       "playerId": 1630182,
       "name": "Green",
       "pos": "G",
@@ -4437,8 +4399,8 @@
       "thin": false,
       "hot": false,
       "out": false,
-      "rank": 10,
-      "fairOdds": "+7476"
+      "rank": 9,
+      "fairOdds": "+1627"
      }
     ],
     "away": [
@@ -5372,7 +5334,7 @@
    },
    "tip": {
     "homePlayer": "Clingan",
-    "awayPlayer": "Post",
+    "awayPlayer": "Green",
     "homeWinPct": 56
    },
    "topPick": {
@@ -5523,24 +5485,24 @@
      "firstAttFgPct": 34,
      "fgaToFirstFg": 2.5,
      "h2h": {
-      "w": 2,
-      "l": 1
+      "w": 1,
+      "l": 0
      }
     },
     "away": {
      "tri": "GSW",
      "games": 100,
-     "jumper": "Post",
-     "jumperTipPct": 44,
-     "jumperTips": 34,
+     "jumper": "Green",
+     "jumperTipPct": 23,
+     "jumperTips": 31,
      "teamTipPct": 43,
      "firstShotPct": 43,
      "firstScorePct": 46,
      "firstAttFgPct": 50,
      "fgaToFirstFg": 2.3,
      "h2h": {
-      "w": 1,
-      "l": 2
+      "w": 0,
+      "l": 1
      }
     }
    },
